@@ -1,401 +1,401 @@
-,タクソノミ,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
-0,jppfs_cor:BalanceSheetAbstract,貸借対照表 [タイトル項目],Balance sheet,Balance sheet [abstract]
-1,jppfs_cor:BalanceSheetTable,貸借対照表 [表],Balance sheet,Balance sheet [table]
-2,jppfs_cor:BalanceSheetLineItems,貸借対照表 [表示項目],Balance sheet,Balance sheet [line items]
-3,jppfs_cor:AssetsAbstract,資産の部 [タイトル項目],Assets,Assets [abstract]
-4,jppfs_cor:CashAndDueFromBanksAssetsBNK,現金預け金、資産の部、銀行業,Cash and due from banks,Cash and due from banks-assets-BNK
-5,jppfs_cor:CashAssetsBNK,現金、現金預け金、資産の部、銀行業,Cash,Cash-assets-BNK
-6,jppfs_cor:DueFromBanksAssetsBNK,預け金、現金預け金、資産の部、銀行業,Due from banks,Due from banks-assets-BNK
-7,jppfs_cor:CallLoansAndBillsBoughtAssetsBNK,コールローン及び買入手形、資産の部、銀行業,Call loans and bills bought,Call loans and bills bought-assets-BNK
-8,jppfs_cor:CallLoansAssetsBNK,コールローン、資産の部、銀行業,Call loans,Call loans-assets-BNK
-9,jppfs_cor:BillsBoughtAssetsBNK,買入手形、資産の部、銀行業,Bills bought,Bills bought-assets-BNK
-10,jppfs_cor:ReceivablesUnderResaleAgreementsAssetsBNK,買現先勘定、資産の部、銀行業,Receivables under resale agreements,Receivables under resale agreements-assets-BNK
-11,jppfs_cor:ReceivablesUnderSecuritiesBorrowingTransactionsAssetsBNK,債券貸借取引支払保証金、資産の部、銀行業,Receivables under securities borrowing transactions,Receivables under securities borrowing transactions-assets-BNK
-12,jppfs_cor:MonetaryClaimsBoughtAssetsBNK,買入金銭債権、資産の部、銀行業,Monetary claims bought,Monetary claims bought-assets-BNK
-13,jppfs_cor:TradingAssetsAssetsBNK,特定取引資産、資産の部、銀行業,Trading assets,Trading assets-assets-BNK
-14,jppfs_cor:TradingAccountSecuritiesAssetsBNK,商品有価証券、資産の部、銀行業,Trading account securities,Trading account securities-assets-BNK
-15,jppfs_cor:DerivativesOfTradingSecuritiesTradingAssetsAssetsBNK,商品有価証券派生商品、特定取引資産、資産の部、銀行業,Derivatives of trading securities,Derivatives of trading securities-trading assets-assets-BNK
-16,jppfs_cor:SecuritiesRelatedToTradingTransactionsTradingAssetsAssetsBNK,特定取引有価証券、特定取引資産、資産の部、銀行業,Securities related to trading transactions,Securities related to trading transactions-trading assets-assets-BNK
-17,jppfs_cor:DerivativesOfSecuritiesRelatedToTradingTransactionsTradingAssetsAssetsBNK,特定取引有価証券派生商品、特定取引資産、資産の部、銀行業,Derivatives of securities related to trading transactions,Derivatives of securities related to trading transactions-trading assets-assets-BNK
-18,jppfs_cor:TradingRelatedFinancialDerivativesTradingAssetsAssetsBNK,特定金融派生商品、特定取引資産、資産の部、銀行業,Trading-related financial derivatives,Trading-related financial derivatives-trading assets-assets-BNK
-19,jppfs_cor:OtherTradingAssetsTradingAssetsAssetsBNK,その他の特定取引資産、特定取引資産、資産の部、銀行業,Other trading assets,Other trading assets-trading assets-assets-BNK
-20,jppfs_cor:MoneyHeldInTrustAssetsBNK,金銭の信託、資産の部、銀行業,Money held in trust,Money held in trust-assets-BNK
-21,jppfs_cor:SecuritiesAssetsBNK,有価証券、資産の部、銀行業,Securities,Securities-assets-BNK
-22,jppfs_cor:GovernmentBondsInvestmentSecuritiesAssetsBNK,国債、有価証券、資産の部、銀行業,Government bonds,Government bonds-investment securities-assets-BNK
-23,jppfs_cor:LocalGovernmentBondsInvestmentSecuritiesAssetsBNK,地方債、有価証券、資産の部、銀行業,Local government bonds,Local government bonds-investment securities-assets-BNK
-24,jppfs_cor:ShortTermCorporateBondsInvestmentSecuritiesAssetsBNK,短期社債、有価証券、資産の部、銀行業,Short-term corporate bonds,Short-term corporate bonds-investment securities-assets-BNK
-25,jppfs_cor:CorporateBondsInvestmentSecuritiesAssetsBNK,社債、有価証券、資産の部、銀行業,Corporate bonds,Corporate bonds-investment securities-assets-BNK
-26,jppfs_cor:StocksAssetsInvestmentSecuritiesBNK,株式、有価証券、資産の部、銀行業,Stocks,Stocks-assets-investment securities-BNK
-27,jppfs_cor:OtherSecuritiesInvestmentSecuritiesAssetsBNK,その他の証券、有価証券、資産の部、銀行業,Other securities,Other securities-investment securities-assets-BNK
-28,jppfs_cor:LoansAndBillsDiscountedAssetsBNK,貸出金、資産の部、銀行業,Loans and bills discounted,Loans and bills discounted-assets-BNK
-29,jppfs_cor:BillsDiscountedLoansAndBillsDiscountedAssetsBNK,割引手形、貸出金、資産の部、銀行業,Bills discounted,Bills discounted-loans and bills discounted-assets-BNK
-30,jppfs_cor:LoansOnBillsLoansAndBillsDiscountedAssetsBNK,手形貸付、貸出金、資産の部、銀行業,Loans on bills,Loans on bills-loans and bills discounted-assets-BNK
-31,jppfs_cor:LoansOnDeedsLoansAndBillsDiscountedAssetsBNK,証書貸付、貸出金、資産の部、銀行業,Loans on deeds,Loans on deeds-loans and bills discounted-assets-BNK
-32,jppfs_cor:OverdraftsLoansAndBillsDiscountedAssetsBNK,当座貸越、貸出金、資産の部、銀行業,Overdrafts,Overdrafts-loans and bills discounted-assets-BNK
-33,jppfs_cor:AgencyLoanLoansAndBillsDiscountedAssetsBNK,代理貸付金、貸出金、資産の部、銀行業,Agency loan,Agency loan-loans and bills discounted-assets-BNK
-34,jppfs_cor:ForeignExchangesAssetsBNK,外国為替、資産の部、銀行業,Foreign exchanges,Foreign exchanges-assets-BNK
-35,jppfs_cor:DueFromForeignBanksOurAccountsForeignExchangesAssetsBNK,外国他店預け、外国為替、資産の部、銀行業,Due from foreign banks (our accounts),Due from foreign banks (our accounts)-foreign exchanges-assets-BNK
-36,jppfs_cor:DueFromForeignBanksTheirAccountsForeignExchangesAssetsBNK,外国他店貸、外国為替、資産の部、銀行業,Due from foreign banks (their accounts),Due from foreign banks (their accounts)-foreign exchanges-assets-BNK
-37,jppfs_cor:ForeignBillsBoughtForeignExchangesAssetsBNK,買入外国為替、外国為替、資産の部、銀行業,Foreign bills bought,Foreign bills bought-foreign exchanges-assets-BNK
-38,jppfs_cor:ForeignBillsReceivableForeignExchangesAssetsBNK,取立外国為替、外国為替、資産の部、銀行業,Foreign bills receivable,Foreign bills receivable-foreign exchanges-assets-BNK
-39,jppfs_cor:OtherAssetsAssetsBNK,その他資産、資産の部、銀行業,Other assets,Other assets-assets-BNK
-40,jppfs_cor:DomesticExchangeSettlementAccountDebitOtherAssetsAssetsBNK,未決済為替貸、その他資産、資産の部、銀行業,"Domestic exchange settlement account, debit","Domestic exchange settlement account, debit-other assets-assets-BNK"
-41,jppfs_cor:PrepaidExpenses,前払費用,Prepaid expenses,Prepaid expenses
-42,jppfs_cor:AccruedIncome,未収収益,Accrued income,Accrued income
-43,jppfs_cor:InitialMarginsOfFuturesMarketsOtherAssetsAssetsBNK,先物取引差入証拠金、その他資産、資産の部、銀行業,Initial margins of futures markets,Initial margins of futures markets-other assets-assets-BNK
-44,jppfs_cor:VariationMarginsOfFuturesMarketsOtherAssetsAssetsBNK,先物取引差金勘定、その他資産、資産の部、銀行業,Variation margins of futures markets,Variation margins of futures markets-other assets-assets-BNK
-45,jppfs_cor:SecuritiesInCustodyAssetsBNK,保管有価証券等、その他資産、資産の部、銀行業,Securities in custody,Securities in custody-assets-BNK
-46,jppfs_cor:DerivativesOtherThanForTradingAssetsOtherAssetsBNK,金融派生商品、その他資産、資産の部、銀行業,Derivatives other than for trading - assets,Derivatives other than for trading-assets-other assets-BNK
-47,jppfs_cor:CashCollateralPaidForFinancialInstrumentsAssets,金融商品等差入担保金、資産の部,Cash collateral paid for financial instruments,Cash collateral paid for financial instruments-assets
-48,jppfs_cor:BondIssuanceCostDA,社債発行費、繰延資産,Bond issuance cost,Bond issuance cost-DA
-49,jppfs_cor:LeaseInvestmentAssetsAssets,リース投資資産、資産の部,Lease investment assets,Lease investment assets-assets
-50,jppfs_cor:AccountsReceivableSecuritiesTradingAccountOtherAssetsAssetsBNK,有価証券未収金、その他資産、資産の部、銀行業,Accounts receivable - securities trading account,Accounts receivable-securities trading account-other assets-assets-BNK
-51,jppfs_cor:OtherOtherAssetsAssetsBNK,その他の資産、その他資産、資産の部、銀行業,Other,Other-other assets-assets-BNK
-52,jppfs_cor:PropertyPlantAndEquipment,有形固定資産,"Property, plant and equipment","Property, plant and equipment"
-53,jppfs_cor:BuildingsNet,建物（純額）,"Buildings, net","Buildings, net"
-54,jppfs_cor:Land,土地,Land,Land
-55,jppfs_cor:LeaseAssetsNetPPE,リース資産（純額）、有形固定資産,"Leased assets, net","Leased assets, net-PPE"
-56,jppfs_cor:ConstructionInProgress,建設仮勘定,Construction in progress,Construction in progress
-57,jppfs_cor:OtherNetPPE,その他（純額）、有形固定資産,"Other, net","Other, net-PPE"
-58,jppfs_cor:IntangibleAssets,無形固定資産,Intangible assets,Intangible assets
-59,jppfs_cor:Software,ソフトウエア,Software,Software
-60,jppfs_cor:Goodwill,のれん,Goodwill,Goodwill
-61,jppfs_cor:LeaseAssetsIA,リース資産、無形固定資産,Leased assets,Leased assets-IA
-62,jppfs_cor:OtherIA,その他、無形固定資産,Other,Other-IA
-63,jppfs_cor:DeferredDebentureDiscountsAssetsBNK,債券繰延資産、資産の部、銀行業,Deferred debenture discounts,Deferred debenture discounts-assets-BNK
-64,jppfs_cor:DebentureIssuanceCostAssetsBNK,債券発行費用、資産の部、銀行業,Debenture issuance cost,Debenture issuance cost-assets-BNK
-65,jppfs_cor:PrepaidPensionCostAssets,前払年金費用、資産の部,Prepaid pension cost,Prepaid pension cost-assets
-66,jppfs_cor:DeferredTaxAssetsAssetsBNK,繰延税金資産、資産の部、銀行業,Deferred tax assets,Deferred tax assets-assets-BNK
-67,jppfs_cor:DeferredTaxAssetsForLandRevaluation,再評価に係る繰延税金資産,Deferred tax assets for land revaluation,Deferred tax assets for land revaluation
-68,jppfs_cor:CustomersLiabilitiesForAcceptancesAndGuaranteesAssetsBNK,支払承諾見返、資産の部、銀行業,Customers' liabilities for acceptances and guarantees,Customers' liabilities for acceptances and guarantees-assets-BNK
-69,jppfs_cor:GuaranteeOfObligationPerContraAssetsBNK,債務保証見返、資産の部、銀行業,Guarantee of obligation - per contra,Guarantee of obligation-per contra-assets-BNK
-70,jppfs_cor:AllowanceForInvestmentLossAssetsBNK,投資損失引当金、資産の部、銀行業,Allowance for investment loss,Allowance for investment loss-assets-BNK
-71,jppfs_cor:AllowanceForLoanLossesAssetsBNK,貸倒引当金、資産の部、銀行業,Allowance for loan losses,Allowance for loan losses-assets-BNK
-72,jppfs_cor:Assets,資産,Assets,Assets
-73,jppfs_cor:LiabilitiesAbstract,負債の部 [タイトル項目],Liabilities,Liabilities [abstract]
-74,jppfs_cor:DepositsLiabilitiesBNK,預金、負債の部、銀行業,Deposits,Deposits-liabilities-BNK
-75,jppfs_cor:CurrentDepositsDepositsLiabilitiesBNK,当座預金、預金、負債の部、銀行業,Current deposits,Current deposits-deposits-liabilities-BNK
-76,jppfs_cor:OrdinaryDepositsDepositsLiabilitiesBNK,普通預金、預金、負債の部、銀行業,Ordinary deposits,Ordinary deposits-deposits-liabilities-BNK
-77,jppfs_cor:SavingDepositsDepositsLiabilitiesBNK,貯蓄預金、預金、負債の部、銀行業,Saving deposits,Saving deposits-deposits-liabilities-BNK
-78,jppfs_cor:DepositsAtNoticeDepositsLiabilitiesBNK,通知預金、預金、負債の部、銀行業,Deposits at notice,Deposits at notice-deposits-liabilities-BNK
-79,jppfs_cor:TimeDepositsDepositsLiabilitiesBNK,定期預金、預金、負債の部、銀行業,Time deposits,Time deposits-deposits-liabilities-BNK
-80,jppfs_cor:InstallmentSavingsDepositsLiabilitiesBNK,定期積金、預金、負債の部、銀行業,Installment savings,Installment savings-deposits-liabilities-BNK
-81,jppfs_cor:OtherDepositsDepositsLiabilitiesBNK,その他の預金、預金、負債の部、銀行業,Other deposits,Other deposits-deposits-liabilities-BNK
-82,jppfs_cor:NegotiableCertificatesOfDepositLiabilitiesBNK,譲渡性預金、負債の部、銀行業,Negotiable certificates of deposit,Negotiable certificates of deposit-liabilities-BNK
-83,jppfs_cor:CallMoneyAndBillsSoldLiabilitiesBNK,コールマネー及び売渡手形、負債の部、銀行業,Call money and bills sold,Call money and bills sold-liabilities-BNK
-84,jppfs_cor:CallMoneyLiabilitiesBNK,コールマネー、負債の部、銀行業,Call money,Call money-liabilities-BNK
-85,jppfs_cor:BillsSoldLiabilitiesBNK,売渡手形、負債の部、銀行業,Bills sold,Bills sold-liabilities-BNK
-86,jppfs_cor:PayablesUnderRepurchaseAgreementsLiabilitiesBNK,売現先勘定、負債の部、銀行業,Payables under repurchase agreements,Payables under repurchase agreements-liabilities-BNK
-87,jppfs_cor:PayablesUnderSecuritiesLendingTransactionsLiabilitiesBNK,債券貸借取引受入担保金、負債の部、銀行業,Payables under securities lending transactions,Payables under securities lending transactions-liabilities-BNK
-88,jppfs_cor:CommercialPapersLiabilities,コマーシャル・ペーパー,Commercial papers,Commercial papers-liabilities
-89,jppfs_cor:TradingLiabilitiesLiabilitiesBNK,特定取引負債、負債の部、銀行業,Trading liabilities,Trading liabilities-liabilities-BNK
-90,jppfs_cor:TradingSecuritiesSoldForShortSalesLiabilitiesBNK,売付商品債券、負債の部、銀行業,Trading securities sold for short sales,Trading securities sold for short sales-liabilities-BNK
-91,jppfs_cor:DerivativesOfTradingSecuritiesAssetsTradingLiabilitiesLiabilitiesBNK,商品有価証券派生商品、特定取引負債、負債の部、銀行業,Derivatives of trading securities - assets,Derivatives of trading securities-assets-trading liabilities-liabilities-BNK
-92,jppfs_cor:SecuritiesRelatedToTradingTransactionsSoldForShortSalesTradingLiabilitiesLiabilitiesBNK,特定取引売付債券、特定取引負債、負債の部、銀行業,Securities related to trading transactions sold for short sales,Securities related to trading transactions sold for short sales-trading liabilities-liabilities-BNK
-93,jppfs_cor:DerivativesOfSecuritiesRelatedToTradingTransactionsTradingLiabilitiesLiabilitiesBNK,特定取引有価証券派生商品、特定取引負債、負債の部、銀行業,Derivatives of securities related to trading transactions,Derivatives of securities related to trading transactions-trading liabilities-liabilities-BNK
-94,jppfs_cor:TradingRelatedFinancialDerivativesTradingLiabilitiesLiabilitiesBNK,特定金融派生商品、特定取引負債、負債の部、銀行業,Trading-related financial derivatives,Trading-related financial derivatives-trading liabilities-liabilities-BNK
-95,jppfs_cor:OtherTradingLiabilitiesTradingLiabilitiesLiabilitiesBNK,その他の特定取引負債、特定取引負債、負債の部、銀行業,Other trading liabilities,Other trading liabilities-trading liabilities-liabilities-BNK
-96,jppfs_cor:BorrowedMoneyLiabilitiesBNK,借用金、負債の部、銀行業,Borrowed money,Borrowed money-liabilities-BNK
-97,jppfs_cor:BillsRediscountedBorrowedMoneyLiabilitiesBNK,再割引手形、借用金、負債の部、銀行業,Bills rediscounted,Bills rediscounted-borrowed money-liabilities-BNK
-98,jppfs_cor:BorrowingsFromOtherBanksBorrowedMoneyLiabilitiesBNK,借入金、借用金、負債の部、銀行業,Borrowings from other banks,Borrowings from other banks-borrowed money-liabilities-BNK
-99,jppfs_cor:ForeignExchangesLiabilitiesBNK,外国為替、負債の部、銀行業,Foreign exchanges,Foreign exchanges-liabilities-BNK
-100,jppfs_cor:DueToForeignBanksTheirAccountsForeignExchangesLiabilitiesBNK,外国他店預り、外国為替、負債の部、銀行業,Due to foreign banks (their accounts),Due to foreign banks (their accounts)-foreign exchanges-liabilities-BNK
-101,jppfs_cor:DueToForeignBanksOurAccountsForeignExchangesLiabilitiesBNK,外国他店借、外国為替、負債の部、銀行業,Due to foreign banks (our accounts),Due to foreign banks (our accounts)-foreign exchanges-liabilities-BNK
-102,jppfs_cor:ForeignBillsSoldForeignExchangesLiabilitiesBNK,売渡外国為替、外国為替、負債の部、銀行業,Foreign bills sold,Foreign bills sold-foreign exchanges-liabilities-BNK
-103,jppfs_cor:ForeignBillsPayableForeignExchangesLiabilitiesBNK,未払外国為替、外国為替、負債の部、銀行業,Foreign bills payable,Foreign bills payable-foreign exchanges-liabilities-BNK
-104,jppfs_cor:ShortTermBondsPayable,短期社債,Short-term bonds payable,Short-term bonds payable
-105,jppfs_cor:BondsPayable,社債,Bonds payable,Bonds payable
-106,jppfs_cor:BondsWithSubscriptionRightsToSharesNCL,新株予約権付社債、固定負債,Bonds with share acquisition rights,Bonds with share acquisition rights - NCL
-107,jppfs_cor:OtherLiabilitiesLiabilitiesBNK,その他負債、負債の部、銀行業,Other liabilities,Other liabilities-liabilities-BNK
-108,jppfs_cor:DomesticExchangeSettlementAccountCreditOtherLiabilitiesLiabilitiesBNK,未決済為替借、その他負債、負債の部、銀行業,"Domestic exchange settlement account, credit","Domestic exchange settlement account, credit-other liabilities-liabilities-BNK"
-109,jppfs_cor:IncomeTaxesPayable,未払法人税等,Income taxes payable,Income taxes payable
-110,jppfs_cor:AccruedExpenses,未払費用,Accrued expenses,Accrued expenses
-111,jppfs_cor:UnearnedRevenue,前受収益,Unearned revenue,Unearned revenue
-112,jppfs_cor:DepositsReceivedFromEmployees,従業員預り金,Deposits received from employees,Deposits received from employees
-113,jppfs_cor:ReserveForInterestOnInstallmentSavingsOtherLiabilitiesLiabilitiesBNK,給付補填備金、その他負債、負債の部、銀行業,Reserve for interest on installment savings,Reserve for interest on installment savings-other liabilities-liabilities-BNK
-114,jppfs_cor:InitialMarginsOfFuturesMarketsLiabilitiesOtherLiabilitiesLiabilitiesBNK,先物取引受入証拠金、その他負債、負債の部、銀行業,Initial margins of futures markets - liabilities,Initial margins of futures markets-liabilities-other liabilities-liabilities-BNK
-115,jppfs_cor:VariationMarginsOfFuturesMarketsOtherLiabilitiesLiabilitiesBNK,先物取引差金勘定、その他負債、負債の部、銀行業,Variation margins of futures markets,Variation margins of futures markets-other liabilities-liabilities-BNK
-116,jppfs_cor:TradingAccountSecuritiesBorrowedOtherLiabilitiesLiabilitiesBNK,借入商品債券、その他負債、負債の部、銀行業,Trading account securities borrowed,Trading account securities borrowed-other liabilities-liabilities-BNK
-117,jppfs_cor:BorrowedSecuritiesRelatedToTradingTransactionsLiabilitiesBNK,借入特定取引有価証券、その他負債、負債の部、銀行業,Borrowed securities related to trading transactions,Borrowed securities related to trading transactions-liabilities-BNK
-118,jppfs_cor:SecuritiesBorrowedOtherLiabilitiesLiabilitiesBNK,借入有価証券、その他負債、負債の部、銀行業,Securities borrowed,Securities borrowed-other liabilities-liabilities-BNK
-119,jppfs_cor:BondsSoldOtherLiabilitiesLiabilitiesBNK,売付債券、その他負債、負債の部、銀行業,Bonds sold,Bonds sold-other liabilities-liabilities-BNK
-120,jppfs_cor:DerivativesOtherThanForTradingLiabilitiesOtherLiabilitiesBNK,金融派生商品、その他負債、負債の部、銀行業,Derivatives other than for trading - liabilities,Derivatives other than for trading-liabilities-other liabilities-BNK
-121,jppfs_cor:CashCollateralReceivedForFinancialInstrumentsLiabilities,金融商品等受入担保金、負債の部,Cash collateral received for financial instruments,Cash collateral received for financial instruments-liabilities
-122,jppfs_cor:LeaseObligationsLiabilities,リース債務、負債の部,Lease obligations,Lease obligations-liabilities
-123,jppfs_cor:AssetRetirementObligationsLiabilities,資産除去債務、負債の部,Asset retirement obligations,Asset retirement obligations-liabilities
-124,jppfs_cor:AccountsPayableSecuritiesTradingAccountOtherLiabilitiesLiabilitiesBNK,有価証券未払金、その他負債、負債の部、銀行業,Accounts payable - securities trading account,Accounts payable-securities trading account-other liabilities-liabilities-BNK
-125,jppfs_cor:OtherOtherLiabilitiesLiabilitiesBNK,その他の負債、その他負債、負債の部、銀行業,Other,Other-other liabilities-liabilities-BNK
-126,jppfs_cor:ProvisionForBonuses,賞与引当金,Provision for bonuses,Provision for bonuses
-127,jppfs_cor:ProvisionForDirectorsBonuses,役員賞与引当金,Provision for bonuses for directors (and other officers),Provision for bonuses for directors (and other officers)
-128,jppfs_cor:ProvisionForRetirementBenefits,退職給付引当金,Provision for retirement benefits,Provision for retirement benefits
-129,jppfs_cor:ProvisionForDirectorsRetirementBenefits,役員退職慰労引当金,Provision for retirement benefits for directors (and other officers),Provision for retirement benefits for directors (and other officers)
-130,jppfs_cor:ProvisionForReimbursementOfDepositsLiabilitiesBNK,睡眠預金払戻損失引当金、負債の部、銀行業,Provision for reimbursement of deposits,Provision for reimbursement of deposits-liabilities-BNK
-131,jppfs_cor:ReservesUnderTheSpecialLaws2,特別法上の引当金,Reserves under special laws,Reserves under special laws-2
-132,jppfs_cor:ReserveForFinancialProductsTransactionLiabilitiesReservesUnderTheSpecialLawsLiabilitiesBNK,金融商品取引責任準備金、特別法上の準備金、負債の部、銀行業,Reserve for financial products transaction liabilities,Reserve for financial products transaction liabilities-reserves under special laws-liabilities-BNK
-133,jppfs_cor:DeferredTaxLiabilitiesLiabilitiesBNK,繰延税金負債、負債の部、銀行業,Deferred tax liabilities,Deferred tax liabilities-liabilities-BNK
-134,jppfs_cor:DeferredTaxLiabilitiesForLandRevaluation,再評価に係る繰延税金負債,Deferred tax liabilities for land revaluation,Deferred tax liabilities for land revaluation
-135,jppfs_cor:NegativeGoodwill,負ののれん,Negative goodwill,Negative goodwill
-136,jppfs_cor:AcceptancesAndGuaranteesLiabilitiesBNK,支払承諾、負債の部、銀行業,Acceptances and guarantees,Acceptances and guarantees-liabilities-BNK
-137,jppfs_cor:GuaranteeOfObligationLiabilitiesBNK,債務保証、負債の部、銀行業,Guarantee of obligation,Guarantee of obligation-liabilities-BNK
-138,jppfs_cor:DebenturesLiabilitiesBNK,債券、負債の部、銀行業,Debentures,Debentures-liabilities-BNK
-139,jppfs_cor:DebentureIssuanceLiabilitiesBNK,債券発行高、負債の部、銀行業,Debenture issuance,Debenture issuance-liabilities-BNK
-140,jppfs_cor:BorrowedMoneyFromTrustAccountLiabilitiesBNK,信託勘定借、負債の部、銀行業,Borrowed money from trust account,Borrowed money from trust account-liabilities-BNK
-141,jppfs_cor:ProvisionForCompensationForTrustCapitalLiabilitiesBNK,信託元本補填引当金、負債の部、銀行業,Provision for compensation for trust capital,Provision for compensation for trust capital-liabilities-BNK
-142,jppfs_cor:ProvisionForPossibleLossOnSupportOfSpecificBorrowersLiabilitiesBNK,特定債務者支援引当金、負債の部、銀行業,Provision for possible loss on support of specific borrowers,Provision for possible loss on support of specific borrowers-liabilities-BNK
-143,jppfs_cor:ProvisionForLossOnInterestRepaymentLiabilitiesBNK,利息返還損失引当金、負債の部、銀行業,Provision for loss on interest repayment,Provision for loss on interest repayment-liabilities-BNK
-144,jppfs_cor:ProvisionForContingentLossLiabilitiesBNK,偶発損失引当金、負債の部、銀行業,Provision for contingent loss,Provision for contingent loss-liabilities-BNK
-145,jppfs_cor:Liabilities,負債,Liabilities,Liabilities
-146,jppfs_cor:NetAssetsAbstract,純資産の部 [タイトル項目],Net assets,Net assets [abstract]
-147,jppfs_cor:ShareholdersEquity,株主資本,Shareholders' equity,Shareholders' equity
-148,jppfs_cor:CapitalStock,資本金,Capital stock,Capital stock
-149,jppfs_cor:CapitalStockShinkinBNK,出資金、銀行業（信金）,Capital stock,Capital stock-shinkin-BNK
-150,jppfs_cor:CommonSharesShinkinBNK,普通出資金、銀行業（信金）,Common shares,Common shares-shinkin-BNK
-151,jppfs_cor:PreferredSharesShinkinBNK,優先出資金、銀行業（信金）,Preferred shares,Preferred shares-shinkin-BNK
-152,jppfs_cor:DepositForSubscriptionsToShares,新株式申込証拠金,Deposit for subscriptions to shares,Deposit for subscriptions to shares
-153,jppfs_cor:CapitalSurplus,資本剰余金,Capital surplus,Capital surplus
-154,jppfs_cor:LegalCapitalSurplus,資本準備金,Legal capital surplus,Legal capital surplus
-155,jppfs_cor:OtherCapitalSurplus,その他資本剰余金,Other capital surplus,Other capital surplus
-156,jppfs_cor:RetainedEarnings,利益剰余金,Retained earnings,Retained earnings
-157,jppfs_cor:LegalRetainedEarnings,利益準備金,Legal retained earnings,Legal retained earnings
-158,jppfs_cor:OtherRetainedEarnings,その他利益剰余金,Other retained earnings,Other retained earnings
-159,jppfs_cor:RetainedEarningsBroughtForward,繰越利益剰余金,Retained earnings brought forward,Retained earnings brought forward
-160,jppfs_cor:SpecialReserveShinkinBNK,特別積立金、銀行業（信金）,Special reserve,Special reserve-shinkin-BNK
-161,jppfs_cor:PromotionFundShinkinBNK,振興基金、銀行業（信金）,Promotion fund,Promotion fund-shinkin-BNK
-162,jppfs_cor:UnappropriatedRetainedEarningsShinkinBNK,当期未処分剰余金、銀行業（信金）,Unappropriated retained earnings,Unappropriated retained earnings-shinkin-BNK
-163,jppfs_cor:TreasuryStock,自己株式,Treasury shares,Treasury shares
-164,jppfs_cor:DepositForSubscriptionsToTreasuryStock,自己株式申込証拠金,Deposit for subscriptions to treasury shares,Deposit for subscriptions to treasury shares
-165,jppfs_cor:ShareholdersEquityShinkinBNK,会員勘定、銀行業（信金）,Shareholders' equity,Shareholders' equity-shinkin-BNK
-166,jppfs_cor:ValuationAndTranslationAdjustments,評価・換算差額等,Valuation and translation adjustments,Valuation and translation adjustments
-167,jppfs_cor:ValuationDifferenceOnAvailableForSaleSecurities,その他有価証券評価差額金,Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities
-168,jppfs_cor:DeferredGainsOrLossesOnHedges,繰延ヘッジ損益,Deferred gains or losses on hedges,Deferred gains or losses on hedges
-169,jppfs_cor:RevaluationReserveForLand,土地再評価差額金,Revaluation reserve for land,Revaluation reserve for land
-170,jppfs_cor:ForeignCurrencyTranslationAdjustment,為替換算調整勘定,Foreign currency translation adjustment,Foreign currency translation adjustment
-171,jppfs_cor:SubscriptionRightsToShares,新株予約権,Share acquisition rights,Share acquisition rights
-172,jppfs_cor:NonControllingInterests,非支配株主持分,Non-controlling interests,Non-controlling interests
-173,jppfs_cor:NetAssets,純資産,Net assets,Net assets
-174,jppfs_cor:LiabilitiesAndNetAssets,負債純資産,Liabilities and net assets,Liabilities and net assets
-175,nan,,,
-176,nan,,,
-177,名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
-178,jppfs_cor:StatementOfIncomeAbstract,損益計算書 [タイトル項目],Statement of income,Statement of income [abstract]
-179,jppfs_cor:StatementOfIncomeTable,損益計算書 [表],Statement of income,Statement of income [table]
-180,jppfs_cor:StatementOfIncomeLineItems,損益計算書 [表示項目],Statement of income,Statement of income [line items]
-181,jppfs_cor:OrdinaryIncomeBNK,経常収益、銀行業,Ordinary income,Ordinary income-BNK
-182,jppfs_cor:InterestIncomeOIBNK,資金運用収益、経常収益、銀行業,Interest income,Interest income-OI-BNK
-183,jppfs_cor:InterestOnLoansAndDiscountsOIBNK,貸出金利息、経常収益、銀行業,Interest on loans and discounts,Interest on loans and discounts-OI-BNK
-184,jppfs_cor:InterestAndDividendsOnSecuritiesOIBNK,有価証券利息配当金、経常収益、銀行業,Interest and dividends on securities,Interest and dividends on securities-OI-BNK
-185,jppfs_cor:InterestOnCallLoansAndBillsBoughtOIBNK,コールローン利息及び買入手形利息、経常収益、銀行業,Interest on call loans and bills bought,Interest on call loans and bills bought-OI-BNK
-186,jppfs_cor:InterestOnCallLoansOIBNK,コールローン利息、経常収益、銀行業,Interest on call loans,Interest on call loans-OI-BNK
-187,jppfs_cor:InterestOnBillsBoughtOIBNK,買入手形利息、経常収益、銀行業,Interest on bills bought,Interest on bills bought-OI-BNK
-188,jppfs_cor:InterestOnReceivablesUnderResaleAgreementsOIBNK,買現先利息、経常収益、銀行業,Interest on receivables under resale agreements,Interest on receivables under resale agreements-OI-BNK
-189,jppfs_cor:InterestOnReceivablesUnderSecuritiesBorrowingTransactionsOIBNK,債券貸借取引受入利息、経常収益、銀行業,Interest on receivables under securities borrowing transactions,Interest on receivables under securities borrowing transactions-OI-BNK
-190,jppfs_cor:InterestOnDepositsWithBanksOIBNK,預け金利息、経常収益、銀行業,Interest on deposits with banks,Interest on deposits with banks-OI-BNK
-191,jppfs_cor:InterestOnInterestSwapsOIBNK,金利スワップ受入利息、経常収益、銀行業,Interest on interest swaps,Interest on interest swaps-OI-BNK
-192,jppfs_cor:OtherInterestIncomeOIBNK,その他の受入利息、経常収益、銀行業,Other interest income,Other interest income-OI-BNK
-193,jppfs_cor:FeesAndCommissionsOIBNK,役務取引等収益、経常収益、銀行業,Fees and commissions,Fees and commissions-OI-BNK
-194,jppfs_cor:FeesAndCommissionsOnDomesticAndForeignExchangesOIBNK,受入為替手数料、経常収益、銀行業,Fees and commissions on domestic and foreign exchanges,Fees and commissions on domestic and foreign exchanges-OI-BNK
-195,jppfs_cor:OtherFeesAndCommissionsOIBNK,その他の役務収益、経常収益、銀行業,Other fees and commissions,Other fees and commissions-OI-BNK
-196,jppfs_cor:TradingIncomeOIBNK,特定取引収益、経常収益、銀行業,Trading income,Trading income-OI-BNK
-197,jppfs_cor:GainsOnTradingAccountSecuritiesTransactionsOIBNK,商品有価証券収益、経常収益、銀行業,Gains on trading account securities transactions,Gains on trading account securities transactions-OI-BNK
-198,jppfs_cor:IncomeFromSecuritiesAndDerivativesRelatedToTradingTransactionsOIBNK,特定取引有価証券収益、経常収益、銀行業,Income from securities and derivatives related to trading transactions,Income from securities and derivatives related to trading transactions-OI-BNK
-199,jppfs_cor:IncomeFromTradingRelatedFinancialDerivativesTransactionsOIBNK,特定金融派生商品収益、経常収益、銀行業,Income from trading-related financial derivatives transactions,Income from trading-related financial derivatives transactions-OI-BNK
-200,jppfs_cor:OtherTradingIncomeOIBNK,その他の特定取引収益、経常収益、銀行業,Other trading income,Other trading income-OI-BNK
-201,jppfs_cor:OtherOrdinaryIncomeOIBNK,その他業務収益、経常収益、銀行業,Other ordinary income,Other ordinary income-OI-BNK
-202,jppfs_cor:GainsOnForeignExchangeTransactionsOIBNK,外国為替売買益、経常収益、銀行業,Gains on foreign exchange transactions,Gains on foreign exchange transactions-OI-BNK
-203,jppfs_cor:GainsOnSalesOfBondsOIBNK,国債等債券売却益、経常収益、銀行業,Gains on sales of bonds,Gains on sales of bonds-OI-BNK
-204,jppfs_cor:GainsOnRedemptionOfBondsOIBNK,国債等債券償還益、経常収益、銀行業,Gains on redemption of bonds,Gains on redemption of bonds-OI-BNK
-205,jppfs_cor:IncomeFromDerivativesOtherThanForTradingOrHedgingOIBNK,金融派生商品収益、経常収益、銀行業,Income from derivatives other than for trading or hedging,Income from derivatives other than for trading or hedging-OI-BNK
-206,jppfs_cor:OtherOtherOrdinaryIncomeOIBNK,その他の業務収益、経常収益、銀行業,Other,Other-other ordinary income-OI-BNK
-207,jppfs_cor:OtherIncomeOIBNK,その他経常収益、経常収益、銀行業,Other income,Other income-OI-BNK
-208,jppfs_cor:ReversalOfAllowanceForLoanLossesOIBNK,貸倒引当金戻入益、経常収益、銀行業,Reversal of allowance for loan losses,Reversal of allowance for loan losses-OI-BNK
-209,jppfs_cor:RecoveriesOfWrittenOffClaimsOIBNK,償却債権取立益、経常収益、銀行業,Recoveries of written off claims,Recoveries of written off claims-OI-BNK
-210,jppfs_cor:GainOnSalesOfStocksAndOtherSecuritiesOIBNK,株式等売却益、経常収益、銀行業,Gain on sales of stocks and other securities,Gain on sales of stocks and other securities-OI-BNK
-211,jppfs_cor:GainOnMoneyHeldInTrustOIBNK,金銭の信託運用益、経常収益、銀行業,Gain on money held in trust,Gain on money held in trust-OI-BNK
-212,jppfs_cor:OtherOtherIncomeOIBNK,その他の経常収益、経常収益、銀行業,Other,Other-other income-OI-BNK
-213,jppfs_cor:TrustFeesBNK,信託報酬、銀行業,Trust fees,Trust fees-BNK
-214,jppfs_cor:OrdinaryExpensesBNK,経常費用、銀行業,Ordinary expenses,Ordinary expenses-BNK
-215,jppfs_cor:InterestExpensesOEBNK,資金調達費用、経常費用、銀行業,Interest expenses,Interest expenses-OE-BNK
-216,jppfs_cor:InterestOnDepositsOEBNK,預金利息、経常費用、銀行業,Interest on deposits,Interest on deposits-OE-BNK
-217,jppfs_cor:InterestOnNegotiableCertificatesOfDepositOEBNK,譲渡性預金利息、経常費用、銀行業,Interest on negotiable certificates of deposit,Interest on negotiable certificates of deposit-OE-BNK
-218,jppfs_cor:InterestOnCallMoneyAndBillsSoldOEBNK,コールマネー利息及び売渡手形利息、経常費用、銀行業,Interest on call money and bills sold,Interest on call money and bills sold-OE-BNK
-219,jppfs_cor:InterestOnCallMoneyOEBNK,コールマネー利息、経常費用、銀行業,Interest on call money,Interest on call money-OE-BNK
-220,jppfs_cor:InterestOnBillsSoldOEBNK,売渡手形利息、経常費用、銀行業,Interest on bills sold,Interest on bills sold-OE-BNK
-221,jppfs_cor:InterestOnPayablesUnderRepurchaseAgreementsOEBNK,売現先利息、経常費用、銀行業,Interest on payables under repurchase agreements,Interest on payables under repurchase agreements-OE-BNK
-222,jppfs_cor:InterestOnPayablesUnderSecuritiesLendingTransactionsOEBNK,債券貸借取引支払利息、経常費用、銀行業,Interest on payables under securities lending transactions,Interest on payables under securities lending transactions-OE-BNK
-223,jppfs_cor:InterestOnCommercialPapersNOE,コマーシャル・ペーパー利息、営業外費用,Interest on commercial papers,Interest on commercial papers-NOE
-224,jppfs_cor:InterestOnBorrowingsAndRediscountsOEBNK,借用金利息、経常費用、銀行業,Interest on borrowings and rediscounts,Interest on borrowings and rediscounts-OE-BNK
-225,jppfs_cor:InterestOnShortTermBondsNOE,短期社債利息、営業外費用,Interest on short-term bonds,Interest on short-term bonds-NOE
-226,jppfs_cor:InterestOnBondsNOE,社債利息、営業外費用,Interest on bonds,Interest on bonds-NOE
-227,jppfs_cor:InterestOnBondsWithSubscriptionRightsToSharesOEBNK,新株予約権付社債利息、経常費用、銀行業,Interest on bonds with share acquisition rights,Interest on bonds with share acquisition rights - OE - BNK
-228,jppfs_cor:InterestOnInterestSwapsOEBNK,金利スワップ支払利息、経常費用、銀行業,Interest on interest swaps,Interest on interest swaps-OE-BNK
-229,jppfs_cor:InterestOnDebenturesBNK,債券利息、銀行業,Interest on debentures,Interest on debentures-BNK
-230,jppfs_cor:OtherInterestExpensesOEBNK,その他の支払利息、経常費用、銀行業,Other interest expenses,Other interest expenses-OE-BNK
-231,jppfs_cor:FeesAndCommissionsPaymentsOEBNK,役務取引等費用、経常費用、銀行業,Fees and commissions payments,Fees and commissions payments-OE-BNK
-232,jppfs_cor:FeesAndCommissionsOnDomesticAndForeignExchangesOEBNK,支払為替手数料、経常費用、銀行業,Fees and commissions on domestic and foreign exchanges,Fees and commissions on domestic and foreign exchanges-OE-BNK
-233,jppfs_cor:OtherFeesAndCommissionsOEBNK,その他の役務費用、経常費用、銀行業,Other fees and commissions,Other fees and commissions-OE-BNK
-234,jppfs_cor:TradingExpensesOEBNK,特定取引費用、経常費用、銀行業,Trading expenses,Trading expenses-OE-BNK
-235,jppfs_cor:ExpensesOnTradingSecuritiesAndDerivativesOEBNK,商品有価証券費用、経常費用、銀行業,Expenses on trading securities and derivatives,Expenses on trading securities and derivatives-OE-BNK
-236,jppfs_cor:ExpensesOnSecuritiesAndDerivativesRelatedToTradingTransactionsOEBNK,特定取引有価証券費用、経常費用、銀行業,Expenses on securities and derivatives related to trading transactions,Expenses on securities and derivatives related to trading transactions-OE-BNK
-237,jppfs_cor:ExpensesOnTradingRelatedFinancialDerivativesTransactionsOEBNK,特定金融派生商品費用、経常費用、銀行業,Expenses on trading-related financial derivatives transactions,Expenses on trading-related financial derivatives transactions-OE-BNK
-238,jppfs_cor:OtherTradingExpensesOEBNK,その他の特定取引費用、経常費用、銀行業,Other trading expenses,Other trading expenses-OE-BNK
-239,jppfs_cor:OtherOrdinaryExpensesOEBNK,その他業務費用、経常費用、銀行業,Other ordinary expenses,Other ordinary expenses-OE-BNK
-240,jppfs_cor:LossOnForeignExchangeTransactionsOEBNK,外国為替売買損、経常費用、銀行業,Loss on foreign exchange transactions,Loss on foreign exchange transactions-OE-BNK
-241,jppfs_cor:LossOnSalesOfBondsOEBNK,国債等債券売却損、経常費用、銀行業,Loss on sales of bonds,Loss on sales of bonds-OE-BNK
-242,jppfs_cor:LossOnRedemptionOfBondsOEBNK,国債等債券償還損、経常費用、銀行業,Loss on redemption of bonds,Loss on redemption of bonds-OE-BNK
-243,jppfs_cor:LossOnDevaluationOfBondsOEBNK,国債等債券償却、経常費用、銀行業,Loss on devaluation of bonds,Loss on devaluation of bonds-OE-BNK
-244,jppfs_cor:AmortizationOfBondIssuanceCostNOE,社債発行費償却、営業外費用,Amortization of bond issuance cost,Amortization of bond issuance cost-NOE
-245,jppfs_cor:ExpensesOnDerivativesOtherThanForTradingOrHedgingOEBNK,金融派生商品費用、経常費用、銀行業,Expenses on derivatives other than for trading or hedging,Expenses on derivatives other than for trading or hedging-OE-BNK
-246,jppfs_cor:AmortizationOfDebentureIssuanceCostOEBNK,債券発行費用償却、経常費用、銀行業,Amortization of debenture issuance cost,Amortization of debenture issuance cost-OE-BNK
-247,jppfs_cor:AmortizationOfOtherAssetsBNK,その他資産償却、銀行業,Amortization of other assets,Amortization of other assets-BNK
-248,jppfs_cor:OtherOtherOperatingExpensesOEBNK,その他の業務費用、経常費用、銀行業,Other,Other-other operating expenses-OE-BNK
-249,jppfs_cor:GeneralAndAdministrativeExpensesOEBNK,営業経費、経常費用、銀行業,General and administrative expenses,General and administrative expenses-OE-BNK
-250,jppfs_cor:OtherExpensesOEBNK,その他経常費用、経常費用、銀行業,Other expenses,Other expenses-OE-BNK
-251,jppfs_cor:ProvisionOfAllowanceForLoanLossesOEBNK,貸倒引当金繰入額、経常費用、銀行業,Provision of allowance for loan losses,Provision of allowance for loan losses-OE-BNK
-252,jppfs_cor:WrittenOffOfLoansOEBNK,貸出金償却、経常費用、銀行業,Written-off of loans,Written-off of loans-OE-BNK
-253,jppfs_cor:LossesOnSalesOfStocksAndOtherSecuritiesOEBNK,株式等売却損、経常費用、銀行業,Losses on sales of stocks and other securities,Losses on sales of stocks and other securities-OE-BNK
-254,jppfs_cor:LossesOnDevaluationOfStocksAndOtherSecuritiesOEBNK,株式等償却、経常費用、銀行業,Losses on devaluation of stocks and other securities,Losses on devaluation of stocks and other securities-OE-BNK
-255,jppfs_cor:LossOnMoneyHeldInTrustOEBNK,金銭の信託運用損、経常費用、銀行業,Loss on money held in trust,Loss on money held in trust-OE-BNK
-256,jppfs_cor:ProvisionOfAllowanceForInvestmentLossOEBNK,投資損失引当金繰入額、経常費用、銀行業,Provision of allowance for investment loss,Provision of allowance for investment loss-OE-BNK
-257,jppfs_cor:OtherOtherExpensesOEBNK,その他の経常費用、経常費用、銀行業,Other,Other-other expenses-OE-BNK
-258,jppfs_cor:OrdinaryIncome,経常利益又は経常損失（△）,Ordinary profit (loss),Ordinary profit (loss)
-259,jppfs_cor:ExtraordinaryIncome,特別利益,Extraordinary income,Extraordinary income
-260,jppfs_cor:GainOnDisposalOfNoncurrentAssetsEI,固定資産処分益、特別利益,Gain on disposal of non-current assets,Gain on disposal of non-current assets-EI
-261,jppfs_cor:GainOnNegativeGoodwillEI,負ののれん発生益、特別利益,Gain on bargain purchase,Gain on bargain purchase-EI
-262,jppfs_cor:TransferFromReserveForFinancialProductsTransactionLiabilitiesEIBNK,金融商品取引責任準備金取崩額、特別利益、銀行業,Transfer from reserve for financial products transaction liabilities,Transfer from reserve for financial products transaction liabilities-EI-BNK
-263,jppfs_cor:ReversalOfAllowanceForInvestmentLossEIBNK,投資損失引当金戻入益、特別利益、銀行業,Reversal of allowance for investment loss,Reversal of allowance for investment loss-EI-BNK
-264,jppfs_cor:OtherEI,その他、特別利益,Other,Other-EI
-265,jppfs_cor:ExtraordinaryLoss,特別損失,Extraordinary losses,Extraordinary losses
-266,jppfs_cor:LossOnDisposalOfNoncurrentAssetsEL,固定資産処分損、特別損失,Loss on disposal of non-current assets,Loss on disposal of non-current assets-EL
-267,jppfs_cor:ImpairmentLossEL,減損損失、特別損失,Impairment loss,Impairment loss-EL
-268,jppfs_cor:TransferToReserveForFinancialProductsTransactionLiabilitiesELBNK,金融商品取引責任準備金繰入額、特別損失、銀行業,Transfer to reserve for financial products transaction liabilities,Transfer to reserve for financial products transaction liabilities-EL-BNK
-269,jppfs_cor:OtherEL,その他、特別損失,Other,Other-EL
-270,jppfs_cor:IncomeBeforeIncomeTaxes,税引前当期純利益又は税引前当期純損失（△）,Profit (loss) before income taxes,Profit (loss) before income taxes
-271,jppfs_cor:IncomeTaxes,法人税等,Income taxes,Income taxes
-272,jppfs_cor:IncomeTaxesCurrent,法人税、住民税及び事業税,Income taxes - current,Income taxes-current
-273,jppfs_cor:IncomeTaxesDeferred,法人税等調整額,Income taxes - deferred,Income taxes-deferred
-274,jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
-275,jppfs_cor:ProfitLossAttributableToNonControllingInterests,非支配株主に帰属する当期純利益又は非支配株主に帰属する当期純損失（△）,Profit (loss) attributable to non-controlling interests,Profit (loss) attributable to non-controlling interests
-276,jppfs_cor:ProfitLossAttributableToOwnersOfParent,親会社株主に帰属する当期純利益又は親会社株主に帰属する当期純損失（△）,Profit (loss) attributable to owners of parent,Profit (loss) attributable to owners of parent
-277,nan,,,
-278,nan,,,
-279,名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
-280,jppfs_cor:StatementOfChangesInEquityAbstract,株主資本等変動計算書 [タイトル項目],Statement of changes in equity,Statement of changes in equity [abstract]
-281,jppfs_cor:StatementOfChangesInEquityTable,株主資本等変動計算書 [表],Statement of changes in equity,Statement of changes in equity [table]
-282,jppfs_cor:ComponentsOfEquityAxis,純資産の内訳項目 [軸],Components of equity,Components of equity [axis]
-283,jppfs_cor:NetAssetsMember,純資産 [メンバー],Net assets,Net assets [member]
-284,jppfs_cor:ShareholdersEquityMember,株主資本 [メンバー],Shareholders' equity,Shareholders' equity [member]
-285,jppfs_cor:CapitalStockMember,資本金 [メンバー],Capital stock,Capital stock [member]
-286,jppfs_cor:CapitalSurplusMember,資本剰余金 [メンバー],Capital surplus,Capital surplus [member]
-287,jppfs_cor:LegalCapitalSurplusMember,資本準備金 [メンバー],Legal capital surplus,Legal capital surplus [member]
-288,jppfs_cor:OtherCapitalSurplusMember,その他資本剰余金 [メンバー],Other capital surplus,Other capital surplus [member]
-289,jppfs_cor:RetainedEarningsMember,利益剰余金 [メンバー],Retained earnings,Retained earnings [member]
-290,jppfs_cor:LegalRetainedEarningsMember,利益準備金 [メンバー],Legal retained earnings,Legal retained earnings [member]
-291,jppfs_cor:OtherRetainedEarningsMember,その他利益剰余金 [メンバー],Other retained earnings,Other retained earnings [member]
-292,jppfs_cor:RetainedEarningsBroughtForwardMember,繰越利益剰余金 [メンバー],Retained earnings brought forward,Retained earnings brought forward [member]
-293,jppfs_cor:TreasuryStockMember,自己株式 [メンバー],Treasury shares,Treasury shares [member]
-294,jppfs_cor:ValuationAndTranslationAdjustmentsMember,評価・換算差額等 [メンバー],Valuation and translation adjustments,Valuation and translation adjustments [member]
-295,jppfs_cor:ValuationDifferenceOnAvailableForSaleSecuritiesMember,その他有価証券評価差額金 [メンバー],Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities [member]
-296,jppfs_cor:DeferredGainsOrLossesOnHedgesMember,繰延ヘッジ損益 [メンバー],Deferred gains or losses on hedges,Deferred gains or losses on hedges [member]
-297,jppfs_cor:RevaluationReserveForLandMember,土地再評価差額金 [メンバー],Revaluation reserve for land,Revaluation reserve for land [member]
-298,jppfs_cor:ForeignCurrencyTranslationAdjustmentMember,為替換算調整勘定 [メンバー],Foreign currency translation adjustment,Foreign currency translation adjustment [member]
-299,jppfs_cor:SubscriptionRightsToSharesMember,新株予約権 [メンバー],Share acquisition rights,Share acquisition rights [member]
-300,jppfs_cor:NonControllingInterestsMember,非支配株主持分 [メンバー],Non-controlling interests,Non-controlling interests [member]
-301,jppfs_cor:StatementOfChangesInEquityLineItems,株主資本等変動計算書 [表示項目],Statement of changes in equity,Statement of changes in equity [line items]
-302,jppfs_cor:NetAssets,純資産,Net assets,Net assets
-303,jppfs_cor:ChangesOfItemsDuringThePeriodAbstract,当期変動額 [タイトル項目],Changes of items during period,Changes of items during period [abstract]
-304,jppfs_cor:IssuanceOfNewShares,新株の発行,Issuance of new shares,Issuance of new shares
-305,jppfs_cor:DividendsFromSurplus,剰余金の配当,Dividends of surplus,Dividends of surplus
-306,jppfs_cor:ProfitLossAttributableToOwnersOfParent,親会社株主に帰属する当期純利益又は親会社株主に帰属する当期純損失（△）,Profit (loss) attributable to owners of parent,Profit (loss) attributable to owners of parent
-307,jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
-308,jppfs_cor:DisposalOfTreasuryStock,自己株式の処分,Disposal of treasury shares,Disposal of treasury shares
-309,jppfs_cor:NetChangesOfItemsOtherThanShareholdersEquity,株主資本以外の項目の当期変動額（純額）,Net changes of items other than shareholders' equity,Net changes of items other than shareholders' equity
-310,jppfs_cor:TotalChangesOfItemsDuringThePeriod,当期変動額合計,Total changes of items during period,Total changes of items during period
-311,nan,,,
-312,nan,,,
-313,名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
-314,jppfs_cor:StatementOfCashFlowsAbstract,キャッシュ・フロー計算書 [タイトル項目],Statement of cash flows,Statement of cash flows [abstract]
-315,jppfs_cor:StatementOfCashFlowsTable,キャッシュ・フロー計算書 [表],Statement of cash flows,Statement of cash flows [table]
-316,jppfs_cor:StatementOfCashFlowsLineItems,キャッシュ・フロー計算書 [表示項目],Statement of cash flows,Statement of cash flows [line items]
-317,jppfs_cor:NetCashProvidedByUsedInOperatingActivitiesAbstract,営業活動によるキャッシュ・フロー [タイトル項目],Cash flows from operating activities,Cash flows from operating activities [abstract]
-318,jppfs_cor:SubtotalOpeCF,小計、営業活動によるキャッシュ・フロー,Subtotal,Subtotal-OpeCF
-319,jppfs_cor:CollectionOfLoansReceivableOpeCFBNK,貸付金回収による収入、営業活動によるキャッシュ・フロー、銀行業,Collection of loans receivable,Collection of loans receivable-OpeCF-BNK
-320,jppfs_cor:PaymentsForWithdrawalOfDepositsOpeCFBNK,預金払出による支出、営業活動によるキャッシュ・フロー、銀行業,Payments for withdrawal of deposits,Payments for withdrawal of deposits-OpeCF-BNK
-321,jppfs_cor:ProceedsFromInterestOnLoansOpeCFBNK,貸付金利息収入、営業活動によるキャッシュ・フロー、銀行業,Proceeds from interest on loans,Proceeds from interest on loans-OpeCF-BNK
-322,jppfs_cor:PaymentsForInterestExpensesForDepositOpeCFBNK,預金利息支出、営業活動によるキャッシュ・フロー、銀行業,Payments for interest expenses for deposit,Payments for interest expenses for deposit-OpeCF-BNK
-323,jppfs_cor:PaymentsForOrdinaryExpensesOpeCFBNK,営業経費支出、営業活動によるキャッシュ・フロー、銀行業,Payments for ordinary expenses,Payments for ordinary expenses-OpeCF-BNK
-324,jppfs_cor:IncomeBeforeIncomeTaxes,税引前当期純利益又は税引前当期純損失（△）,Profit (loss) before income taxes,Profit (loss) before income taxes
-325,jppfs_cor:DepreciationAndAmortizationOpeCF,減価償却費、営業活動によるキャッシュ・フロー,Depreciation,Depreciation-OpeCF
-326,jppfs_cor:ImpairmentLossOpeCF,減損損失、営業活動によるキャッシュ・フロー,Impairment loss,Impairment loss-OpeCF
-327,jppfs_cor:IncreaseDecreaseInAllowanceForLoanLossesOpeCFBNK,貸倒引当金の増減（△）、営業活動によるキャッシュ・フロー、銀行業,Increase (decrease) in allowance for loan losses,Increase (decrease) in allowance for loan losses-OpeCF-BNK
-328,jppfs_cor:GainOnFundManagementOpeCFBNK,資金運用収益、営業活動によるキャッシュ・フロー、銀行業,Gain on fund management,Gain on fund management-OpeCF-BNK
-329,jppfs_cor:FinancingExpensesOpeCFBNK,資金調達費用、営業活動によるキャッシュ・フロー、銀行業,Financing expenses,Financing expenses-OpeCF-BNK
-330,jppfs_cor:LossGainRelatedToSecuritiesOpeCFBNK,有価証券関係損益（△）、営業活動によるキャッシュ・フロー、銀行業,Loss (gain) related to securities,Loss (gain) related to securities-OpeCF-BNK
-331,jppfs_cor:NetDecreaseIncreaseInLoansAndBillsDiscountedOpeCFBNK,貸出金の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in loans and bills discounted,Net decrease (increase) in loans and bills discounted-OpeCF-BNK
-332,jppfs_cor:NetIncreaseDecreaseInDepositOpeCFBNK,預金の純増減（△）、営業活動によるキャッシュ・フロー、銀行業,Net increase (decrease) in deposit,Net increase (decrease) in deposit-OpeCF-BNK
-333,jppfs_cor:IncreaseDecreaseInProvisionForReimbursementOfDepositsOpeCFBNK,睡眠預金払戻損失引当金の増減（△）、営業活動によるキャッシュ・フロー、銀行業,Increase (decrease) in provision for reimbursement of deposits,Increase (decrease) in provision for reimbursement of deposits-OpeCF-BNK
-334,jppfs_cor:ProceedsFromFundManagementOpeCFBNK,資金運用による収入、営業活動によるキャッシュ・フロー、銀行業,Proceeds from fund management,Proceeds from fund management-OpeCF-BNK
-335,jppfs_cor:PaymentsForFinanceOpeCFBNK,資金調達による支出、営業活動によるキャッシュ・フロー、銀行業,Payments for finance,Payments for finance-OpeCF-BNK
-336,jppfs_cor:NetDecreaseIncreaseInTradingAccountSecuritiesOpeCFBNK,商品有価証券の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in trading account securities,Net decrease (increase) in trading account securities-OpeCF-BNK
-337,jppfs_cor:NetIncreaseDecreaseInCommercialPapersOpeCFBNK,コマーシャル・ペーパーの純増減（△）、営業活動によるキャッシュ・フロー、銀行業,Net increase (decrease) in commercial papers,Net increase (decrease) in commercial papers-OpeCF-BNK
-338,jppfs_cor:NetIncreaseDecreaseInCallMoneyOpeCFBNK,コールマネー等の純増減（△）、営業活動によるキャッシュ・フロー、銀行業,Net increase (decrease) in call money,Net increase (decrease) in call money-OpeCF-BNK
-339,jppfs_cor:NetDecreaseIncreaseInCallLoansOpeCFBNK,コールローン等の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in call loans,Net decrease (increase) in call loans-OpeCF-BNK
-340,jppfs_cor:NetDecreaseIncreaseInForeignExchangesAssetsOpeCFBNK,外国為替（資産）の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in foreign exchanges - assets,Net decrease (increase) in foreign exchanges-assets-OpeCF-BNK
-341,jppfs_cor:NetIncreaseDecreaseInForeignExchangesLiabilitiesOpeCFBNK,外国為替（負債）の純増減（△）、営業活動によるキャッシュ・フロー、銀行業,Net increase (decrease) in foreign exchanges - liabilities,Net increase (decrease) in foreign exchanges-liabilities-OpeCF-BNK
-342,jppfs_cor:LossGainOnMoneyHeldInTrustOpeCFBNK,金銭の信託の運用損益（△は運用益）、営業活動によるキャッシュ・フロー、銀行業,Loss (gain) on money held in trust,Loss (gain) on money held in trust-OpeCF-BNK
-343,jppfs_cor:NetDecreaseIncreaseInMoneyHeldInTrustOpeCFBNK,金銭の信託の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in money held in trust,Net decrease (increase) in money held in trust-OpeCF-BNK
-344,jppfs_cor:NetIncreaseDecreaseInDebenturesOpeCFBNK,債券の純増減（△）、営業活動によるキャッシュ・フロー、銀行業,Net increase (decrease) in debentures,Net increase (decrease) in debentures-OpeCF-BNK
-345,jppfs_cor:NetIncreaseDecreaseInPayablesUnderSecuritiesLendingTransactionsOpeCFBNK,債券貸借取引受入担保金の純増減（△）、営業活動によるキャッシュ・フロー、銀行業,Net increase (decrease) in payables under securities lending transactions,Net increase (decrease) in payables under securities lending transactions-OpeCF-BNK
-346,jppfs_cor:NetIncreaseDecreaseInBorrowedMoneyExcludingSubordinatedBorrowingsOpeCFBNK,借用金（劣後特約付借入金を除く）の純増減（△）、営業活動によるキャッシュ・フロー、銀行業,Net increase (decrease) in borrowed money (excluding subordinated borrowings),Net increase (decrease) in borrowed money (excluding subordinated borrowings)-OpeCF-BNK
-347,jppfs_cor:NetIncreaseDecreaseInBorrowedMoneyOpeCFBNK,借用金の純増減（△）、営業活動によるキャッシュ・フロー、銀行業,Net increase (decrease) in borrowed money,Net increase (decrease) in borrowed money-OpeCF-BNK
-348,jppfs_cor:NetIncreaseDecreaseInNegotiableCertificatesOfDepositOpeCFBNK,譲渡性預金の純増減（△）、営業活動によるキャッシュ・フロー、銀行業,Net increase (decrease) in negotiable certificates of deposit,Net increase (decrease) in negotiable certificates of deposit-OpeCF-BNK
-349,jppfs_cor:NetIncreaseDecreaseInBorrowedMoneyFromTrustAccountOpeCFBNK,信託勘定借の純増減（△）、営業活動によるキャッシュ・フロー、銀行業,Net increase (decrease) in borrowed money from trust account,Net increase (decrease) in borrowed money from trust account-OpeCF-BNK
-350,jppfs_cor:IncreaseDecreaseInProvisionForTrustCapitalFillingOpeCFBNK,信託元本補填引当金の増減（△）、営業活動によるキャッシュ・フロー、銀行業,Increase (decrease) in provision for trust capital filling,Increase (decrease) in provision for trust capital filling-OpeCF-BNK
-351,jppfs_cor:IncreaseDecreaseInProvisionForPossibleLossOnSupportOfSpecificBorrowersOpeCFBNK,特定債務者支援引当金の増減（△）、営業活動によるキャッシュ・フロー、銀行業,Increase (decrease) in provision for possible loss on support of specific borrowers,Increase (decrease) in provision for possible loss on support of specific borrowers-OpeCF-BNK
-352,jppfs_cor:IncreaseDecreaseInProvisionForContingentLossOpeCFBNK,偶発損失引当金の増減（△）、営業活動によるキャッシュ・フロー、銀行業,Increase (decrease) in provision for contingent loss,Increase (decrease) in provision for contingent loss-OpeCF-BNK
-353,jppfs_cor:NetDecreaseIncreaseInTradingAssetsOpeCFBNK,特定取引資産の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in trading assets,Net decrease (increase) in trading assets-OpeCF-BNK
-354,jppfs_cor:NetIncreaseDecreaseInTradingLiabilitiesOpeCFBNK,特定取引負債の純増減（△）、営業活動によるキャッシュ・フロー、銀行業,Net increase (decrease) in trading liabilities,Net increase (decrease) in trading liabilities-OpeCF-BNK
-355,jppfs_cor:NetIncreaseDecreaseInTradingAccountsPayableOpeCFBNK,特定取引未払金の純増減（△）、営業活動によるキャッシュ・フロー、銀行業,Net increase (decrease) in trading accounts payable,Net increase (decrease) in trading accounts payable-OpeCF-BNK
-356,jppfs_cor:NetDecreaseIncreaseInMonetaryClaimsBoughtOpeCFBNK,買入金銭債権の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in monetary claims bought,Net decrease (increase) in monetary claims bought-OpeCF-BNK
-357,jppfs_cor:IncreaseDecreaseInStraightBondsIssuanceAndRedemptionOpeCFBNK,普通社債発行及び償還による増減（△）、営業活動によるキャッシュ・フロー、銀行業,Increase (decrease) in straight bonds - issuance and redemption,Increase (decrease) in straight bonds-issuance and redemption-OpeCF-BNK
-358,jppfs_cor:AdjustmentOfUnsettledTradingAccountsOpeCFBNK,約定済未決済特定取引調整額、営業活動によるキャッシュ・フロー、銀行業,Adjustment of unsettled trading accounts,Adjustment of unsettled trading accounts-OpeCF-BNK
-359,jppfs_cor:NetDecreaseIncreaseInInterestBearingDepositOpeCFBNK,有利息預け金の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in interest-bearing deposit,Net decrease (increase) in interest-bearing deposit-OpeCF-BNK
-360,jppfs_cor:NetDecreaseIncreaseInDepositExcludingCashEquivalentOpeCFBNK,預け金（現金同等物を除く）の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in deposit (excluding cash equivalent),Net decrease (increase) in deposit (excluding cash equivalent)-OpeCF-BNK
-361,jppfs_cor:NetDecreaseIncreaseInDepositExcludingDepositPaidToBankOfJapanOpeCFBNK,預け金（日銀預け金を除く）の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in deposit (excluding deposit paid to Bank of Japan),Net decrease (increase) in deposit (excluding deposit paid to Bank of Japan)-OpeCF-BNK
-362,jppfs_cor:NetDecreaseIncreaseInDepositOpeCFBNK,預け金の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in deposit,Net decrease (increase) in deposit-OpeCF-BNK
-363,jppfs_cor:NetDecreaseIncreaseInReceivablesUnderSecuritiesBorrowingTransactionsOpeCFBNK,債券貸借取引支払保証金の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in receivables under securities borrowing transactions,Net decrease (increase) in receivables under securities borrowing transactions-OpeCF-BNK
-364,jppfs_cor:NetIncreaseDecreaseInShortTermCorporateBondsOpeCFBNK,短期社債（負債）の純増減（△）、営業活動によるキャッシュ・フロー、銀行業,Net increase (decrease) in short-term corporate bonds,Net increase (decrease) in short-term corporate bonds-OpeCF-BNK
-365,jppfs_cor:NetDecreaseIncreaseInSecuritiesTradingOpeCFBNK,売買目的有価証券の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in securities - trading,Net decrease (increase) in securities-trading-OpeCF-BNK
-366,jppfs_cor:NetDecreaseIncreaseInDepositOver3MonthsOpeCFBNK,預け金（預入期間三ヶ月超）の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in deposit (over 3 months),Net decrease (increase) in deposit (over 3 months)-OpeCF-BNK
-367,jppfs_cor:NetDecreaseIncreaseInLeaseReceivablesAndInvestmentAssetsOpeCFBNK,リース債権及びリース投資資産の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in lease receivables and investment assets,Net decrease (increase) in lease receivables and investment assets-OpeCF-BNK
-368,jppfs_cor:IncomeTaxesPaidOpeCF,法人税等の支払額、営業活動によるキャッシュ・フロー,Income taxes paid,Income taxes paid-OpeCF
-369,jppfs_cor:NetCashProvidedByUsedInOperatingActivities,営業活動によるキャッシュ・フロー,Net cash provided by (used in) operating activities,Net cash provided by (used in) operating activities
-370,jppfs_cor:NetCashProvidedByUsedInInvestmentActivitiesAbstract,投資活動によるキャッシュ・フロー [タイトル項目],Cash flows from investing activities,Cash flows from investing activities [abstract]
-371,jppfs_cor:PurchaseOfSecuritiesInvCFBNK,有価証券の取得による支出、投資活動によるキャッシュ・フロー、銀行業,Purchase of securities,Purchase of securities-InvCF-BNK
-372,jppfs_cor:ProceedsFromSalesOfSecuritiesInvCFBNK,有価証券の売却による収入、投資活動によるキャッシュ・フロー、銀行業,Proceeds from sales of securities,Proceeds from sales of securities-InvCF-BNK
-373,jppfs_cor:PurchaseOfPropertyPlantAndEquipmentInvCF,有形固定資産の取得による支出、投資活動によるキャッシュ・フロー,"Purchase of property, plant and equipment","Purchase of property, plant and equipment-InvCF"
-374,jppfs_cor:ProceedsFromSalesOfPropertyPlantAndEquipmentInvCF,有形固定資産の売却による収入、投資活動によるキャッシュ・フロー,"Proceeds from sales of property, plant and equipment","Proceeds from sales of property, plant and equipment-InvCF"
-375,jppfs_cor:DecreaseInMoneyHeldInTrustInvCFBNK,金銭の信託の減少による収入、投資活動によるキャッシュ・フロー、銀行業,Decrease in money held in trust,Decrease in money held in trust-InvCF-BNK
-376,jppfs_cor:IncreaseInMoneyHeldInTrustInvCFBNK,金銭の信託の増加による支出、投資活動によるキャッシュ・フロー、銀行業,Increase in money held in trust,Increase in money held in trust-InvCF-BNK
-377,jppfs_cor:ProceedsFromFundManagementAsInvestmentActivitiesInvCFBNK,投資活動としての資金運用による収入、投資活動によるキャッシュ・フロー、銀行業,Proceeds from fund management as investing activities,Proceeds from fund management as investing activities-InvCF-BNK
-378,jppfs_cor:PaymentsForMoneyHeldInTrustInvCFBNK,金銭の信託の設定による支出、投資活動によるキャッシュ・フロー、銀行業,Payments for money held in trust,Payments for money held in trust-InvCF-BNK
-379,jppfs_cor:ProceedsFromCancellationAndDividendsOfMoneyHeldInTrustInvCFBNK,金銭の信託の解約及び配当による収入、投資活動によるキャッシュ・フロー、銀行業,Proceeds from cancellation and dividends of money held in trust,Proceeds from cancellation and dividends of money held in trust-InvCF-BNK
-380,jppfs_cor:ProceedsFromRedemptionOfSecuritiesInvCFBNK,有価証券の償還による収入、投資活動によるキャッシュ・フロー、銀行業,Proceeds from redemption of securities,Proceeds from redemption of securities-InvCF-BNK
-381,jppfs_cor:NetCashProvidedByUsedInInvestmentActivities,投資活動によるキャッシュ・フロー,Net cash provided by (used in) investing activities,Net cash provided by (used in) investing activities
-382,jppfs_cor:NetCashProvidedByUsedInFinancingActivitiesAbstract,財務活動によるキャッシュ・フロー [タイトル項目],Cash flows from financing activities,Cash flows from financing activities [abstract]
-383,jppfs_cor:ProceedsFromIssuanceOfCommonStockFinCF,株式の発行による収入、財務活動によるキャッシュ・フロー,Proceeds from issuance of common shares,Proceeds from issuance of common shares-FinCF
-384,jppfs_cor:PurchaseOfTreasuryStockFinCF,自己株式の取得による支出、財務活動によるキャッシュ・フロー,Purchase of treasury shares,Purchase of treasury shares-FinCF
-385,jppfs_cor:CashDividendsPaidFinCF,配当金の支払額、財務活動によるキャッシュ・フロー,Cash dividends paid,Cash dividends paid-FinCF
-386,jppfs_cor:DividendsPaidToNonControllingInterestsFinCF,非支配株主への配当金の支払額、財務活動によるキャッシュ・フロー,Dividends paid to non-controlling interests,Dividends paid to non-controlling interests-FinCF
-387,jppfs_cor:PaymentsFromChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInChangeInScopeOfConsolidationFinCF,連結の範囲の変更を伴わない子会社株式の取得による支出、財務活動によるキャッシュ・フロー,Payments from changes in ownership interests in subsidiaries that do not result in change in scope of consolidation,Payments from changes in ownership interests in subsidiaries that do not result in change in scope of consolidation-FinCF
-388,jppfs_cor:ProceedsFromChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInChangeInScopeOfConsolidationFinCF,連結の範囲の変更を伴わない子会社株式の売却による収入、財務活動によるキャッシュ・フロー,Proceeds from changes in ownership interests in subsidiaries that do not result in change in scope of consolidation,Proceeds from changes in ownership interests in subsidiaries that do not result in change in scope of consolidation-FinCF
-389,jppfs_cor:PaymentsAsFinancingActivitiesFinCFBNK,財務活動としての資金調達による支出、財務活動によるキャッシュ・フロー、銀行業,Payments as financing activities,Payments as financing activities-FinCF-BNK
-390,jppfs_cor:RedemptionOfSubordinatedBondsFinCFBNK,劣後特約付社債の償還による支出、財務活動によるキャッシュ・フロー、銀行業,Redemption of subordinated bonds,Redemption of subordinated bonds-FinCF-BNK
-391,jppfs_cor:IssuanceOfSubordinatedBondsFinCFBNK,劣後特約付社債の発行による収入、財務活動によるキャッシュ・フロー、銀行業,Issuance of subordinated bonds,Issuance of subordinated bonds-FinCF-BNK
-392,jppfs_cor:IncreaseInSubordinatedBorrowingsFinCFBNK,劣後特約付借入れによる収入、財務活動によるキャッシュ・フロー、銀行業,Increase in subordinated borrowings,Increase in subordinated borrowings-FinCF-BNK
-393,jppfs_cor:DecreaseInSubordinatedBorrowingsFinCFBNK,劣後特約付借入金の返済による支出、財務活動によるキャッシュ・フロー、銀行業,Decrease in subordinated borrowings,Decrease in subordinated borrowings-FinCF-BNK
-394,jppfs_cor:ProceedsFromIssuanceOfSubordinatedBondsAndBondsWithSubscriptionRightsToSharesFinCFBNK,劣後特約付社債及び新株予約権付社債の発行による収入、財務活動によるキャッシュ・フロー、銀行業,Proceeds from issuance of subordinated bonds and bonds with share acquisition rights,Proceeds from issuance of subordinated bonds and bonds with share acquisition rights - FinCF - BNK
-395,jppfs_cor:PaymentsForRedemptionSubordinatedBondsAndBondsWithSubscriptionRightsToSharesFinCFBNK,劣後特約付社債及び新株予約権付社債の償還による支出、財務活動によるキャッシュ・フロー、銀行業,Payments for redemption subordinated bonds and bonds with share acquisition rights,Payments for redemption subordinated bonds and bonds with share acquisition rights - FinCF - BNK
-396,jppfs_cor:NetCashProvidedByUsedInFinancingActivities,財務活動によるキャッシュ・フロー,Net cash provided by (used in) financing activities,Net cash provided by (used in) financing activities
-397,jppfs_cor:EffectOfExchangeRateChangeOnCashAndCashEquivalents,現金及び現金同等物に係る換算差額,Effect of exchange rate change on cash and cash equivalents,Effect of exchange rate change on cash and cash equivalents
-398,jppfs_cor:NetIncreaseDecreaseInCashAndCashEquivalents,現金及び現金同等物の増減額（△は減少）,Net increase (decrease) in cash and cash equivalents,Net increase (decrease) in cash and cash equivalents
-399,jppfs_cor:CashAndCashEquivalents,現金及び現金同等物の残高,Cash and cash equivalents,Cash and cash equivalents
+タクソノミ,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:BalanceSheetAbstract,貸借対照表 [タイトル項目],Balance sheet,Balance sheet [abstract]
+jppfs_cor:BalanceSheetTable,貸借対照表 [表],Balance sheet,Balance sheet [table]
+jppfs_cor:BalanceSheetLineItems,貸借対照表 [表示項目],Balance sheet,Balance sheet [line items]
+jppfs_cor:AssetsAbstract,資産の部 [タイトル項目],Assets,Assets [abstract]
+jppfs_cor:CashAndDueFromBanksAssetsBNK,現金預け金、資産の部、銀行業,Cash and due from banks,Cash and due from banks-assets-BNK
+jppfs_cor:CashAssetsBNK,現金、現金預け金、資産の部、銀行業,Cash,Cash-assets-BNK
+jppfs_cor:DueFromBanksAssetsBNK,預け金、現金預け金、資産の部、銀行業,Due from banks,Due from banks-assets-BNK
+jppfs_cor:CallLoansAndBillsBoughtAssetsBNK,コールローン及び買入手形、資産の部、銀行業,Call loans and bills bought,Call loans and bills bought-assets-BNK
+jppfs_cor:CallLoansAssetsBNK,コールローン、資産の部、銀行業,Call loans,Call loans-assets-BNK
+jppfs_cor:BillsBoughtAssetsBNK,買入手形、資産の部、銀行業,Bills bought,Bills bought-assets-BNK
+jppfs_cor:ReceivablesUnderResaleAgreementsAssetsBNK,買現先勘定、資産の部、銀行業,Receivables under resale agreements,Receivables under resale agreements-assets-BNK
+jppfs_cor:ReceivablesUnderSecuritiesBorrowingTransactionsAssetsBNK,債券貸借取引支払保証金、資産の部、銀行業,Receivables under securities borrowing transactions,Receivables under securities borrowing transactions-assets-BNK
+jppfs_cor:MonetaryClaimsBoughtAssetsBNK,買入金銭債権、資産の部、銀行業,Monetary claims bought,Monetary claims bought-assets-BNK
+jppfs_cor:TradingAssetsAssetsBNK,特定取引資産、資産の部、銀行業,Trading assets,Trading assets-assets-BNK
+jppfs_cor:TradingAccountSecuritiesAssetsBNK,商品有価証券、資産の部、銀行業,Trading account securities,Trading account securities-assets-BNK
+jppfs_cor:DerivativesOfTradingSecuritiesTradingAssetsAssetsBNK,商品有価証券派生商品、特定取引資産、資産の部、銀行業,Derivatives of trading securities,Derivatives of trading securities-trading assets-assets-BNK
+jppfs_cor:SecuritiesRelatedToTradingTransactionsTradingAssetsAssetsBNK,特定取引有価証券、特定取引資産、資産の部、銀行業,Securities related to trading transactions,Securities related to trading transactions-trading assets-assets-BNK
+jppfs_cor:DerivativesOfSecuritiesRelatedToTradingTransactionsTradingAssetsAssetsBNK,特定取引有価証券派生商品、特定取引資産、資産の部、銀行業,Derivatives of securities related to trading transactions,Derivatives of securities related to trading transactions-trading assets-assets-BNK
+jppfs_cor:TradingRelatedFinancialDerivativesTradingAssetsAssetsBNK,特定金融派生商品、特定取引資産、資産の部、銀行業,Trading-related financial derivatives,Trading-related financial derivatives-trading assets-assets-BNK
+jppfs_cor:OtherTradingAssetsTradingAssetsAssetsBNK,その他の特定取引資産、特定取引資産、資産の部、銀行業,Other trading assets,Other trading assets-trading assets-assets-BNK
+jppfs_cor:MoneyHeldInTrustAssetsBNK,金銭の信託、資産の部、銀行業,Money held in trust,Money held in trust-assets-BNK
+jppfs_cor:SecuritiesAssetsBNK,有価証券、資産の部、銀行業,Securities,Securities-assets-BNK
+jppfs_cor:GovernmentBondsInvestmentSecuritiesAssetsBNK,国債、有価証券、資産の部、銀行業,Government bonds,Government bonds-investment securities-assets-BNK
+jppfs_cor:LocalGovernmentBondsInvestmentSecuritiesAssetsBNK,地方債、有価証券、資産の部、銀行業,Local government bonds,Local government bonds-investment securities-assets-BNK
+jppfs_cor:ShortTermCorporateBondsInvestmentSecuritiesAssetsBNK,短期社債、有価証券、資産の部、銀行業,Short-term corporate bonds,Short-term corporate bonds-investment securities-assets-BNK
+jppfs_cor:CorporateBondsInvestmentSecuritiesAssetsBNK,社債、有価証券、資産の部、銀行業,Corporate bonds,Corporate bonds-investment securities-assets-BNK
+jppfs_cor:StocksAssetsInvestmentSecuritiesBNK,株式、有価証券、資産の部、銀行業,Stocks,Stocks-assets-investment securities-BNK
+jppfs_cor:OtherSecuritiesInvestmentSecuritiesAssetsBNK,その他の証券、有価証券、資産の部、銀行業,Other securities,Other securities-investment securities-assets-BNK
+jppfs_cor:LoansAndBillsDiscountedAssetsBNK,貸出金、資産の部、銀行業,Loans and bills discounted,Loans and bills discounted-assets-BNK
+jppfs_cor:BillsDiscountedLoansAndBillsDiscountedAssetsBNK,割引手形、貸出金、資産の部、銀行業,Bills discounted,Bills discounted-loans and bills discounted-assets-BNK
+jppfs_cor:LoansOnBillsLoansAndBillsDiscountedAssetsBNK,手形貸付、貸出金、資産の部、銀行業,Loans on bills,Loans on bills-loans and bills discounted-assets-BNK
+jppfs_cor:LoansOnDeedsLoansAndBillsDiscountedAssetsBNK,証書貸付、貸出金、資産の部、銀行業,Loans on deeds,Loans on deeds-loans and bills discounted-assets-BNK
+jppfs_cor:OverdraftsLoansAndBillsDiscountedAssetsBNK,当座貸越、貸出金、資産の部、銀行業,Overdrafts,Overdrafts-loans and bills discounted-assets-BNK
+jppfs_cor:AgencyLoanLoansAndBillsDiscountedAssetsBNK,代理貸付金、貸出金、資産の部、銀行業,Agency loan,Agency loan-loans and bills discounted-assets-BNK
+jppfs_cor:ForeignExchangesAssetsBNK,外国為替、資産の部、銀行業,Foreign exchanges,Foreign exchanges-assets-BNK
+jppfs_cor:DueFromForeignBanksOurAccountsForeignExchangesAssetsBNK,外国他店預け、外国為替、資産の部、銀行業,Due from foreign banks (our accounts),Due from foreign banks (our accounts)-foreign exchanges-assets-BNK
+jppfs_cor:DueFromForeignBanksTheirAccountsForeignExchangesAssetsBNK,外国他店貸、外国為替、資産の部、銀行業,Due from foreign banks (their accounts),Due from foreign banks (their accounts)-foreign exchanges-assets-BNK
+jppfs_cor:ForeignBillsBoughtForeignExchangesAssetsBNK,買入外国為替、外国為替、資産の部、銀行業,Foreign bills bought,Foreign bills bought-foreign exchanges-assets-BNK
+jppfs_cor:ForeignBillsReceivableForeignExchangesAssetsBNK,取立外国為替、外国為替、資産の部、銀行業,Foreign bills receivable,Foreign bills receivable-foreign exchanges-assets-BNK
+jppfs_cor:OtherAssetsAssetsBNK,その他資産、資産の部、銀行業,Other assets,Other assets-assets-BNK
+jppfs_cor:DomesticExchangeSettlementAccountDebitOtherAssetsAssetsBNK,未決済為替貸、その他資産、資産の部、銀行業,"Domestic exchange settlement account, debit","Domestic exchange settlement account, debit-other assets-assets-BNK"
+jppfs_cor:PrepaidExpenses,前払費用,Prepaid expenses,Prepaid expenses
+jppfs_cor:AccruedIncome,未収収益,Accrued income,Accrued income
+jppfs_cor:InitialMarginsOfFuturesMarketsOtherAssetsAssetsBNK,先物取引差入証拠金、その他資産、資産の部、銀行業,Initial margins of futures markets,Initial margins of futures markets-other assets-assets-BNK
+jppfs_cor:VariationMarginsOfFuturesMarketsOtherAssetsAssetsBNK,先物取引差金勘定、その他資産、資産の部、銀行業,Variation margins of futures markets,Variation margins of futures markets-other assets-assets-BNK
+jppfs_cor:SecuritiesInCustodyAssetsBNK,保管有価証券等、その他資産、資産の部、銀行業,Securities in custody,Securities in custody-assets-BNK
+jppfs_cor:DerivativesOtherThanForTradingAssetsOtherAssetsBNK,金融派生商品、その他資産、資産の部、銀行業,Derivatives other than for trading - assets,Derivatives other than for trading-assets-other assets-BNK
+jppfs_cor:CashCollateralPaidForFinancialInstrumentsAssets,金融商品等差入担保金、資産の部,Cash collateral paid for financial instruments,Cash collateral paid for financial instruments-assets
+jppfs_cor:BondIssuanceCostDA,社債発行費、繰延資産,Bond issuance cost,Bond issuance cost-DA
+jppfs_cor:LeaseInvestmentAssetsAssets,リース投資資産、資産の部,Lease investment assets,Lease investment assets-assets
+jppfs_cor:AccountsReceivableSecuritiesTradingAccountOtherAssetsAssetsBNK,有価証券未収金、その他資産、資産の部、銀行業,Accounts receivable - securities trading account,Accounts receivable-securities trading account-other assets-assets-BNK
+jppfs_cor:OtherOtherAssetsAssetsBNK,その他の資産、その他資産、資産の部、銀行業,Other,Other-other assets-assets-BNK
+jppfs_cor:PropertyPlantAndEquipment,有形固定資産,"Property, plant and equipment","Property, plant and equipment"
+jppfs_cor:BuildingsNet,建物（純額）,"Buildings, net","Buildings, net"
+jppfs_cor:Land,土地,Land,Land
+jppfs_cor:LeaseAssetsNetPPE,リース資産（純額）、有形固定資産,"Leased assets, net","Leased assets, net-PPE"
+jppfs_cor:ConstructionInProgress,建設仮勘定,Construction in progress,Construction in progress
+jppfs_cor:OtherNetPPE,その他（純額）、有形固定資産,"Other, net","Other, net-PPE"
+jppfs_cor:IntangibleAssets,無形固定資産,Intangible assets,Intangible assets
+jppfs_cor:Software,ソフトウエア,Software,Software
+jppfs_cor:Goodwill,のれん,Goodwill,Goodwill
+jppfs_cor:LeaseAssetsIA,リース資産、無形固定資産,Leased assets,Leased assets-IA
+jppfs_cor:OtherIA,その他、無形固定資産,Other,Other-IA
+jppfs_cor:DeferredDebentureDiscountsAssetsBNK,債券繰延資産、資産の部、銀行業,Deferred debenture discounts,Deferred debenture discounts-assets-BNK
+jppfs_cor:DebentureIssuanceCostAssetsBNK,債券発行費用、資産の部、銀行業,Debenture issuance cost,Debenture issuance cost-assets-BNK
+jppfs_cor:PrepaidPensionCostAssets,前払年金費用、資産の部,Prepaid pension cost,Prepaid pension cost-assets
+jppfs_cor:DeferredTaxAssetsAssetsBNK,繰延税金資産、資産の部、銀行業,Deferred tax assets,Deferred tax assets-assets-BNK
+jppfs_cor:DeferredTaxAssetsForLandRevaluation,再評価に係る繰延税金資産,Deferred tax assets for land revaluation,Deferred tax assets for land revaluation
+jppfs_cor:CustomersLiabilitiesForAcceptancesAndGuaranteesAssetsBNK,支払承諾見返、資産の部、銀行業,Customers' liabilities for acceptances and guarantees,Customers' liabilities for acceptances and guarantees-assets-BNK
+jppfs_cor:GuaranteeOfObligationPerContraAssetsBNK,債務保証見返、資産の部、銀行業,Guarantee of obligation - per contra,Guarantee of obligation-per contra-assets-BNK
+jppfs_cor:AllowanceForInvestmentLossAssetsBNK,投資損失引当金、資産の部、銀行業,Allowance for investment loss,Allowance for investment loss-assets-BNK
+jppfs_cor:AllowanceForLoanLossesAssetsBNK,貸倒引当金、資産の部、銀行業,Allowance for loan losses,Allowance for loan losses-assets-BNK
+jppfs_cor:Assets,資産,Assets,Assets
+jppfs_cor:LiabilitiesAbstract,負債の部 [タイトル項目],Liabilities,Liabilities [abstract]
+jppfs_cor:DepositsLiabilitiesBNK,預金、負債の部、銀行業,Deposits,Deposits-liabilities-BNK
+jppfs_cor:CurrentDepositsDepositsLiabilitiesBNK,当座預金、預金、負債の部、銀行業,Current deposits,Current deposits-deposits-liabilities-BNK
+jppfs_cor:OrdinaryDepositsDepositsLiabilitiesBNK,普通預金、預金、負債の部、銀行業,Ordinary deposits,Ordinary deposits-deposits-liabilities-BNK
+jppfs_cor:SavingDepositsDepositsLiabilitiesBNK,貯蓄預金、預金、負債の部、銀行業,Saving deposits,Saving deposits-deposits-liabilities-BNK
+jppfs_cor:DepositsAtNoticeDepositsLiabilitiesBNK,通知預金、預金、負債の部、銀行業,Deposits at notice,Deposits at notice-deposits-liabilities-BNK
+jppfs_cor:TimeDepositsDepositsLiabilitiesBNK,定期預金、預金、負債の部、銀行業,Time deposits,Time deposits-deposits-liabilities-BNK
+jppfs_cor:InstallmentSavingsDepositsLiabilitiesBNK,定期積金、預金、負債の部、銀行業,Installment savings,Installment savings-deposits-liabilities-BNK
+jppfs_cor:OtherDepositsDepositsLiabilitiesBNK,その他の預金、預金、負債の部、銀行業,Other deposits,Other deposits-deposits-liabilities-BNK
+jppfs_cor:NegotiableCertificatesOfDepositLiabilitiesBNK,譲渡性預金、負債の部、銀行業,Negotiable certificates of deposit,Negotiable certificates of deposit-liabilities-BNK
+jppfs_cor:CallMoneyAndBillsSoldLiabilitiesBNK,コールマネー及び売渡手形、負債の部、銀行業,Call money and bills sold,Call money and bills sold-liabilities-BNK
+jppfs_cor:CallMoneyLiabilitiesBNK,コールマネー、負債の部、銀行業,Call money,Call money-liabilities-BNK
+jppfs_cor:BillsSoldLiabilitiesBNK,売渡手形、負債の部、銀行業,Bills sold,Bills sold-liabilities-BNK
+jppfs_cor:PayablesUnderRepurchaseAgreementsLiabilitiesBNK,売現先勘定、負債の部、銀行業,Payables under repurchase agreements,Payables under repurchase agreements-liabilities-BNK
+jppfs_cor:PayablesUnderSecuritiesLendingTransactionsLiabilitiesBNK,債券貸借取引受入担保金、負債の部、銀行業,Payables under securities lending transactions,Payables under securities lending transactions-liabilities-BNK
+jppfs_cor:CommercialPapersLiabilities,コマーシャル・ペーパー,Commercial papers,Commercial papers-liabilities
+jppfs_cor:TradingLiabilitiesLiabilitiesBNK,特定取引負債、負債の部、銀行業,Trading liabilities,Trading liabilities-liabilities-BNK
+jppfs_cor:TradingSecuritiesSoldForShortSalesLiabilitiesBNK,売付商品債券、負債の部、銀行業,Trading securities sold for short sales,Trading securities sold for short sales-liabilities-BNK
+jppfs_cor:DerivativesOfTradingSecuritiesAssetsTradingLiabilitiesLiabilitiesBNK,商品有価証券派生商品、特定取引負債、負債の部、銀行業,Derivatives of trading securities - assets,Derivatives of trading securities-assets-trading liabilities-liabilities-BNK
+jppfs_cor:SecuritiesRelatedToTradingTransactionsSoldForShortSalesTradingLiabilitiesLiabilitiesBNK,特定取引売付債券、特定取引負債、負債の部、銀行業,Securities related to trading transactions sold for short sales,Securities related to trading transactions sold for short sales-trading liabilities-liabilities-BNK
+jppfs_cor:DerivativesOfSecuritiesRelatedToTradingTransactionsTradingLiabilitiesLiabilitiesBNK,特定取引有価証券派生商品、特定取引負債、負債の部、銀行業,Derivatives of securities related to trading transactions,Derivatives of securities related to trading transactions-trading liabilities-liabilities-BNK
+jppfs_cor:TradingRelatedFinancialDerivativesTradingLiabilitiesLiabilitiesBNK,特定金融派生商品、特定取引負債、負債の部、銀行業,Trading-related financial derivatives,Trading-related financial derivatives-trading liabilities-liabilities-BNK
+jppfs_cor:OtherTradingLiabilitiesTradingLiabilitiesLiabilitiesBNK,その他の特定取引負債、特定取引負債、負債の部、銀行業,Other trading liabilities,Other trading liabilities-trading liabilities-liabilities-BNK
+jppfs_cor:BorrowedMoneyLiabilitiesBNK,借用金、負債の部、銀行業,Borrowed money,Borrowed money-liabilities-BNK
+jppfs_cor:BillsRediscountedBorrowedMoneyLiabilitiesBNK,再割引手形、借用金、負債の部、銀行業,Bills rediscounted,Bills rediscounted-borrowed money-liabilities-BNK
+jppfs_cor:BorrowingsFromOtherBanksBorrowedMoneyLiabilitiesBNK,借入金、借用金、負債の部、銀行業,Borrowings from other banks,Borrowings from other banks-borrowed money-liabilities-BNK
+jppfs_cor:ForeignExchangesLiabilitiesBNK,外国為替、負債の部、銀行業,Foreign exchanges,Foreign exchanges-liabilities-BNK
+jppfs_cor:DueToForeignBanksTheirAccountsForeignExchangesLiabilitiesBNK,外国他店預り、外国為替、負債の部、銀行業,Due to foreign banks (their accounts),Due to foreign banks (their accounts)-foreign exchanges-liabilities-BNK
+jppfs_cor:DueToForeignBanksOurAccountsForeignExchangesLiabilitiesBNK,外国他店借、外国為替、負債の部、銀行業,Due to foreign banks (our accounts),Due to foreign banks (our accounts)-foreign exchanges-liabilities-BNK
+jppfs_cor:ForeignBillsSoldForeignExchangesLiabilitiesBNK,売渡外国為替、外国為替、負債の部、銀行業,Foreign bills sold,Foreign bills sold-foreign exchanges-liabilities-BNK
+jppfs_cor:ForeignBillsPayableForeignExchangesLiabilitiesBNK,未払外国為替、外国為替、負債の部、銀行業,Foreign bills payable,Foreign bills payable-foreign exchanges-liabilities-BNK
+jppfs_cor:ShortTermBondsPayable,短期社債,Short-term bonds payable,Short-term bonds payable
+jppfs_cor:BondsPayable,社債,Bonds payable,Bonds payable
+jppfs_cor:BondsWithSubscriptionRightsToSharesNCL,新株予約権付社債、固定負債,Bonds with share acquisition rights,Bonds with share acquisition rights - NCL
+jppfs_cor:OtherLiabilitiesLiabilitiesBNK,その他負債、負債の部、銀行業,Other liabilities,Other liabilities-liabilities-BNK
+jppfs_cor:DomesticExchangeSettlementAccountCreditOtherLiabilitiesLiabilitiesBNK,未決済為替借、その他負債、負債の部、銀行業,"Domestic exchange settlement account, credit","Domestic exchange settlement account, credit-other liabilities-liabilities-BNK"
+jppfs_cor:IncomeTaxesPayable,未払法人税等,Income taxes payable,Income taxes payable
+jppfs_cor:AccruedExpenses,未払費用,Accrued expenses,Accrued expenses
+jppfs_cor:UnearnedRevenue,前受収益,Unearned revenue,Unearned revenue
+jppfs_cor:DepositsReceivedFromEmployees,従業員預り金,Deposits received from employees,Deposits received from employees
+jppfs_cor:ReserveForInterestOnInstallmentSavingsOtherLiabilitiesLiabilitiesBNK,給付補填備金、その他負債、負債の部、銀行業,Reserve for interest on installment savings,Reserve for interest on installment savings-other liabilities-liabilities-BNK
+jppfs_cor:InitialMarginsOfFuturesMarketsLiabilitiesOtherLiabilitiesLiabilitiesBNK,先物取引受入証拠金、その他負債、負債の部、銀行業,Initial margins of futures markets - liabilities,Initial margins of futures markets-liabilities-other liabilities-liabilities-BNK
+jppfs_cor:VariationMarginsOfFuturesMarketsOtherLiabilitiesLiabilitiesBNK,先物取引差金勘定、その他負債、負債の部、銀行業,Variation margins of futures markets,Variation margins of futures markets-other liabilities-liabilities-BNK
+jppfs_cor:TradingAccountSecuritiesBorrowedOtherLiabilitiesLiabilitiesBNK,借入商品債券、その他負債、負債の部、銀行業,Trading account securities borrowed,Trading account securities borrowed-other liabilities-liabilities-BNK
+jppfs_cor:BorrowedSecuritiesRelatedToTradingTransactionsLiabilitiesBNK,借入特定取引有価証券、その他負債、負債の部、銀行業,Borrowed securities related to trading transactions,Borrowed securities related to trading transactions-liabilities-BNK
+jppfs_cor:SecuritiesBorrowedOtherLiabilitiesLiabilitiesBNK,借入有価証券、その他負債、負債の部、銀行業,Securities borrowed,Securities borrowed-other liabilities-liabilities-BNK
+jppfs_cor:BondsSoldOtherLiabilitiesLiabilitiesBNK,売付債券、その他負債、負債の部、銀行業,Bonds sold,Bonds sold-other liabilities-liabilities-BNK
+jppfs_cor:DerivativesOtherThanForTradingLiabilitiesOtherLiabilitiesBNK,金融派生商品、その他負債、負債の部、銀行業,Derivatives other than for trading - liabilities,Derivatives other than for trading-liabilities-other liabilities-BNK
+jppfs_cor:CashCollateralReceivedForFinancialInstrumentsLiabilities,金融商品等受入担保金、負債の部,Cash collateral received for financial instruments,Cash collateral received for financial instruments-liabilities
+jppfs_cor:LeaseObligationsLiabilities,リース債務、負債の部,Lease obligations,Lease obligations-liabilities
+jppfs_cor:AssetRetirementObligationsLiabilities,資産除去債務、負債の部,Asset retirement obligations,Asset retirement obligations-liabilities
+jppfs_cor:AccountsPayableSecuritiesTradingAccountOtherLiabilitiesLiabilitiesBNK,有価証券未払金、その他負債、負債の部、銀行業,Accounts payable - securities trading account,Accounts payable-securities trading account-other liabilities-liabilities-BNK
+jppfs_cor:OtherOtherLiabilitiesLiabilitiesBNK,その他の負債、その他負債、負債の部、銀行業,Other,Other-other liabilities-liabilities-BNK
+jppfs_cor:ProvisionForBonuses,賞与引当金,Provision for bonuses,Provision for bonuses
+jppfs_cor:ProvisionForDirectorsBonuses,役員賞与引当金,Provision for bonuses for directors (and other officers),Provision for bonuses for directors (and other officers)
+jppfs_cor:ProvisionForRetirementBenefits,退職給付引当金,Provision for retirement benefits,Provision for retirement benefits
+jppfs_cor:ProvisionForDirectorsRetirementBenefits,役員退職慰労引当金,Provision for retirement benefits for directors (and other officers),Provision for retirement benefits for directors (and other officers)
+jppfs_cor:ProvisionForReimbursementOfDepositsLiabilitiesBNK,睡眠預金払戻損失引当金、負債の部、銀行業,Provision for reimbursement of deposits,Provision for reimbursement of deposits-liabilities-BNK
+jppfs_cor:ReservesUnderTheSpecialLaws2,特別法上の引当金,Reserves under special laws,Reserves under special laws-2
+jppfs_cor:ReserveForFinancialProductsTransactionLiabilitiesReservesUnderTheSpecialLawsLiabilitiesBNK,金融商品取引責任準備金、特別法上の準備金、負債の部、銀行業,Reserve for financial products transaction liabilities,Reserve for financial products transaction liabilities-reserves under special laws-liabilities-BNK
+jppfs_cor:DeferredTaxLiabilitiesLiabilitiesBNK,繰延税金負債、負債の部、銀行業,Deferred tax liabilities,Deferred tax liabilities-liabilities-BNK
+jppfs_cor:DeferredTaxLiabilitiesForLandRevaluation,再評価に係る繰延税金負債,Deferred tax liabilities for land revaluation,Deferred tax liabilities for land revaluation
+jppfs_cor:NegativeGoodwill,負ののれん,Negative goodwill,Negative goodwill
+jppfs_cor:AcceptancesAndGuaranteesLiabilitiesBNK,支払承諾、負債の部、銀行業,Acceptances and guarantees,Acceptances and guarantees-liabilities-BNK
+jppfs_cor:GuaranteeOfObligationLiabilitiesBNK,債務保証、負債の部、銀行業,Guarantee of obligation,Guarantee of obligation-liabilities-BNK
+jppfs_cor:DebenturesLiabilitiesBNK,債券、負債の部、銀行業,Debentures,Debentures-liabilities-BNK
+jppfs_cor:DebentureIssuanceLiabilitiesBNK,債券発行高、負債の部、銀行業,Debenture issuance,Debenture issuance-liabilities-BNK
+jppfs_cor:BorrowedMoneyFromTrustAccountLiabilitiesBNK,信託勘定借、負債の部、銀行業,Borrowed money from trust account,Borrowed money from trust account-liabilities-BNK
+jppfs_cor:ProvisionForCompensationForTrustCapitalLiabilitiesBNK,信託元本補填引当金、負債の部、銀行業,Provision for compensation for trust capital,Provision for compensation for trust capital-liabilities-BNK
+jppfs_cor:ProvisionForPossibleLossOnSupportOfSpecificBorrowersLiabilitiesBNK,特定債務者支援引当金、負債の部、銀行業,Provision for possible loss on support of specific borrowers,Provision for possible loss on support of specific borrowers-liabilities-BNK
+jppfs_cor:ProvisionForLossOnInterestRepaymentLiabilitiesBNK,利息返還損失引当金、負債の部、銀行業,Provision for loss on interest repayment,Provision for loss on interest repayment-liabilities-BNK
+jppfs_cor:ProvisionForContingentLossLiabilitiesBNK,偶発損失引当金、負債の部、銀行業,Provision for contingent loss,Provision for contingent loss-liabilities-BNK
+jppfs_cor:Liabilities,負債,Liabilities,Liabilities
+jppfs_cor:NetAssetsAbstract,純資産の部 [タイトル項目],Net assets,Net assets [abstract]
+jppfs_cor:ShareholdersEquity,株主資本,Shareholders' equity,Shareholders' equity
+jppfs_cor:CapitalStock,資本金,Capital stock,Capital stock
+jppfs_cor:CapitalStockShinkinBNK,出資金、銀行業（信金）,Capital stock,Capital stock-shinkin-BNK
+jppfs_cor:CommonSharesShinkinBNK,普通出資金、銀行業（信金）,Common shares,Common shares-shinkin-BNK
+jppfs_cor:PreferredSharesShinkinBNK,優先出資金、銀行業（信金）,Preferred shares,Preferred shares-shinkin-BNK
+jppfs_cor:DepositForSubscriptionsToShares,新株式申込証拠金,Deposit for subscriptions to shares,Deposit for subscriptions to shares
+jppfs_cor:CapitalSurplus,資本剰余金,Capital surplus,Capital surplus
+jppfs_cor:LegalCapitalSurplus,資本準備金,Legal capital surplus,Legal capital surplus
+jppfs_cor:OtherCapitalSurplus,その他資本剰余金,Other capital surplus,Other capital surplus
+jppfs_cor:RetainedEarnings,利益剰余金,Retained earnings,Retained earnings
+jppfs_cor:LegalRetainedEarnings,利益準備金,Legal retained earnings,Legal retained earnings
+jppfs_cor:OtherRetainedEarnings,その他利益剰余金,Other retained earnings,Other retained earnings
+jppfs_cor:RetainedEarningsBroughtForward,繰越利益剰余金,Retained earnings brought forward,Retained earnings brought forward
+jppfs_cor:SpecialReserveShinkinBNK,特別積立金、銀行業（信金）,Special reserve,Special reserve-shinkin-BNK
+jppfs_cor:PromotionFundShinkinBNK,振興基金、銀行業（信金）,Promotion fund,Promotion fund-shinkin-BNK
+jppfs_cor:UnappropriatedRetainedEarningsShinkinBNK,当期未処分剰余金、銀行業（信金）,Unappropriated retained earnings,Unappropriated retained earnings-shinkin-BNK
+jppfs_cor:TreasuryStock,自己株式,Treasury shares,Treasury shares
+jppfs_cor:DepositForSubscriptionsToTreasuryStock,自己株式申込証拠金,Deposit for subscriptions to treasury shares,Deposit for subscriptions to treasury shares
+jppfs_cor:ShareholdersEquityShinkinBNK,会員勘定、銀行業（信金）,Shareholders' equity,Shareholders' equity-shinkin-BNK
+jppfs_cor:ValuationAndTranslationAdjustments,評価・換算差額等,Valuation and translation adjustments,Valuation and translation adjustments
+jppfs_cor:ValuationDifferenceOnAvailableForSaleSecurities,その他有価証券評価差額金,Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities
+jppfs_cor:DeferredGainsOrLossesOnHedges,繰延ヘッジ損益,Deferred gains or losses on hedges,Deferred gains or losses on hedges
+jppfs_cor:RevaluationReserveForLand,土地再評価差額金,Revaluation reserve for land,Revaluation reserve for land
+jppfs_cor:ForeignCurrencyTranslationAdjustment,為替換算調整勘定,Foreign currency translation adjustment,Foreign currency translation adjustment
+jppfs_cor:SubscriptionRightsToShares,新株予約権,Share acquisition rights,Share acquisition rights
+jppfs_cor:NonControllingInterests,非支配株主持分,Non-controlling interests,Non-controlling interests
+jppfs_cor:NetAssets,純資産,Net assets,Net assets
+jppfs_cor:LiabilitiesAndNetAssets,負債純資産,Liabilities and net assets,Liabilities and net assets
+nan,,,
+nan,,,
+名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:StatementOfIncomeAbstract,損益計算書 [タイトル項目],Statement of income,Statement of income [abstract]
+jppfs_cor:StatementOfIncomeTable,損益計算書 [表],Statement of income,Statement of income [table]
+jppfs_cor:StatementOfIncomeLineItems,損益計算書 [表示項目],Statement of income,Statement of income [line items]
+jppfs_cor:OrdinaryIncomeBNK,経常収益、銀行業,Ordinary income,Ordinary income-BNK
+jppfs_cor:InterestIncomeOIBNK,資金運用収益、経常収益、銀行業,Interest income,Interest income-OI-BNK
+jppfs_cor:InterestOnLoansAndDiscountsOIBNK,貸出金利息、経常収益、銀行業,Interest on loans and discounts,Interest on loans and discounts-OI-BNK
+jppfs_cor:InterestAndDividendsOnSecuritiesOIBNK,有価証券利息配当金、経常収益、銀行業,Interest and dividends on securities,Interest and dividends on securities-OI-BNK
+jppfs_cor:InterestOnCallLoansAndBillsBoughtOIBNK,コールローン利息及び買入手形利息、経常収益、銀行業,Interest on call loans and bills bought,Interest on call loans and bills bought-OI-BNK
+jppfs_cor:InterestOnCallLoansOIBNK,コールローン利息、経常収益、銀行業,Interest on call loans,Interest on call loans-OI-BNK
+jppfs_cor:InterestOnBillsBoughtOIBNK,買入手形利息、経常収益、銀行業,Interest on bills bought,Interest on bills bought-OI-BNK
+jppfs_cor:InterestOnReceivablesUnderResaleAgreementsOIBNK,買現先利息、経常収益、銀行業,Interest on receivables under resale agreements,Interest on receivables under resale agreements-OI-BNK
+jppfs_cor:InterestOnReceivablesUnderSecuritiesBorrowingTransactionsOIBNK,債券貸借取引受入利息、経常収益、銀行業,Interest on receivables under securities borrowing transactions,Interest on receivables under securities borrowing transactions-OI-BNK
+jppfs_cor:InterestOnDepositsWithBanksOIBNK,預け金利息、経常収益、銀行業,Interest on deposits with banks,Interest on deposits with banks-OI-BNK
+jppfs_cor:InterestOnInterestSwapsOIBNK,金利スワップ受入利息、経常収益、銀行業,Interest on interest swaps,Interest on interest swaps-OI-BNK
+jppfs_cor:OtherInterestIncomeOIBNK,その他の受入利息、経常収益、銀行業,Other interest income,Other interest income-OI-BNK
+jppfs_cor:FeesAndCommissionsOIBNK,役務取引等収益、経常収益、銀行業,Fees and commissions,Fees and commissions-OI-BNK
+jppfs_cor:FeesAndCommissionsOnDomesticAndForeignExchangesOIBNK,受入為替手数料、経常収益、銀行業,Fees and commissions on domestic and foreign exchanges,Fees and commissions on domestic and foreign exchanges-OI-BNK
+jppfs_cor:OtherFeesAndCommissionsOIBNK,その他の役務収益、経常収益、銀行業,Other fees and commissions,Other fees and commissions-OI-BNK
+jppfs_cor:TradingIncomeOIBNK,特定取引収益、経常収益、銀行業,Trading income,Trading income-OI-BNK
+jppfs_cor:GainsOnTradingAccountSecuritiesTransactionsOIBNK,商品有価証券収益、経常収益、銀行業,Gains on trading account securities transactions,Gains on trading account securities transactions-OI-BNK
+jppfs_cor:IncomeFromSecuritiesAndDerivativesRelatedToTradingTransactionsOIBNK,特定取引有価証券収益、経常収益、銀行業,Income from securities and derivatives related to trading transactions,Income from securities and derivatives related to trading transactions-OI-BNK
+jppfs_cor:IncomeFromTradingRelatedFinancialDerivativesTransactionsOIBNK,特定金融派生商品収益、経常収益、銀行業,Income from trading-related financial derivatives transactions,Income from trading-related financial derivatives transactions-OI-BNK
+jppfs_cor:OtherTradingIncomeOIBNK,その他の特定取引収益、経常収益、銀行業,Other trading income,Other trading income-OI-BNK
+jppfs_cor:OtherOrdinaryIncomeOIBNK,その他業務収益、経常収益、銀行業,Other ordinary income,Other ordinary income-OI-BNK
+jppfs_cor:GainsOnForeignExchangeTransactionsOIBNK,外国為替売買益、経常収益、銀行業,Gains on foreign exchange transactions,Gains on foreign exchange transactions-OI-BNK
+jppfs_cor:GainsOnSalesOfBondsOIBNK,国債等債券売却益、経常収益、銀行業,Gains on sales of bonds,Gains on sales of bonds-OI-BNK
+jppfs_cor:GainsOnRedemptionOfBondsOIBNK,国債等債券償還益、経常収益、銀行業,Gains on redemption of bonds,Gains on redemption of bonds-OI-BNK
+jppfs_cor:IncomeFromDerivativesOtherThanForTradingOrHedgingOIBNK,金融派生商品収益、経常収益、銀行業,Income from derivatives other than for trading or hedging,Income from derivatives other than for trading or hedging-OI-BNK
+jppfs_cor:OtherOtherOrdinaryIncomeOIBNK,その他の業務収益、経常収益、銀行業,Other,Other-other ordinary income-OI-BNK
+jppfs_cor:OtherIncomeOIBNK,その他経常収益、経常収益、銀行業,Other income,Other income-OI-BNK
+jppfs_cor:ReversalOfAllowanceForLoanLossesOIBNK,貸倒引当金戻入益、経常収益、銀行業,Reversal of allowance for loan losses,Reversal of allowance for loan losses-OI-BNK
+jppfs_cor:RecoveriesOfWrittenOffClaimsOIBNK,償却債権取立益、経常収益、銀行業,Recoveries of written off claims,Recoveries of written off claims-OI-BNK
+jppfs_cor:GainOnSalesOfStocksAndOtherSecuritiesOIBNK,株式等売却益、経常収益、銀行業,Gain on sales of stocks and other securities,Gain on sales of stocks and other securities-OI-BNK
+jppfs_cor:GainOnMoneyHeldInTrustOIBNK,金銭の信託運用益、経常収益、銀行業,Gain on money held in trust,Gain on money held in trust-OI-BNK
+jppfs_cor:OtherOtherIncomeOIBNK,その他の経常収益、経常収益、銀行業,Other,Other-other income-OI-BNK
+jppfs_cor:TrustFeesBNK,信託報酬、銀行業,Trust fees,Trust fees-BNK
+jppfs_cor:OrdinaryExpensesBNK,経常費用、銀行業,Ordinary expenses,Ordinary expenses-BNK
+jppfs_cor:InterestExpensesOEBNK,資金調達費用、経常費用、銀行業,Interest expenses,Interest expenses-OE-BNK
+jppfs_cor:InterestOnDepositsOEBNK,預金利息、経常費用、銀行業,Interest on deposits,Interest on deposits-OE-BNK
+jppfs_cor:InterestOnNegotiableCertificatesOfDepositOEBNK,譲渡性預金利息、経常費用、銀行業,Interest on negotiable certificates of deposit,Interest on negotiable certificates of deposit-OE-BNK
+jppfs_cor:InterestOnCallMoneyAndBillsSoldOEBNK,コールマネー利息及び売渡手形利息、経常費用、銀行業,Interest on call money and bills sold,Interest on call money and bills sold-OE-BNK
+jppfs_cor:InterestOnCallMoneyOEBNK,コールマネー利息、経常費用、銀行業,Interest on call money,Interest on call money-OE-BNK
+jppfs_cor:InterestOnBillsSoldOEBNK,売渡手形利息、経常費用、銀行業,Interest on bills sold,Interest on bills sold-OE-BNK
+jppfs_cor:InterestOnPayablesUnderRepurchaseAgreementsOEBNK,売現先利息、経常費用、銀行業,Interest on payables under repurchase agreements,Interest on payables under repurchase agreements-OE-BNK
+jppfs_cor:InterestOnPayablesUnderSecuritiesLendingTransactionsOEBNK,債券貸借取引支払利息、経常費用、銀行業,Interest on payables under securities lending transactions,Interest on payables under securities lending transactions-OE-BNK
+jppfs_cor:InterestOnCommercialPapersNOE,コマーシャル・ペーパー利息、営業外費用,Interest on commercial papers,Interest on commercial papers-NOE
+jppfs_cor:InterestOnBorrowingsAndRediscountsOEBNK,借用金利息、経常費用、銀行業,Interest on borrowings and rediscounts,Interest on borrowings and rediscounts-OE-BNK
+jppfs_cor:InterestOnShortTermBondsNOE,短期社債利息、営業外費用,Interest on short-term bonds,Interest on short-term bonds-NOE
+jppfs_cor:InterestOnBondsNOE,社債利息、営業外費用,Interest on bonds,Interest on bonds-NOE
+jppfs_cor:InterestOnBondsWithSubscriptionRightsToSharesOEBNK,新株予約権付社債利息、経常費用、銀行業,Interest on bonds with share acquisition rights,Interest on bonds with share acquisition rights - OE - BNK
+jppfs_cor:InterestOnInterestSwapsOEBNK,金利スワップ支払利息、経常費用、銀行業,Interest on interest swaps,Interest on interest swaps-OE-BNK
+jppfs_cor:InterestOnDebenturesBNK,債券利息、銀行業,Interest on debentures,Interest on debentures-BNK
+jppfs_cor:OtherInterestExpensesOEBNK,その他の支払利息、経常費用、銀行業,Other interest expenses,Other interest expenses-OE-BNK
+jppfs_cor:FeesAndCommissionsPaymentsOEBNK,役務取引等費用、経常費用、銀行業,Fees and commissions payments,Fees and commissions payments-OE-BNK
+jppfs_cor:FeesAndCommissionsOnDomesticAndForeignExchangesOEBNK,支払為替手数料、経常費用、銀行業,Fees and commissions on domestic and foreign exchanges,Fees and commissions on domestic and foreign exchanges-OE-BNK
+jppfs_cor:OtherFeesAndCommissionsOEBNK,その他の役務費用、経常費用、銀行業,Other fees and commissions,Other fees and commissions-OE-BNK
+jppfs_cor:TradingExpensesOEBNK,特定取引費用、経常費用、銀行業,Trading expenses,Trading expenses-OE-BNK
+jppfs_cor:ExpensesOnTradingSecuritiesAndDerivativesOEBNK,商品有価証券費用、経常費用、銀行業,Expenses on trading securities and derivatives,Expenses on trading securities and derivatives-OE-BNK
+jppfs_cor:ExpensesOnSecuritiesAndDerivativesRelatedToTradingTransactionsOEBNK,特定取引有価証券費用、経常費用、銀行業,Expenses on securities and derivatives related to trading transactions,Expenses on securities and derivatives related to trading transactions-OE-BNK
+jppfs_cor:ExpensesOnTradingRelatedFinancialDerivativesTransactionsOEBNK,特定金融派生商品費用、経常費用、銀行業,Expenses on trading-related financial derivatives transactions,Expenses on trading-related financial derivatives transactions-OE-BNK
+jppfs_cor:OtherTradingExpensesOEBNK,その他の特定取引費用、経常費用、銀行業,Other trading expenses,Other trading expenses-OE-BNK
+jppfs_cor:OtherOrdinaryExpensesOEBNK,その他業務費用、経常費用、銀行業,Other ordinary expenses,Other ordinary expenses-OE-BNK
+jppfs_cor:LossOnForeignExchangeTransactionsOEBNK,外国為替売買損、経常費用、銀行業,Loss on foreign exchange transactions,Loss on foreign exchange transactions-OE-BNK
+jppfs_cor:LossOnSalesOfBondsOEBNK,国債等債券売却損、経常費用、銀行業,Loss on sales of bonds,Loss on sales of bonds-OE-BNK
+jppfs_cor:LossOnRedemptionOfBondsOEBNK,国債等債券償還損、経常費用、銀行業,Loss on redemption of bonds,Loss on redemption of bonds-OE-BNK
+jppfs_cor:LossOnDevaluationOfBondsOEBNK,国債等債券償却、経常費用、銀行業,Loss on devaluation of bonds,Loss on devaluation of bonds-OE-BNK
+jppfs_cor:AmortizationOfBondIssuanceCostNOE,社債発行費償却、営業外費用,Amortization of bond issuance cost,Amortization of bond issuance cost-NOE
+jppfs_cor:ExpensesOnDerivativesOtherThanForTradingOrHedgingOEBNK,金融派生商品費用、経常費用、銀行業,Expenses on derivatives other than for trading or hedging,Expenses on derivatives other than for trading or hedging-OE-BNK
+jppfs_cor:AmortizationOfDebentureIssuanceCostOEBNK,債券発行費用償却、経常費用、銀行業,Amortization of debenture issuance cost,Amortization of debenture issuance cost-OE-BNK
+jppfs_cor:AmortizationOfOtherAssetsBNK,その他資産償却、銀行業,Amortization of other assets,Amortization of other assets-BNK
+jppfs_cor:OtherOtherOperatingExpensesOEBNK,その他の業務費用、経常費用、銀行業,Other,Other-other operating expenses-OE-BNK
+jppfs_cor:GeneralAndAdministrativeExpensesOEBNK,営業経費、経常費用、銀行業,General and administrative expenses,General and administrative expenses-OE-BNK
+jppfs_cor:OtherExpensesOEBNK,その他経常費用、経常費用、銀行業,Other expenses,Other expenses-OE-BNK
+jppfs_cor:ProvisionOfAllowanceForLoanLossesOEBNK,貸倒引当金繰入額、経常費用、銀行業,Provision of allowance for loan losses,Provision of allowance for loan losses-OE-BNK
+jppfs_cor:WrittenOffOfLoansOEBNK,貸出金償却、経常費用、銀行業,Written-off of loans,Written-off of loans-OE-BNK
+jppfs_cor:LossesOnSalesOfStocksAndOtherSecuritiesOEBNK,株式等売却損、経常費用、銀行業,Losses on sales of stocks and other securities,Losses on sales of stocks and other securities-OE-BNK
+jppfs_cor:LossesOnDevaluationOfStocksAndOtherSecuritiesOEBNK,株式等償却、経常費用、銀行業,Losses on devaluation of stocks and other securities,Losses on devaluation of stocks and other securities-OE-BNK
+jppfs_cor:LossOnMoneyHeldInTrustOEBNK,金銭の信託運用損、経常費用、銀行業,Loss on money held in trust,Loss on money held in trust-OE-BNK
+jppfs_cor:ProvisionOfAllowanceForInvestmentLossOEBNK,投資損失引当金繰入額、経常費用、銀行業,Provision of allowance for investment loss,Provision of allowance for investment loss-OE-BNK
+jppfs_cor:OtherOtherExpensesOEBNK,その他の経常費用、経常費用、銀行業,Other,Other-other expenses-OE-BNK
+jppfs_cor:OrdinaryIncome,経常利益又は経常損失（△）,Ordinary profit (loss),Ordinary profit (loss)
+jppfs_cor:ExtraordinaryIncome,特別利益,Extraordinary income,Extraordinary income
+jppfs_cor:GainOnDisposalOfNoncurrentAssetsEI,固定資産処分益、特別利益,Gain on disposal of non-current assets,Gain on disposal of non-current assets-EI
+jppfs_cor:GainOnNegativeGoodwillEI,負ののれん発生益、特別利益,Gain on bargain purchase,Gain on bargain purchase-EI
+jppfs_cor:TransferFromReserveForFinancialProductsTransactionLiabilitiesEIBNK,金融商品取引責任準備金取崩額、特別利益、銀行業,Transfer from reserve for financial products transaction liabilities,Transfer from reserve for financial products transaction liabilities-EI-BNK
+jppfs_cor:ReversalOfAllowanceForInvestmentLossEIBNK,投資損失引当金戻入益、特別利益、銀行業,Reversal of allowance for investment loss,Reversal of allowance for investment loss-EI-BNK
+jppfs_cor:OtherEI,その他、特別利益,Other,Other-EI
+jppfs_cor:ExtraordinaryLoss,特別損失,Extraordinary losses,Extraordinary losses
+jppfs_cor:LossOnDisposalOfNoncurrentAssetsEL,固定資産処分損、特別損失,Loss on disposal of non-current assets,Loss on disposal of non-current assets-EL
+jppfs_cor:ImpairmentLossEL,減損損失、特別損失,Impairment loss,Impairment loss-EL
+jppfs_cor:TransferToReserveForFinancialProductsTransactionLiabilitiesELBNK,金融商品取引責任準備金繰入額、特別損失、銀行業,Transfer to reserve for financial products transaction liabilities,Transfer to reserve for financial products transaction liabilities-EL-BNK
+jppfs_cor:OtherEL,その他、特別損失,Other,Other-EL
+jppfs_cor:IncomeBeforeIncomeTaxes,税引前当期純利益又は税引前当期純損失（△）,Profit (loss) before income taxes,Profit (loss) before income taxes
+jppfs_cor:IncomeTaxes,法人税等,Income taxes,Income taxes
+jppfs_cor:IncomeTaxesCurrent,法人税、住民税及び事業税,Income taxes - current,Income taxes-current
+jppfs_cor:IncomeTaxesDeferred,法人税等調整額,Income taxes - deferred,Income taxes-deferred
+jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
+jppfs_cor:ProfitLossAttributableToNonControllingInterests,非支配株主に帰属する当期純利益又は非支配株主に帰属する当期純損失（△）,Profit (loss) attributable to non-controlling interests,Profit (loss) attributable to non-controlling interests
+jppfs_cor:ProfitLossAttributableToOwnersOfParent,親会社株主に帰属する当期純利益又は親会社株主に帰属する当期純損失（△）,Profit (loss) attributable to owners of parent,Profit (loss) attributable to owners of parent
+nan,,,
+nan,,,
+名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:StatementOfChangesInEquityAbstract,株主資本等変動計算書 [タイトル項目],Statement of changes in equity,Statement of changes in equity [abstract]
+jppfs_cor:StatementOfChangesInEquityTable,株主資本等変動計算書 [表],Statement of changes in equity,Statement of changes in equity [table]
+jppfs_cor:ComponentsOfEquityAxis,純資産の内訳項目 [軸],Components of equity,Components of equity [axis]
+jppfs_cor:NetAssetsMember,純資産 [メンバー],Net assets,Net assets [member]
+jppfs_cor:ShareholdersEquityMember,株主資本 [メンバー],Shareholders' equity,Shareholders' equity [member]
+jppfs_cor:CapitalStockMember,資本金 [メンバー],Capital stock,Capital stock [member]
+jppfs_cor:CapitalSurplusMember,資本剰余金 [メンバー],Capital surplus,Capital surplus [member]
+jppfs_cor:LegalCapitalSurplusMember,資本準備金 [メンバー],Legal capital surplus,Legal capital surplus [member]
+jppfs_cor:OtherCapitalSurplusMember,その他資本剰余金 [メンバー],Other capital surplus,Other capital surplus [member]
+jppfs_cor:RetainedEarningsMember,利益剰余金 [メンバー],Retained earnings,Retained earnings [member]
+jppfs_cor:LegalRetainedEarningsMember,利益準備金 [メンバー],Legal retained earnings,Legal retained earnings [member]
+jppfs_cor:OtherRetainedEarningsMember,その他利益剰余金 [メンバー],Other retained earnings,Other retained earnings [member]
+jppfs_cor:RetainedEarningsBroughtForwardMember,繰越利益剰余金 [メンバー],Retained earnings brought forward,Retained earnings brought forward [member]
+jppfs_cor:TreasuryStockMember,自己株式 [メンバー],Treasury shares,Treasury shares [member]
+jppfs_cor:ValuationAndTranslationAdjustmentsMember,評価・換算差額等 [メンバー],Valuation and translation adjustments,Valuation and translation adjustments [member]
+jppfs_cor:ValuationDifferenceOnAvailableForSaleSecuritiesMember,その他有価証券評価差額金 [メンバー],Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities [member]
+jppfs_cor:DeferredGainsOrLossesOnHedgesMember,繰延ヘッジ損益 [メンバー],Deferred gains or losses on hedges,Deferred gains or losses on hedges [member]
+jppfs_cor:RevaluationReserveForLandMember,土地再評価差額金 [メンバー],Revaluation reserve for land,Revaluation reserve for land [member]
+jppfs_cor:ForeignCurrencyTranslationAdjustmentMember,為替換算調整勘定 [メンバー],Foreign currency translation adjustment,Foreign currency translation adjustment [member]
+jppfs_cor:SubscriptionRightsToSharesMember,新株予約権 [メンバー],Share acquisition rights,Share acquisition rights [member]
+jppfs_cor:NonControllingInterestsMember,非支配株主持分 [メンバー],Non-controlling interests,Non-controlling interests [member]
+jppfs_cor:StatementOfChangesInEquityLineItems,株主資本等変動計算書 [表示項目],Statement of changes in equity,Statement of changes in equity [line items]
+jppfs_cor:NetAssets,純資産,Net assets,Net assets
+jppfs_cor:ChangesOfItemsDuringThePeriodAbstract,当期変動額 [タイトル項目],Changes of items during period,Changes of items during period [abstract]
+jppfs_cor:IssuanceOfNewShares,新株の発行,Issuance of new shares,Issuance of new shares
+jppfs_cor:DividendsFromSurplus,剰余金の配当,Dividends of surplus,Dividends of surplus
+jppfs_cor:ProfitLossAttributableToOwnersOfParent,親会社株主に帰属する当期純利益又は親会社株主に帰属する当期純損失（△）,Profit (loss) attributable to owners of parent,Profit (loss) attributable to owners of parent
+jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
+jppfs_cor:DisposalOfTreasuryStock,自己株式の処分,Disposal of treasury shares,Disposal of treasury shares
+jppfs_cor:NetChangesOfItemsOtherThanShareholdersEquity,株主資本以外の項目の当期変動額（純額）,Net changes of items other than shareholders' equity,Net changes of items other than shareholders' equity
+jppfs_cor:TotalChangesOfItemsDuringThePeriod,当期変動額合計,Total changes of items during period,Total changes of items during period
+nan,,,
+nan,,,
+名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:StatementOfCashFlowsAbstract,キャッシュ・フロー計算書 [タイトル項目],Statement of cash flows,Statement of cash flows [abstract]
+jppfs_cor:StatementOfCashFlowsTable,キャッシュ・フロー計算書 [表],Statement of cash flows,Statement of cash flows [table]
+jppfs_cor:StatementOfCashFlowsLineItems,キャッシュ・フロー計算書 [表示項目],Statement of cash flows,Statement of cash flows [line items]
+jppfs_cor:NetCashProvidedByUsedInOperatingActivitiesAbstract,営業活動によるキャッシュ・フロー [タイトル項目],Cash flows from operating activities,Cash flows from operating activities [abstract]
+jppfs_cor:SubtotalOpeCF,小計、営業活動によるキャッシュ・フロー,Subtotal,Subtotal-OpeCF
+jppfs_cor:CollectionOfLoansReceivableOpeCFBNK,貸付金回収による収入、営業活動によるキャッシュ・フロー、銀行業,Collection of loans receivable,Collection of loans receivable-OpeCF-BNK
+jppfs_cor:PaymentsForWithdrawalOfDepositsOpeCFBNK,預金払出による支出、営業活動によるキャッシュ・フロー、銀行業,Payments for withdrawal of deposits,Payments for withdrawal of deposits-OpeCF-BNK
+jppfs_cor:ProceedsFromInterestOnLoansOpeCFBNK,貸付金利息収入、営業活動によるキャッシュ・フロー、銀行業,Proceeds from interest on loans,Proceeds from interest on loans-OpeCF-BNK
+jppfs_cor:PaymentsForInterestExpensesForDepositOpeCFBNK,預金利息支出、営業活動によるキャッシュ・フロー、銀行業,Payments for interest expenses for deposit,Payments for interest expenses for deposit-OpeCF-BNK
+jppfs_cor:PaymentsForOrdinaryExpensesOpeCFBNK,営業経費支出、営業活動によるキャッシュ・フロー、銀行業,Payments for ordinary expenses,Payments for ordinary expenses-OpeCF-BNK
+jppfs_cor:IncomeBeforeIncomeTaxes,税引前当期純利益又は税引前当期純損失（△）,Profit (loss) before income taxes,Profit (loss) before income taxes
+jppfs_cor:DepreciationAndAmortizationOpeCF,減価償却費、営業活動によるキャッシュ・フロー,Depreciation,Depreciation-OpeCF
+jppfs_cor:ImpairmentLossOpeCF,減損損失、営業活動によるキャッシュ・フロー,Impairment loss,Impairment loss-OpeCF
+jppfs_cor:IncreaseDecreaseInAllowanceForLoanLossesOpeCFBNK,貸倒引当金の増減（△）、営業活動によるキャッシュ・フロー、銀行業,Increase (decrease) in allowance for loan losses,Increase (decrease) in allowance for loan losses-OpeCF-BNK
+jppfs_cor:GainOnFundManagementOpeCFBNK,資金運用収益、営業活動によるキャッシュ・フロー、銀行業,Gain on fund management,Gain on fund management-OpeCF-BNK
+jppfs_cor:FinancingExpensesOpeCFBNK,資金調達費用、営業活動によるキャッシュ・フロー、銀行業,Financing expenses,Financing expenses-OpeCF-BNK
+jppfs_cor:LossGainRelatedToSecuritiesOpeCFBNK,有価証券関係損益（△）、営業活動によるキャッシュ・フロー、銀行業,Loss (gain) related to securities,Loss (gain) related to securities-OpeCF-BNK
+jppfs_cor:NetDecreaseIncreaseInLoansAndBillsDiscountedOpeCFBNK,貸出金の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in loans and bills discounted,Net decrease (increase) in loans and bills discounted-OpeCF-BNK
+jppfs_cor:NetIncreaseDecreaseInDepositOpeCFBNK,預金の純増減（△）、営業活動によるキャッシュ・フロー、銀行業,Net increase (decrease) in deposit,Net increase (decrease) in deposit-OpeCF-BNK
+jppfs_cor:IncreaseDecreaseInProvisionForReimbursementOfDepositsOpeCFBNK,睡眠預金払戻損失引当金の増減（△）、営業活動によるキャッシュ・フロー、銀行業,Increase (decrease) in provision for reimbursement of deposits,Increase (decrease) in provision for reimbursement of deposits-OpeCF-BNK
+jppfs_cor:ProceedsFromFundManagementOpeCFBNK,資金運用による収入、営業活動によるキャッシュ・フロー、銀行業,Proceeds from fund management,Proceeds from fund management-OpeCF-BNK
+jppfs_cor:PaymentsForFinanceOpeCFBNK,資金調達による支出、営業活動によるキャッシュ・フロー、銀行業,Payments for finance,Payments for finance-OpeCF-BNK
+jppfs_cor:NetDecreaseIncreaseInTradingAccountSecuritiesOpeCFBNK,商品有価証券の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in trading account securities,Net decrease (increase) in trading account securities-OpeCF-BNK
+jppfs_cor:NetIncreaseDecreaseInCommercialPapersOpeCFBNK,コマーシャル・ペーパーの純増減（△）、営業活動によるキャッシュ・フロー、銀行業,Net increase (decrease) in commercial papers,Net increase (decrease) in commercial papers-OpeCF-BNK
+jppfs_cor:NetIncreaseDecreaseInCallMoneyOpeCFBNK,コールマネー等の純増減（△）、営業活動によるキャッシュ・フロー、銀行業,Net increase (decrease) in call money,Net increase (decrease) in call money-OpeCF-BNK
+jppfs_cor:NetDecreaseIncreaseInCallLoansOpeCFBNK,コールローン等の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in call loans,Net decrease (increase) in call loans-OpeCF-BNK
+jppfs_cor:NetDecreaseIncreaseInForeignExchangesAssetsOpeCFBNK,外国為替（資産）の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in foreign exchanges - assets,Net decrease (increase) in foreign exchanges-assets-OpeCF-BNK
+jppfs_cor:NetIncreaseDecreaseInForeignExchangesLiabilitiesOpeCFBNK,外国為替（負債）の純増減（△）、営業活動によるキャッシュ・フロー、銀行業,Net increase (decrease) in foreign exchanges - liabilities,Net increase (decrease) in foreign exchanges-liabilities-OpeCF-BNK
+jppfs_cor:LossGainOnMoneyHeldInTrustOpeCFBNK,金銭の信託の運用損益（△は運用益）、営業活動によるキャッシュ・フロー、銀行業,Loss (gain) on money held in trust,Loss (gain) on money held in trust-OpeCF-BNK
+jppfs_cor:NetDecreaseIncreaseInMoneyHeldInTrustOpeCFBNK,金銭の信託の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in money held in trust,Net decrease (increase) in money held in trust-OpeCF-BNK
+jppfs_cor:NetIncreaseDecreaseInDebenturesOpeCFBNK,債券の純増減（△）、営業活動によるキャッシュ・フロー、銀行業,Net increase (decrease) in debentures,Net increase (decrease) in debentures-OpeCF-BNK
+jppfs_cor:NetIncreaseDecreaseInPayablesUnderSecuritiesLendingTransactionsOpeCFBNK,債券貸借取引受入担保金の純増減（△）、営業活動によるキャッシュ・フロー、銀行業,Net increase (decrease) in payables under securities lending transactions,Net increase (decrease) in payables under securities lending transactions-OpeCF-BNK
+jppfs_cor:NetIncreaseDecreaseInBorrowedMoneyExcludingSubordinatedBorrowingsOpeCFBNK,借用金（劣後特約付借入金を除く）の純増減（△）、営業活動によるキャッシュ・フロー、銀行業,Net increase (decrease) in borrowed money (excluding subordinated borrowings),Net increase (decrease) in borrowed money (excluding subordinated borrowings)-OpeCF-BNK
+jppfs_cor:NetIncreaseDecreaseInBorrowedMoneyOpeCFBNK,借用金の純増減（△）、営業活動によるキャッシュ・フロー、銀行業,Net increase (decrease) in borrowed money,Net increase (decrease) in borrowed money-OpeCF-BNK
+jppfs_cor:NetIncreaseDecreaseInNegotiableCertificatesOfDepositOpeCFBNK,譲渡性預金の純増減（△）、営業活動によるキャッシュ・フロー、銀行業,Net increase (decrease) in negotiable certificates of deposit,Net increase (decrease) in negotiable certificates of deposit-OpeCF-BNK
+jppfs_cor:NetIncreaseDecreaseInBorrowedMoneyFromTrustAccountOpeCFBNK,信託勘定借の純増減（△）、営業活動によるキャッシュ・フロー、銀行業,Net increase (decrease) in borrowed money from trust account,Net increase (decrease) in borrowed money from trust account-OpeCF-BNK
+jppfs_cor:IncreaseDecreaseInProvisionForTrustCapitalFillingOpeCFBNK,信託元本補填引当金の増減（△）、営業活動によるキャッシュ・フロー、銀行業,Increase (decrease) in provision for trust capital filling,Increase (decrease) in provision for trust capital filling-OpeCF-BNK
+jppfs_cor:IncreaseDecreaseInProvisionForPossibleLossOnSupportOfSpecificBorrowersOpeCFBNK,特定債務者支援引当金の増減（△）、営業活動によるキャッシュ・フロー、銀行業,Increase (decrease) in provision for possible loss on support of specific borrowers,Increase (decrease) in provision for possible loss on support of specific borrowers-OpeCF-BNK
+jppfs_cor:IncreaseDecreaseInProvisionForContingentLossOpeCFBNK,偶発損失引当金の増減（△）、営業活動によるキャッシュ・フロー、銀行業,Increase (decrease) in provision for contingent loss,Increase (decrease) in provision for contingent loss-OpeCF-BNK
+jppfs_cor:NetDecreaseIncreaseInTradingAssetsOpeCFBNK,特定取引資産の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in trading assets,Net decrease (increase) in trading assets-OpeCF-BNK
+jppfs_cor:NetIncreaseDecreaseInTradingLiabilitiesOpeCFBNK,特定取引負債の純増減（△）、営業活動によるキャッシュ・フロー、銀行業,Net increase (decrease) in trading liabilities,Net increase (decrease) in trading liabilities-OpeCF-BNK
+jppfs_cor:NetIncreaseDecreaseInTradingAccountsPayableOpeCFBNK,特定取引未払金の純増減（△）、営業活動によるキャッシュ・フロー、銀行業,Net increase (decrease) in trading accounts payable,Net increase (decrease) in trading accounts payable-OpeCF-BNK
+jppfs_cor:NetDecreaseIncreaseInMonetaryClaimsBoughtOpeCFBNK,買入金銭債権の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in monetary claims bought,Net decrease (increase) in monetary claims bought-OpeCF-BNK
+jppfs_cor:IncreaseDecreaseInStraightBondsIssuanceAndRedemptionOpeCFBNK,普通社債発行及び償還による増減（△）、営業活動によるキャッシュ・フロー、銀行業,Increase (decrease) in straight bonds - issuance and redemption,Increase (decrease) in straight bonds-issuance and redemption-OpeCF-BNK
+jppfs_cor:AdjustmentOfUnsettledTradingAccountsOpeCFBNK,約定済未決済特定取引調整額、営業活動によるキャッシュ・フロー、銀行業,Adjustment of unsettled trading accounts,Adjustment of unsettled trading accounts-OpeCF-BNK
+jppfs_cor:NetDecreaseIncreaseInInterestBearingDepositOpeCFBNK,有利息預け金の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in interest-bearing deposit,Net decrease (increase) in interest-bearing deposit-OpeCF-BNK
+jppfs_cor:NetDecreaseIncreaseInDepositExcludingCashEquivalentOpeCFBNK,預け金（現金同等物を除く）の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in deposit (excluding cash equivalent),Net decrease (increase) in deposit (excluding cash equivalent)-OpeCF-BNK
+jppfs_cor:NetDecreaseIncreaseInDepositExcludingDepositPaidToBankOfJapanOpeCFBNK,預け金（日銀預け金を除く）の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in deposit (excluding deposit paid to Bank of Japan),Net decrease (increase) in deposit (excluding deposit paid to Bank of Japan)-OpeCF-BNK
+jppfs_cor:NetDecreaseIncreaseInDepositOpeCFBNK,預け金の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in deposit,Net decrease (increase) in deposit-OpeCF-BNK
+jppfs_cor:NetDecreaseIncreaseInReceivablesUnderSecuritiesBorrowingTransactionsOpeCFBNK,債券貸借取引支払保証金の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in receivables under securities borrowing transactions,Net decrease (increase) in receivables under securities borrowing transactions-OpeCF-BNK
+jppfs_cor:NetIncreaseDecreaseInShortTermCorporateBondsOpeCFBNK,短期社債（負債）の純増減（△）、営業活動によるキャッシュ・フロー、銀行業,Net increase (decrease) in short-term corporate bonds,Net increase (decrease) in short-term corporate bonds-OpeCF-BNK
+jppfs_cor:NetDecreaseIncreaseInSecuritiesTradingOpeCFBNK,売買目的有価証券の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in securities - trading,Net decrease (increase) in securities-trading-OpeCF-BNK
+jppfs_cor:NetDecreaseIncreaseInDepositOver3MonthsOpeCFBNK,預け金（預入期間三ヶ月超）の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in deposit (over 3 months),Net decrease (increase) in deposit (over 3 months)-OpeCF-BNK
+jppfs_cor:NetDecreaseIncreaseInLeaseReceivablesAndInvestmentAssetsOpeCFBNK,リース債権及びリース投資資産の純増（△）減、営業活動によるキャッシュ・フロー、銀行業,Net decrease (increase) in lease receivables and investment assets,Net decrease (increase) in lease receivables and investment assets-OpeCF-BNK
+jppfs_cor:IncomeTaxesPaidOpeCF,法人税等の支払額、営業活動によるキャッシュ・フロー,Income taxes paid,Income taxes paid-OpeCF
+jppfs_cor:NetCashProvidedByUsedInOperatingActivities,営業活動によるキャッシュ・フロー,Net cash provided by (used in) operating activities,Net cash provided by (used in) operating activities
+jppfs_cor:NetCashProvidedByUsedInInvestmentActivitiesAbstract,投資活動によるキャッシュ・フロー [タイトル項目],Cash flows from investing activities,Cash flows from investing activities [abstract]
+jppfs_cor:PurchaseOfSecuritiesInvCFBNK,有価証券の取得による支出、投資活動によるキャッシュ・フロー、銀行業,Purchase of securities,Purchase of securities-InvCF-BNK
+jppfs_cor:ProceedsFromSalesOfSecuritiesInvCFBNK,有価証券の売却による収入、投資活動によるキャッシュ・フロー、銀行業,Proceeds from sales of securities,Proceeds from sales of securities-InvCF-BNK
+jppfs_cor:PurchaseOfPropertyPlantAndEquipmentInvCF,有形固定資産の取得による支出、投資活動によるキャッシュ・フロー,"Purchase of property, plant and equipment","Purchase of property, plant and equipment-InvCF"
+jppfs_cor:ProceedsFromSalesOfPropertyPlantAndEquipmentInvCF,有形固定資産の売却による収入、投資活動によるキャッシュ・フロー,"Proceeds from sales of property, plant and equipment","Proceeds from sales of property, plant and equipment-InvCF"
+jppfs_cor:DecreaseInMoneyHeldInTrustInvCFBNK,金銭の信託の減少による収入、投資活動によるキャッシュ・フロー、銀行業,Decrease in money held in trust,Decrease in money held in trust-InvCF-BNK
+jppfs_cor:IncreaseInMoneyHeldInTrustInvCFBNK,金銭の信託の増加による支出、投資活動によるキャッシュ・フロー、銀行業,Increase in money held in trust,Increase in money held in trust-InvCF-BNK
+jppfs_cor:ProceedsFromFundManagementAsInvestmentActivitiesInvCFBNK,投資活動としての資金運用による収入、投資活動によるキャッシュ・フロー、銀行業,Proceeds from fund management as investing activities,Proceeds from fund management as investing activities-InvCF-BNK
+jppfs_cor:PaymentsForMoneyHeldInTrustInvCFBNK,金銭の信託の設定による支出、投資活動によるキャッシュ・フロー、銀行業,Payments for money held in trust,Payments for money held in trust-InvCF-BNK
+jppfs_cor:ProceedsFromCancellationAndDividendsOfMoneyHeldInTrustInvCFBNK,金銭の信託の解約及び配当による収入、投資活動によるキャッシュ・フロー、銀行業,Proceeds from cancellation and dividends of money held in trust,Proceeds from cancellation and dividends of money held in trust-InvCF-BNK
+jppfs_cor:ProceedsFromRedemptionOfSecuritiesInvCFBNK,有価証券の償還による収入、投資活動によるキャッシュ・フロー、銀行業,Proceeds from redemption of securities,Proceeds from redemption of securities-InvCF-BNK
+jppfs_cor:NetCashProvidedByUsedInInvestmentActivities,投資活動によるキャッシュ・フロー,Net cash provided by (used in) investing activities,Net cash provided by (used in) investing activities
+jppfs_cor:NetCashProvidedByUsedInFinancingActivitiesAbstract,財務活動によるキャッシュ・フロー [タイトル項目],Cash flows from financing activities,Cash flows from financing activities [abstract]
+jppfs_cor:ProceedsFromIssuanceOfCommonStockFinCF,株式の発行による収入、財務活動によるキャッシュ・フロー,Proceeds from issuance of common shares,Proceeds from issuance of common shares-FinCF
+jppfs_cor:PurchaseOfTreasuryStockFinCF,自己株式の取得による支出、財務活動によるキャッシュ・フロー,Purchase of treasury shares,Purchase of treasury shares-FinCF
+jppfs_cor:CashDividendsPaidFinCF,配当金の支払額、財務活動によるキャッシュ・フロー,Cash dividends paid,Cash dividends paid-FinCF
+jppfs_cor:DividendsPaidToNonControllingInterestsFinCF,非支配株主への配当金の支払額、財務活動によるキャッシュ・フロー,Dividends paid to non-controlling interests,Dividends paid to non-controlling interests-FinCF
+jppfs_cor:PaymentsFromChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInChangeInScopeOfConsolidationFinCF,連結の範囲の変更を伴わない子会社株式の取得による支出、財務活動によるキャッシュ・フロー,Payments from changes in ownership interests in subsidiaries that do not result in change in scope of consolidation,Payments from changes in ownership interests in subsidiaries that do not result in change in scope of consolidation-FinCF
+jppfs_cor:ProceedsFromChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInChangeInScopeOfConsolidationFinCF,連結の範囲の変更を伴わない子会社株式の売却による収入、財務活動によるキャッシュ・フロー,Proceeds from changes in ownership interests in subsidiaries that do not result in change in scope of consolidation,Proceeds from changes in ownership interests in subsidiaries that do not result in change in scope of consolidation-FinCF
+jppfs_cor:PaymentsAsFinancingActivitiesFinCFBNK,財務活動としての資金調達による支出、財務活動によるキャッシュ・フロー、銀行業,Payments as financing activities,Payments as financing activities-FinCF-BNK
+jppfs_cor:RedemptionOfSubordinatedBondsFinCFBNK,劣後特約付社債の償還による支出、財務活動によるキャッシュ・フロー、銀行業,Redemption of subordinated bonds,Redemption of subordinated bonds-FinCF-BNK
+jppfs_cor:IssuanceOfSubordinatedBondsFinCFBNK,劣後特約付社債の発行による収入、財務活動によるキャッシュ・フロー、銀行業,Issuance of subordinated bonds,Issuance of subordinated bonds-FinCF-BNK
+jppfs_cor:IncreaseInSubordinatedBorrowingsFinCFBNK,劣後特約付借入れによる収入、財務活動によるキャッシュ・フロー、銀行業,Increase in subordinated borrowings,Increase in subordinated borrowings-FinCF-BNK
+jppfs_cor:DecreaseInSubordinatedBorrowingsFinCFBNK,劣後特約付借入金の返済による支出、財務活動によるキャッシュ・フロー、銀行業,Decrease in subordinated borrowings,Decrease in subordinated borrowings-FinCF-BNK
+jppfs_cor:ProceedsFromIssuanceOfSubordinatedBondsAndBondsWithSubscriptionRightsToSharesFinCFBNK,劣後特約付社債及び新株予約権付社債の発行による収入、財務活動によるキャッシュ・フロー、銀行業,Proceeds from issuance of subordinated bonds and bonds with share acquisition rights,Proceeds from issuance of subordinated bonds and bonds with share acquisition rights - FinCF - BNK
+jppfs_cor:PaymentsForRedemptionSubordinatedBondsAndBondsWithSubscriptionRightsToSharesFinCFBNK,劣後特約付社債及び新株予約権付社債の償還による支出、財務活動によるキャッシュ・フロー、銀行業,Payments for redemption subordinated bonds and bonds with share acquisition rights,Payments for redemption subordinated bonds and bonds with share acquisition rights - FinCF - BNK
+jppfs_cor:NetCashProvidedByUsedInFinancingActivities,財務活動によるキャッシュ・フロー,Net cash provided by (used in) financing activities,Net cash provided by (used in) financing activities
+jppfs_cor:EffectOfExchangeRateChangeOnCashAndCashEquivalents,現金及び現金同等物に係る換算差額,Effect of exchange rate change on cash and cash equivalents,Effect of exchange rate change on cash and cash equivalents
+jppfs_cor:NetIncreaseDecreaseInCashAndCashEquivalents,現金及び現金同等物の増減額（△は減少）,Net increase (decrease) in cash and cash equivalents,Net increase (decrease) in cash and cash equivalents
+jppfs_cor:CashAndCashEquivalents,現金及び現金同等物の残高,Cash and cash equivalents,Cash and cash equivalents

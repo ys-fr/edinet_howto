@@ -1,398 +1,398 @@
-,タクソノミ,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
-0,jppfs_cor:BalanceSheetAbstract,貸借対照表 [タイトル項目],Balance sheet,Balance sheet [abstract]
-1,jppfs_cor:BalanceSheetTable,貸借対照表 [表],Balance sheet,Balance sheet [table]
-2,jppfs_cor:BalanceSheetLineItems,貸借対照表 [表示項目],Balance sheet,Balance sheet [line items]
-3,jppfs_cor:AssetsAbstract,資産の部 [タイトル項目],Assets,Assets [abstract]
-4,jppfs_cor:CurrentAssetsAbstract,流動資産 [タイトル項目],Current assets,Current assets [abstract]
-5,jppfs_cor:CashAndDeposits,現金及び預金,Cash and deposits,Cash and deposits
-6,jppfs_cor:NotesReceivableTrade,受取手形,Notes receivable - trade,Notes receivable-trade
-7,jppfs_cor:OperatingAccountsReceivableOfHighwayBusinessCAHWY,高速道路事業営業未収入金、流動資産、高速道路事業,Operating accounts receivable of highway business,Operating accounts receivable of highway business-CA-HWY
-8,jppfs_cor:AccountsReceivableOther,未収入金,Accounts receivable - other,Accounts receivable-other
-9,jppfs_cor:AccruedIncome,未収収益,Accrued income,Accrued income
-10,jppfs_cor:ShortTermLoansReceivable,短期貸付金,Short-term loans receivable,Short-term loans receivable
-11,jppfs_cor:ShortTermInvestmentSecurities,有価証券,Securities,Securities
-12,jppfs_cor:Inventories,たな卸資産,Inventories,Inventories
-13,jppfs_cor:HighwayAssetsInProcessCAHWY,仕掛道路資産、流動資産、高速道路事業,Highway assets in process,Highway assets in process-CA-HWY
-14,jppfs_cor:RawMaterials,原材料,Raw materials,Raw materials
-15,jppfs_cor:Supplies,貯蔵品,Supplies,Supplies
-16,jppfs_cor:OtherInventories,その他のたな卸資産,Other inventories,Other inventories
-17,jppfs_cor:AdvancePaymentsForHighwayManagementHWY,高速道路事業受託業務前払金、流動資産、高速道路事業,Advance payments for highway management,Advance payments for highway management-HWY
-18,jppfs_cor:AdvancePaymentsForManagementCAHWY,受託業務前払金、流動資産、高速道路事業,Advance payments for management,Advance payments for management-CA-HWY
-19,jppfs_cor:AdvancePaymentsCAHWY,前払金、流動資産、高速道路事業,Advance payments,Advance payments-CA-HWY
-20,jppfs_cor:PrepaidExpenses,前払費用,Prepaid expenses,Prepaid expenses
-21,jppfs_cor:DeferredTaxAssetsCA,繰延税金資産、流動資産,Deferred tax assets,Deferred tax assets-CA
-22,jppfs_cor:OtherCA,その他、流動資産,Other,Other-CA
-23,jppfs_cor:AllowanceForDoubtfulAccountsCA,貸倒引当金、流動資産、一括控除,Allowance for doubtful accounts,Allowance for doubtful accounts-CA-by group
-24,jppfs_cor:CurrentAssets,流動資産,Current assets,Current assets
-25,jppfs_cor:NoncurrentAssetsAbstract,固定資産 [タイトル項目],Non-current assets,Non-current assets [abstract]
-26,jppfs_cor:NoncurrentAssetsHighwayBusinessNCAAbstractHWY,高速道路事業固定資産、高速道路事業 [タイトル項目],Non-current assets - highway business,Non-current assets - highway business-NCA-HWY [abstract]
-27,jppfs_cor:PropertyPlantAndEquipmentHighwayBusinessNCAAbstractHWY,有形固定資産、高速道路事業固定資産、高速道路事業 [タイトル項目],"Property, plant and equipment","Property, plant and equipment-highway business-NCA-HWY [abstract]"
-28,jppfs_cor:BuildingsHighwayBusinessNCAHWY,建物、高速道路事業固定資産、高速道路事業,Buildings,Buildings-highway business-NCA-HWY
-29,jppfs_cor:AccumulatedDepreciationBuildingHighwayBusinessNCAHWY,減価償却累計額、建物、高速道路事業固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-building-highway business-NCA-HWY
-30,jppfs_cor:AccumulatedImpairmentLossBuildingsHighwayBusinessNCAHWY,減損損失累計額、建物、高速道路事業固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-buildings-highway business-NCA-HWY
-31,jppfs_cor:AccumulatedDepreciationAndImpairmentLossBuildingsHighwayBusinessNCAHWY,減価償却累計額及び減損損失累計額、建物、高速道路事業固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-buildings-highway business-NCA-HWY
-32,jppfs_cor:BuildingsNetHighwayBusinessNCAHWY,建物（純額）、高速道路事業固定資産、高速道路事業,"Buildings, net","Buildings, net-highway business-NCA-HWY"
-33,jppfs_cor:StructuresHighwayBusinessNCAHWY,構築物、高速道路事業固定資産、高速道路事業,Structures,Structures-highway business-NCA-HWY
-34,jppfs_cor:AccumulatedDepreciationStructuresHighwayBusinessNCAHWY,減価償却累計額、構築物、高速道路事業固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-structures-highway business-NCA-HWY
-35,jppfs_cor:AccumulatedImpairmentLossStructuresHighwayBusinessNCAHWY,減損損失累計額、構築物、高速道路事業固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-structures-highway business-NCA-HWY
-36,jppfs_cor:AccumulatedDepreciationAndImpairmentLossStructuresHighwayBusinessNCAHWY,減価償却累計額及び減損損失累計額、構築物、高速道路事業固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-structures-highway business-NCA-HWY
-37,jppfs_cor:StructuresNetHighwayBusinessNCAHWY,構築物（純額）、高速道路事業固定資産、高速道路事業,"Structures, net","Structures, net-highway business-NCA-HWY"
-38,jppfs_cor:MachineryAndEquipmentHighwayBusinessNCAHWY,機械及び装置、高速道路事業固定資産、高速道路事業,Machinery and equipment,Machinery and equipment-highway business-NCA-HWY
-39,jppfs_cor:AccumulatedDepreciationMachineryAndEquipmentHighwayBusinessNCAHWY,減価償却累計額、機械及び装置、高速道路事業固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-machinery and equipment-highway business-NCA-HWY
-40,jppfs_cor:AccumulatedImpairmentLossMachineryAndEquipmentHighwayBusinessNCAHWY,減損損失累計額、機械及び装置、高速道路事業固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-machinery and equipment-highway business-NCA-HWY
-41,jppfs_cor:AccumulatedDepreciationAndImpairmentLossMachineryAndEquipmentHighwayBusinessNCAHWY,減価償却累計額及び減損損失累計額、機械及び装置、高速道路事業固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-machinery and equipment-highway business-NCA-HWY
-42,jppfs_cor:MachineryAndEquipmentNetHighwayBusinessNCAHWY,機械及び装置（純額）、高速道路事業固定資産、高速道路事業,"Machinery and equipment, net","Machinery and equipment, net-highway business-NCA-HWY"
-43,jppfs_cor:VehiclesHighwayBusinessNCAHWY,車両運搬具、高速道路事業固定資産、高速道路事業,Vehicles,Vehicles-highway business-NCA-HWY
-44,jppfs_cor:AccumulatedDepreciationVehiclesHighwayBusinessNCAHWY,減価償却累計額、車両運搬具、高速道路事業固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-vehicles-highway business-NCA-HWY
-45,jppfs_cor:AccumulatedImpairmentLossVehiclesHighwayBusinessNCAHWY,減損損失累計額、車両運搬具、高速道路事業固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-vehicles-highway business-NCA-HWY
-46,jppfs_cor:AccumulatedDepreciationAndImpairmentLossVehiclesHighwayBusinessNCAHWY,減価償却累計額及び減損損失累計額、車両運搬具、高速道路事業固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-vehicles-highway business-NCA-HWY
-47,jppfs_cor:VehiclesNetHighwayBusinessNCAHWY,車両運搬具（純額）、高速道路事業固定資産、高速道路事業,"Vehicles, net","Vehicles, net-highway business-NCA-HWY"
-48,jppfs_cor:ToolsFurnitureAndFixturesHighwayBusinessNCAHWY,工具、器具及び備品、高速道路事業固定資産、高速道路事業,"Tools, furniture and fixtures","Tools, furniture and fixtures-highway business-NCA-HWY"
-49,jppfs_cor:AccumulatedDepreciationToolsFurnitureAndFixturesHighwayBusinessNCAHWY,減価償却累計額、工具、器具及び備品、高速道路事業固定資産、高速道路事業,Accumulated depreciation,"Accumulated depreciation-tools, furniture and fixtures-highway business-NCA-HWY"
-50,jppfs_cor:AccumulatedImpairmentLossToolsFurnitureAndFixturesHighwayBusinessNCAHWY,減損損失累計額、工具、器具及び備品、高速道路事業固定資産、高速道路事業,Accumulated impairment loss,"Accumulated impairment loss-tools, furniture and fixtures-highway business-NCA-HWY"
-51,jppfs_cor:AccumulatedDepreciationAndImpairmentLossToolsFurnitureAndFixturesHighwayBusinessNCAHWY,減価償却累計額及び減損損失累計額、工具、器具及び備品、高速道路事業固定資産、高速道路事業,Accumulated depreciation and impairment loss,"Accumulated depreciation and impairment loss-tools, furniture and fixtures-highway business-NCA-HWY"
-52,jppfs_cor:ToolsFurnitureAndFixturesNetHighwayBusinessNCAHWY,工具、器具及び備品（純額）、高速道路事業固定資産、高速道路事業,"Tools, furniture and fixtures, net","Tools, furniture and fixtures, net-highway business-NCA-HWY"
-53,jppfs_cor:LandHighwayBusinessNCAHWY,土地、高速道路事業固定資産、高速道路事業,Land,Land-highway business-NCA-HWY
-54,jppfs_cor:ConstructionInProgressHighwayBusinessNCAHWY,建設仮勘定、高速道路事業固定資産、高速道路事業,Construction in progress,Construction in progress-highway business-NCA-HWY
-55,jppfs_cor:AccumulatedDepreciationPPEByGroupHighwayBusinessNCAHWY,減価償却累計額、有形固定資産、一括控除、高速道路事業固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-PPE-by group-highway business-NCA-HWY
-56,jppfs_cor:AccumulatedImpairmentLossPPEByGroupHighwayBusinessNCAHWY,減損損失累計額、有形固定資産、一括控除、高速道路事業固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-PPE-by group-highway business-NCA-HWY
-57,jppfs_cor:AccumulatedDepreciationAndImpairmentLossPPEByGroupHighwayBusinessNCAHWY,減価償却累計額及び減損損失累計額、有形固定資産、一括控除、高速道路事業固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-PPE-by group-highway business-NCA-HWY
-58,jppfs_cor:PropertyPlantAndEquipmentHighwayBusinessNCAHWY,有形固定資産、高速道路事業固定資産、高速道路事業,"Property, plant and equipment","Property, plant and equipment-highway business-NCA-HWY"
-59,jppfs_cor:IntangibleAssetsHighwayBusinessNCAAbstractHWY,無形固定資産、高速道路事業固定資産、高速道路事業 [タイトル項目],Intangible assets,Intangible assets-highway business-NCA-HWY [abstract]
-60,jppfs_cor:IntangibleAssetsHighwayBusinessNCAHWY,無形固定資産、高速道路事業固定資産、高速道路事業,Intangible assets,Intangible assets-highway business-NCA-HWY
-61,jppfs_cor:NoncurrentAssetsHighwayBusinessNCAHWY,高速道路事業固定資産、高速道路事業,Non-current assets,Non-current assets-highway business-NCA-HWY
-62,jppfs_cor:NoncurrentAssetsRelatedAbstractHWY,関連事業固定資産、高速道路事業 [タイトル項目],Non-current assets - related,Non-current assets - related-HWY [abstract]
-63,jppfs_cor:PropertyPlantAndEquipmentNCARelatedAbstractHWY,有形固定資産、関連事業固定資産、高速道路事業 [タイトル項目],"Property, plant and equipment","Property, plant and equipment-NCA-related-HWY [abstract]"
-64,jppfs_cor:BuildingsNCARelatedHWY,建物、関連事業固定資産、高速道路事業,Buildings,Buildings-NCA-related-HWY
-65,jppfs_cor:AccumulatedDepreciationBuildingNCARelatedHWY,減価償却累計額、建物、関連事業固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-building-NCA-related-HWY
-66,jppfs_cor:AccumulatedImpairmentLossBuildingsNCARelatedHWY,減損損失累計額、建物、関連事業固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-buildings-NCA-related-HWY
-67,jppfs_cor:AccumulatedDepreciationAndImpairmentLossBuildingsNCARelatedHWY,減価償却累計額及び減損損失累計額、建物、関連事業固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-buildings-NCA-related-HWY
-68,jppfs_cor:BuildingsNetNCARelatedHWY,建物（純額）、関連事業固定資産、高速道路事業,"Buildings, net","Buildings, net-NCA-related-HWY"
-69,jppfs_cor:StructuresNCARelatedHWY,構築物、関連事業固定資産、高速道路事業,Structures,Structures-NCA-related-HWY
-70,jppfs_cor:AccumulatedDepreciationStructuresNCARelatedHWY,減価償却累計額、構築物、関連事業固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-structures-NCA-related-HWY
-71,jppfs_cor:AccumulatedImpairmentLossStructuresNCARelatedHWY,減損損失累計額、構築物、関連事業固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-structures-NCA-related-HWY
-72,jppfs_cor:AccumulatedDepreciationAndImpairmentLossStructuresNCARelatedHWY,減価償却累計額及び減損損失累計額、構築物、関連事業固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-structures-NCA-related-HWY
-73,jppfs_cor:StructuresNetNCARelatedHWY,構築物（純額）、関連事業固定資産、高速道路事業,"Structures, net","Structures, net-NCA-related-HWY"
-74,jppfs_cor:MachineryAndEquipmentNCARelatedHWY,機械及び装置、関連事業固定資産、高速道路事業,Machinery and equipment,Machinery and equipment-NCA-related-HWY
-75,jppfs_cor:AccumulatedDepreciationMachineryAndEquipmentNCARelatedHWY,減価償却累計額、機械及び装置、関連事業固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-machinery and equipment-NCA-related-HWY
-76,jppfs_cor:AccumulatedImpairmentLossMachineryAndEquipmentNCARelatedHWY,減損損失累計額、機械及び装置、関連事業固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-machinery and equipment-NCA-related-HWY
-77,jppfs_cor:AccumulatedDepreciationAndImpairmentLossMachineryAndEquipmentNCARelatedHWY,減価償却累計額及び減損損失累計額、機械及び装置、関連事業固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-machinery and equipment-NCA-related-HWY
-78,jppfs_cor:MachineryAndEquipmentNetNCARelatedHWY,機械及び装置（純額）、関連事業固定資産、高速道路事業,"Machinery and equipment, net","Machinery and equipment, net-NCA-related-HWY"
-79,jppfs_cor:VehiclesNCARelatedHWY,車両運搬具、関連事業固定資産、高速道路事業,Vehicles,Vehicles-NCA-related-HWY
-80,jppfs_cor:AccumulatedDepreciationVehiclesNCARelatedHWY,減価償却累計額、車両運搬具、関連事業固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-vehicles-NCA-related-HWY
-81,jppfs_cor:AccumulatedImpairmentLossVehiclesNCARelatedHWY,減損損失累計額、車両運搬具、関連事業固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-vehicles-NCA-related-HWY
-82,jppfs_cor:AccumulatedDepreciationAndImpairmentLossVehiclesNCARelatedHWY,減価償却累計額及び減損損失累計額、車両運搬具、関連事業固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-vehicles-NCA-related-HWY
-83,jppfs_cor:VehiclesNetNCARelatedHWY,車両運搬具（純額）、関連事業固定資産、高速道路事業,"Vehicles, net","Vehicles, net-NCA-related-HWY"
-84,jppfs_cor:ToolsFurnitureAndFixturesNCARelatedHWY,工具、器具及び備品、関連事業固定資産、高速道路事業,"Tools, furniture and fixtures","Tools, furniture and fixtures-NCA-related-HWY"
-85,jppfs_cor:AccumulatedDepreciationToolsFurnitureAndFixturesNCARelatedHWY,減価償却累計額、工具、器具及び備品、関連事業固定資産、高速道路事業,Accumulated depreciation,"Accumulated depreciation-tools, furniture and fixtures-NCA-related-HWY"
-86,jppfs_cor:AccumulatedImpairmentLossToolsFurnitureAndFixturesNCARelatedHWY,減損損失累計額、工具、器具及び備品、関連事業固定資産、高速道路事業,Accumulated impairment loss,"Accumulated impairment loss-tools, furniture and fixtures-NCA-related-HWY"
-87,jppfs_cor:AccumulatedDepreciationAndImpairmentLossToolsFurnitureAndFixturesNCARelatedHWY,減価償却累計額及び減損損失累計額、工具、器具及び備品、関連事業固定資産、高速道路事業,Accumulated depreciation and impairment loss,"Accumulated depreciation and impairment loss-tools, furniture and fixtures-NCA-related-HWY"
-88,jppfs_cor:ToolsFurnitureAndFixturesNetNCARelatedHWY,工具、器具及び備品（純額）、関連事業固定資産、高速道路事業,"Tools, furniture and fixtures, net","Tools, furniture and fixtures, net-NCA-related-HWY"
-89,jppfs_cor:LandNCARelatedHWY,土地、関連事業固定資産、高速道路事業,Land,Land-NCA-related-HWY
-90,jppfs_cor:ConstructionInProgressNCARelatedHWY,建設仮勘定、関連事業固定資産、高速道路事業,Construction in progress,Construction in progress-NCA-related-HWY
-91,jppfs_cor:AccumulatedDepreciationPPEByGroupNCARelatedHWY,減価償却累計額、有形固定資産、一括控除、関連事業固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-PPE-by group-NCA-related-HWY
-92,jppfs_cor:AccumulatedImpairmentLossPPEByGroupNCARelatedHWY,減損損失累計額、有形固定資産、一括控除、関連事業固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-PPE-by group-NCA-related-HWY
-93,jppfs_cor:AccumulatedDepreciationAndImpairmentLossPPEByGroupNCARelatedHWY,減価償却累計額及び減損損失累計額、有形固定資産、一括控除、関連事業固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-PPE-by group-NCA-related-HWY
-94,jppfs_cor:PropertyPlantAndEquipmentNCARelatedHWY,有形固定資産、関連事業固定資産、高速道路事業,"Property, plant and equipment","Property, plant and equipment-NCA-related-HWY"
-95,jppfs_cor:IntangibleAssetsNCARelatedAbstractHWY,無形固定資産、関連事業固定資産、高速道路事業 [タイトル項目],Intangible assets,Intangible assets-NCA-related-HWY [abstract]
-96,jppfs_cor:IntangibleAssetsNCARelatedHWY,無形固定資産、関連事業固定資産、高速道路事業,Intangible assets,Intangible assets-NCA-related-HWY
-97,jppfs_cor:NoncurrentAssetsRelatedHWY,関連事業固定資産、高速道路事業,Non-current assets - related,Non-current assets - related-HWY
-98,jppfs_cor:NoncurrentAssetsAffiliatedAbstractHWY,各事業共用固定資産、高速道路事業 [タイトル項目],Non-current assets - affiliated,Non-current assets - affiliated-HWY [abstract]
-99,jppfs_cor:PropertyPlantAndEquipmentNCAAffiliatedAbstractHWY,有形固定資産、各事業共用固定資産、高速道路事業 [タイトル項目],"Property, plant and equipment","Property, plant and equipment-NCA-affiliated-HWY [abstract]"
-100,jppfs_cor:BuildingsNCAAffiliatedHWY,建物、各事業共用固定資産、高速道路事業,Buildings,Buildings-NCA-affiliated-HWY
-101,jppfs_cor:AccumulatedDepreciationBuildingNCAAffiliatedHWY,減価償却累計額、建物、各事業共用固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-building-NCA-affiliated-HWY
-102,jppfs_cor:AccumulatedImpairmentLossBuildingsNCAAffiliatedHWY,減損損失累計額、建物、各事業共用固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-buildings-NCA-affiliated-HWY
-103,jppfs_cor:AccumulatedDepreciationAndImpairmentLossBuildingsNCAAffiliatedHWY,減価償却累計額及び減損損失累計額、建物、各事業共用固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-buildings-NCA-affiliated-HWY
-104,jppfs_cor:BuildingsNetNCAAffiliatedHWY,建物（純額）、各事業共用固定資産、高速道路事業,"Buildings, net","Buildings, net-NCA-affiliated-HWY"
-105,jppfs_cor:StructuresNCAAffiliatedHWY,構築物、各事業共用固定資産、高速道路事業,Structures,Structures-NCA-affiliated-HWY
-106,jppfs_cor:AccumulatedDepreciationStructuresNCAAffiliatedHWY,減価償却累計額、構築物、各事業共用固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-structures-NCA-affiliated-HWY
-107,jppfs_cor:AccumulatedImpairmentLossStructuresNCAAffiliatedHWY,減損損失累計額、構築物、各事業共用固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-structures-NCA-affiliated-HWY
-108,jppfs_cor:AccumulatedDepreciationAndImpairmentLossStructuresNCAAffiliatedHWY,減価償却累計額及び減損損失累計額、構築物、各事業共用固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-structures-NCA-affiliated-HWY
-109,jppfs_cor:StructuresNetNCAAffiliatedHWY,構築物（純額）、各事業共用固定資産、高速道路事業,"Structures, net","Structures, net-NCA-affiliated-HWY"
-110,jppfs_cor:MachineryAndEquipmentNCAAffiliatedHWY,機械及び装置、各事業共用固定資産、高速道路事業,Machinery and equipment,Machinery and equipment-NCA-affiliated-HWY
-111,jppfs_cor:AccumulatedDepreciationMachineryAndEquipmentNCAAffiliatedHWY,減価償却累計額、機械及び装置、各事業共用固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-machinery and equipment-NCA-affiliated-HWY
-112,jppfs_cor:AccumulatedImpairmentLossMachineryAndEquipmentNCAAffiliatedHWY,減損損失累計額、機械及び装置、各事業共用固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-machinery and equipment-NCA-affiliated-HWY
-113,jppfs_cor:AccumulatedDepreciationAndImpairmentLossMachineryAndEquipmentNCAAffiliatedHWY,減価償却累計額及び減損損失累計額、機械及び装置、各事業共用固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-machinery and equipment-NCA-affiliated-HWY
-114,jppfs_cor:MachineryAndEquipmentNetNCAAffiliatedHWY,機械及び装置（純額）、各事業共用固定資産、高速道路事業,"Machinery and equipment, net","Machinery and equipment, net-NCA-affiliated-HWY"
-115,jppfs_cor:VehiclesNCAAffiliatedHWY,車両運搬具、各事業共用固定資産、高速道路事業,Vehicles,Vehicles-NCA-affiliated-HWY
-116,jppfs_cor:AccumulatedDepreciationVehiclesNCAAffiliatedHWY,減価償却累計額、車両運搬具、各事業共用固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-vehicles-NCA-affiliated-HWY
-117,jppfs_cor:AccumulatedImpairmentLossVehiclesNCAAffiliatedHWY,減損損失累計額、車両運搬具、各事業共用固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-vehicles-NCA-affiliated-HWY
-118,jppfs_cor:AccumulatedDepreciationAndImpairmentLossVehiclesNCAAffiliatedHWY,減価償却累計額及び減損損失累計額、車両運搬具、各事業共用固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-vehicles-NCA-affiliated-HWY
-119,jppfs_cor:VehiclesNetNCAAffiliatedHWY,車両運搬具（純額）、各事業共用固定資産、高速道路事業,"Vehicles, net","Vehicles, net-NCA-affiliated-HWY"
-120,jppfs_cor:ToolsFurnitureAndFixturesNCAAffiliatedHWY,工具、器具及び備品、各事業共用固定資産、高速道路事業,"Tools, furniture and fixtures","Tools, furniture and fixtures-NCA-affiliated-HWY"
-121,jppfs_cor:AccumulatedDepreciationToolsFurnitureAndFixturesNCAAffiliatedHWY,減価償却累計額、工具、器具及び備品、各事業共用固定資産、高速道路事業,Accumulated depreciation,"Accumulated depreciation-tools, furniture and fixtures-NCA-affiliated-HWY"
-122,jppfs_cor:AccumulatedImpairmentLossToolsFurnitureAndFixturesNCAAffiliatedHWY,減損損失累計額、工具、器具及び備品、各事業共用固定資産、高速道路事業,Accumulated impairment loss,"Accumulated impairment loss-tools, furniture and fixtures-NCA-affiliated-HWY"
-123,jppfs_cor:AccumulatedDepreciationAndImpairmentLossToolsFurnitureAndFixturesNCAAffiliatedHWY,減価償却累計額及び減損損失累計額、工具、器具及び備品、各事業共用固定資産、高速道路事業,Accumulated depreciation and impairment loss,"Accumulated depreciation and impairment loss-tools, furniture and fixtures-NCA-affiliated-HWY"
-124,jppfs_cor:ToolsFurnitureAndFixturesNetNCAAffiliatedHWY,工具、器具及び備品（純額）、各事業共用固定資産、高速道路事業,"Tools, furniture and fixtures, net","Tools, furniture and fixtures, net-NCA-affiliated-HWY"
-125,jppfs_cor:LandNCAAffiliatedHWY,土地、各事業共用固定資産、高速道路事業,Land,Land-NCA-affiliated-HWY
-126,jppfs_cor:ConstructionInProgressNCAAffiliatedHWY,建設仮勘定、各事業共用固定資産、高速道路事業,Construction in progress,Construction in progress-NCA-affiliated-HWY
-127,jppfs_cor:AccumulatedDepreciationPPEByGroupNCAAffiliatedHWY,減価償却累計額、有形固定資産、一括控除、各事業共用固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-PPE-by group-NCA-affiliated-HWY
-128,jppfs_cor:AccumulatedImpairmentLossPPEByGroupNCAAffiliatedHWY,減損損失累計額、有形固定資産、一括控除、各事業共用固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-PPE-by group-NCA-affiliated-HWY
-129,jppfs_cor:AccumulatedDepreciationAndImpairmentLossPPEByGroupNCAAffiliatedHWY,減価償却累計額及び減損損失累計額、有形固定資産、一括控除、各事業共用固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-PPE-by group-NCA-affiliated-HWY
-130,jppfs_cor:PropertyPlantAndEquipmentNCAAffiliatedHWY,有形固定資産、各事業共用固定資産、高速道路事業,"Property, plant and equipment","Property, plant and equipment-NCA-affiliated-HWY"
-131,jppfs_cor:IntangibleAssetsNCAAffiliatedAbstractHWY,無形固定資産、各事業共用固定資産、高速道路事業 [タイトル項目],Intangible assets,Intangible assets-NCA-affiliated-HWY [abstract]
-132,jppfs_cor:IntangibleAssetsNCAAffiliatedHWY,無形固定資産、各事業共用固定資産、高速道路事業,Intangible assets,Intangible assets-NCA-affiliated-HWY
-133,jppfs_cor:NoncurrentAssetsAffiliatedHWY,各事業共用固定資産、高速道路事業,Non-current assets - affiliated,Non-current assets - affiliated-HWY
-134,jppfs_cor:OtherNoncurrentAssetsAbstractHWY,その他の固定資産、高速道路事業 [タイトル項目],Other non-current assets,Other non-current assets-HWY [abstract]
-135,jppfs_cor:PropertyPlantAndEquipmentOtherNoncurrentAssetsAbstractHWY,有形固定資産、その他の固定資産、高速道路事業 [タイトル項目],"Property, plant and equipment","Property, plant and equipment-other noncurrent assets-HWY [abstract]"
-136,jppfs_cor:PropertyPlantAndEquipmentOtherNoncurrentAssetsHWY,有形固定資産、その他の固定資産、高速道路事業,"Property, plant and equipment","Property, plant and equipment-other noncurrent assets-HWY"
-137,jppfs_cor:OtherNoncurrentAssetsHWY,その他の固定資産、高速道路事業,Other non-current assets,Other non-current assets-HWY
-138,jppfs_cor:InvestmentsAndOtherAssetsAbstract,投資その他の資産 [タイトル項目],Investments and other assets,Investments and other assets [abstract]
-139,jppfs_cor:StocksOfSubsidiariesAndAffiliates,関係会社株式,Shares of subsidiaries and associates,Shares of subsidiaries and associates
-140,jppfs_cor:InvestmentSecurities,投資有価証券,Investment securities,Investment securities
-141,jppfs_cor:InvestmentsInCapitalOfSubsidiariesAndAffiliates,関係会社出資金,Investments in capital of subsidiaries and associates,Investments in capital of subsidiaries and associates
-142,jppfs_cor:InvestmentsInCapital,出資金,Investments in capital,Investments in capital
-143,jppfs_cor:LongTermLoansReceivable,長期貸付金,Long-term loans receivable,Long-term loans receivable
-144,jppfs_cor:LongTermPrepaidExpenses,長期前払費用,Long-term prepaid expenses,Long-term prepaid expenses
-145,jppfs_cor:DeferredTaxAssetsIOA,繰延税金資産、投資その他の資産,Deferred tax assets,Deferred tax assets-IOA
-146,jppfs_cor:OtherIOA,その他、投資その他の資産,Other,Other-IOA
-147,jppfs_cor:AllowanceForDoubtfulAccountsIOAByGroup,貸倒引当金、投資その他の資産、一括控除,Allowance for doubtful accounts,Allowance for doubtful accounts-IOA-by group
-148,jppfs_cor:InvestmentsAndOtherAssets,投資その他の資産,Investments and other assets,Investments and other assets
-149,jppfs_cor:NoncurrentAssets,固定資産,Non-current assets,Non-current assets
-150,jppfs_cor:DeferredAssetsAbstract,繰延資産 [タイトル項目],Deferred assets,Deferred assets [abstract]
-151,jppfs_cor:DeferredOrganizationExpensesDA,創立費、繰延資産,Deferred organization expenses,Deferred organization expenses-DA
-152,jppfs_cor:BusinessCommencementExpensesDA,開業費、繰延資産,Business commencement expenses,Business commencement expenses-DA
-153,jppfs_cor:DevelopmentExpensesDA,開発費、繰延資産,Development expenses,Development expenses-DA
-154,jppfs_cor:StockIssuanceCostDA,株式交付費、繰延資産,Share issuance cost,Share issuance cost-DA
-155,jppfs_cor:RoadBuildingBondIssuanceCostDAHWY,道路建設関係社債発行費、繰延資産、高速道路事業,Road-building bond issuance cost,Road-building bond issuance cost-DA-HWY
-156,jppfs_cor:OtherBondIssuanceCostDAHWY,その他の社債発行費、繰延資産、高速道路事業,Other bond issuance cost,Other bond issuance cost-DA-HWY
-157,jppfs_cor:DeferredAssets,繰延資産,Deferred assets,Deferred assets
-158,jppfs_cor:Assets,資産,Assets,Assets
-159,jppfs_cor:LiabilitiesAbstract,負債の部 [タイトル項目],Liabilities,Liabilities [abstract]
-160,jppfs_cor:CurrentLiabilitiesAbstract,流動負債 [タイトル項目],Current liabilities,Current liabilities [abstract]
-161,jppfs_cor:NotesPayableTrade,支払手形,Notes payable - trade,Notes payable-trade
-162,jppfs_cor:OperatingAccountsPayableHighwayBusinessCLHWY,高速道路事業営業未払金、流動負債、高速道路事業,Operating accounts payable - highway business,Operating accounts payable-highway business-CL-HWY
-163,jppfs_cor:ShortTermLoansPayable,短期借入金,Short-term loans payable,Short-term loans payable
-164,jppfs_cor:CurrentPortionOfLongTermLoansPayable,1年内返済予定の長期借入金,Current portion of long-term loans payable,Current portion of long-term loans payable
-165,jppfs_cor:CurrentPortionOfBonds,1年内償還予定の社債,Current portion of bonds,Current portion of bonds
-166,jppfs_cor:AccountsPayableOther,未払金,Accounts payable - other,Accounts payable-other
-167,jppfs_cor:AccruedExpenses,未払費用,Accrued expenses,Accrued expenses
-168,jppfs_cor:IncomeTaxesPayable,未払法人税等,Income taxes payable,Income taxes payable
-169,jppfs_cor:DeferredTaxLiabilitiesCL,繰延税金負債、流動負債,Deferred tax liabilities,Deferred tax liabilities-CL
-170,jppfs_cor:InterLineFaresReceivedCLHWY,預り連絡料金、流動負債、高速道路事業,Inter-line fares received,Inter-line fares received-CL-HWY
-171,jppfs_cor:DepositsReceived,預り金,Deposits received,Deposits received
-172,jppfs_cor:AdvancesReceivedForHighwayManagementHWY,高速道路事業受託業務前受金、流動負債、高速道路事業,Advances received for highway management,Advances received for highway management-HWY
-173,jppfs_cor:AdvancesReceivedForManagementCLHWY,受託業務前受金、流動負債、高速道路事業,Advances received for management,Advances received for management-CL-HWY
-174,jppfs_cor:AdvancesReceived,前受金,Advances received,Advances received
-175,jppfs_cor:UnearnedRevenue,前受収益,Unearned revenue,Unearned revenue
-176,jppfs_cor:ProvisionForDirectorsBonuses,役員賞与引当金,Provision for bonuses for directors (and other officers),Provision for bonuses for directors (and other officers)
-177,jppfs_cor:ProvisionForBonuses,賞与引当金,Provision for bonuses,Provision for bonuses
-178,jppfs_cor:ProvisionForLossOnForgedHighwayCardCLHWY,ハイウェイカード偽造損失補てん引当金、流動負債、高速道路事業,Provision for loss on forged highway card,Provision for loss on forged highway card-CL-HWY
-179,jppfs_cor:ProvisionForRepaymentForCouponTicketsCLHWY,回数券払戻引当金、流動負債、高速道路事業,Provision for repayment for coupon tickets,Provision for repayment for coupon tickets-CL-HWY
-180,jppfs_cor:OtherCL,その他、流動負債,Other,Other-CL
-181,jppfs_cor:CurrentLiabilities,流動負債,Current liabilities,Current liabilities
-182,jppfs_cor:NoncurrentLiabilitiesAbstract,固定負債 [タイトル項目],Non-current liabilities,Non-current liabilities [abstract]
-183,jppfs_cor:RoadBuildingBondsPayableNCLHWY,道路建設関係社債、固定負債、高速道路事業,Road-building bonds payable,Road-building bonds payable-NCL-HWY
-184,jppfs_cor:OtherBondsPayableNCLHWY,その他の社債、固定負債、高速道路事業,Other bonds payable,Other bonds payable-NCL-HWY
-185,jppfs_cor:LongTermLoansPayableToRoadBuildingNCLHWY,道路建設関係長期借入金、固定負債、高速道路事業,Long-term loans payable to road-building,Long-term loans payable to road-building-NCL-HWY
-186,jppfs_cor:OtherLongTermLoansPayableNCLHWY,その他の長期借入金、固定負債、高速道路事業,Other long-term loans payable,Other long-term loans payable-NCL-HWY
-187,jppfs_cor:DeferredTaxLiabilitiesNCL,繰延税金負債、固定負債,Deferred tax liabilities,Deferred tax liabilities-NCL
-188,jppfs_cor:GuaranteeDepositsReceivedNCL,受入保証金、固定負債,Guarantee deposits received,Guarantee deposits received-NCL
-189,jppfs_cor:ProvisionForRetirementBenefits,退職給付引当金,Provision for retirement benefits,Provision for retirement benefits
-190,jppfs_cor:ProvisionForDirectorsRetirementBenefits,役員退職慰労引当金,Provision for retirement benefits for directors (and other officers),Provision for retirement benefits for directors (and other officers)
-191,jppfs_cor:NegativeGoodwill,負ののれん,Negative goodwill,Negative goodwill
-192,jppfs_cor:ProvisionForETCMileageServiceNCLHWY,ETCマイレージサービス引当金、固定負債、高速道路事業,Provision for ETC mileage service,Provision for ETC mileage service-NCL-HWY
-193,jppfs_cor:OtherNCL,その他、固定負債,Other,Other-NCL
-194,jppfs_cor:NoncurrentLiabilities,固定負債,Non-current liabilities,Non-current liabilities
-195,jppfs_cor:Liabilities,負債,Liabilities,Liabilities
-196,jppfs_cor:NetAssetsAbstract,純資産の部 [タイトル項目],Net assets,Net assets [abstract]
-197,jppfs_cor:ShareholdersEquityAbstract,株主資本 [タイトル項目],Shareholders' equity,Shareholders' equity [abstract]
-198,jppfs_cor:CapitalStock,資本金,Capital stock,Capital stock
-199,jppfs_cor:DepositForSubscriptionsToShares,新株式申込証拠金,Deposit for subscriptions to shares,Deposit for subscriptions to shares
-200,jppfs_cor:CapitalSurplusAbstract,資本剰余金 [タイトル項目],Capital surplus,Capital surplus [abstract]
-201,jppfs_cor:LegalCapitalSurplus,資本準備金,Legal capital surplus,Legal capital surplus
-202,jppfs_cor:OtherCapitalSurplus,その他資本剰余金,Other capital surplus,Other capital surplus
-203,jppfs_cor:CapitalSurplus,資本剰余金,Capital surplus,Capital surplus
-204,jppfs_cor:RetainedEarningsAbstract,利益剰余金 [タイトル項目],Retained earnings,Retained earnings [abstract]
-205,jppfs_cor:LegalRetainedEarnings,利益準備金,Legal retained earnings,Legal retained earnings
-206,jppfs_cor:OtherRetainedEarningsAbstract,その他利益剰余金 [タイトル項目],Other retained earnings,Other retained earnings [abstract]
-207,jppfs_cor:RetainedEarningsBroughtForward,繰越利益剰余金,Retained earnings brought forward,Retained earnings brought forward
-208,jppfs_cor:OtherRetainedEarnings,その他利益剰余金,Other retained earnings,Other retained earnings
-209,jppfs_cor:RetainedEarnings,利益剰余金,Retained earnings,Retained earnings
-210,jppfs_cor:TreasuryStock,自己株式,Treasury shares,Treasury shares
-211,jppfs_cor:DepositForSubscriptionsToTreasuryStock,自己株式申込証拠金,Deposit for subscriptions to treasury shares,Deposit for subscriptions to treasury shares
-212,jppfs_cor:ShareholdersEquity,株主資本,Shareholders' equity,Shareholders' equity
-213,jppfs_cor:ValuationAndTranslationAdjustmentsAbstract,評価・換算差額等 [タイトル項目],Valuation and translation adjustments,Valuation and translation adjustments [abstract]
-214,jppfs_cor:ValuationDifferenceOnAvailableForSaleSecurities,その他有価証券評価差額金,Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities
-215,jppfs_cor:DeferredGainsOrLossesOnHedges,繰延ヘッジ損益,Deferred gains or losses on hedges,Deferred gains or losses on hedges
-216,jppfs_cor:RevaluationReserveForLand,土地再評価差額金,Revaluation reserve for land,Revaluation reserve for land
-217,jppfs_cor:ValuationAndTranslationAdjustments,評価・換算差額等,Valuation and translation adjustments,Valuation and translation adjustments
-218,jppfs_cor:SubscriptionRightsToShares,新株予約権,Share acquisition rights,Share acquisition rights
-219,jppfs_cor:NonControllingInterests,非支配株主持分,Non-controlling interests,Non-controlling interests
-220,jppfs_cor:NetAssets,純資産,Net assets,Net assets
-221,jppfs_cor:LiabilitiesAndNetAssets,負債純資産,Liabilities and net assets,Liabilities and net assets
-222,nan,,,
-223,nan,,,
-224,名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
-225,jppfs_cor:StatementOfIncomeAbstract,損益計算書 [タイトル項目],Statement of income,Statement of income [abstract]
-226,jppfs_cor:StatementOfIncomeTable,損益計算書 [表],Statement of income,Statement of income [table]
-227,jppfs_cor:StatementOfIncomeLineItems,損益計算書 [表示項目],Statement of income,Statement of income [line items]
-228,jppfs_cor:OperatingIncomeAndLossFromHighwayBusinessAbstractHWY,高速道路事業営業損益、高速道路事業 [タイトル項目],Operating revenue and expenses from highway business,Operating revenue and expenses from highway business - HWY [abstract]
-229,jppfs_cor:OperatingRevenueHighwayBusinessAbstractHWY,営業収益、高速道路事業営業損益、高速道路事業 [タイトル項目],Operating revenue,Operating revenue-highway business-HWY [abstract]
-230,jppfs_cor:FareReceiptsOperatingRevenueHighwayBusinessHWY,料金収入、営業収益、高速道路事業営業損益、高速道路事業,Fare receipts,Fare receipts-operating revenue-highway business-HWY
-231,jppfs_cor:SalesOfCompletedHighwayConstructionContractsOperatingRevenueHighwayBusinessHWY,道路資産完成高、営業収益、高速道路事業営業損益、高速道路事業,Sales of completed highway construction contracts,Sales of completed highway construction contracts-operating revenue-highway business-HWY
-232,jppfs_cor:RevenueManagementOperatingRevenueHighwayBusinessHWY,受託業務収入、営業収益、高速道路事業営業損益、高速道路事業,Revenue - management,Revenue - management-operating revenue-highway business-HWY
-233,jppfs_cor:OtherSalesOperatingRevenueHighwayBusinessHWY,その他の売上高、営業収益、高速道路事業営業損益、高速道路事業,Other sales,Other sales-operating revenue-highway business-HWY
-234,jppfs_cor:OperatingRevenueHighwayBusinessHWY,営業収益、高速道路事業営業損益、高速道路事業,Operating revenue,Operating revenue-highway business-HWY
-235,jppfs_cor:OperatingExpensesHighwayBusinessAbstractHWY,営業費用、高速道路事業営業損益、高速道路事業 [タイトル項目],Operating expenses,Operating expenses-highway business-HWY [abstract]
-236,jppfs_cor:RentExpensesOnHighwayAssetsOperatingExpensesHighwayBusinessHWY,道路資産賃借料、営業費用、高速道路事業営業損益、高速道路事業,Rent expenses on highway assets,Rent expenses on highway assets-operating expenses-highway business-HWY
-237,jppfs_cor:CostOfSalesOfCompletedHighwayConstructionContractsOperatingExpenseHighwayBusinessHWY,道路資産完成原価、営業費用、高速道路事業営業損益、高速道路事業,Cost of sales of completed highway construction contracts,Cost of sales of completed highway construction contracts-operating expense-highway business-HWY
-238,jppfs_cor:AdministrativeExpensesOperatingExpensesHighwayBusinessHWY,管理費用、営業費用、高速道路事業営業損益、高速道路事業,Administrative expenses,Administrative expenses-operating expenses-highway business-HWY
-239,jppfs_cor:FiduciaryBusinessOperatingExpensesOperatingExpensesHighwayBusinessHWY,受託業務費用、営業費用、高速道路事業営業損益、高速道路事業,Fiduciary business operating expenses - management,Fiduciary business operating expenses-operating expenses-highway business-HWY
-240,jppfs_cor:OperatingExpensesHighwayBusinessHWY,営業費用、高速道路事業営業損益、高速道路事業,Operating expenses,Operating expenses-highway business-HWY
-241,jppfs_cor:OperatingIncomeFromHighwayBusinessHWY,高速道路事業営業利益又は高速道路事業営業損失（△）、高速道路事業,Operating profit (loss) from highway business,Operating profit (loss) from highway business - HWY
-242,jppfs_cor:OperatingIncomeAndLossRelatedOperationsHighwayBusinessAbstractHWY,関連事業営業損益、高速道路事業 [タイトル項目],Operating revenue and expenses - related operations,Operating revenue and expenses - related operations - highway business - HWY [abstract]
-243,jppfs_cor:OperatingRevenueRelatedOperationsHighwayBusinessAbstractHWY,営業収益、関連事業営業損益、高速道路事業 [タイトル項目],Operating revenue,Operating revenue-related operations-highway business-HWY [abstract]
-244,jppfs_cor:RevenueRestStationOperatingRevenueRelatedOperationsHighwayBusinessHWY,休憩所等事業収入、営業収益、関連事業営業損益、高速道路事業,Revenue - rest station,Revenue-rest station-operating revenue-related operations-highway business-HWY
-245,jppfs_cor:RevenueParkingOperatingRevenueRelatedOperationsHighwayBusinessHWY,駐車場事業収入、営業収益、関連事業営業損益、高速道路事業,Revenue - parking,Revenue-parking-operating revenue-related operations-highway business-HWY
-246,jppfs_cor:RevenueManagementOperatingRevenueRelatedOperationsHighwayBusinessHWY,受託業務収入、営業収益、関連事業営業損益、高速道路事業,Revenue - management,Revenue-management-operating revenue-related operations-highway business-HWY
-247,jppfs_cor:MiscellaneousOperatingRevenueOperatingRevenueRelatedOperationsHighwayBusinessHWY,営業雑収入、営業収益、関連事業営業損益、高速道路事業,Miscellaneous operating revenue,Miscellaneous operating revenue-operating revenue-related operations-highway business-HWY
-248,jppfs_cor:OperatingRevenueRelatedOperationsHighwayBusinessHWY,営業収益、関連事業営業損益、高速道路事業,Operating revenue - related operations,Operating revenue-related operations-highway business-HWY
-249,jppfs_cor:OperatingExpensesRelatedOperationsHighwayBusinessAbstractHWY,営業費用、関連事業営業損益、高速道路事業 [タイトル項目],Operating expenses,Operating expenses-related operations-highway business-HWY [abstract]
-250,jppfs_cor:OperatingExpensesRestStationOperatingRevenueRelatedOperationsHighwayBusinessHWY,休憩所等事業費、営業費用、関連事業営業損益、高速道路事業,Operating expenses - rest station,Operating expenses-rest station-operating revenue-related operations-highway business-HWY
-251,jppfs_cor:OperatingExpensesParkingOperatingRevenueRelatedOperationsHighwayBusinessHWY,駐車場事業費、営業費用、関連事業営業損益、高速道路事業,Operating expenses - parking,Operating expenses-parking-operating revenue-related operations-highway business-HWY
-252,jppfs_cor:OperatingExpensesManagementOperatingRevenueRelatedOperationsHighwayBusinessHWY,受託業務事業費、営業費用、関連事業営業損益、高速道路事業,Operating expenses - management,Operating expenses-management-operating revenue-related operations-highway business-HWY
-253,jppfs_cor:MiscellaneousOperatingExpensesOperatingExpensesRelatedOperationsHighwayBusinessHWY,営業雑費用、営業費用、関連事業営業損益、高速道路事業,Miscellaneous operating expenses,Miscellaneous operating expenses-operating expenses-related operations-highway business-HWY
-254,jppfs_cor:OperatingExpensesRelatedOperationsHighwayBusinessHWY,営業費用、関連事業営業損益、高速道路事業,Operating expenses - related operations,Operating expenses-related operations-highway business-HWY
-255,jppfs_cor:OperatingIncomeFromRelatedOperationsHighwayBusinessHWY,関連事業営業利益又は関連事業営業損失（△）、高速道路事業,Operating profit (loss) from related operations,Operating profit (loss) from related operations - HWY
-256,jppfs_cor:OperatingRevenue1,営業収益,Operating revenue,Operating revenue-1
-257,jppfs_cor:OperatingExpensesAbstract,営業費用 [タイトル項目],Operating expenses,Operating expenses [abstract]
-258,jppfs_cor:AdministrationCostsOfHighwayBusinessAndCostOfSalesOperatingExpensesHWY,高速道路等事業管理費及び売上原価、営業費用、高速道路事業,Administration costs of highway business and cost of sales,Administration costs of highway business and cost of sales-operating expenses-HWY
-259,jppfs_cor:SellingGeneralAndAdministrativeExpenses,販売費及び一般管理費,"Selling, general and administrative expenses","Selling, general and administrative expenses"
-260,jppfs_cor:OperatingExpenses,営業費用,Operating expenses,Operating expenses
-261,jppfs_cor:OperatingIncomeTotalBusiness,全事業営業利益又は全事業営業損失（△）,Operating profit (loss) - total business,Operating profit (loss) - total business
-262,jppfs_cor:NonOperatingIncomeAbstract,営業外収益 [タイトル項目],Non-operating income,Non-operating income [abstract]
-263,jppfs_cor:InterestIncomeNOI,受取利息、営業外収益,Interest income,Interest income-NOI
-264,jppfs_cor:InterestOnSecuritiesNOI,有価証券利息、営業外収益,Interest on securities,Interest on securities-NOI
-265,jppfs_cor:DividendsIncomeNOI,受取配当金、営業外収益,Dividend income,Dividend income-NOI
-266,jppfs_cor:GainOnSalesOfSecuritiesNOI,有価証券売却益、営業外収益,Gain on sales of securities,Gain on sales of securities-NOI
-267,jppfs_cor:GainOnValuationOfSecuritiesNOI,有価証券評価益、営業外収益,Gain on valuation of securities,Gain on valuation of securities-NOI
-268,jppfs_cor:GainOnSalesOfGoodsNOI,物品売却益、営業外収益,Gain on sales of goods,Gain on sales of goods-NOI
-269,jppfs_cor:RevenueLandRentNOIHWY,土地物件貸付料、営業外収益、高速道路事業,Revenue - land rent,Revenue-land rent-NOI-HWY
-270,jppfs_cor:IncomeFromCausativePersonNOIHWY,原因者負担収入、営業外収益、高速道路事業,Income from causative person,Income from causative person-NOI-HWY
-271,jppfs_cor:MiscellaneousIncomeNOI,雑収入、営業外収益,Miscellaneous income,Miscellaneous income-NOI
-272,jppfs_cor:NonOperatingIncome,営業外収益,Non-operating income,Non-operating income
-273,jppfs_cor:NonOperatingExpensesAbstract,営業外費用 [タイトル項目],Non-operating expenses,Non-operating expenses [abstract]
-274,jppfs_cor:InterestExpensesNOE,支払利息、営業外費用,Interest expenses,Interest expenses-NOE
-275,jppfs_cor:InterestOnBondsNOE,社債利息、営業外費用,Interest on bonds,Interest on bonds-NOE
-276,jppfs_cor:AmortizationOfStockIssuanceCostNOE,株式交付費償却、営業外費用,Amortization of share issuance cost,Amortization of share issuance cost-NOE
-277,jppfs_cor:AmortizationOfBondIssuanceCostNOE,社債発行費償却、営業外費用,Amortization of bond issuance cost,Amortization of bond issuance cost-NOE
-278,jppfs_cor:AmortizationOfDeferredOrganizationExpensesNOE,創立費償却、営業外費用,Amortization of deferred organization expenses,Amortization of deferred organization expenses-NOE
-279,jppfs_cor:AmortizationOfBusinessCommencementExpensesNOE,開業費償却、営業外費用,Amortization of business commencement expenses,Amortization of business commencement expenses-NOE
-280,jppfs_cor:AmortizationOfDevelopmentExpensesNOE,開発費償却、営業外費用,Amortization of development expenses,Amortization of development expenses-NOE
-281,jppfs_cor:LossOnSalesOfSecuritiesNOE,有価証券売却損、営業外費用,Loss on sales of securities,Loss on sales of securities-NOE
-282,jppfs_cor:LossOnValuationOfSecuritiesNOE,有価証券評価損、営業外費用,Loss on valuation of securities,Loss on valuation of securities-NOE
-283,jppfs_cor:MiscellaneousLossNOE,雑損失、営業外費用,Miscellaneous loss,Miscellaneous loss-NOE
-284,jppfs_cor:NonOperatingExpenses,営業外費用,Non-operating expenses,Non-operating expenses
-285,jppfs_cor:OrdinaryIncome,経常利益又は経常損失（△）,Ordinary profit (loss),Ordinary profit (loss)
-286,jppfs_cor:ExtraordinaryIncomeAbstract,特別利益 [タイトル項目],Extraordinary income,Extraordinary income [abstract]
-287,jppfs_cor:GainOnSalesOfNoncurrentAssetsEI,固定資産売却益、特別利益,Gain on sales of non-current assets,Gain on sales of non-current assets-EI
-288,jppfs_cor:OtherEI,その他、特別利益,Other,Other-EI
-289,jppfs_cor:ExtraordinaryIncome,特別利益,Extraordinary income,Extraordinary income
-290,jppfs_cor:ExtraordinaryLossAbstract,特別損失 [タイトル項目],Extraordinary losses,Extraordinary losses [abstract]
-291,jppfs_cor:LossOnSalesOfNoncurrentAssetsEL,固定資産売却損、特別損失,Loss on sales of non-current assets,Loss on sales of non-current assets-EL
-292,jppfs_cor:LossOnRetirementOfNoncurrentAssetsEL,固定資産除却損、特別損失,Loss on retirement of non-current assets,Loss on retirement of non-current assets-EL
-293,jppfs_cor:ImpairmentLossEL,減損損失、特別損失,Impairment loss,Impairment loss-EL
-294,jppfs_cor:NonrecurringLossEL,臨時損失、特別損失,Nonrecurring loss,Nonrecurring loss-EL
-295,jppfs_cor:LossOnForgedHighwayCardELHWY,偽造ハイウェイカード損失、特別損失、高速道路事業,Loss on forged highway card,Loss on forged highway card-EL-HWY
-296,jppfs_cor:OtherEL,その他、特別損失,Other,Other-EL
-297,jppfs_cor:ExtraordinaryLoss,特別損失,Extraordinary losses,Extraordinary losses
-298,jppfs_cor:IncomeBeforeIncomeTaxes,税引前当期純利益又は税引前当期純損失（△）,Profit (loss) before income taxes,Profit (loss) before income taxes
-299,jppfs_cor:IncomeTaxes,法人税等,Income taxes,Income taxes
-300,jppfs_cor:IncomeTaxesCurrent,法人税、住民税及び事業税,Income taxes - current,Income taxes-current
-301,jppfs_cor:IncomeTaxesDeferred,法人税等調整額,Income taxes - deferred,Income taxes-deferred
-302,jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
-303,jppfs_cor:ProfitAttributableToAbstract,内訳、当期純利益 [タイトル項目],Profit attributable to,Profit attributable to [abstract]
-304,jppfs_cor:ProfitLossAttributableToNonControllingInterests,非支配株主に帰属する当期純利益又は非支配株主に帰属する当期純損失（△）,Profit (loss) attributable to non-controlling interests,Profit (loss) attributable to non-controlling interests
-305,jppfs_cor:ProfitLossAttributableToOwnersOfParent,親会社株主に帰属する当期純利益又は親会社株主に帰属する当期純損失（△）,Profit (loss) attributable to owners of parent,Profit (loss) attributable to owners of parent
-306,nan,,,
-307,nan,,,
-308,名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
-309,jppfs_cor:StatementOfChangesInEquityAbstract,株主資本等変動計算書 [タイトル項目],Statement of changes in equity,Statement of changes in equity [abstract]
-310,jppfs_cor:StatementOfChangesInEquityTable,株主資本等変動計算書 [表],Statement of changes in equity,Statement of changes in equity [table]
-311,jppfs_cor:ComponentsOfEquityAxis,純資産の内訳項目 [軸],Components of equity,Components of equity [axis]
-312,jppfs_cor:NetAssetsMember,純資産 [メンバー],Net assets,Net assets [member]
-313,jppfs_cor:ShareholdersEquityMember,株主資本 [メンバー],Shareholders' equity,Shareholders' equity [member]
-314,jppfs_cor:CapitalStockMember,資本金 [メンバー],Capital stock,Capital stock [member]
-315,jppfs_cor:CapitalSurplusMember,資本剰余金 [メンバー],Capital surplus,Capital surplus [member]
-316,jppfs_cor:LegalCapitalSurplusMember,資本準備金 [メンバー],Legal capital surplus,Legal capital surplus [member]
-317,jppfs_cor:OtherCapitalSurplusMember,その他資本剰余金 [メンバー],Other capital surplus,Other capital surplus [member]
-318,jppfs_cor:RetainedEarningsMember,利益剰余金 [メンバー],Retained earnings,Retained earnings [member]
-319,jppfs_cor:LegalRetainedEarningsMember,利益準備金 [メンバー],Legal retained earnings,Legal retained earnings [member]
-320,jppfs_cor:OtherRetainedEarningsMember,その他利益剰余金 [メンバー],Other retained earnings,Other retained earnings [member]
-321,jppfs_cor:RetainedEarningsBroughtForwardMember,繰越利益剰余金 [メンバー],Retained earnings brought forward,Retained earnings brought forward [member]
-322,jppfs_cor:TreasuryStockMember,自己株式 [メンバー],Treasury shares,Treasury shares [member]
-323,jppfs_cor:ValuationAndTranslationAdjustmentsMember,評価・換算差額等 [メンバー],Valuation and translation adjustments,Valuation and translation adjustments [member]
-324,jppfs_cor:ValuationDifferenceOnAvailableForSaleSecuritiesMember,その他有価証券評価差額金 [メンバー],Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities [member]
-325,jppfs_cor:DeferredGainsOrLossesOnHedgesMember,繰延ヘッジ損益 [メンバー],Deferred gains or losses on hedges,Deferred gains or losses on hedges [member]
-326,jppfs_cor:RevaluationReserveForLandMember,土地再評価差額金 [メンバー],Revaluation reserve for land,Revaluation reserve for land [member]
-327,jppfs_cor:ForeignCurrencyTranslationAdjustmentMember,為替換算調整勘定 [メンバー],Foreign currency translation adjustment,Foreign currency translation adjustment [member]
-328,jppfs_cor:SubscriptionRightsToSharesMember,新株予約権 [メンバー],Share acquisition rights,Share acquisition rights [member]
-329,jppfs_cor:NonControllingInterestsMember,非支配株主持分 [メンバー],Non-controlling interests,Non-controlling interests [member]
-330,jppfs_cor:StatementOfChangesInEquityLineItems,株主資本等変動計算書 [表示項目],Statement of changes in equity,Statement of changes in equity [line items]
-331,jppfs_cor:NetAssets,純資産,Net assets,Net assets
-332,jppfs_cor:ChangesOfItemsDuringThePeriodAbstract,当期変動額 [タイトル項目],Changes of items during period,Changes of items during period [abstract]
-333,jppfs_cor:IssuanceOfNewShares,新株の発行,Issuance of new shares,Issuance of new shares
-334,jppfs_cor:DividendsFromSurplus,剰余金の配当,Dividends of surplus,Dividends of surplus
-335,jppfs_cor:ProfitLossAttributableToOwnersOfParent,親会社株主に帰属する当期純利益又は親会社株主に帰属する当期純損失（△）,Profit (loss) attributable to owners of parent,Profit (loss) attributable to owners of parent
-336,jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
-337,jppfs_cor:DisposalOfTreasuryStock,自己株式の処分,Disposal of treasury shares,Disposal of treasury shares
-338,jppfs_cor:NetChangesOfItemsOtherThanShareholdersEquity,株主資本以外の項目の当期変動額（純額）,Net changes of items other than shareholders' equity,Net changes of items other than shareholders' equity
-339,jppfs_cor:TotalChangesOfItemsDuringThePeriod,当期変動額合計,Total changes of items during period,Total changes of items during period
-340,nan,,,
-341,nan,,,
-342,名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
-343,jppfs_cor:StatementOfCashFlowsAbstract,キャッシュ・フロー計算書 [タイトル項目],Statement of cash flows,Statement of cash flows [abstract]
-344,jppfs_cor:StatementOfCashFlowsTable,キャッシュ・フロー計算書 [表],Statement of cash flows,Statement of cash flows [table]
-345,jppfs_cor:StatementOfCashFlowsLineItems,キャッシュ・フロー計算書 [表示項目],Statement of cash flows,Statement of cash flows [line items]
-346,jppfs_cor:NetCashProvidedByUsedInOperatingActivitiesAbstract,営業活動によるキャッシュ・フロー [タイトル項目],Cash flows from operating activities,Cash flows from operating activities [abstract]
-347,jppfs_cor:SubtotalOpeCF,小計、営業活動によるキャッシュ・フロー,Subtotal,Subtotal-OpeCF
-348,jppfs_cor:OperatingIncomeOpeCF,営業収入、営業活動によるキャッシュ・フロー,Receipts from operating revenue,Receipts from operating revenue - OpeCF
-349,jppfs_cor:PaymentsForRawMaterialsAndGoodsOpeCF,原材料又は商品の仕入れによる支出、営業活動によるキャッシュ・フロー,Payments for raw materials and goods,Payments for raw materials and goods-OpeCF
-350,jppfs_cor:PaymentsForPayrollOpeCF,人件費の支出、営業活動によるキャッシュ・フロー,Payments for personnel expenses,Payments for personnel expenses-OpeCF
-351,jppfs_cor:PaymentsForOtherOperatingActivityOpeCF,その他の営業支出、営業活動によるキャッシュ・フロー,Payments for other operating activity,Payments for other operating activity-OpeCF
-352,jppfs_cor:IncomeBeforeIncomeTaxes,税引前当期純利益又は税引前当期純損失（△）,Profit (loss) before income taxes,Profit (loss) before income taxes
-353,jppfs_cor:DepreciationOfHighwayNoncurrentAssetsOpeCFHWY,高速道路事業固定資産減価償却費、営業活動によるキャッシュ・フロー、高速道路事業,Depreciation of highway non-current assets,Depreciation of highway non-current assets-OpeCF-HWY
-354,jppfs_cor:DepreciationOfRelatedNoncurrentAssetsOpeCFHWY,関連事業固定資産減価償却費、営業活動によるキャッシュ・フロー、高速道路事業,Depreciation of related non-current assets,Depreciation of related non-current assets-OpeCF-HWY
-355,jppfs_cor:DepreciationOfAffiliatedNoncurrentAssetsOpeCFHWY,各事業共用固定資産減価償却費、営業活動によるキャッシュ・フロー、高速道路事業,Depreciation of affiliated non-current assets,Depreciation of affiliated non-current assets-OpeCF-HWY
-356,jppfs_cor:ImpairmentLossOpeCF,減損損失、営業活動によるキャッシュ・フロー,Impairment loss,Impairment loss-OpeCF
-357,jppfs_cor:IncreaseDecreaseInAllowanceForDoubtfulAccountsOpeCF,貸倒引当金の増減額（△は減少）、営業活動によるキャッシュ・フロー,Increase (decrease) in allowance for doubtful accounts,Increase (decrease) in allowance for doubtful accounts-OpeCF
-358,jppfs_cor:IncreaseDecreaseInProvisionForRetirementBenefitsOpeCF,退職給付引当金の増減額（△は減少）、営業活動によるキャッシュ・フロー,Increase (decrease) in provision for retirement benefits,Increase (decrease) in provision for retirement benefits-OpeCF
-359,jppfs_cor:IncreaseDecreaseInProvisionForBonusesOpeCF,賞与引当金の増減額（△は減少）、営業活動によるキャッシュ・フロー,Increase (decrease) in provision for bonuses,Increase (decrease) in provision for bonuses-OpeCF
-360,jppfs_cor:IncreaseDecreaseInProvisionForETCMileageServiceOpeCFHWY,ETCマイレージサービス引当金の増減額（△は減少）、営業活動によるキャッシュ・フロー、高速道路事業,Increase (decrease) in provision for ETC mileage service,Increase (decrease) in provision for ETC mileage service-OpeCF-HWY
-361,jppfs_cor:InterestAndDividendsIncomeOpeCF,受取利息及び受取配当金、営業活動によるキャッシュ・フロー,Interest and dividend income,Interest and dividend income-OpeCF
-362,jppfs_cor:InterestExpensesOpeCF,支払利息、営業活動によるキャッシュ・フロー,Interest expenses,Interest expenses-OpeCF
-363,jppfs_cor:GainOnSalesOfAffiliatedNoncurrentAssetsOpeCFHWY,各事業共用固定資産売却益、営業活動によるキャッシュ・フロー、高速道路事業,Gain on sales of affiliated non-current assets,Gain on sales of affiliated non-current assets-OpeCF-HWY
-364,jppfs_cor:LossOnRetirementOfHighwayNoncurrentAssetsOpeCFHWY,高速道路事業固定資産除却費、営業活動によるキャッシュ・フロー、高速道路事業,Loss on retirement of highway non-current assets,Loss on retirement of highway non-current assets-OpeCF-HWY
-365,jppfs_cor:LossOnRetirementOfRelatedNoncurrentAssetsOpeCFHWY,関連事業固定資産除却費、営業活動によるキャッシュ・フロー、高速道路事業,Loss on retirement of related non-current assets,Loss on retirement of related non-current assets-OpeCF-HWY
-366,jppfs_cor:DecreaseIncreaseInNotesAndAccountsReceivableTradeOpeCF,売上債権の増減額（△は増加）、営業活動によるキャッシュ・フロー,Decrease (increase) in notes and accounts receivable - trade,Decrease (increase) in notes and accounts receivable-trade-OpeCF
-367,jppfs_cor:DecreaseIncreaseInInventoriesOpeCF,たな卸資産の増減額（△は増加）、営業活動によるキャッシュ・フロー,Decrease (increase) in inventories,Decrease (increase) in inventories-OpeCF
-368,jppfs_cor:IncreaseDecreaseInNotesAndAccountsPayableTradeOpeCF,仕入債務の増減額（△は減少）、営業活動によるキャッシュ・フロー,Increase (decrease) in notes and accounts payable - trade,Increase (decrease) in notes and accounts payable-trade-OpeCF
-369,jppfs_cor:DecreaseIncreaseInOtherAssetsOpeCF,その他の資産の増減額（△は増加）、営業活動によるキャッシュ・フロー,Decrease (increase) in other assets,Decrease (increase) in other assets-OpeCF
-370,jppfs_cor:IncreaseDecreaseInOtherLiabilitiesOpeCF,その他の負債の増減額（△は減少）、営業活動によるキャッシュ・フロー,Increase (decrease) in other liabilities,Increase (decrease) in other liabilities-OpeCF
-371,jppfs_cor:OtherNetOpeCF,その他、営業活動によるキャッシュ・フロー,"Other, net","Other, net-OpeCF"
-372,jppfs_cor:InterestAndDividendsIncomeReceivedOpeCFInvCF,利息及び配当金の受取額、営業活動によるキャッシュ・フロー又は投資活動によるキャッシュ・フロー,Interest and dividend income received,Interest and dividend income received-OpeCF/InvCF
-373,jppfs_cor:IncomeTaxesPaidOpeCF,法人税等の支払額、営業活動によるキャッシュ・フロー,Income taxes paid,Income taxes paid-OpeCF
-374,jppfs_cor:NetCashProvidedByUsedInOperatingActivities,営業活動によるキャッシュ・フロー,Net cash provided by (used in) operating activities,Net cash provided by (used in) operating activities
-375,jppfs_cor:NetCashProvidedByUsedInInvestmentActivitiesAbstract,投資活動によるキャッシュ・フロー [タイトル項目],Cash flows from investing activities,Cash flows from investing activities [abstract]
-376,jppfs_cor:PurchaseOfHighwayNoncurrentAssetsInvCFHWY,高速道路事業固定資産の取得による支出、投資活動によるキャッシュ・フロー、高速道路事業,Purchase of highway non-current assets,Purchase of highway non-current assets-InvCF-HWY
-377,jppfs_cor:PurchaseOfRelatedNoncurrentAssetsInvCFHWY,関連事業固定資産の取得による支出、投資活動によるキャッシュ・フロー、高速道路事業,Purchase of related non-current assets,Purchase of related non-current assets-InvCF-HWY
-378,jppfs_cor:PurchaseOfAffiliatedNoncurrentAssetsInvCFHWY,各事業共用固定資産の取得による支出、投資活動によるキャッシュ・フロー、高速道路事業,Purchase of affiliated non-current assets,Purchase of affiliated non-current assets-InvCF-HWY
-379,jppfs_cor:ProceedsFromSalesOfAffiliatedNoncurrentAssetsInvCFHWY,各事業共用固定資産の売却による収入、投資活動によるキャッシュ・フロー、高速道路事業,Proceeds from sales of affiliated non-current assets,Proceeds from sales of affiliated non-current assets-InvCF-HWY
-380,jppfs_cor:PurchaseOfInvestmentSecuritiesInvCF,投資有価証券の取得による支出、投資活動によるキャッシュ・フロー,Purchase of investment securities,Purchase of investment securities-InvCF
-381,jppfs_cor:ProceedsFromSalesOfInvestmentSecuritiesInvCF,投資有価証券の売却による収入、投資活動によるキャッシュ・フロー,Proceeds from sales of investment securities,Proceeds from sales of investment securities-InvCF
-382,jppfs_cor:OtherNetInvCF,その他、投資活動によるキャッシュ・フロー,"Other, net","Other, net-InvCF"
-383,jppfs_cor:NetCashProvidedByUsedInInvestmentActivities,投資活動によるキャッシュ・フロー,Net cash provided by (used in) investing activities,Net cash provided by (used in) investing activities
-384,jppfs_cor:NetCashProvidedByUsedInFinancingActivitiesAbstract,財務活動によるキャッシュ・フロー [タイトル項目],Cash flows from financing activities,Cash flows from financing activities [abstract]
-385,jppfs_cor:ProceedsFromIssuanceOfRoadBuildingBondsFinCFHWY,道路建設関係社債発行による収入、財務活動によるキャッシュ・フロー、高速道路事業,Proceeds from issuance of road-building bonds,Proceeds from issuance of road-building bonds-FinCF-HWY
-386,jppfs_cor:RedemptionOfRoadBuildingBondsFinCFHWY,道路建設関係社債償還による支出、財務活動によるキャッシュ・フロー、高速道路事業,Redemption of road-building bonds,Redemption of road-building bonds-FinCF-HWY
-387,jppfs_cor:ProceedsFromIssuanceOfOtherBondsFinCFHWY,その他の社債発行による収入、財務活動によるキャッシュ・フロー、高速道路事業,Proceeds from issuance of other bonds,Proceeds from issuance of other bonds-FinCF-HWY
-388,jppfs_cor:RedemptionOfOtherBondsFinCFHWY,その他の社債償還による支出、財務活動によるキャッシュ・フロー、高速道路事業,Redemption of other bonds,Redemption of other bonds-FinCF-HWY
-389,jppfs_cor:ProceedsFromLongTermLoansPayableFinCF,長期借入れによる収入、財務活動によるキャッシュ・フロー,Proceeds from long-term loans payable,Proceeds from long-term loans payable-FinCF
-390,jppfs_cor:RepaymentOfLongTermLoansPayableFinCF,長期借入金の返済による支出、財務活動によるキャッシュ・フロー,Repayments of long-term loans payable,Repayments of long-term loans payable-FinCF
-391,jppfs_cor:CashDividendsPaidFinCF,配当金の支払額、財務活動によるキャッシュ・フロー,Cash dividends paid,Cash dividends paid-FinCF
-392,jppfs_cor:OtherNetFinCF,その他、財務活動によるキャッシュ・フロー,"Other, net","Other, net-FinCF"
-393,jppfs_cor:NetCashProvidedByUsedInFinancingActivities,財務活動によるキャッシュ・フロー,Net cash provided by (used in) financing activities,Net cash provided by (used in) financing activities
-394,jppfs_cor:EffectOfExchangeRateChangeOnCashAndCashEquivalents,現金及び現金同等物に係る換算差額,Effect of exchange rate change on cash and cash equivalents,Effect of exchange rate change on cash and cash equivalents
-395,jppfs_cor:NetIncreaseDecreaseInCashAndCashEquivalents,現金及び現金同等物の増減額（△は減少）,Net increase (decrease) in cash and cash equivalents,Net increase (decrease) in cash and cash equivalents
-396,jppfs_cor:CashAndCashEquivalents,現金及び現金同等物の残高,Cash and cash equivalents,Cash and cash equivalents
+タクソノミ,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:BalanceSheetAbstract,貸借対照表 [タイトル項目],Balance sheet,Balance sheet [abstract]
+jppfs_cor:BalanceSheetTable,貸借対照表 [表],Balance sheet,Balance sheet [table]
+jppfs_cor:BalanceSheetLineItems,貸借対照表 [表示項目],Balance sheet,Balance sheet [line items]
+jppfs_cor:AssetsAbstract,資産の部 [タイトル項目],Assets,Assets [abstract]
+jppfs_cor:CurrentAssetsAbstract,流動資産 [タイトル項目],Current assets,Current assets [abstract]
+jppfs_cor:CashAndDeposits,現金及び預金,Cash and deposits,Cash and deposits
+jppfs_cor:NotesReceivableTrade,受取手形,Notes receivable - trade,Notes receivable-trade
+jppfs_cor:OperatingAccountsReceivableOfHighwayBusinessCAHWY,高速道路事業営業未収入金、流動資産、高速道路事業,Operating accounts receivable of highway business,Operating accounts receivable of highway business-CA-HWY
+jppfs_cor:AccountsReceivableOther,未収入金,Accounts receivable - other,Accounts receivable-other
+jppfs_cor:AccruedIncome,未収収益,Accrued income,Accrued income
+jppfs_cor:ShortTermLoansReceivable,短期貸付金,Short-term loans receivable,Short-term loans receivable
+jppfs_cor:ShortTermInvestmentSecurities,有価証券,Securities,Securities
+jppfs_cor:Inventories,たな卸資産,Inventories,Inventories
+jppfs_cor:HighwayAssetsInProcessCAHWY,仕掛道路資産、流動資産、高速道路事業,Highway assets in process,Highway assets in process-CA-HWY
+jppfs_cor:RawMaterials,原材料,Raw materials,Raw materials
+jppfs_cor:Supplies,貯蔵品,Supplies,Supplies
+jppfs_cor:OtherInventories,その他のたな卸資産,Other inventories,Other inventories
+jppfs_cor:AdvancePaymentsForHighwayManagementHWY,高速道路事業受託業務前払金、流動資産、高速道路事業,Advance payments for highway management,Advance payments for highway management-HWY
+jppfs_cor:AdvancePaymentsForManagementCAHWY,受託業務前払金、流動資産、高速道路事業,Advance payments for management,Advance payments for management-CA-HWY
+jppfs_cor:AdvancePaymentsCAHWY,前払金、流動資産、高速道路事業,Advance payments,Advance payments-CA-HWY
+jppfs_cor:PrepaidExpenses,前払費用,Prepaid expenses,Prepaid expenses
+jppfs_cor:DeferredTaxAssetsCA,繰延税金資産、流動資産,Deferred tax assets,Deferred tax assets-CA
+jppfs_cor:OtherCA,その他、流動資産,Other,Other-CA
+jppfs_cor:AllowanceForDoubtfulAccountsCA,貸倒引当金、流動資産、一括控除,Allowance for doubtful accounts,Allowance for doubtful accounts-CA-by group
+jppfs_cor:CurrentAssets,流動資産,Current assets,Current assets
+jppfs_cor:NoncurrentAssetsAbstract,固定資産 [タイトル項目],Non-current assets,Non-current assets [abstract]
+jppfs_cor:NoncurrentAssetsHighwayBusinessNCAAbstractHWY,高速道路事業固定資産、高速道路事業 [タイトル項目],Non-current assets - highway business,Non-current assets - highway business-NCA-HWY [abstract]
+jppfs_cor:PropertyPlantAndEquipmentHighwayBusinessNCAAbstractHWY,有形固定資産、高速道路事業固定資産、高速道路事業 [タイトル項目],"Property, plant and equipment","Property, plant and equipment-highway business-NCA-HWY [abstract]"
+jppfs_cor:BuildingsHighwayBusinessNCAHWY,建物、高速道路事業固定資産、高速道路事業,Buildings,Buildings-highway business-NCA-HWY
+jppfs_cor:AccumulatedDepreciationBuildingHighwayBusinessNCAHWY,減価償却累計額、建物、高速道路事業固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-building-highway business-NCA-HWY
+jppfs_cor:AccumulatedImpairmentLossBuildingsHighwayBusinessNCAHWY,減損損失累計額、建物、高速道路事業固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-buildings-highway business-NCA-HWY
+jppfs_cor:AccumulatedDepreciationAndImpairmentLossBuildingsHighwayBusinessNCAHWY,減価償却累計額及び減損損失累計額、建物、高速道路事業固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-buildings-highway business-NCA-HWY
+jppfs_cor:BuildingsNetHighwayBusinessNCAHWY,建物（純額）、高速道路事業固定資産、高速道路事業,"Buildings, net","Buildings, net-highway business-NCA-HWY"
+jppfs_cor:StructuresHighwayBusinessNCAHWY,構築物、高速道路事業固定資産、高速道路事業,Structures,Structures-highway business-NCA-HWY
+jppfs_cor:AccumulatedDepreciationStructuresHighwayBusinessNCAHWY,減価償却累計額、構築物、高速道路事業固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-structures-highway business-NCA-HWY
+jppfs_cor:AccumulatedImpairmentLossStructuresHighwayBusinessNCAHWY,減損損失累計額、構築物、高速道路事業固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-structures-highway business-NCA-HWY
+jppfs_cor:AccumulatedDepreciationAndImpairmentLossStructuresHighwayBusinessNCAHWY,減価償却累計額及び減損損失累計額、構築物、高速道路事業固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-structures-highway business-NCA-HWY
+jppfs_cor:StructuresNetHighwayBusinessNCAHWY,構築物（純額）、高速道路事業固定資産、高速道路事業,"Structures, net","Structures, net-highway business-NCA-HWY"
+jppfs_cor:MachineryAndEquipmentHighwayBusinessNCAHWY,機械及び装置、高速道路事業固定資産、高速道路事業,Machinery and equipment,Machinery and equipment-highway business-NCA-HWY
+jppfs_cor:AccumulatedDepreciationMachineryAndEquipmentHighwayBusinessNCAHWY,減価償却累計額、機械及び装置、高速道路事業固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-machinery and equipment-highway business-NCA-HWY
+jppfs_cor:AccumulatedImpairmentLossMachineryAndEquipmentHighwayBusinessNCAHWY,減損損失累計額、機械及び装置、高速道路事業固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-machinery and equipment-highway business-NCA-HWY
+jppfs_cor:AccumulatedDepreciationAndImpairmentLossMachineryAndEquipmentHighwayBusinessNCAHWY,減価償却累計額及び減損損失累計額、機械及び装置、高速道路事業固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-machinery and equipment-highway business-NCA-HWY
+jppfs_cor:MachineryAndEquipmentNetHighwayBusinessNCAHWY,機械及び装置（純額）、高速道路事業固定資産、高速道路事業,"Machinery and equipment, net","Machinery and equipment, net-highway business-NCA-HWY"
+jppfs_cor:VehiclesHighwayBusinessNCAHWY,車両運搬具、高速道路事業固定資産、高速道路事業,Vehicles,Vehicles-highway business-NCA-HWY
+jppfs_cor:AccumulatedDepreciationVehiclesHighwayBusinessNCAHWY,減価償却累計額、車両運搬具、高速道路事業固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-vehicles-highway business-NCA-HWY
+jppfs_cor:AccumulatedImpairmentLossVehiclesHighwayBusinessNCAHWY,減損損失累計額、車両運搬具、高速道路事業固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-vehicles-highway business-NCA-HWY
+jppfs_cor:AccumulatedDepreciationAndImpairmentLossVehiclesHighwayBusinessNCAHWY,減価償却累計額及び減損損失累計額、車両運搬具、高速道路事業固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-vehicles-highway business-NCA-HWY
+jppfs_cor:VehiclesNetHighwayBusinessNCAHWY,車両運搬具（純額）、高速道路事業固定資産、高速道路事業,"Vehicles, net","Vehicles, net-highway business-NCA-HWY"
+jppfs_cor:ToolsFurnitureAndFixturesHighwayBusinessNCAHWY,工具、器具及び備品、高速道路事業固定資産、高速道路事業,"Tools, furniture and fixtures","Tools, furniture and fixtures-highway business-NCA-HWY"
+jppfs_cor:AccumulatedDepreciationToolsFurnitureAndFixturesHighwayBusinessNCAHWY,減価償却累計額、工具、器具及び備品、高速道路事業固定資産、高速道路事業,Accumulated depreciation,"Accumulated depreciation-tools, furniture and fixtures-highway business-NCA-HWY"
+jppfs_cor:AccumulatedImpairmentLossToolsFurnitureAndFixturesHighwayBusinessNCAHWY,減損損失累計額、工具、器具及び備品、高速道路事業固定資産、高速道路事業,Accumulated impairment loss,"Accumulated impairment loss-tools, furniture and fixtures-highway business-NCA-HWY"
+jppfs_cor:AccumulatedDepreciationAndImpairmentLossToolsFurnitureAndFixturesHighwayBusinessNCAHWY,減価償却累計額及び減損損失累計額、工具、器具及び備品、高速道路事業固定資産、高速道路事業,Accumulated depreciation and impairment loss,"Accumulated depreciation and impairment loss-tools, furniture and fixtures-highway business-NCA-HWY"
+jppfs_cor:ToolsFurnitureAndFixturesNetHighwayBusinessNCAHWY,工具、器具及び備品（純額）、高速道路事業固定資産、高速道路事業,"Tools, furniture and fixtures, net","Tools, furniture and fixtures, net-highway business-NCA-HWY"
+jppfs_cor:LandHighwayBusinessNCAHWY,土地、高速道路事業固定資産、高速道路事業,Land,Land-highway business-NCA-HWY
+jppfs_cor:ConstructionInProgressHighwayBusinessNCAHWY,建設仮勘定、高速道路事業固定資産、高速道路事業,Construction in progress,Construction in progress-highway business-NCA-HWY
+jppfs_cor:AccumulatedDepreciationPPEByGroupHighwayBusinessNCAHWY,減価償却累計額、有形固定資産、一括控除、高速道路事業固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-PPE-by group-highway business-NCA-HWY
+jppfs_cor:AccumulatedImpairmentLossPPEByGroupHighwayBusinessNCAHWY,減損損失累計額、有形固定資産、一括控除、高速道路事業固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-PPE-by group-highway business-NCA-HWY
+jppfs_cor:AccumulatedDepreciationAndImpairmentLossPPEByGroupHighwayBusinessNCAHWY,減価償却累計額及び減損損失累計額、有形固定資産、一括控除、高速道路事業固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-PPE-by group-highway business-NCA-HWY
+jppfs_cor:PropertyPlantAndEquipmentHighwayBusinessNCAHWY,有形固定資産、高速道路事業固定資産、高速道路事業,"Property, plant and equipment","Property, plant and equipment-highway business-NCA-HWY"
+jppfs_cor:IntangibleAssetsHighwayBusinessNCAAbstractHWY,無形固定資産、高速道路事業固定資産、高速道路事業 [タイトル項目],Intangible assets,Intangible assets-highway business-NCA-HWY [abstract]
+jppfs_cor:IntangibleAssetsHighwayBusinessNCAHWY,無形固定資産、高速道路事業固定資産、高速道路事業,Intangible assets,Intangible assets-highway business-NCA-HWY
+jppfs_cor:NoncurrentAssetsHighwayBusinessNCAHWY,高速道路事業固定資産、高速道路事業,Non-current assets,Non-current assets-highway business-NCA-HWY
+jppfs_cor:NoncurrentAssetsRelatedAbstractHWY,関連事業固定資産、高速道路事業 [タイトル項目],Non-current assets - related,Non-current assets - related-HWY [abstract]
+jppfs_cor:PropertyPlantAndEquipmentNCARelatedAbstractHWY,有形固定資産、関連事業固定資産、高速道路事業 [タイトル項目],"Property, plant and equipment","Property, plant and equipment-NCA-related-HWY [abstract]"
+jppfs_cor:BuildingsNCARelatedHWY,建物、関連事業固定資産、高速道路事業,Buildings,Buildings-NCA-related-HWY
+jppfs_cor:AccumulatedDepreciationBuildingNCARelatedHWY,減価償却累計額、建物、関連事業固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-building-NCA-related-HWY
+jppfs_cor:AccumulatedImpairmentLossBuildingsNCARelatedHWY,減損損失累計額、建物、関連事業固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-buildings-NCA-related-HWY
+jppfs_cor:AccumulatedDepreciationAndImpairmentLossBuildingsNCARelatedHWY,減価償却累計額及び減損損失累計額、建物、関連事業固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-buildings-NCA-related-HWY
+jppfs_cor:BuildingsNetNCARelatedHWY,建物（純額）、関連事業固定資産、高速道路事業,"Buildings, net","Buildings, net-NCA-related-HWY"
+jppfs_cor:StructuresNCARelatedHWY,構築物、関連事業固定資産、高速道路事業,Structures,Structures-NCA-related-HWY
+jppfs_cor:AccumulatedDepreciationStructuresNCARelatedHWY,減価償却累計額、構築物、関連事業固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-structures-NCA-related-HWY
+jppfs_cor:AccumulatedImpairmentLossStructuresNCARelatedHWY,減損損失累計額、構築物、関連事業固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-structures-NCA-related-HWY
+jppfs_cor:AccumulatedDepreciationAndImpairmentLossStructuresNCARelatedHWY,減価償却累計額及び減損損失累計額、構築物、関連事業固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-structures-NCA-related-HWY
+jppfs_cor:StructuresNetNCARelatedHWY,構築物（純額）、関連事業固定資産、高速道路事業,"Structures, net","Structures, net-NCA-related-HWY"
+jppfs_cor:MachineryAndEquipmentNCARelatedHWY,機械及び装置、関連事業固定資産、高速道路事業,Machinery and equipment,Machinery and equipment-NCA-related-HWY
+jppfs_cor:AccumulatedDepreciationMachineryAndEquipmentNCARelatedHWY,減価償却累計額、機械及び装置、関連事業固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-machinery and equipment-NCA-related-HWY
+jppfs_cor:AccumulatedImpairmentLossMachineryAndEquipmentNCARelatedHWY,減損損失累計額、機械及び装置、関連事業固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-machinery and equipment-NCA-related-HWY
+jppfs_cor:AccumulatedDepreciationAndImpairmentLossMachineryAndEquipmentNCARelatedHWY,減価償却累計額及び減損損失累計額、機械及び装置、関連事業固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-machinery and equipment-NCA-related-HWY
+jppfs_cor:MachineryAndEquipmentNetNCARelatedHWY,機械及び装置（純額）、関連事業固定資産、高速道路事業,"Machinery and equipment, net","Machinery and equipment, net-NCA-related-HWY"
+jppfs_cor:VehiclesNCARelatedHWY,車両運搬具、関連事業固定資産、高速道路事業,Vehicles,Vehicles-NCA-related-HWY
+jppfs_cor:AccumulatedDepreciationVehiclesNCARelatedHWY,減価償却累計額、車両運搬具、関連事業固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-vehicles-NCA-related-HWY
+jppfs_cor:AccumulatedImpairmentLossVehiclesNCARelatedHWY,減損損失累計額、車両運搬具、関連事業固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-vehicles-NCA-related-HWY
+jppfs_cor:AccumulatedDepreciationAndImpairmentLossVehiclesNCARelatedHWY,減価償却累計額及び減損損失累計額、車両運搬具、関連事業固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-vehicles-NCA-related-HWY
+jppfs_cor:VehiclesNetNCARelatedHWY,車両運搬具（純額）、関連事業固定資産、高速道路事業,"Vehicles, net","Vehicles, net-NCA-related-HWY"
+jppfs_cor:ToolsFurnitureAndFixturesNCARelatedHWY,工具、器具及び備品、関連事業固定資産、高速道路事業,"Tools, furniture and fixtures","Tools, furniture and fixtures-NCA-related-HWY"
+jppfs_cor:AccumulatedDepreciationToolsFurnitureAndFixturesNCARelatedHWY,減価償却累計額、工具、器具及び備品、関連事業固定資産、高速道路事業,Accumulated depreciation,"Accumulated depreciation-tools, furniture and fixtures-NCA-related-HWY"
+jppfs_cor:AccumulatedImpairmentLossToolsFurnitureAndFixturesNCARelatedHWY,減損損失累計額、工具、器具及び備品、関連事業固定資産、高速道路事業,Accumulated impairment loss,"Accumulated impairment loss-tools, furniture and fixtures-NCA-related-HWY"
+jppfs_cor:AccumulatedDepreciationAndImpairmentLossToolsFurnitureAndFixturesNCARelatedHWY,減価償却累計額及び減損損失累計額、工具、器具及び備品、関連事業固定資産、高速道路事業,Accumulated depreciation and impairment loss,"Accumulated depreciation and impairment loss-tools, furniture and fixtures-NCA-related-HWY"
+jppfs_cor:ToolsFurnitureAndFixturesNetNCARelatedHWY,工具、器具及び備品（純額）、関連事業固定資産、高速道路事業,"Tools, furniture and fixtures, net","Tools, furniture and fixtures, net-NCA-related-HWY"
+jppfs_cor:LandNCARelatedHWY,土地、関連事業固定資産、高速道路事業,Land,Land-NCA-related-HWY
+jppfs_cor:ConstructionInProgressNCARelatedHWY,建設仮勘定、関連事業固定資産、高速道路事業,Construction in progress,Construction in progress-NCA-related-HWY
+jppfs_cor:AccumulatedDepreciationPPEByGroupNCARelatedHWY,減価償却累計額、有形固定資産、一括控除、関連事業固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-PPE-by group-NCA-related-HWY
+jppfs_cor:AccumulatedImpairmentLossPPEByGroupNCARelatedHWY,減損損失累計額、有形固定資産、一括控除、関連事業固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-PPE-by group-NCA-related-HWY
+jppfs_cor:AccumulatedDepreciationAndImpairmentLossPPEByGroupNCARelatedHWY,減価償却累計額及び減損損失累計額、有形固定資産、一括控除、関連事業固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-PPE-by group-NCA-related-HWY
+jppfs_cor:PropertyPlantAndEquipmentNCARelatedHWY,有形固定資産、関連事業固定資産、高速道路事業,"Property, plant and equipment","Property, plant and equipment-NCA-related-HWY"
+jppfs_cor:IntangibleAssetsNCARelatedAbstractHWY,無形固定資産、関連事業固定資産、高速道路事業 [タイトル項目],Intangible assets,Intangible assets-NCA-related-HWY [abstract]
+jppfs_cor:IntangibleAssetsNCARelatedHWY,無形固定資産、関連事業固定資産、高速道路事業,Intangible assets,Intangible assets-NCA-related-HWY
+jppfs_cor:NoncurrentAssetsRelatedHWY,関連事業固定資産、高速道路事業,Non-current assets - related,Non-current assets - related-HWY
+jppfs_cor:NoncurrentAssetsAffiliatedAbstractHWY,各事業共用固定資産、高速道路事業 [タイトル項目],Non-current assets - affiliated,Non-current assets - affiliated-HWY [abstract]
+jppfs_cor:PropertyPlantAndEquipmentNCAAffiliatedAbstractHWY,有形固定資産、各事業共用固定資産、高速道路事業 [タイトル項目],"Property, plant and equipment","Property, plant and equipment-NCA-affiliated-HWY [abstract]"
+jppfs_cor:BuildingsNCAAffiliatedHWY,建物、各事業共用固定資産、高速道路事業,Buildings,Buildings-NCA-affiliated-HWY
+jppfs_cor:AccumulatedDepreciationBuildingNCAAffiliatedHWY,減価償却累計額、建物、各事業共用固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-building-NCA-affiliated-HWY
+jppfs_cor:AccumulatedImpairmentLossBuildingsNCAAffiliatedHWY,減損損失累計額、建物、各事業共用固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-buildings-NCA-affiliated-HWY
+jppfs_cor:AccumulatedDepreciationAndImpairmentLossBuildingsNCAAffiliatedHWY,減価償却累計額及び減損損失累計額、建物、各事業共用固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-buildings-NCA-affiliated-HWY
+jppfs_cor:BuildingsNetNCAAffiliatedHWY,建物（純額）、各事業共用固定資産、高速道路事業,"Buildings, net","Buildings, net-NCA-affiliated-HWY"
+jppfs_cor:StructuresNCAAffiliatedHWY,構築物、各事業共用固定資産、高速道路事業,Structures,Structures-NCA-affiliated-HWY
+jppfs_cor:AccumulatedDepreciationStructuresNCAAffiliatedHWY,減価償却累計額、構築物、各事業共用固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-structures-NCA-affiliated-HWY
+jppfs_cor:AccumulatedImpairmentLossStructuresNCAAffiliatedHWY,減損損失累計額、構築物、各事業共用固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-structures-NCA-affiliated-HWY
+jppfs_cor:AccumulatedDepreciationAndImpairmentLossStructuresNCAAffiliatedHWY,減価償却累計額及び減損損失累計額、構築物、各事業共用固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-structures-NCA-affiliated-HWY
+jppfs_cor:StructuresNetNCAAffiliatedHWY,構築物（純額）、各事業共用固定資産、高速道路事業,"Structures, net","Structures, net-NCA-affiliated-HWY"
+jppfs_cor:MachineryAndEquipmentNCAAffiliatedHWY,機械及び装置、各事業共用固定資産、高速道路事業,Machinery and equipment,Machinery and equipment-NCA-affiliated-HWY
+jppfs_cor:AccumulatedDepreciationMachineryAndEquipmentNCAAffiliatedHWY,減価償却累計額、機械及び装置、各事業共用固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-machinery and equipment-NCA-affiliated-HWY
+jppfs_cor:AccumulatedImpairmentLossMachineryAndEquipmentNCAAffiliatedHWY,減損損失累計額、機械及び装置、各事業共用固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-machinery and equipment-NCA-affiliated-HWY
+jppfs_cor:AccumulatedDepreciationAndImpairmentLossMachineryAndEquipmentNCAAffiliatedHWY,減価償却累計額及び減損損失累計額、機械及び装置、各事業共用固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-machinery and equipment-NCA-affiliated-HWY
+jppfs_cor:MachineryAndEquipmentNetNCAAffiliatedHWY,機械及び装置（純額）、各事業共用固定資産、高速道路事業,"Machinery and equipment, net","Machinery and equipment, net-NCA-affiliated-HWY"
+jppfs_cor:VehiclesNCAAffiliatedHWY,車両運搬具、各事業共用固定資産、高速道路事業,Vehicles,Vehicles-NCA-affiliated-HWY
+jppfs_cor:AccumulatedDepreciationVehiclesNCAAffiliatedHWY,減価償却累計額、車両運搬具、各事業共用固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-vehicles-NCA-affiliated-HWY
+jppfs_cor:AccumulatedImpairmentLossVehiclesNCAAffiliatedHWY,減損損失累計額、車両運搬具、各事業共用固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-vehicles-NCA-affiliated-HWY
+jppfs_cor:AccumulatedDepreciationAndImpairmentLossVehiclesNCAAffiliatedHWY,減価償却累計額及び減損損失累計額、車両運搬具、各事業共用固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-vehicles-NCA-affiliated-HWY
+jppfs_cor:VehiclesNetNCAAffiliatedHWY,車両運搬具（純額）、各事業共用固定資産、高速道路事業,"Vehicles, net","Vehicles, net-NCA-affiliated-HWY"
+jppfs_cor:ToolsFurnitureAndFixturesNCAAffiliatedHWY,工具、器具及び備品、各事業共用固定資産、高速道路事業,"Tools, furniture and fixtures","Tools, furniture and fixtures-NCA-affiliated-HWY"
+jppfs_cor:AccumulatedDepreciationToolsFurnitureAndFixturesNCAAffiliatedHWY,減価償却累計額、工具、器具及び備品、各事業共用固定資産、高速道路事業,Accumulated depreciation,"Accumulated depreciation-tools, furniture and fixtures-NCA-affiliated-HWY"
+jppfs_cor:AccumulatedImpairmentLossToolsFurnitureAndFixturesNCAAffiliatedHWY,減損損失累計額、工具、器具及び備品、各事業共用固定資産、高速道路事業,Accumulated impairment loss,"Accumulated impairment loss-tools, furniture and fixtures-NCA-affiliated-HWY"
+jppfs_cor:AccumulatedDepreciationAndImpairmentLossToolsFurnitureAndFixturesNCAAffiliatedHWY,減価償却累計額及び減損損失累計額、工具、器具及び備品、各事業共用固定資産、高速道路事業,Accumulated depreciation and impairment loss,"Accumulated depreciation and impairment loss-tools, furniture and fixtures-NCA-affiliated-HWY"
+jppfs_cor:ToolsFurnitureAndFixturesNetNCAAffiliatedHWY,工具、器具及び備品（純額）、各事業共用固定資産、高速道路事業,"Tools, furniture and fixtures, net","Tools, furniture and fixtures, net-NCA-affiliated-HWY"
+jppfs_cor:LandNCAAffiliatedHWY,土地、各事業共用固定資産、高速道路事業,Land,Land-NCA-affiliated-HWY
+jppfs_cor:ConstructionInProgressNCAAffiliatedHWY,建設仮勘定、各事業共用固定資産、高速道路事業,Construction in progress,Construction in progress-NCA-affiliated-HWY
+jppfs_cor:AccumulatedDepreciationPPEByGroupNCAAffiliatedHWY,減価償却累計額、有形固定資産、一括控除、各事業共用固定資産、高速道路事業,Accumulated depreciation,Accumulated depreciation-PPE-by group-NCA-affiliated-HWY
+jppfs_cor:AccumulatedImpairmentLossPPEByGroupNCAAffiliatedHWY,減損損失累計額、有形固定資産、一括控除、各事業共用固定資産、高速道路事業,Accumulated impairment loss,Accumulated impairment loss-PPE-by group-NCA-affiliated-HWY
+jppfs_cor:AccumulatedDepreciationAndImpairmentLossPPEByGroupNCAAffiliatedHWY,減価償却累計額及び減損損失累計額、有形固定資産、一括控除、各事業共用固定資産、高速道路事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-PPE-by group-NCA-affiliated-HWY
+jppfs_cor:PropertyPlantAndEquipmentNCAAffiliatedHWY,有形固定資産、各事業共用固定資産、高速道路事業,"Property, plant and equipment","Property, plant and equipment-NCA-affiliated-HWY"
+jppfs_cor:IntangibleAssetsNCAAffiliatedAbstractHWY,無形固定資産、各事業共用固定資産、高速道路事業 [タイトル項目],Intangible assets,Intangible assets-NCA-affiliated-HWY [abstract]
+jppfs_cor:IntangibleAssetsNCAAffiliatedHWY,無形固定資産、各事業共用固定資産、高速道路事業,Intangible assets,Intangible assets-NCA-affiliated-HWY
+jppfs_cor:NoncurrentAssetsAffiliatedHWY,各事業共用固定資産、高速道路事業,Non-current assets - affiliated,Non-current assets - affiliated-HWY
+jppfs_cor:OtherNoncurrentAssetsAbstractHWY,その他の固定資産、高速道路事業 [タイトル項目],Other non-current assets,Other non-current assets-HWY [abstract]
+jppfs_cor:PropertyPlantAndEquipmentOtherNoncurrentAssetsAbstractHWY,有形固定資産、その他の固定資産、高速道路事業 [タイトル項目],"Property, plant and equipment","Property, plant and equipment-other noncurrent assets-HWY [abstract]"
+jppfs_cor:PropertyPlantAndEquipmentOtherNoncurrentAssetsHWY,有形固定資産、その他の固定資産、高速道路事業,"Property, plant and equipment","Property, plant and equipment-other noncurrent assets-HWY"
+jppfs_cor:OtherNoncurrentAssetsHWY,その他の固定資産、高速道路事業,Other non-current assets,Other non-current assets-HWY
+jppfs_cor:InvestmentsAndOtherAssetsAbstract,投資その他の資産 [タイトル項目],Investments and other assets,Investments and other assets [abstract]
+jppfs_cor:StocksOfSubsidiariesAndAffiliates,関係会社株式,Shares of subsidiaries and associates,Shares of subsidiaries and associates
+jppfs_cor:InvestmentSecurities,投資有価証券,Investment securities,Investment securities
+jppfs_cor:InvestmentsInCapitalOfSubsidiariesAndAffiliates,関係会社出資金,Investments in capital of subsidiaries and associates,Investments in capital of subsidiaries and associates
+jppfs_cor:InvestmentsInCapital,出資金,Investments in capital,Investments in capital
+jppfs_cor:LongTermLoansReceivable,長期貸付金,Long-term loans receivable,Long-term loans receivable
+jppfs_cor:LongTermPrepaidExpenses,長期前払費用,Long-term prepaid expenses,Long-term prepaid expenses
+jppfs_cor:DeferredTaxAssetsIOA,繰延税金資産、投資その他の資産,Deferred tax assets,Deferred tax assets-IOA
+jppfs_cor:OtherIOA,その他、投資その他の資産,Other,Other-IOA
+jppfs_cor:AllowanceForDoubtfulAccountsIOAByGroup,貸倒引当金、投資その他の資産、一括控除,Allowance for doubtful accounts,Allowance for doubtful accounts-IOA-by group
+jppfs_cor:InvestmentsAndOtherAssets,投資その他の資産,Investments and other assets,Investments and other assets
+jppfs_cor:NoncurrentAssets,固定資産,Non-current assets,Non-current assets
+jppfs_cor:DeferredAssetsAbstract,繰延資産 [タイトル項目],Deferred assets,Deferred assets [abstract]
+jppfs_cor:DeferredOrganizationExpensesDA,創立費、繰延資産,Deferred organization expenses,Deferred organization expenses-DA
+jppfs_cor:BusinessCommencementExpensesDA,開業費、繰延資産,Business commencement expenses,Business commencement expenses-DA
+jppfs_cor:DevelopmentExpensesDA,開発費、繰延資産,Development expenses,Development expenses-DA
+jppfs_cor:StockIssuanceCostDA,株式交付費、繰延資産,Share issuance cost,Share issuance cost-DA
+jppfs_cor:RoadBuildingBondIssuanceCostDAHWY,道路建設関係社債発行費、繰延資産、高速道路事業,Road-building bond issuance cost,Road-building bond issuance cost-DA-HWY
+jppfs_cor:OtherBondIssuanceCostDAHWY,その他の社債発行費、繰延資産、高速道路事業,Other bond issuance cost,Other bond issuance cost-DA-HWY
+jppfs_cor:DeferredAssets,繰延資産,Deferred assets,Deferred assets
+jppfs_cor:Assets,資産,Assets,Assets
+jppfs_cor:LiabilitiesAbstract,負債の部 [タイトル項目],Liabilities,Liabilities [abstract]
+jppfs_cor:CurrentLiabilitiesAbstract,流動負債 [タイトル項目],Current liabilities,Current liabilities [abstract]
+jppfs_cor:NotesPayableTrade,支払手形,Notes payable - trade,Notes payable-trade
+jppfs_cor:OperatingAccountsPayableHighwayBusinessCLHWY,高速道路事業営業未払金、流動負債、高速道路事業,Operating accounts payable - highway business,Operating accounts payable-highway business-CL-HWY
+jppfs_cor:ShortTermLoansPayable,短期借入金,Short-term loans payable,Short-term loans payable
+jppfs_cor:CurrentPortionOfLongTermLoansPayable,1年内返済予定の長期借入金,Current portion of long-term loans payable,Current portion of long-term loans payable
+jppfs_cor:CurrentPortionOfBonds,1年内償還予定の社債,Current portion of bonds,Current portion of bonds
+jppfs_cor:AccountsPayableOther,未払金,Accounts payable - other,Accounts payable-other
+jppfs_cor:AccruedExpenses,未払費用,Accrued expenses,Accrued expenses
+jppfs_cor:IncomeTaxesPayable,未払法人税等,Income taxes payable,Income taxes payable
+jppfs_cor:DeferredTaxLiabilitiesCL,繰延税金負債、流動負債,Deferred tax liabilities,Deferred tax liabilities-CL
+jppfs_cor:InterLineFaresReceivedCLHWY,預り連絡料金、流動負債、高速道路事業,Inter-line fares received,Inter-line fares received-CL-HWY
+jppfs_cor:DepositsReceived,預り金,Deposits received,Deposits received
+jppfs_cor:AdvancesReceivedForHighwayManagementHWY,高速道路事業受託業務前受金、流動負債、高速道路事業,Advances received for highway management,Advances received for highway management-HWY
+jppfs_cor:AdvancesReceivedForManagementCLHWY,受託業務前受金、流動負債、高速道路事業,Advances received for management,Advances received for management-CL-HWY
+jppfs_cor:AdvancesReceived,前受金,Advances received,Advances received
+jppfs_cor:UnearnedRevenue,前受収益,Unearned revenue,Unearned revenue
+jppfs_cor:ProvisionForDirectorsBonuses,役員賞与引当金,Provision for bonuses for directors (and other officers),Provision for bonuses for directors (and other officers)
+jppfs_cor:ProvisionForBonuses,賞与引当金,Provision for bonuses,Provision for bonuses
+jppfs_cor:ProvisionForLossOnForgedHighwayCardCLHWY,ハイウェイカード偽造損失補てん引当金、流動負債、高速道路事業,Provision for loss on forged highway card,Provision for loss on forged highway card-CL-HWY
+jppfs_cor:ProvisionForRepaymentForCouponTicketsCLHWY,回数券払戻引当金、流動負債、高速道路事業,Provision for repayment for coupon tickets,Provision for repayment for coupon tickets-CL-HWY
+jppfs_cor:OtherCL,その他、流動負債,Other,Other-CL
+jppfs_cor:CurrentLiabilities,流動負債,Current liabilities,Current liabilities
+jppfs_cor:NoncurrentLiabilitiesAbstract,固定負債 [タイトル項目],Non-current liabilities,Non-current liabilities [abstract]
+jppfs_cor:RoadBuildingBondsPayableNCLHWY,道路建設関係社債、固定負債、高速道路事業,Road-building bonds payable,Road-building bonds payable-NCL-HWY
+jppfs_cor:OtherBondsPayableNCLHWY,その他の社債、固定負債、高速道路事業,Other bonds payable,Other bonds payable-NCL-HWY
+jppfs_cor:LongTermLoansPayableToRoadBuildingNCLHWY,道路建設関係長期借入金、固定負債、高速道路事業,Long-term loans payable to road-building,Long-term loans payable to road-building-NCL-HWY
+jppfs_cor:OtherLongTermLoansPayableNCLHWY,その他の長期借入金、固定負債、高速道路事業,Other long-term loans payable,Other long-term loans payable-NCL-HWY
+jppfs_cor:DeferredTaxLiabilitiesNCL,繰延税金負債、固定負債,Deferred tax liabilities,Deferred tax liabilities-NCL
+jppfs_cor:GuaranteeDepositsReceivedNCL,受入保証金、固定負債,Guarantee deposits received,Guarantee deposits received-NCL
+jppfs_cor:ProvisionForRetirementBenefits,退職給付引当金,Provision for retirement benefits,Provision for retirement benefits
+jppfs_cor:ProvisionForDirectorsRetirementBenefits,役員退職慰労引当金,Provision for retirement benefits for directors (and other officers),Provision for retirement benefits for directors (and other officers)
+jppfs_cor:NegativeGoodwill,負ののれん,Negative goodwill,Negative goodwill
+jppfs_cor:ProvisionForETCMileageServiceNCLHWY,ETCマイレージサービス引当金、固定負債、高速道路事業,Provision for ETC mileage service,Provision for ETC mileage service-NCL-HWY
+jppfs_cor:OtherNCL,その他、固定負債,Other,Other-NCL
+jppfs_cor:NoncurrentLiabilities,固定負債,Non-current liabilities,Non-current liabilities
+jppfs_cor:Liabilities,負債,Liabilities,Liabilities
+jppfs_cor:NetAssetsAbstract,純資産の部 [タイトル項目],Net assets,Net assets [abstract]
+jppfs_cor:ShareholdersEquityAbstract,株主資本 [タイトル項目],Shareholders' equity,Shareholders' equity [abstract]
+jppfs_cor:CapitalStock,資本金,Capital stock,Capital stock
+jppfs_cor:DepositForSubscriptionsToShares,新株式申込証拠金,Deposit for subscriptions to shares,Deposit for subscriptions to shares
+jppfs_cor:CapitalSurplusAbstract,資本剰余金 [タイトル項目],Capital surplus,Capital surplus [abstract]
+jppfs_cor:LegalCapitalSurplus,資本準備金,Legal capital surplus,Legal capital surplus
+jppfs_cor:OtherCapitalSurplus,その他資本剰余金,Other capital surplus,Other capital surplus
+jppfs_cor:CapitalSurplus,資本剰余金,Capital surplus,Capital surplus
+jppfs_cor:RetainedEarningsAbstract,利益剰余金 [タイトル項目],Retained earnings,Retained earnings [abstract]
+jppfs_cor:LegalRetainedEarnings,利益準備金,Legal retained earnings,Legal retained earnings
+jppfs_cor:OtherRetainedEarningsAbstract,その他利益剰余金 [タイトル項目],Other retained earnings,Other retained earnings [abstract]
+jppfs_cor:RetainedEarningsBroughtForward,繰越利益剰余金,Retained earnings brought forward,Retained earnings brought forward
+jppfs_cor:OtherRetainedEarnings,その他利益剰余金,Other retained earnings,Other retained earnings
+jppfs_cor:RetainedEarnings,利益剰余金,Retained earnings,Retained earnings
+jppfs_cor:TreasuryStock,自己株式,Treasury shares,Treasury shares
+jppfs_cor:DepositForSubscriptionsToTreasuryStock,自己株式申込証拠金,Deposit for subscriptions to treasury shares,Deposit for subscriptions to treasury shares
+jppfs_cor:ShareholdersEquity,株主資本,Shareholders' equity,Shareholders' equity
+jppfs_cor:ValuationAndTranslationAdjustmentsAbstract,評価・換算差額等 [タイトル項目],Valuation and translation adjustments,Valuation and translation adjustments [abstract]
+jppfs_cor:ValuationDifferenceOnAvailableForSaleSecurities,その他有価証券評価差額金,Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities
+jppfs_cor:DeferredGainsOrLossesOnHedges,繰延ヘッジ損益,Deferred gains or losses on hedges,Deferred gains or losses on hedges
+jppfs_cor:RevaluationReserveForLand,土地再評価差額金,Revaluation reserve for land,Revaluation reserve for land
+jppfs_cor:ValuationAndTranslationAdjustments,評価・換算差額等,Valuation and translation adjustments,Valuation and translation adjustments
+jppfs_cor:SubscriptionRightsToShares,新株予約権,Share acquisition rights,Share acquisition rights
+jppfs_cor:NonControllingInterests,非支配株主持分,Non-controlling interests,Non-controlling interests
+jppfs_cor:NetAssets,純資産,Net assets,Net assets
+jppfs_cor:LiabilitiesAndNetAssets,負債純資産,Liabilities and net assets,Liabilities and net assets
+nan,,,
+nan,,,
+名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:StatementOfIncomeAbstract,損益計算書 [タイトル項目],Statement of income,Statement of income [abstract]
+jppfs_cor:StatementOfIncomeTable,損益計算書 [表],Statement of income,Statement of income [table]
+jppfs_cor:StatementOfIncomeLineItems,損益計算書 [表示項目],Statement of income,Statement of income [line items]
+jppfs_cor:OperatingIncomeAndLossFromHighwayBusinessAbstractHWY,高速道路事業営業損益、高速道路事業 [タイトル項目],Operating revenue and expenses from highway business,Operating revenue and expenses from highway business - HWY [abstract]
+jppfs_cor:OperatingRevenueHighwayBusinessAbstractHWY,営業収益、高速道路事業営業損益、高速道路事業 [タイトル項目],Operating revenue,Operating revenue-highway business-HWY [abstract]
+jppfs_cor:FareReceiptsOperatingRevenueHighwayBusinessHWY,料金収入、営業収益、高速道路事業営業損益、高速道路事業,Fare receipts,Fare receipts-operating revenue-highway business-HWY
+jppfs_cor:SalesOfCompletedHighwayConstructionContractsOperatingRevenueHighwayBusinessHWY,道路資産完成高、営業収益、高速道路事業営業損益、高速道路事業,Sales of completed highway construction contracts,Sales of completed highway construction contracts-operating revenue-highway business-HWY
+jppfs_cor:RevenueManagementOperatingRevenueHighwayBusinessHWY,受託業務収入、営業収益、高速道路事業営業損益、高速道路事業,Revenue - management,Revenue - management-operating revenue-highway business-HWY
+jppfs_cor:OtherSalesOperatingRevenueHighwayBusinessHWY,その他の売上高、営業収益、高速道路事業営業損益、高速道路事業,Other sales,Other sales-operating revenue-highway business-HWY
+jppfs_cor:OperatingRevenueHighwayBusinessHWY,営業収益、高速道路事業営業損益、高速道路事業,Operating revenue,Operating revenue-highway business-HWY
+jppfs_cor:OperatingExpensesHighwayBusinessAbstractHWY,営業費用、高速道路事業営業損益、高速道路事業 [タイトル項目],Operating expenses,Operating expenses-highway business-HWY [abstract]
+jppfs_cor:RentExpensesOnHighwayAssetsOperatingExpensesHighwayBusinessHWY,道路資産賃借料、営業費用、高速道路事業営業損益、高速道路事業,Rent expenses on highway assets,Rent expenses on highway assets-operating expenses-highway business-HWY
+jppfs_cor:CostOfSalesOfCompletedHighwayConstructionContractsOperatingExpenseHighwayBusinessHWY,道路資産完成原価、営業費用、高速道路事業営業損益、高速道路事業,Cost of sales of completed highway construction contracts,Cost of sales of completed highway construction contracts-operating expense-highway business-HWY
+jppfs_cor:AdministrativeExpensesOperatingExpensesHighwayBusinessHWY,管理費用、営業費用、高速道路事業営業損益、高速道路事業,Administrative expenses,Administrative expenses-operating expenses-highway business-HWY
+jppfs_cor:FiduciaryBusinessOperatingExpensesOperatingExpensesHighwayBusinessHWY,受託業務費用、営業費用、高速道路事業営業損益、高速道路事業,Fiduciary business operating expenses - management,Fiduciary business operating expenses-operating expenses-highway business-HWY
+jppfs_cor:OperatingExpensesHighwayBusinessHWY,営業費用、高速道路事業営業損益、高速道路事業,Operating expenses,Operating expenses-highway business-HWY
+jppfs_cor:OperatingIncomeFromHighwayBusinessHWY,高速道路事業営業利益又は高速道路事業営業損失（△）、高速道路事業,Operating profit (loss) from highway business,Operating profit (loss) from highway business - HWY
+jppfs_cor:OperatingIncomeAndLossRelatedOperationsHighwayBusinessAbstractHWY,関連事業営業損益、高速道路事業 [タイトル項目],Operating revenue and expenses - related operations,Operating revenue and expenses - related operations - highway business - HWY [abstract]
+jppfs_cor:OperatingRevenueRelatedOperationsHighwayBusinessAbstractHWY,営業収益、関連事業営業損益、高速道路事業 [タイトル項目],Operating revenue,Operating revenue-related operations-highway business-HWY [abstract]
+jppfs_cor:RevenueRestStationOperatingRevenueRelatedOperationsHighwayBusinessHWY,休憩所等事業収入、営業収益、関連事業営業損益、高速道路事業,Revenue - rest station,Revenue-rest station-operating revenue-related operations-highway business-HWY
+jppfs_cor:RevenueParkingOperatingRevenueRelatedOperationsHighwayBusinessHWY,駐車場事業収入、営業収益、関連事業営業損益、高速道路事業,Revenue - parking,Revenue-parking-operating revenue-related operations-highway business-HWY
+jppfs_cor:RevenueManagementOperatingRevenueRelatedOperationsHighwayBusinessHWY,受託業務収入、営業収益、関連事業営業損益、高速道路事業,Revenue - management,Revenue-management-operating revenue-related operations-highway business-HWY
+jppfs_cor:MiscellaneousOperatingRevenueOperatingRevenueRelatedOperationsHighwayBusinessHWY,営業雑収入、営業収益、関連事業営業損益、高速道路事業,Miscellaneous operating revenue,Miscellaneous operating revenue-operating revenue-related operations-highway business-HWY
+jppfs_cor:OperatingRevenueRelatedOperationsHighwayBusinessHWY,営業収益、関連事業営業損益、高速道路事業,Operating revenue - related operations,Operating revenue-related operations-highway business-HWY
+jppfs_cor:OperatingExpensesRelatedOperationsHighwayBusinessAbstractHWY,営業費用、関連事業営業損益、高速道路事業 [タイトル項目],Operating expenses,Operating expenses-related operations-highway business-HWY [abstract]
+jppfs_cor:OperatingExpensesRestStationOperatingRevenueRelatedOperationsHighwayBusinessHWY,休憩所等事業費、営業費用、関連事業営業損益、高速道路事業,Operating expenses - rest station,Operating expenses-rest station-operating revenue-related operations-highway business-HWY
+jppfs_cor:OperatingExpensesParkingOperatingRevenueRelatedOperationsHighwayBusinessHWY,駐車場事業費、営業費用、関連事業営業損益、高速道路事業,Operating expenses - parking,Operating expenses-parking-operating revenue-related operations-highway business-HWY
+jppfs_cor:OperatingExpensesManagementOperatingRevenueRelatedOperationsHighwayBusinessHWY,受託業務事業費、営業費用、関連事業営業損益、高速道路事業,Operating expenses - management,Operating expenses-management-operating revenue-related operations-highway business-HWY
+jppfs_cor:MiscellaneousOperatingExpensesOperatingExpensesRelatedOperationsHighwayBusinessHWY,営業雑費用、営業費用、関連事業営業損益、高速道路事業,Miscellaneous operating expenses,Miscellaneous operating expenses-operating expenses-related operations-highway business-HWY
+jppfs_cor:OperatingExpensesRelatedOperationsHighwayBusinessHWY,営業費用、関連事業営業損益、高速道路事業,Operating expenses - related operations,Operating expenses-related operations-highway business-HWY
+jppfs_cor:OperatingIncomeFromRelatedOperationsHighwayBusinessHWY,関連事業営業利益又は関連事業営業損失（△）、高速道路事業,Operating profit (loss) from related operations,Operating profit (loss) from related operations - HWY
+jppfs_cor:OperatingRevenue1,営業収益,Operating revenue,Operating revenue-1
+jppfs_cor:OperatingExpensesAbstract,営業費用 [タイトル項目],Operating expenses,Operating expenses [abstract]
+jppfs_cor:AdministrationCostsOfHighwayBusinessAndCostOfSalesOperatingExpensesHWY,高速道路等事業管理費及び売上原価、営業費用、高速道路事業,Administration costs of highway business and cost of sales,Administration costs of highway business and cost of sales-operating expenses-HWY
+jppfs_cor:SellingGeneralAndAdministrativeExpenses,販売費及び一般管理費,"Selling, general and administrative expenses","Selling, general and administrative expenses"
+jppfs_cor:OperatingExpenses,営業費用,Operating expenses,Operating expenses
+jppfs_cor:OperatingIncomeTotalBusiness,全事業営業利益又は全事業営業損失（△）,Operating profit (loss) - total business,Operating profit (loss) - total business
+jppfs_cor:NonOperatingIncomeAbstract,営業外収益 [タイトル項目],Non-operating income,Non-operating income [abstract]
+jppfs_cor:InterestIncomeNOI,受取利息、営業外収益,Interest income,Interest income-NOI
+jppfs_cor:InterestOnSecuritiesNOI,有価証券利息、営業外収益,Interest on securities,Interest on securities-NOI
+jppfs_cor:DividendsIncomeNOI,受取配当金、営業外収益,Dividend income,Dividend income-NOI
+jppfs_cor:GainOnSalesOfSecuritiesNOI,有価証券売却益、営業外収益,Gain on sales of securities,Gain on sales of securities-NOI
+jppfs_cor:GainOnValuationOfSecuritiesNOI,有価証券評価益、営業外収益,Gain on valuation of securities,Gain on valuation of securities-NOI
+jppfs_cor:GainOnSalesOfGoodsNOI,物品売却益、営業外収益,Gain on sales of goods,Gain on sales of goods-NOI
+jppfs_cor:RevenueLandRentNOIHWY,土地物件貸付料、営業外収益、高速道路事業,Revenue - land rent,Revenue-land rent-NOI-HWY
+jppfs_cor:IncomeFromCausativePersonNOIHWY,原因者負担収入、営業外収益、高速道路事業,Income from causative person,Income from causative person-NOI-HWY
+jppfs_cor:MiscellaneousIncomeNOI,雑収入、営業外収益,Miscellaneous income,Miscellaneous income-NOI
+jppfs_cor:NonOperatingIncome,営業外収益,Non-operating income,Non-operating income
+jppfs_cor:NonOperatingExpensesAbstract,営業外費用 [タイトル項目],Non-operating expenses,Non-operating expenses [abstract]
+jppfs_cor:InterestExpensesNOE,支払利息、営業外費用,Interest expenses,Interest expenses-NOE
+jppfs_cor:InterestOnBondsNOE,社債利息、営業外費用,Interest on bonds,Interest on bonds-NOE
+jppfs_cor:AmortizationOfStockIssuanceCostNOE,株式交付費償却、営業外費用,Amortization of share issuance cost,Amortization of share issuance cost-NOE
+jppfs_cor:AmortizationOfBondIssuanceCostNOE,社債発行費償却、営業外費用,Amortization of bond issuance cost,Amortization of bond issuance cost-NOE
+jppfs_cor:AmortizationOfDeferredOrganizationExpensesNOE,創立費償却、営業外費用,Amortization of deferred organization expenses,Amortization of deferred organization expenses-NOE
+jppfs_cor:AmortizationOfBusinessCommencementExpensesNOE,開業費償却、営業外費用,Amortization of business commencement expenses,Amortization of business commencement expenses-NOE
+jppfs_cor:AmortizationOfDevelopmentExpensesNOE,開発費償却、営業外費用,Amortization of development expenses,Amortization of development expenses-NOE
+jppfs_cor:LossOnSalesOfSecuritiesNOE,有価証券売却損、営業外費用,Loss on sales of securities,Loss on sales of securities-NOE
+jppfs_cor:LossOnValuationOfSecuritiesNOE,有価証券評価損、営業外費用,Loss on valuation of securities,Loss on valuation of securities-NOE
+jppfs_cor:MiscellaneousLossNOE,雑損失、営業外費用,Miscellaneous loss,Miscellaneous loss-NOE
+jppfs_cor:NonOperatingExpenses,営業外費用,Non-operating expenses,Non-operating expenses
+jppfs_cor:OrdinaryIncome,経常利益又は経常損失（△）,Ordinary profit (loss),Ordinary profit (loss)
+jppfs_cor:ExtraordinaryIncomeAbstract,特別利益 [タイトル項目],Extraordinary income,Extraordinary income [abstract]
+jppfs_cor:GainOnSalesOfNoncurrentAssetsEI,固定資産売却益、特別利益,Gain on sales of non-current assets,Gain on sales of non-current assets-EI
+jppfs_cor:OtherEI,その他、特別利益,Other,Other-EI
+jppfs_cor:ExtraordinaryIncome,特別利益,Extraordinary income,Extraordinary income
+jppfs_cor:ExtraordinaryLossAbstract,特別損失 [タイトル項目],Extraordinary losses,Extraordinary losses [abstract]
+jppfs_cor:LossOnSalesOfNoncurrentAssetsEL,固定資産売却損、特別損失,Loss on sales of non-current assets,Loss on sales of non-current assets-EL
+jppfs_cor:LossOnRetirementOfNoncurrentAssetsEL,固定資産除却損、特別損失,Loss on retirement of non-current assets,Loss on retirement of non-current assets-EL
+jppfs_cor:ImpairmentLossEL,減損損失、特別損失,Impairment loss,Impairment loss-EL
+jppfs_cor:NonrecurringLossEL,臨時損失、特別損失,Nonrecurring loss,Nonrecurring loss-EL
+jppfs_cor:LossOnForgedHighwayCardELHWY,偽造ハイウェイカード損失、特別損失、高速道路事業,Loss on forged highway card,Loss on forged highway card-EL-HWY
+jppfs_cor:OtherEL,その他、特別損失,Other,Other-EL
+jppfs_cor:ExtraordinaryLoss,特別損失,Extraordinary losses,Extraordinary losses
+jppfs_cor:IncomeBeforeIncomeTaxes,税引前当期純利益又は税引前当期純損失（△）,Profit (loss) before income taxes,Profit (loss) before income taxes
+jppfs_cor:IncomeTaxes,法人税等,Income taxes,Income taxes
+jppfs_cor:IncomeTaxesCurrent,法人税、住民税及び事業税,Income taxes - current,Income taxes-current
+jppfs_cor:IncomeTaxesDeferred,法人税等調整額,Income taxes - deferred,Income taxes-deferred
+jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
+jppfs_cor:ProfitAttributableToAbstract,内訳、当期純利益 [タイトル項目],Profit attributable to,Profit attributable to [abstract]
+jppfs_cor:ProfitLossAttributableToNonControllingInterests,非支配株主に帰属する当期純利益又は非支配株主に帰属する当期純損失（△）,Profit (loss) attributable to non-controlling interests,Profit (loss) attributable to non-controlling interests
+jppfs_cor:ProfitLossAttributableToOwnersOfParent,親会社株主に帰属する当期純利益又は親会社株主に帰属する当期純損失（△）,Profit (loss) attributable to owners of parent,Profit (loss) attributable to owners of parent
+nan,,,
+nan,,,
+名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:StatementOfChangesInEquityAbstract,株主資本等変動計算書 [タイトル項目],Statement of changes in equity,Statement of changes in equity [abstract]
+jppfs_cor:StatementOfChangesInEquityTable,株主資本等変動計算書 [表],Statement of changes in equity,Statement of changes in equity [table]
+jppfs_cor:ComponentsOfEquityAxis,純資産の内訳項目 [軸],Components of equity,Components of equity [axis]
+jppfs_cor:NetAssetsMember,純資産 [メンバー],Net assets,Net assets [member]
+jppfs_cor:ShareholdersEquityMember,株主資本 [メンバー],Shareholders' equity,Shareholders' equity [member]
+jppfs_cor:CapitalStockMember,資本金 [メンバー],Capital stock,Capital stock [member]
+jppfs_cor:CapitalSurplusMember,資本剰余金 [メンバー],Capital surplus,Capital surplus [member]
+jppfs_cor:LegalCapitalSurplusMember,資本準備金 [メンバー],Legal capital surplus,Legal capital surplus [member]
+jppfs_cor:OtherCapitalSurplusMember,その他資本剰余金 [メンバー],Other capital surplus,Other capital surplus [member]
+jppfs_cor:RetainedEarningsMember,利益剰余金 [メンバー],Retained earnings,Retained earnings [member]
+jppfs_cor:LegalRetainedEarningsMember,利益準備金 [メンバー],Legal retained earnings,Legal retained earnings [member]
+jppfs_cor:OtherRetainedEarningsMember,その他利益剰余金 [メンバー],Other retained earnings,Other retained earnings [member]
+jppfs_cor:RetainedEarningsBroughtForwardMember,繰越利益剰余金 [メンバー],Retained earnings brought forward,Retained earnings brought forward [member]
+jppfs_cor:TreasuryStockMember,自己株式 [メンバー],Treasury shares,Treasury shares [member]
+jppfs_cor:ValuationAndTranslationAdjustmentsMember,評価・換算差額等 [メンバー],Valuation and translation adjustments,Valuation and translation adjustments [member]
+jppfs_cor:ValuationDifferenceOnAvailableForSaleSecuritiesMember,その他有価証券評価差額金 [メンバー],Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities [member]
+jppfs_cor:DeferredGainsOrLossesOnHedgesMember,繰延ヘッジ損益 [メンバー],Deferred gains or losses on hedges,Deferred gains or losses on hedges [member]
+jppfs_cor:RevaluationReserveForLandMember,土地再評価差額金 [メンバー],Revaluation reserve for land,Revaluation reserve for land [member]
+jppfs_cor:ForeignCurrencyTranslationAdjustmentMember,為替換算調整勘定 [メンバー],Foreign currency translation adjustment,Foreign currency translation adjustment [member]
+jppfs_cor:SubscriptionRightsToSharesMember,新株予約権 [メンバー],Share acquisition rights,Share acquisition rights [member]
+jppfs_cor:NonControllingInterestsMember,非支配株主持分 [メンバー],Non-controlling interests,Non-controlling interests [member]
+jppfs_cor:StatementOfChangesInEquityLineItems,株主資本等変動計算書 [表示項目],Statement of changes in equity,Statement of changes in equity [line items]
+jppfs_cor:NetAssets,純資産,Net assets,Net assets
+jppfs_cor:ChangesOfItemsDuringThePeriodAbstract,当期変動額 [タイトル項目],Changes of items during period,Changes of items during period [abstract]
+jppfs_cor:IssuanceOfNewShares,新株の発行,Issuance of new shares,Issuance of new shares
+jppfs_cor:DividendsFromSurplus,剰余金の配当,Dividends of surplus,Dividends of surplus
+jppfs_cor:ProfitLossAttributableToOwnersOfParent,親会社株主に帰属する当期純利益又は親会社株主に帰属する当期純損失（△）,Profit (loss) attributable to owners of parent,Profit (loss) attributable to owners of parent
+jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
+jppfs_cor:DisposalOfTreasuryStock,自己株式の処分,Disposal of treasury shares,Disposal of treasury shares
+jppfs_cor:NetChangesOfItemsOtherThanShareholdersEquity,株主資本以外の項目の当期変動額（純額）,Net changes of items other than shareholders' equity,Net changes of items other than shareholders' equity
+jppfs_cor:TotalChangesOfItemsDuringThePeriod,当期変動額合計,Total changes of items during period,Total changes of items during period
+nan,,,
+nan,,,
+名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:StatementOfCashFlowsAbstract,キャッシュ・フロー計算書 [タイトル項目],Statement of cash flows,Statement of cash flows [abstract]
+jppfs_cor:StatementOfCashFlowsTable,キャッシュ・フロー計算書 [表],Statement of cash flows,Statement of cash flows [table]
+jppfs_cor:StatementOfCashFlowsLineItems,キャッシュ・フロー計算書 [表示項目],Statement of cash flows,Statement of cash flows [line items]
+jppfs_cor:NetCashProvidedByUsedInOperatingActivitiesAbstract,営業活動によるキャッシュ・フロー [タイトル項目],Cash flows from operating activities,Cash flows from operating activities [abstract]
+jppfs_cor:SubtotalOpeCF,小計、営業活動によるキャッシュ・フロー,Subtotal,Subtotal-OpeCF
+jppfs_cor:OperatingIncomeOpeCF,営業収入、営業活動によるキャッシュ・フロー,Receipts from operating revenue,Receipts from operating revenue - OpeCF
+jppfs_cor:PaymentsForRawMaterialsAndGoodsOpeCF,原材料又は商品の仕入れによる支出、営業活動によるキャッシュ・フロー,Payments for raw materials and goods,Payments for raw materials and goods-OpeCF
+jppfs_cor:PaymentsForPayrollOpeCF,人件費の支出、営業活動によるキャッシュ・フロー,Payments for personnel expenses,Payments for personnel expenses-OpeCF
+jppfs_cor:PaymentsForOtherOperatingActivityOpeCF,その他の営業支出、営業活動によるキャッシュ・フロー,Payments for other operating activity,Payments for other operating activity-OpeCF
+jppfs_cor:IncomeBeforeIncomeTaxes,税引前当期純利益又は税引前当期純損失（△）,Profit (loss) before income taxes,Profit (loss) before income taxes
+jppfs_cor:DepreciationOfHighwayNoncurrentAssetsOpeCFHWY,高速道路事業固定資産減価償却費、営業活動によるキャッシュ・フロー、高速道路事業,Depreciation of highway non-current assets,Depreciation of highway non-current assets-OpeCF-HWY
+jppfs_cor:DepreciationOfRelatedNoncurrentAssetsOpeCFHWY,関連事業固定資産減価償却費、営業活動によるキャッシュ・フロー、高速道路事業,Depreciation of related non-current assets,Depreciation of related non-current assets-OpeCF-HWY
+jppfs_cor:DepreciationOfAffiliatedNoncurrentAssetsOpeCFHWY,各事業共用固定資産減価償却費、営業活動によるキャッシュ・フロー、高速道路事業,Depreciation of affiliated non-current assets,Depreciation of affiliated non-current assets-OpeCF-HWY
+jppfs_cor:ImpairmentLossOpeCF,減損損失、営業活動によるキャッシュ・フロー,Impairment loss,Impairment loss-OpeCF
+jppfs_cor:IncreaseDecreaseInAllowanceForDoubtfulAccountsOpeCF,貸倒引当金の増減額（△は減少）、営業活動によるキャッシュ・フロー,Increase (decrease) in allowance for doubtful accounts,Increase (decrease) in allowance for doubtful accounts-OpeCF
+jppfs_cor:IncreaseDecreaseInProvisionForRetirementBenefitsOpeCF,退職給付引当金の増減額（△は減少）、営業活動によるキャッシュ・フロー,Increase (decrease) in provision for retirement benefits,Increase (decrease) in provision for retirement benefits-OpeCF
+jppfs_cor:IncreaseDecreaseInProvisionForBonusesOpeCF,賞与引当金の増減額（△は減少）、営業活動によるキャッシュ・フロー,Increase (decrease) in provision for bonuses,Increase (decrease) in provision for bonuses-OpeCF
+jppfs_cor:IncreaseDecreaseInProvisionForETCMileageServiceOpeCFHWY,ETCマイレージサービス引当金の増減額（△は減少）、営業活動によるキャッシュ・フロー、高速道路事業,Increase (decrease) in provision for ETC mileage service,Increase (decrease) in provision for ETC mileage service-OpeCF-HWY
+jppfs_cor:InterestAndDividendsIncomeOpeCF,受取利息及び受取配当金、営業活動によるキャッシュ・フロー,Interest and dividend income,Interest and dividend income-OpeCF
+jppfs_cor:InterestExpensesOpeCF,支払利息、営業活動によるキャッシュ・フロー,Interest expenses,Interest expenses-OpeCF
+jppfs_cor:GainOnSalesOfAffiliatedNoncurrentAssetsOpeCFHWY,各事業共用固定資産売却益、営業活動によるキャッシュ・フロー、高速道路事業,Gain on sales of affiliated non-current assets,Gain on sales of affiliated non-current assets-OpeCF-HWY
+jppfs_cor:LossOnRetirementOfHighwayNoncurrentAssetsOpeCFHWY,高速道路事業固定資産除却費、営業活動によるキャッシュ・フロー、高速道路事業,Loss on retirement of highway non-current assets,Loss on retirement of highway non-current assets-OpeCF-HWY
+jppfs_cor:LossOnRetirementOfRelatedNoncurrentAssetsOpeCFHWY,関連事業固定資産除却費、営業活動によるキャッシュ・フロー、高速道路事業,Loss on retirement of related non-current assets,Loss on retirement of related non-current assets-OpeCF-HWY
+jppfs_cor:DecreaseIncreaseInNotesAndAccountsReceivableTradeOpeCF,売上債権の増減額（△は増加）、営業活動によるキャッシュ・フロー,Decrease (increase) in notes and accounts receivable - trade,Decrease (increase) in notes and accounts receivable-trade-OpeCF
+jppfs_cor:DecreaseIncreaseInInventoriesOpeCF,たな卸資産の増減額（△は増加）、営業活動によるキャッシュ・フロー,Decrease (increase) in inventories,Decrease (increase) in inventories-OpeCF
+jppfs_cor:IncreaseDecreaseInNotesAndAccountsPayableTradeOpeCF,仕入債務の増減額（△は減少）、営業活動によるキャッシュ・フロー,Increase (decrease) in notes and accounts payable - trade,Increase (decrease) in notes and accounts payable-trade-OpeCF
+jppfs_cor:DecreaseIncreaseInOtherAssetsOpeCF,その他の資産の増減額（△は増加）、営業活動によるキャッシュ・フロー,Decrease (increase) in other assets,Decrease (increase) in other assets-OpeCF
+jppfs_cor:IncreaseDecreaseInOtherLiabilitiesOpeCF,その他の負債の増減額（△は減少）、営業活動によるキャッシュ・フロー,Increase (decrease) in other liabilities,Increase (decrease) in other liabilities-OpeCF
+jppfs_cor:OtherNetOpeCF,その他、営業活動によるキャッシュ・フロー,"Other, net","Other, net-OpeCF"
+jppfs_cor:InterestAndDividendsIncomeReceivedOpeCFInvCF,利息及び配当金の受取額、営業活動によるキャッシュ・フロー又は投資活動によるキャッシュ・フロー,Interest and dividend income received,Interest and dividend income received-OpeCF/InvCF
+jppfs_cor:IncomeTaxesPaidOpeCF,法人税等の支払額、営業活動によるキャッシュ・フロー,Income taxes paid,Income taxes paid-OpeCF
+jppfs_cor:NetCashProvidedByUsedInOperatingActivities,営業活動によるキャッシュ・フロー,Net cash provided by (used in) operating activities,Net cash provided by (used in) operating activities
+jppfs_cor:NetCashProvidedByUsedInInvestmentActivitiesAbstract,投資活動によるキャッシュ・フロー [タイトル項目],Cash flows from investing activities,Cash flows from investing activities [abstract]
+jppfs_cor:PurchaseOfHighwayNoncurrentAssetsInvCFHWY,高速道路事業固定資産の取得による支出、投資活動によるキャッシュ・フロー、高速道路事業,Purchase of highway non-current assets,Purchase of highway non-current assets-InvCF-HWY
+jppfs_cor:PurchaseOfRelatedNoncurrentAssetsInvCFHWY,関連事業固定資産の取得による支出、投資活動によるキャッシュ・フロー、高速道路事業,Purchase of related non-current assets,Purchase of related non-current assets-InvCF-HWY
+jppfs_cor:PurchaseOfAffiliatedNoncurrentAssetsInvCFHWY,各事業共用固定資産の取得による支出、投資活動によるキャッシュ・フロー、高速道路事業,Purchase of affiliated non-current assets,Purchase of affiliated non-current assets-InvCF-HWY
+jppfs_cor:ProceedsFromSalesOfAffiliatedNoncurrentAssetsInvCFHWY,各事業共用固定資産の売却による収入、投資活動によるキャッシュ・フロー、高速道路事業,Proceeds from sales of affiliated non-current assets,Proceeds from sales of affiliated non-current assets-InvCF-HWY
+jppfs_cor:PurchaseOfInvestmentSecuritiesInvCF,投資有価証券の取得による支出、投資活動によるキャッシュ・フロー,Purchase of investment securities,Purchase of investment securities-InvCF
+jppfs_cor:ProceedsFromSalesOfInvestmentSecuritiesInvCF,投資有価証券の売却による収入、投資活動によるキャッシュ・フロー,Proceeds from sales of investment securities,Proceeds from sales of investment securities-InvCF
+jppfs_cor:OtherNetInvCF,その他、投資活動によるキャッシュ・フロー,"Other, net","Other, net-InvCF"
+jppfs_cor:NetCashProvidedByUsedInInvestmentActivities,投資活動によるキャッシュ・フロー,Net cash provided by (used in) investing activities,Net cash provided by (used in) investing activities
+jppfs_cor:NetCashProvidedByUsedInFinancingActivitiesAbstract,財務活動によるキャッシュ・フロー [タイトル項目],Cash flows from financing activities,Cash flows from financing activities [abstract]
+jppfs_cor:ProceedsFromIssuanceOfRoadBuildingBondsFinCFHWY,道路建設関係社債発行による収入、財務活動によるキャッシュ・フロー、高速道路事業,Proceeds from issuance of road-building bonds,Proceeds from issuance of road-building bonds-FinCF-HWY
+jppfs_cor:RedemptionOfRoadBuildingBondsFinCFHWY,道路建設関係社債償還による支出、財務活動によるキャッシュ・フロー、高速道路事業,Redemption of road-building bonds,Redemption of road-building bonds-FinCF-HWY
+jppfs_cor:ProceedsFromIssuanceOfOtherBondsFinCFHWY,その他の社債発行による収入、財務活動によるキャッシュ・フロー、高速道路事業,Proceeds from issuance of other bonds,Proceeds from issuance of other bonds-FinCF-HWY
+jppfs_cor:RedemptionOfOtherBondsFinCFHWY,その他の社債償還による支出、財務活動によるキャッシュ・フロー、高速道路事業,Redemption of other bonds,Redemption of other bonds-FinCF-HWY
+jppfs_cor:ProceedsFromLongTermLoansPayableFinCF,長期借入れによる収入、財務活動によるキャッシュ・フロー,Proceeds from long-term loans payable,Proceeds from long-term loans payable-FinCF
+jppfs_cor:RepaymentOfLongTermLoansPayableFinCF,長期借入金の返済による支出、財務活動によるキャッシュ・フロー,Repayments of long-term loans payable,Repayments of long-term loans payable-FinCF
+jppfs_cor:CashDividendsPaidFinCF,配当金の支払額、財務活動によるキャッシュ・フロー,Cash dividends paid,Cash dividends paid-FinCF
+jppfs_cor:OtherNetFinCF,その他、財務活動によるキャッシュ・フロー,"Other, net","Other, net-FinCF"
+jppfs_cor:NetCashProvidedByUsedInFinancingActivities,財務活動によるキャッシュ・フロー,Net cash provided by (used in) financing activities,Net cash provided by (used in) financing activities
+jppfs_cor:EffectOfExchangeRateChangeOnCashAndCashEquivalents,現金及び現金同等物に係る換算差額,Effect of exchange rate change on cash and cash equivalents,Effect of exchange rate change on cash and cash equivalents
+jppfs_cor:NetIncreaseDecreaseInCashAndCashEquivalents,現金及び現金同等物の増減額（△は減少）,Net increase (decrease) in cash and cash equivalents,Net increase (decrease) in cash and cash equivalents
+jppfs_cor:CashAndCashEquivalents,現金及び現金同等物の残高,Cash and cash equivalents,Cash and cash equivalents

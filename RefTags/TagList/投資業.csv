@@ -1,253 +1,253 @@
-,タクソノミ,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
-0,jppfs_cor:BalanceSheetAbstract,貸借対照表 [タイトル項目],Balance sheet,Balance sheet [abstract]
-1,jppfs_cor:BalanceSheetTable,貸借対照表 [表],Balance sheet,Balance sheet [table]
-2,jppfs_cor:BalanceSheetLineItems,貸借対照表 [表示項目],Balance sheet,Balance sheet [line items]
-3,jppfs_cor:AssetsAbstract,資産の部 [タイトル項目],Assets,Assets [abstract]
-4,jppfs_cor:CurrentAssetsAbstract,流動資産 [タイトル項目],Current assets,Current assets [abstract]
-5,jppfs_cor:CashAndDeposits,現金及び預金,Cash and deposits,Cash and deposits
-6,jppfs_cor:NotesReceivableTrade,受取手形,Notes receivable - trade,Notes receivable-trade
-7,jppfs_cor:AllowanceForDoubtfulAccountsNotesReceivableTrade,貸倒引当金、受取手形,Allowance for doubtful accounts,Allowance for doubtful accounts-notes receivable-trade
-8,jppfs_cor:NotesReceivableTradeNet,受取手形（純額）,"Notes receivable - trade, net","Notes receivable-trade, net"
-9,jppfs_cor:AccountsReceivableTradeCAINV,営業未収入金、流動資産、投資業,Operating accounts receivable,Operating accounts receivable-CA-INV
-10,jppfs_cor:AllowanceForDoubtfulAccountsOperatingAccountsReceivableINV,貸倒引当金、営業未収入金、投資業,Allowance for doubtful accounts,Allowance for doubtful accounts-operating accounts receivable-CA-INV
-11,jppfs_cor:RentalReceivablesNetCAINV,営業未収入金（純額）、流動資産、投資業,"Operating accounts receivable, net","Operating accounts receivable, net-CA-INV"
-12,jppfs_cor:ShortTermInvestmentSecurities,有価証券,Securities,Securities
-13,jppfs_cor:InvestmentUnitParentCAINV,親法人投資口、流動資産、投資業,Investment units - parent,Investment units - parent - CA - INV
-14,jppfs_cor:InvestmentUnitSubsidiaryCAINV,子法人投資口、流動資産、投資業,Investment units - subsidiary,Investment units - subsidiary - CA - INV
-15,jppfs_cor:AdvancePaymentsTrade,前渡金,Advance payments - trade,Advance payments-trade
-16,jppfs_cor:PrepaidExpenses,前払費用,Prepaid expenses,Prepaid expenses
-17,jppfs_cor:AccruedIncome,未収収益,Accrued income,Accrued income
-18,jppfs_cor:DeferredTaxAssetsCA,繰延税金資産、流動資産,Deferred tax assets,Deferred tax assets-CA
-19,jppfs_cor:AccruedDividendReceivableCAINV,未収配当金、流動資産、投資業,Accrued dividend receivable,Accrued dividend receivable-CA-INV
-20,jppfs_cor:OtherCA,その他、流動資産,Other,Other-CA
-21,jppfs_cor:AllowanceForDoubtfulAccountsCA,貸倒引当金、流動資産、一括控除,Allowance for doubtful accounts,Allowance for doubtful accounts-CA-by group
-22,jppfs_cor:CurrentAssets,流動資産,Current assets,Current assets
-23,jppfs_cor:CashAndDepositsInTrustINV,信託現金及び信託預金、投資業,Cash and deposits in trust,Cash and deposits in trust-INV
-24,jppfs_cor:NoncurrentAssetsAbstract,固定資産 [タイトル項目],Non-current assets,Non-current assets [abstract]
-25,jppfs_cor:PropertyPlantAndEquipmentAbstract,有形固定資産 [タイトル項目],"Property, plant and equipment","Property, plant and equipment [abstract]"
-26,jppfs_cor:Buildings,建物,Buildings,Buildings
-27,jppfs_cor:AccumulatedDepreciationBuildings,減価償却累計額、建物,Accumulated depreciation,Accumulated depreciation-buildings
-28,jppfs_cor:BuildingsNet,建物（純額）,"Buildings, net","Buildings, net"
-29,jppfs_cor:Structures,構築物,Structures,Structures
-30,jppfs_cor:AccumulatedDepreciationStructures,減価償却累計額、構築物,Accumulated depreciation,Accumulated depreciation-structures
-31,jppfs_cor:StructuresNet,構築物（純額）,"Structures, net","Structures, net"
-32,jppfs_cor:MachineryAndEquipment,機械及び装置,Machinery and equipment,Machinery and equipment
-33,jppfs_cor:AccumulatedDepreciationMachineryAndEquipment,減価償却累計額、機械及び装置,Accumulated depreciation,Accumulated depreciation-machinery and equipment
-34,jppfs_cor:MachineryAndEquipmentNet,機械及び装置（純額）,"Machinery and equipment, net","Machinery and equipment, net"
-35,jppfs_cor:ToolsFurnitureAndFixtures,工具、器具及び備品,"Tools, furniture and fixtures","Tools, furniture and fixtures"
-36,jppfs_cor:AccumulatedDepreciationToolsFurnitureAndFixtures,減価償却累計額、工具、器具及び備品,Accumulated depreciation,"Accumulated depreciation-tools, furniture and fixtures"
-37,jppfs_cor:ToolsFurnitureAndFixturesNet,工具、器具及び備品（純額）,"Tools, furniture and fixtures, net","Tools, furniture and fixtures, net"
-38,jppfs_cor:Land,土地,Land,Land
-39,jppfs_cor:ConstructionInProgress,建設仮勘定,Construction in progress,Construction in progress
-40,jppfs_cor:AccumulatedDepreciationPPEByGroup,減価償却累計額、有形固定資産、一括控除,Accumulated depreciation,Accumulated depreciation-PPE-by group
-41,jppfs_cor:PropertyPlantAndEquipment,有形固定資産,"Property, plant and equipment","Property, plant and equipment"
-42,jppfs_cor:BuildingsInTrustINV,信託建物、投資業,Buildings in trust,Buildings in trust-INV
-43,jppfs_cor:AccumulatedDepreciationBuildingsInTrustINV,減価償却累計額、信託建物、投資業,Accumulated depreciation,Accumulated depreciation-buildings in trust-INV
-44,jppfs_cor:BuildingsInTrustNetINV,信託建物（純額）、投資業,"Buildings in trust, net","Buildings in trust, net-INV"
-45,jppfs_cor:LandInTrustINV,信託土地、投資業,Land in trust,Land in trust-INV
-46,jppfs_cor:StructuresInTrustINV,信託構築物、投資業,Structures in trust,Structures in trust-INV
-47,jppfs_cor:AccumulatedDepreciationStructuresInTrustINV,減価償却累計額、信託構築物、投資業,Accumulated depreciation,Accumulated depreciation-structures in trust-INV
-48,jppfs_cor:StructuresInTrustNetINV,信託構築物（純額）、投資業,"Structures in trust, net","Structures in trust, net-INV"
-49,jppfs_cor:ConstructionInProgressInTrustINV,信託建設仮勘定、投資業,Construction in progress in trust,Construction in progress in trust-INV
-50,jppfs_cor:ToolsFurnitureAndFixturesInTrustINV,信託工具、器具及び備品、投資業,"Tools, furniture and fixtures in trust","Tools, furniture and fixtures in trust-INV"
-51,jppfs_cor:AccumulatedDepreciationToolsFurnitureAndFixturesInTrustINV,減価償却累計額、信託工具、器具及び備品、投資業,Accumulated depreciation,"Accumulated depreciation-tools, furniture and fixtures in trust-INV"
-52,jppfs_cor:ToolsFurnitureAndFixturesInTrustNetINV,信託工具、器具及び備品（純額）、投資業,"Tools, furniture and fixtures in trust, net","Tools, furniture and fixtures in trust, net-INV"
-53,jppfs_cor:MachineryAndEquipmentInTrustINV,信託機械及び装置、投資業,Machinery and equipment in trust,Machinery and equipment in trust-INV
-54,jppfs_cor:AccumulatedDepreciationMachineryAndEquipmentInTrustINV,減価償却累計額、信託機械及び装置、投資業,Accumulated depreciation,Accumulated depreciation-machinery and equipment in trust-INV
-55,jppfs_cor:MachineryAndEquipmentInTrustNetINV,信託機械及び装置（純額）、投資業,"Machinery and equipment in trust, net","Machinery and equipment in trust, net-INV"
-56,jppfs_cor:IntangibleAssetsAbstract,無形固定資産 [タイトル項目],Intangible assets,Intangible assets [abstract]
-57,jppfs_cor:LeaseholdRight,借地権,Leasehold right,Leasehold right
-58,jppfs_cor:Goodwill,のれん,Goodwill,Goodwill
-59,jppfs_cor:OtherIA,その他、無形固定資産,Other,Other-IA
-60,jppfs_cor:IntangibleAssets,無形固定資産,Intangible assets,Intangible assets
-61,jppfs_cor:LeaseholdRightsInTrustAtCostINV,信託借地権、投資業,Leasehold rights in trust,Leasehold rights in trust-at cost-INV
-62,jppfs_cor:OtherIntangibleAssetsInTrustINV,信託その他無形固定資産、投資業,Other intangible assets in trust,Other intangible assets in trust-INV
-63,jppfs_cor:InvestmentsAndOtherAssetsAbstract,投資その他の資産 [タイトル項目],Investments and other assets,Investments and other assets [abstract]
-64,jppfs_cor:InvestmentSecurities,投資有価証券,Investment securities,Investment securities
-65,jppfs_cor:InvestmentsInCapital,出資金,Investments in capital,Investments in capital
-66,jppfs_cor:InvestmentUnitParentIOAINV,親法人投資口、投資その他の資産、投資業,Investment units - parent,Investment units - parent - IOA - INV
-67,jppfs_cor:InvestmentUnitSubsidiaryIOAINV,子法人投資口、投資その他の資産、投資業,Investment units - subsidiary,Investment units - subsidiary - IOA - INV
-68,jppfs_cor:LongTermLoansReceivable,長期貸付金,Long-term loans receivable,Long-term loans receivable
-69,jppfs_cor:AllowanceForDoubtfulAccountsLongTermLoansReceivable,貸倒引当金、長期貸付金,Allowance for doubtful accounts,Allowance for doubtful accounts-long-term loans receivable
-70,jppfs_cor:LongTermLoansReceivableNet,長期貸付金（純額）,"Long-term loans receivable, net","Long-term loans receivable, net"
-71,jppfs_cor:DeferredTaxAssetsIOA,繰延税金資産、投資その他の資産,Deferred tax assets,Deferred tax assets-IOA
-72,jppfs_cor:LeaseAndGuaranteeDepositsInTrustINV,信託差入敷金及び保証金、投資業,Leasehold and guarantee deposits in trust,Leasehold and guarantee deposits in trust - INV
-73,jppfs_cor:OtherIOA,その他、投資その他の資産,Other,Other-IOA
-74,jppfs_cor:AllowanceForDoubtfulAccountsIOAByGroup,貸倒引当金、投資その他の資産、一括控除,Allowance for doubtful accounts,Allowance for doubtful accounts-IOA-by group
-75,jppfs_cor:InvestmentsAndOtherAssets,投資その他の資産,Investments and other assets,Investments and other assets
-76,jppfs_cor:NoncurrentAssets,固定資産,Non-current assets,Non-current assets
-77,jppfs_cor:DeferredAssetsAbstract,繰延資産 [タイトル項目],Deferred assets,Deferred assets [abstract]
-78,jppfs_cor:InvestmentUnitIssuanceExpensesDAINV,投資口交付費、繰延資産、投資業,Investment unit issuance expenses,Investment unit issuance expenses-DA-INV
-79,jppfs_cor:DeferredAssets,繰延資産,Deferred assets,Deferred assets
-80,jppfs_cor:InvestmentCorporationBondIssuanceCostsINV,投資法人債発行費、投資業,Investment corporation bond issuance costs,Investment corporation bond issuance costs-INV
-81,jppfs_cor:Assets,資産,Assets,Assets
-82,jppfs_cor:LiabilitiesAbstract,負債の部 [タイトル項目],Liabilities,Liabilities [abstract]
-83,jppfs_cor:CurrentLiabilitiesAbstract,流動負債 [タイトル項目],Current liabilities,Current liabilities [abstract]
-84,jppfs_cor:AccountsPayableCLINV,営業未払金、流動負債、投資業,Operating accounts payable,Operating accounts payable-CL-INV
-85,jppfs_cor:CurrentPortionOfInvestmentCorporationBondsINV,1年内償還予定の投資法人債、投資業,Current portion of investment corporation bonds,Current portion of investment corporation bonds - INV
-86,jppfs_cor:AdvancesReceived,前受金,Advances received,Advances received
-87,jppfs_cor:AccountsPayableOther,未払金,Accounts payable - other,Accounts payable-other
-88,jppfs_cor:DepositsReceived,預り金,Deposits received,Deposits received
-89,jppfs_cor:AccruedExpenses,未払費用,Accrued expenses,Accrued expenses
-90,jppfs_cor:UnearnedRevenue,前受収益,Unearned revenue,Unearned revenue
-91,jppfs_cor:DeferredTaxLiabilitiesCL,繰延税金負債、流動負債,Deferred tax liabilities,Deferred tax liabilities-CL
-92,jppfs_cor:AssetRetirementObligationsCL,資産除去債務、流動負債,Asset retirement obligations,Asset retirement obligations-CL
-93,jppfs_cor:OtherCL,その他、流動負債,Other,Other-CL
-94,jppfs_cor:CurrentLiabilities,流動負債,Current liabilities,Current liabilities
-95,jppfs_cor:DistributionPayableINV,未払分配金、投資業,Distribution payable,Distribution payable-INV
-96,jppfs_cor:NoncurrentLiabilitiesAbstract,固定負債 [タイトル項目],Non-current liabilities,Non-current liabilities [abstract]
-97,jppfs_cor:InvestmentCorporationBondINV,投資法人債、投資業,Investment corporation bonds,Investment corporation bonds - INV
-98,jppfs_cor:LongTermLoansPayable,長期借入金,Long-term loans payable,Long-term loans payable
-99,jppfs_cor:DeferredTaxLiabilitiesNCL,繰延税金負債、固定負債,Deferred tax liabilities,Deferred tax liabilities-NCL
-100,jppfs_cor:AssetRetirementObligationsNCL,資産除去債務、固定負債,Asset retirement obligations,Asset retirement obligations-NCL
-101,jppfs_cor:OtherNCL,その他、固定負債,Other,Other-NCL
-102,jppfs_cor:NoncurrentLiabilities,固定負債,Non-current liabilities,Non-current liabilities
-103,jppfs_cor:TenantLeaseholdAndSecurityDepositsINV,預り敷金及び保証金、投資業,Tenant leasehold and security deposits,Tenant leasehold and security deposits-INV
-104,jppfs_cor:TenantLeaseholdAndSecurityDepositsInTrustINV,信託預り敷金及び保証金、投資業,Tenant leasehold and security deposits in trust,Tenant leasehold and security deposits in trust-INV
-105,jppfs_cor:Liabilities,負債,Liabilities,Liabilities
-106,jppfs_cor:NetAssetsAbstract,純資産の部 [タイトル項目],Net assets,Net assets [abstract]
-107,jppfs_cor:UnitholdersEquityAbstractINV,投資主資本、投資業 [タイトル項目],Unitholders' equity,Unitholders' equity-INV [abstract]
-108,jppfs_cor:UnitholdersCapitalGrossINV,出資総額（総額）、投資業,Unitholders' capital,"Unitholders' capital, gross-INV"
-109,jppfs_cor:DeductionFromUnitholdersCapitalINVAbstract,出資総額控除額、投資業 [タイトル項目],Deduction from unitholders' capital,Deduction from unitholders' capital-INV [abstract]
-110,jppfs_cor:AllowanceForTemporaryDifferenceAdjustmentDeductionFromUnitholdersCapitalINV,一時差異等調整引当額、出資総額控除額、投資業,Allowance for temporary difference adjustments,Allowance for temporary difference adjustments - deduction from unitholders' capital - INV
-111,jppfs_cor:OtherDeductionFromUnitholdersCapitalINV,その他の出資総額控除額、投資業,Other deduction from unitholders' capital,Other deduction from unitholders' capital-INV
-112,jppfs_cor:DeductionFromUnitholdersCapitalINV,出資総額控除額、投資業,Deduction from unitholders' capital,Deduction from unitholders' capital-INV
-113,jppfs_cor:UnitholdersCapitalINV,出資総額、投資業,Unitholders' capital,Unitholders' capital - INV
-114,jppfs_cor:DepositsForNewInvestmentUnitsINV,新投資口申込証拠金、投資業,Deposits for new investment units,Deposits for new investment units-INV
-115,jppfs_cor:SurplusAbstractINV,剰余金、投資業 [タイトル項目],Surplus,Surplus-INV [abstract]
-116,jppfs_cor:CapitalSurplusGrossINV,出資剰余金（総額）、投資業,Capital surplus,"Capital surplus, gross - INV"
-117,jppfs_cor:DeductionFromUnitholdersCapitalSurplusINVAbstract,出資剰余金控除額、投資業 [タイトル項目],Deduction from unitholders' capital surplus,Deduction from unitholders' capital surplus-INV [abstract]
-118,jppfs_cor:AllowanceForTemporaryDifferenceAdjustmentDeductionFromUnitholdersCapitalSurplusINV,一時差異等調整引当額、出資剰余金控除額、投資業,Allowance for temporary difference adjustments,Allowance for temporary difference adjustments - deduction from unitholders' capital surplus - INV
-119,jppfs_cor:OtherDeductionFromUnitholdersCapitalSurplusINV,その他の出資剰余金控除額、投資業,Other deduction from unitholders' capital surplus,Other deduction from unitholders' capital surplus-INV
-120,jppfs_cor:DeductionFromUnitholdersCapitalSurplusINV,出資剰余金控除額、投資業,Deduction from unitholders' capital surplus,Deduction from unitholders' capital surplus-INV
-121,jppfs_cor:CapitalSurplusINV,出資剰余金、投資業,Capital surplus,Capital surplus - INV
-122,jppfs_cor:VoluntaryRetainedEarningsINVAbstract,任意積立金、投資業 [タイトル項目],Voluntary retained earnings,Voluntary retained earnings-INV [abstract]
-123,jppfs_cor:RetainedEarningsForTemporaryDifferenceAdjustmentINV,一時差異等調整積立金、投資業,Reserve for temporary difference adjustments,Reserve for temporary difference adjustments - INV
-124,jppfs_cor:VoluntaryRetainedEarningsINV,任意積立金、投資業,Voluntary retained earnings,Voluntary retained earnings-INV
-125,jppfs_cor:UnappropriatedRetainedEarningsUndisposedLossINV,当期未処分利益又は当期未処理損失（△）、投資業,Unappropriated retained earnings (undisposed loss),Unappropriated retained earnings (undisposed loss)-INV
-126,jppfs_cor:SurplusINV,剰余金、投資業,Surplus,Surplus-INV
-127,jppfs_cor:InvestmentUnitOwnINV,自己投資口、投資業,Treasury investment units,Treasury investment units - INV
-128,jppfs_cor:UnitholdersEquityINV,投資主資本、投資業,Unitholders' equity,Unitholders' equity-INV
-129,jppfs_cor:ValuationAndTranslationAdjustmentsAbstract,評価・換算差額等 [タイトル項目],Valuation and translation adjustments,Valuation and translation adjustments [abstract]
-130,jppfs_cor:ValuationDifferenceOnAvailableForSaleSecurities,その他有価証券評価差額金,Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities
-131,jppfs_cor:DeferredGainsOrLossesOnHedges,繰延ヘッジ損益,Deferred gains or losses on hedges,Deferred gains or losses on hedges
-132,jppfs_cor:ValuationAndTranslationAdjustments,評価・換算差額等,Valuation and translation adjustments,Valuation and translation adjustments
-133,jppfs_cor:SubscriptionRightsToSharesINV,新投資口予約権、投資業,Investment unit acquisition rights,Investment unit acquisition rights - INV
-134,jppfs_cor:TreasurySubscriptionRightsToSharesINV,自己新投資口予約権、投資業,Treasury investment unit acquisition rights,Treasury investment unit acquisition rights - INV
-135,jppfs_cor:NetAssets,純資産,Net assets,Net assets
-136,jppfs_cor:LiabilitiesAndNetAssets,負債純資産,Liabilities and net assets,Liabilities and net assets
-137,nan,,,
-138,nan,,,
-139,名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
-140,jppfs_cor:StatementOfIncomeAbstract,損益計算書 [タイトル項目],Statement of income,Statement of income [abstract]
-141,jppfs_cor:StatementOfIncomeTable,損益計算書 [表],Statement of income,Statement of income [table]
-142,jppfs_cor:StatementOfIncomeLineItems,損益計算書 [表示項目],Statement of income,Statement of income [line items]
-143,jppfs_cor:OperatingRevenueAbstractINV,営業収益、投資業 [タイトル項目],Operating revenue,Operating revenue-INV [abstract]
-144,jppfs_cor:InterestIncomeORINV,受取利息、営業収益、投資業,Interest income,Interest income-OR-INV
-145,jppfs_cor:RentalRevenueINV,不動産賃貸収入、投資業,Rent revenue - real estate,Rent revenue-real estate-INV
-146,jppfs_cor:RentRevenueRealEstateORINV,賃貸事業収入、営業収益、投資業,Lease business revenue,Lease business revenue-OR-INV
-147,jppfs_cor:GainOnSalesOfRealEstatePropertiesORINV,不動産等売却益、営業収益、投資業,Gain on sales of real estate properties,Gain on sales of real estate properties-OR-INV
-148,jppfs_cor:OtherLeaseBusinessRevenueORINV,その他賃貸事業収入、営業収益、投資業,Other lease business revenue,Other lease business revenue-OR-INV
-149,jppfs_cor:ProfitAndLossOnBuyingAndSellingOfSecuritiesAndOtherORINV,有価証券売買等損益、営業収益、投資業,Profit and loss on buying and selling of securities and other,Profit and loss on buying and selling of securities and other-OR-INV
-150,jppfs_cor:OperatingRevenueINV,営業収益、投資業,Operating revenue,Operating revenue-INV
-151,jppfs_cor:OperatingExpensesAbstractINV,営業費用、投資業 [タイトル項目],Operating expenses,Operating expenses-INV [abstract]
-152,jppfs_cor:AssetManagementFeeOEINV,資産運用報酬、営業費用、投資業,Asset management fee,Asset management fee-OE-INV
-153,jppfs_cor:AssetCustodyFeeOEINV,資産保管手数料、営業費用、投資業,Asset custody fee,Asset custody fee-OE-INV
-154,jppfs_cor:AdministrativeServiceFeesOEINV,一般事務委託手数料、営業費用、投資業,Administrative service fees,Administrative service fees-OE-INV
-155,jppfs_cor:LossOnSalesOfRealEstatePropertiesOEINV,不動産等売却損、営業費用、投資業,Loss on sales of real estate properties,Loss on sales of real estate properties-OE-INV
-156,jppfs_cor:ExpensesRelatedToRentBusinessOEINV,賃貸事業費用、営業費用、投資業,Expenses related to rent business,Expenses related to rent business-OE-INV
-157,jppfs_cor:AuditFeeOEINV,会計監査人報酬、営業費用、投資業,Audit fee,Audit fee-OE-INV
-158,jppfs_cor:OtherOperatingExpensesOEINV,その他営業費用、営業費用、投資業,Other operating expenses,Other operating expenses-OE-INV
-159,jppfs_cor:OperatingExpensesINV,営業費用、投資業,Operating expenses,Operating expenses-INV
-160,jppfs_cor:OperatingIncome,営業利益又は営業損失（△）,Operating profit (loss),Operating profit (loss)
-161,jppfs_cor:NonOperatingIncomeAbstract,営業外収益 [タイトル項目],Non-operating income,Non-operating income [abstract]
-162,jppfs_cor:NonOperatingIncome,営業外収益,Non-operating income,Non-operating income
-163,jppfs_cor:NonOperatingExpensesAbstract,営業外費用 [タイトル項目],Non-operating expenses,Non-operating expenses [abstract]
-164,jppfs_cor:InvestmentUnitIssuanceExpensesNOEINV,投資口交付費、営業外費用、投資業,Investment unit issuance expenses,Investment unit issuance expenses-NOE-INV
-165,jppfs_cor:AmortizationOfInvestmentUnitIssuanceExpensesNOEINV,投資口交付費償却、営業外費用、投資業,Amortization of investment unit issuance expenses,Amortization of investment unit issuance expenses-NOE-INV
-166,jppfs_cor:BorrowingExpensesNOEINV,融資手数料、営業外費用、投資業,Borrowing expenses,Borrowing expenses-NOE-INV
-167,jppfs_cor:BorrowingRelatedExpensesNOEINV,融資関連費用、営業外費用、投資業,Borrowing related expenses,Borrowing related expenses-NOE-INV
-168,jppfs_cor:InterestExpensesOnInvestmentCorporationBondsNOEINV,投資法人債利息、営業外費用、投資業,Interest expenses on investment corporation bonds,Interest expenses on investment corporation bonds-NOE-INV
-169,jppfs_cor:AmortizationOfInvestmentCorporationBondIssuanceCostsNOEINV,投資法人債発行費償却、営業外費用、投資業,Amortization of investment corporation bond issuance costs,Amortization of investment corporation bond issuance costs-NOE-INV
-170,jppfs_cor:NewInvestmentUnitIssuanceCostsNOEINV,新投資口交付費、営業外費用、投資業,New investment unit issuance costs,New investment unit issuance costs-NOE-INV
-171,jppfs_cor:OtherOfferingCostsAssociatedWithTheIssuanceOfInvestmentUnitsNOEINV,投資口公開関連費用、営業外費用、投資業,Investment unit public offering expenses,Investment unit public offering expenses - NOE - INV
-172,jppfs_cor:NonOperatingExpenses,営業外費用,Non-operating expenses,Non-operating expenses
-173,jppfs_cor:OrdinaryIncome,経常利益又は経常損失（△）,Ordinary profit (loss),Ordinary profit (loss)
-174,jppfs_cor:ExtraordinaryIncomeAbstract,特別利益 [タイトル項目],Extraordinary income,Extraordinary income [abstract]
-175,jppfs_cor:GainOnNegativeGoodwillEI,負ののれん発生益、特別利益,Gain on bargain purchase,Gain on bargain purchase-EI
-176,jppfs_cor:ExtraordinaryIncome,特別利益,Extraordinary income,Extraordinary income
-177,jppfs_cor:ExtraordinaryLossAbstract,特別損失 [タイトル項目],Extraordinary losses,Extraordinary losses [abstract]
-178,jppfs_cor:ImpairmentLossEL,減損損失、特別損失,Impairment loss,Impairment loss-EL
-179,jppfs_cor:LossOnDisasterEL,災害による損失、特別損失,Loss on disaster,Loss on disaster-EL
-180,jppfs_cor:ExtraordinaryLoss,特別損失,Extraordinary losses,Extraordinary losses
-181,jppfs_cor:IncomeBeforeIncomeTaxes,税引前当期純利益又は税引前当期純損失（△）,Profit (loss) before income taxes,Profit (loss) before income taxes
-182,jppfs_cor:IncomeTaxesCurrent,法人税、住民税及び事業税,Income taxes - current,Income taxes-current
-183,jppfs_cor:IncomeTaxesDeferred,法人税等調整額,Income taxes - deferred,Income taxes-deferred
-184,jppfs_cor:IncomeTaxes,法人税等,Income taxes,Income taxes
-185,jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
-186,jppfs_cor:RetainedEarningsBroughtForwardPriorINV,前期繰越利益又は前期繰越損失（△）、投資業,Retained earnings (deficit) brought forward,Retained earnings (deficit) brought forward-INV
-187,jppfs_cor:UnappropriatedRetainedEarningsUndisposedLossINV,当期未処分利益又は当期未処理損失（△）、投資業,Unappropriated retained earnings (undisposed loss),Unappropriated retained earnings (undisposed loss)-INV
-188,nan,,,
-189,nan,,,
-190,名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
-191,jppfs_cor:StatementOfCashFlowsAbstract,キャッシュ・フロー計算書 [タイトル項目],Statement of cash flows,Statement of cash flows [abstract]
-192,jppfs_cor:StatementOfCashFlowsTable,キャッシュ・フロー計算書 [表],Statement of cash flows,Statement of cash flows [table]
-193,jppfs_cor:StatementOfCashFlowsLineItems,キャッシュ・フロー計算書 [表示項目],Statement of cash flows,Statement of cash flows [line items]
-194,jppfs_cor:NetCashProvidedByUsedInOperatingActivitiesAbstract,営業活動によるキャッシュ・フロー [タイトル項目],Cash flows from operating activities,Cash flows from operating activities [abstract]
-195,jppfs_cor:SubtotalOpeCF,小計、営業活動によるキャッシュ・フロー,Subtotal,Subtotal-OpeCF
-196,jppfs_cor:InvestmentUnitIssuanceExpensesOpeCFINV,投資口交付費、営業活動によるキャッシュ・フロー、投資業,Investment unit issuance expenses,Investment unit issuance expenses-OpeCF-INV
-197,jppfs_cor:AmortizationOfInvestmentUnitIssuanceExpensesOpeCFINV,投資口交付費償却、営業活動によるキャッシュ・フロー、投資業,Amortization of investment unit issuance expenses,Amortization of investment unit issuance expenses-OpeCF-INV
-198,jppfs_cor:AmortizationOfInvestmentCorporationBondIssuanceCostsOpeCFINV,投資法人債発行費償却、営業活動によるキャッシュ・フロー、投資業,Amortization of investment corporation bond issuance costs,Amortization of investment corporation bond issuance costs-OpeCF-INV
-199,jppfs_cor:DecreaseIncreaseInOperatingAccountsReceivableOpeCFINV,営業未収入金の増減額（△は増加）、営業活動によるキャッシュ・フロー、投資業,Decrease (increase) in operating accounts receivable,Decrease (increase) in operating accounts receivable-OpeCF-INV
-200,jppfs_cor:IncreaseDecreaseInOperatingAccountsPayableOpeCFINV,営業未払金の増減額（△は減少）、営業活動によるキャッシュ・フロー、投資業,Increase (decrease) in operating accounts payable,Increase (decrease) in operating accounts payable-OpeCF-INV
-201,jppfs_cor:NetCashProvidedByUsedInInvestmentActivitiesAbstract,投資活動によるキャッシュ・フロー [タイトル項目],Cash flows from investing activities,Cash flows from investing activities [abstract]
-202,jppfs_cor:PurchaseOfPropertyPlantAndEquipmentInTrustInvCFINV,信託有形固定資産の取得による支出、投資活動によるキャッシュ・フロー、投資業,"Purchase of property, plant and equipment in trust","Purchase of property, plant and equipment in trust-InvCF-INV"
-203,jppfs_cor:ProceedsFromTenantLeaseholdAndSecurityDepositsInTrustInvCFINV,信託預り敷金及び保証金の受入による収入、投資活動によるキャッシュ・フロー、投資業,Proceeds from tenant leasehold and security deposits in trust,Proceeds from tenant leasehold and security deposits in trust-InvCF-INV
-204,jppfs_cor:RepaymentsOfTenantLeaseholdAndSecurityDepositsInTrustInvCFINV,信託預り敷金及び保証金の返還による支出、投資活動によるキャッシュ・フロー、投資業,Repayments of tenant leasehold and security deposits in trust,Repayments of tenant leasehold and security deposits in trust-InvCF-INV
-205,jppfs_cor:ProceedsFromTenantLeaseholdAndSecurityDepositsInvCFINV,預り敷金及び保証金の受入による収入、投資活動によるキャッシュ・フロー、投資業,Proceeds from tenant leasehold and security deposits,Proceeds from tenant leasehold and security deposits-InvCF-INV
-206,jppfs_cor:RepaymentsOfTenantLeaseholdAndSecurityDepositsInvCFINV,預り敷金及び保証金の返還による支出、投資活動によるキャッシュ・フロー、投資業,Repayments of tenant leasehold and security deposits,Repayments of tenant leasehold and security deposits-InvCF-INV
-207,jppfs_cor:NetCashProvidedByUsedInFinancingActivitiesAbstract,財務活動によるキャッシュ・フロー [タイトル項目],Cash flows from financing activities,Cash flows from financing activities [abstract]
-208,jppfs_cor:ProceedsFromIssuanceOfInvestmentCorporationBondsFinCFINV,投資法人債の発行による収入、財務活動によるキャッシュ・フロー、投資業,Proceeds from issuance of investment corporation bonds,Proceeds from issuance of investment corporation bonds-FinCF-INV
-209,jppfs_cor:RedemptionOfInvestmentCorporationBondsFinCFINV,投資法人債の償還による支出、財務活動によるキャッシュ・フロー、投資業,Redemption of investment corporation bonds,Redemption of investment corporation bonds-FinCF-INV
-210,jppfs_cor:ProceedsFromIssuanceOfInvestmentUnitsFinCFINV,投資口の発行による収入、財務活動によるキャッシュ・フロー、投資業,Proceeds from issuance of investment units,Proceeds from issuance of investment units-FinCF-INV
-211,jppfs_cor:DividendsPaidFinCFINV,分配金の支払額、財務活動によるキャッシュ・フロー、投資業,Dividends paid,Dividends paid-FinCF-INV
-212,jppfs_cor:PaymentsForInvestmentUnitIssuanceExpensesFinCFINV,投資口交付費の支出、財務活動によるキャッシュ・フロー、投資業,Payments for investment unit issuance expenses,Payments for investment unit issuance expenses-FinCF-INV
-213,nan,,,
-214,nan,,,
-215,名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
-216,jppfs_cor:StatementOfUnitholdersEquityAbstract,投資主資本等変動計算書 [タイトル項目],Statement of unitholders' equity,Statement of unitholders' equity [abstract]
-217,jppfs_cor:StatementOfUnitholdersEquityTable,投資主資本等変動計算書 [表],Statement of unitholders' equity,Statement of unitholders' equity [table]
-218,jppfs_cor:ComponentsOfEquityAxis,純資産の内訳項目 [軸],Components of equity,Components of equity [axis]
-219,jppfs_cor:NetAssetsMember,純資産 [メンバー],Net assets,Net assets [member]
-220,jppfs_cor:UnitholdersEquityINVMember,投資主資本、投資業 [メンバー],Unitholders' equity,Unitholders' equity-INV [member]
-221,jppfs_cor:UnitholdersCapitalINVMember,出資総額、投資業 [メンバー],Unitholders' capital,Unitholders' capital-INV [member]
-222,jppfs_cor:UnitholdersCapitalGrossINVMember,出資総額（総額）、投資業 [メンバー],Unitholders' capital,"Unitholders' capital, gross - INV [member]"
-223,jppfs_cor:DeductionFromUnitholdersCapitalINVMember,出資総額控除額、投資業 [メンバー],Deduction from unitholders' capital,Deduction from unitholders' capital - INV [member]
-224,jppfs_cor:AllowanceForTemporaryDifferenceAdjustmentDeductionFromUnitholdersCapitalINVMember,一時差異等調整引当額、出資総額控除額、投資業 [メンバー],Allowance for temporary difference adjustment,Allowance for temporary difference adjustment - deduction from unitholders' capital - INV [member]
-225,jppfs_cor:OtherDeductionFromUnitholdersCapitalINVMember,その他の出資総額控除額、投資業 [メンバー],Other deduction from unitholders' capital,Other deduction from unitholders' capital - INV [member]
-226,jppfs_cor:DepositsForNewInvestmentUnitsINVMember,新投資口申込証拠金、投資業 [メンバー],Deposits for new investment units,Deposits for new investment units-INV [member]
-227,jppfs_cor:SurplusINVMember,剰余金、投資業 [メンバー],Surplus,Surplus-INV [member]
-228,jppfs_cor:CapitalSurplusINVMember,出資剰余金、投資業 [メンバー],Capital surplus,Capital surplus-INV [member]
-229,jppfs_cor:CapitalSurplusGrossINVMember,出資剰余金（総額）、投資業 [メンバー],Capital surplus,"Capital surplus, gross - INV [member]"
-230,jppfs_cor:DeductionFromUnitholdersCapitalSurplusINVMember,出資剰余金控除額、投資業 [メンバー],Deduction from unitholders' capital surplus,Deduction from unitholders' capital surplus - INV [member]
-231,jppfs_cor:AllowanceForTemporaryDifferenceAdjustmentDeductionFromUnitholdersCapitalSurplusINVMember,一時差異等調整引当額、出資剰余金控除額、投資業 [メンバー],Allowance for temporary difference adjustment,Allowance for temporary difference adjustment - deduction from unitholders' capital surplus - INV [member]
-232,jppfs_cor:OtherDeductionFromUnitholdersCapitalSurplusINVMember,その他の出資剰余金控除額、投資業 [メンバー],Other deduction from unitholders' capital surplus,Other deduction from unitholders' capital surplus - INV [member]
-233,jppfs_cor:VoluntaryRetainedEarningsINVMember,任意積立金、投資業 [メンバー],Voluntary retained earnings,Voluntary retained earnings-INV [member]
-234,jppfs_cor:RetainedEarningsForTemporaryDifferenceAdjustmentINVMember,一時差異等調整積立金、投資業 [メンバー],Reserve for temporary difference adjustments,Reserve for temporary difference adjustments - INV [member]
-235,jppfs_cor:UnappropriatedRetainedEarningsUndisposedLossINVMember,当期未処分利益又は当期未処理損失（△）、投資業 [メンバー],Unappropriated retained earnings (undisposed loss),Unappropriated retained earnings (undisposed loss)-INV [member]
-236,jppfs_cor:InvestmentUnitOwnINVMember,自己投資口、投資業 [メンバー],Treasury investment units,Treasury investment units - INV [member]
-237,jppfs_cor:ValuationAndTranslationAdjustmentsMember,評価・換算差額等 [メンバー],Valuation and translation adjustments,Valuation and translation adjustments [member]
-238,jppfs_cor:ValuationDifferenceOnAvailableForSaleSecuritiesMember,その他有価証券評価差額金 [メンバー],Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities [member]
-239,jppfs_cor:DeferredGainsOrLossesOnHedgesMember,繰延ヘッジ損益 [メンバー],Deferred gains or losses on hedges,Deferred gains or losses on hedges [member]
-240,jppfs_cor:SubscriptionRightsToSharesINVMember,新投資口予約権、投資業 [メンバー],Investment unit acquisition rights,Investment unit acquisition rights - INV [member]
-241,jppfs_cor:TreasurySubscriptionRightsToSharesINVMember,自己新投資口予約権、投資業 [メンバー],Treasury investment unit acquisition rights,Treasury investment unit acquisition rights - INV [member]
-242,jppfs_cor:StatementOfUnitholdersEquityLineItems,投資主資本等変動計算書 [表示項目],Statement of unitholders' equity,Statement of unitholders' equity [line items]
-243,jppfs_cor:NetAssets,純資産,Net assets,Net assets
-244,jppfs_cor:ChangesOfItemsDuringThePeriodAbstract,当期変動額 [タイトル項目],Changes of items during period,Changes of items during period [abstract]
-245,jppfs_cor:IssuanceOfNewInvestmentUnitsINV,新投資口の発行、投資業,Issuance of new investment units,Issuance of new investment units-INV
-246,jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
-247,jppfs_cor:ProvisionOfReserveForTemporaryDifferenceAdjustmentsINV,一時差異等調整積立金の積立、投資業,Provision of reserve for temporary difference adjustments,Provision of reserve for temporary difference adjustments - INV
-248,jppfs_cor:ReversalOfReserveForTemporaryDifferenceAdjustmentsINV,一時差異等調整積立金の取崩、投資業,Reversal of reserve for temporary difference adjustments,Reversal of reserve for temporary difference adjustments - INV
-249,jppfs_cor:DividendsFromSurplus,剰余金の配当,Dividends of surplus,Dividends of surplus
-250,jppfs_cor:NetChangesOfItemsOtherThanShareholdersEquity,株主資本以外の項目の当期変動額（純額）,Net changes of items other than shareholders' equity,Net changes of items other than shareholders' equity
-251,jppfs_cor:TotalChangesOfItemsDuringThePeriod,当期変動額合計,Total changes of items during period,Total changes of items during period
+タクソノミ,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:BalanceSheetAbstract,貸借対照表 [タイトル項目],Balance sheet,Balance sheet [abstract]
+jppfs_cor:BalanceSheetTable,貸借対照表 [表],Balance sheet,Balance sheet [table]
+jppfs_cor:BalanceSheetLineItems,貸借対照表 [表示項目],Balance sheet,Balance sheet [line items]
+jppfs_cor:AssetsAbstract,資産の部 [タイトル項目],Assets,Assets [abstract]
+jppfs_cor:CurrentAssetsAbstract,流動資産 [タイトル項目],Current assets,Current assets [abstract]
+jppfs_cor:CashAndDeposits,現金及び預金,Cash and deposits,Cash and deposits
+jppfs_cor:NotesReceivableTrade,受取手形,Notes receivable - trade,Notes receivable-trade
+jppfs_cor:AllowanceForDoubtfulAccountsNotesReceivableTrade,貸倒引当金、受取手形,Allowance for doubtful accounts,Allowance for doubtful accounts-notes receivable-trade
+jppfs_cor:NotesReceivableTradeNet,受取手形（純額）,"Notes receivable - trade, net","Notes receivable-trade, net"
+jppfs_cor:AccountsReceivableTradeCAINV,営業未収入金、流動資産、投資業,Operating accounts receivable,Operating accounts receivable-CA-INV
+jppfs_cor:AllowanceForDoubtfulAccountsOperatingAccountsReceivableINV,貸倒引当金、営業未収入金、投資業,Allowance for doubtful accounts,Allowance for doubtful accounts-operating accounts receivable-CA-INV
+jppfs_cor:RentalReceivablesNetCAINV,営業未収入金（純額）、流動資産、投資業,"Operating accounts receivable, net","Operating accounts receivable, net-CA-INV"
+jppfs_cor:ShortTermInvestmentSecurities,有価証券,Securities,Securities
+jppfs_cor:InvestmentUnitParentCAINV,親法人投資口、流動資産、投資業,Investment units - parent,Investment units - parent - CA - INV
+jppfs_cor:InvestmentUnitSubsidiaryCAINV,子法人投資口、流動資産、投資業,Investment units - subsidiary,Investment units - subsidiary - CA - INV
+jppfs_cor:AdvancePaymentsTrade,前渡金,Advance payments - trade,Advance payments-trade
+jppfs_cor:PrepaidExpenses,前払費用,Prepaid expenses,Prepaid expenses
+jppfs_cor:AccruedIncome,未収収益,Accrued income,Accrued income
+jppfs_cor:DeferredTaxAssetsCA,繰延税金資産、流動資産,Deferred tax assets,Deferred tax assets-CA
+jppfs_cor:AccruedDividendReceivableCAINV,未収配当金、流動資産、投資業,Accrued dividend receivable,Accrued dividend receivable-CA-INV
+jppfs_cor:OtherCA,その他、流動資産,Other,Other-CA
+jppfs_cor:AllowanceForDoubtfulAccountsCA,貸倒引当金、流動資産、一括控除,Allowance for doubtful accounts,Allowance for doubtful accounts-CA-by group
+jppfs_cor:CurrentAssets,流動資産,Current assets,Current assets
+jppfs_cor:CashAndDepositsInTrustINV,信託現金及び信託預金、投資業,Cash and deposits in trust,Cash and deposits in trust-INV
+jppfs_cor:NoncurrentAssetsAbstract,固定資産 [タイトル項目],Non-current assets,Non-current assets [abstract]
+jppfs_cor:PropertyPlantAndEquipmentAbstract,有形固定資産 [タイトル項目],"Property, plant and equipment","Property, plant and equipment [abstract]"
+jppfs_cor:Buildings,建物,Buildings,Buildings
+jppfs_cor:AccumulatedDepreciationBuildings,減価償却累計額、建物,Accumulated depreciation,Accumulated depreciation-buildings
+jppfs_cor:BuildingsNet,建物（純額）,"Buildings, net","Buildings, net"
+jppfs_cor:Structures,構築物,Structures,Structures
+jppfs_cor:AccumulatedDepreciationStructures,減価償却累計額、構築物,Accumulated depreciation,Accumulated depreciation-structures
+jppfs_cor:StructuresNet,構築物（純額）,"Structures, net","Structures, net"
+jppfs_cor:MachineryAndEquipment,機械及び装置,Machinery and equipment,Machinery and equipment
+jppfs_cor:AccumulatedDepreciationMachineryAndEquipment,減価償却累計額、機械及び装置,Accumulated depreciation,Accumulated depreciation-machinery and equipment
+jppfs_cor:MachineryAndEquipmentNet,機械及び装置（純額）,"Machinery and equipment, net","Machinery and equipment, net"
+jppfs_cor:ToolsFurnitureAndFixtures,工具、器具及び備品,"Tools, furniture and fixtures","Tools, furniture and fixtures"
+jppfs_cor:AccumulatedDepreciationToolsFurnitureAndFixtures,減価償却累計額、工具、器具及び備品,Accumulated depreciation,"Accumulated depreciation-tools, furniture and fixtures"
+jppfs_cor:ToolsFurnitureAndFixturesNet,工具、器具及び備品（純額）,"Tools, furniture and fixtures, net","Tools, furniture and fixtures, net"
+jppfs_cor:Land,土地,Land,Land
+jppfs_cor:ConstructionInProgress,建設仮勘定,Construction in progress,Construction in progress
+jppfs_cor:AccumulatedDepreciationPPEByGroup,減価償却累計額、有形固定資産、一括控除,Accumulated depreciation,Accumulated depreciation-PPE-by group
+jppfs_cor:PropertyPlantAndEquipment,有形固定資産,"Property, plant and equipment","Property, plant and equipment"
+jppfs_cor:BuildingsInTrustINV,信託建物、投資業,Buildings in trust,Buildings in trust-INV
+jppfs_cor:AccumulatedDepreciationBuildingsInTrustINV,減価償却累計額、信託建物、投資業,Accumulated depreciation,Accumulated depreciation-buildings in trust-INV
+jppfs_cor:BuildingsInTrustNetINV,信託建物（純額）、投資業,"Buildings in trust, net","Buildings in trust, net-INV"
+jppfs_cor:LandInTrustINV,信託土地、投資業,Land in trust,Land in trust-INV
+jppfs_cor:StructuresInTrustINV,信託構築物、投資業,Structures in trust,Structures in trust-INV
+jppfs_cor:AccumulatedDepreciationStructuresInTrustINV,減価償却累計額、信託構築物、投資業,Accumulated depreciation,Accumulated depreciation-structures in trust-INV
+jppfs_cor:StructuresInTrustNetINV,信託構築物（純額）、投資業,"Structures in trust, net","Structures in trust, net-INV"
+jppfs_cor:ConstructionInProgressInTrustINV,信託建設仮勘定、投資業,Construction in progress in trust,Construction in progress in trust-INV
+jppfs_cor:ToolsFurnitureAndFixturesInTrustINV,信託工具、器具及び備品、投資業,"Tools, furniture and fixtures in trust","Tools, furniture and fixtures in trust-INV"
+jppfs_cor:AccumulatedDepreciationToolsFurnitureAndFixturesInTrustINV,減価償却累計額、信託工具、器具及び備品、投資業,Accumulated depreciation,"Accumulated depreciation-tools, furniture and fixtures in trust-INV"
+jppfs_cor:ToolsFurnitureAndFixturesInTrustNetINV,信託工具、器具及び備品（純額）、投資業,"Tools, furniture and fixtures in trust, net","Tools, furniture and fixtures in trust, net-INV"
+jppfs_cor:MachineryAndEquipmentInTrustINV,信託機械及び装置、投資業,Machinery and equipment in trust,Machinery and equipment in trust-INV
+jppfs_cor:AccumulatedDepreciationMachineryAndEquipmentInTrustINV,減価償却累計額、信託機械及び装置、投資業,Accumulated depreciation,Accumulated depreciation-machinery and equipment in trust-INV
+jppfs_cor:MachineryAndEquipmentInTrustNetINV,信託機械及び装置（純額）、投資業,"Machinery and equipment in trust, net","Machinery and equipment in trust, net-INV"
+jppfs_cor:IntangibleAssetsAbstract,無形固定資産 [タイトル項目],Intangible assets,Intangible assets [abstract]
+jppfs_cor:LeaseholdRight,借地権,Leasehold right,Leasehold right
+jppfs_cor:Goodwill,のれん,Goodwill,Goodwill
+jppfs_cor:OtherIA,その他、無形固定資産,Other,Other-IA
+jppfs_cor:IntangibleAssets,無形固定資産,Intangible assets,Intangible assets
+jppfs_cor:LeaseholdRightsInTrustAtCostINV,信託借地権、投資業,Leasehold rights in trust,Leasehold rights in trust-at cost-INV
+jppfs_cor:OtherIntangibleAssetsInTrustINV,信託その他無形固定資産、投資業,Other intangible assets in trust,Other intangible assets in trust-INV
+jppfs_cor:InvestmentsAndOtherAssetsAbstract,投資その他の資産 [タイトル項目],Investments and other assets,Investments and other assets [abstract]
+jppfs_cor:InvestmentSecurities,投資有価証券,Investment securities,Investment securities
+jppfs_cor:InvestmentsInCapital,出資金,Investments in capital,Investments in capital
+jppfs_cor:InvestmentUnitParentIOAINV,親法人投資口、投資その他の資産、投資業,Investment units - parent,Investment units - parent - IOA - INV
+jppfs_cor:InvestmentUnitSubsidiaryIOAINV,子法人投資口、投資その他の資産、投資業,Investment units - subsidiary,Investment units - subsidiary - IOA - INV
+jppfs_cor:LongTermLoansReceivable,長期貸付金,Long-term loans receivable,Long-term loans receivable
+jppfs_cor:AllowanceForDoubtfulAccountsLongTermLoansReceivable,貸倒引当金、長期貸付金,Allowance for doubtful accounts,Allowance for doubtful accounts-long-term loans receivable
+jppfs_cor:LongTermLoansReceivableNet,長期貸付金（純額）,"Long-term loans receivable, net","Long-term loans receivable, net"
+jppfs_cor:DeferredTaxAssetsIOA,繰延税金資産、投資その他の資産,Deferred tax assets,Deferred tax assets-IOA
+jppfs_cor:LeaseAndGuaranteeDepositsInTrustINV,信託差入敷金及び保証金、投資業,Leasehold and guarantee deposits in trust,Leasehold and guarantee deposits in trust - INV
+jppfs_cor:OtherIOA,その他、投資その他の資産,Other,Other-IOA
+jppfs_cor:AllowanceForDoubtfulAccountsIOAByGroup,貸倒引当金、投資その他の資産、一括控除,Allowance for doubtful accounts,Allowance for doubtful accounts-IOA-by group
+jppfs_cor:InvestmentsAndOtherAssets,投資その他の資産,Investments and other assets,Investments and other assets
+jppfs_cor:NoncurrentAssets,固定資産,Non-current assets,Non-current assets
+jppfs_cor:DeferredAssetsAbstract,繰延資産 [タイトル項目],Deferred assets,Deferred assets [abstract]
+jppfs_cor:InvestmentUnitIssuanceExpensesDAINV,投資口交付費、繰延資産、投資業,Investment unit issuance expenses,Investment unit issuance expenses-DA-INV
+jppfs_cor:DeferredAssets,繰延資産,Deferred assets,Deferred assets
+jppfs_cor:InvestmentCorporationBondIssuanceCostsINV,投資法人債発行費、投資業,Investment corporation bond issuance costs,Investment corporation bond issuance costs-INV
+jppfs_cor:Assets,資産,Assets,Assets
+jppfs_cor:LiabilitiesAbstract,負債の部 [タイトル項目],Liabilities,Liabilities [abstract]
+jppfs_cor:CurrentLiabilitiesAbstract,流動負債 [タイトル項目],Current liabilities,Current liabilities [abstract]
+jppfs_cor:AccountsPayableCLINV,営業未払金、流動負債、投資業,Operating accounts payable,Operating accounts payable-CL-INV
+jppfs_cor:CurrentPortionOfInvestmentCorporationBondsINV,1年内償還予定の投資法人債、投資業,Current portion of investment corporation bonds,Current portion of investment corporation bonds - INV
+jppfs_cor:AdvancesReceived,前受金,Advances received,Advances received
+jppfs_cor:AccountsPayableOther,未払金,Accounts payable - other,Accounts payable-other
+jppfs_cor:DepositsReceived,預り金,Deposits received,Deposits received
+jppfs_cor:AccruedExpenses,未払費用,Accrued expenses,Accrued expenses
+jppfs_cor:UnearnedRevenue,前受収益,Unearned revenue,Unearned revenue
+jppfs_cor:DeferredTaxLiabilitiesCL,繰延税金負債、流動負債,Deferred tax liabilities,Deferred tax liabilities-CL
+jppfs_cor:AssetRetirementObligationsCL,資産除去債務、流動負債,Asset retirement obligations,Asset retirement obligations-CL
+jppfs_cor:OtherCL,その他、流動負債,Other,Other-CL
+jppfs_cor:CurrentLiabilities,流動負債,Current liabilities,Current liabilities
+jppfs_cor:DistributionPayableINV,未払分配金、投資業,Distribution payable,Distribution payable-INV
+jppfs_cor:NoncurrentLiabilitiesAbstract,固定負債 [タイトル項目],Non-current liabilities,Non-current liabilities [abstract]
+jppfs_cor:InvestmentCorporationBondINV,投資法人債、投資業,Investment corporation bonds,Investment corporation bonds - INV
+jppfs_cor:LongTermLoansPayable,長期借入金,Long-term loans payable,Long-term loans payable
+jppfs_cor:DeferredTaxLiabilitiesNCL,繰延税金負債、固定負債,Deferred tax liabilities,Deferred tax liabilities-NCL
+jppfs_cor:AssetRetirementObligationsNCL,資産除去債務、固定負債,Asset retirement obligations,Asset retirement obligations-NCL
+jppfs_cor:OtherNCL,その他、固定負債,Other,Other-NCL
+jppfs_cor:NoncurrentLiabilities,固定負債,Non-current liabilities,Non-current liabilities
+jppfs_cor:TenantLeaseholdAndSecurityDepositsINV,預り敷金及び保証金、投資業,Tenant leasehold and security deposits,Tenant leasehold and security deposits-INV
+jppfs_cor:TenantLeaseholdAndSecurityDepositsInTrustINV,信託預り敷金及び保証金、投資業,Tenant leasehold and security deposits in trust,Tenant leasehold and security deposits in trust-INV
+jppfs_cor:Liabilities,負債,Liabilities,Liabilities
+jppfs_cor:NetAssetsAbstract,純資産の部 [タイトル項目],Net assets,Net assets [abstract]
+jppfs_cor:UnitholdersEquityAbstractINV,投資主資本、投資業 [タイトル項目],Unitholders' equity,Unitholders' equity-INV [abstract]
+jppfs_cor:UnitholdersCapitalGrossINV,出資総額（総額）、投資業,Unitholders' capital,"Unitholders' capital, gross-INV"
+jppfs_cor:DeductionFromUnitholdersCapitalINVAbstract,出資総額控除額、投資業 [タイトル項目],Deduction from unitholders' capital,Deduction from unitholders' capital-INV [abstract]
+jppfs_cor:AllowanceForTemporaryDifferenceAdjustmentDeductionFromUnitholdersCapitalINV,一時差異等調整引当額、出資総額控除額、投資業,Allowance for temporary difference adjustments,Allowance for temporary difference adjustments - deduction from unitholders' capital - INV
+jppfs_cor:OtherDeductionFromUnitholdersCapitalINV,その他の出資総額控除額、投資業,Other deduction from unitholders' capital,Other deduction from unitholders' capital-INV
+jppfs_cor:DeductionFromUnitholdersCapitalINV,出資総額控除額、投資業,Deduction from unitholders' capital,Deduction from unitholders' capital-INV
+jppfs_cor:UnitholdersCapitalINV,出資総額、投資業,Unitholders' capital,Unitholders' capital - INV
+jppfs_cor:DepositsForNewInvestmentUnitsINV,新投資口申込証拠金、投資業,Deposits for new investment units,Deposits for new investment units-INV
+jppfs_cor:SurplusAbstractINV,剰余金、投資業 [タイトル項目],Surplus,Surplus-INV [abstract]
+jppfs_cor:CapitalSurplusGrossINV,出資剰余金（総額）、投資業,Capital surplus,"Capital surplus, gross - INV"
+jppfs_cor:DeductionFromUnitholdersCapitalSurplusINVAbstract,出資剰余金控除額、投資業 [タイトル項目],Deduction from unitholders' capital surplus,Deduction from unitholders' capital surplus-INV [abstract]
+jppfs_cor:AllowanceForTemporaryDifferenceAdjustmentDeductionFromUnitholdersCapitalSurplusINV,一時差異等調整引当額、出資剰余金控除額、投資業,Allowance for temporary difference adjustments,Allowance for temporary difference adjustments - deduction from unitholders' capital surplus - INV
+jppfs_cor:OtherDeductionFromUnitholdersCapitalSurplusINV,その他の出資剰余金控除額、投資業,Other deduction from unitholders' capital surplus,Other deduction from unitholders' capital surplus-INV
+jppfs_cor:DeductionFromUnitholdersCapitalSurplusINV,出資剰余金控除額、投資業,Deduction from unitholders' capital surplus,Deduction from unitholders' capital surplus-INV
+jppfs_cor:CapitalSurplusINV,出資剰余金、投資業,Capital surplus,Capital surplus - INV
+jppfs_cor:VoluntaryRetainedEarningsINVAbstract,任意積立金、投資業 [タイトル項目],Voluntary retained earnings,Voluntary retained earnings-INV [abstract]
+jppfs_cor:RetainedEarningsForTemporaryDifferenceAdjustmentINV,一時差異等調整積立金、投資業,Reserve for temporary difference adjustments,Reserve for temporary difference adjustments - INV
+jppfs_cor:VoluntaryRetainedEarningsINV,任意積立金、投資業,Voluntary retained earnings,Voluntary retained earnings-INV
+jppfs_cor:UnappropriatedRetainedEarningsUndisposedLossINV,当期未処分利益又は当期未処理損失（△）、投資業,Unappropriated retained earnings (undisposed loss),Unappropriated retained earnings (undisposed loss)-INV
+jppfs_cor:SurplusINV,剰余金、投資業,Surplus,Surplus-INV
+jppfs_cor:InvestmentUnitOwnINV,自己投資口、投資業,Treasury investment units,Treasury investment units - INV
+jppfs_cor:UnitholdersEquityINV,投資主資本、投資業,Unitholders' equity,Unitholders' equity-INV
+jppfs_cor:ValuationAndTranslationAdjustmentsAbstract,評価・換算差額等 [タイトル項目],Valuation and translation adjustments,Valuation and translation adjustments [abstract]
+jppfs_cor:ValuationDifferenceOnAvailableForSaleSecurities,その他有価証券評価差額金,Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities
+jppfs_cor:DeferredGainsOrLossesOnHedges,繰延ヘッジ損益,Deferred gains or losses on hedges,Deferred gains or losses on hedges
+jppfs_cor:ValuationAndTranslationAdjustments,評価・換算差額等,Valuation and translation adjustments,Valuation and translation adjustments
+jppfs_cor:SubscriptionRightsToSharesINV,新投資口予約権、投資業,Investment unit acquisition rights,Investment unit acquisition rights - INV
+jppfs_cor:TreasurySubscriptionRightsToSharesINV,自己新投資口予約権、投資業,Treasury investment unit acquisition rights,Treasury investment unit acquisition rights - INV
+jppfs_cor:NetAssets,純資産,Net assets,Net assets
+jppfs_cor:LiabilitiesAndNetAssets,負債純資産,Liabilities and net assets,Liabilities and net assets
+nan,,,
+nan,,,
+名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:StatementOfIncomeAbstract,損益計算書 [タイトル項目],Statement of income,Statement of income [abstract]
+jppfs_cor:StatementOfIncomeTable,損益計算書 [表],Statement of income,Statement of income [table]
+jppfs_cor:StatementOfIncomeLineItems,損益計算書 [表示項目],Statement of income,Statement of income [line items]
+jppfs_cor:OperatingRevenueAbstractINV,営業収益、投資業 [タイトル項目],Operating revenue,Operating revenue-INV [abstract]
+jppfs_cor:InterestIncomeORINV,受取利息、営業収益、投資業,Interest income,Interest income-OR-INV
+jppfs_cor:RentalRevenueINV,不動産賃貸収入、投資業,Rent revenue - real estate,Rent revenue-real estate-INV
+jppfs_cor:RentRevenueRealEstateORINV,賃貸事業収入、営業収益、投資業,Lease business revenue,Lease business revenue-OR-INV
+jppfs_cor:GainOnSalesOfRealEstatePropertiesORINV,不動産等売却益、営業収益、投資業,Gain on sales of real estate properties,Gain on sales of real estate properties-OR-INV
+jppfs_cor:OtherLeaseBusinessRevenueORINV,その他賃貸事業収入、営業収益、投資業,Other lease business revenue,Other lease business revenue-OR-INV
+jppfs_cor:ProfitAndLossOnBuyingAndSellingOfSecuritiesAndOtherORINV,有価証券売買等損益、営業収益、投資業,Profit and loss on buying and selling of securities and other,Profit and loss on buying and selling of securities and other-OR-INV
+jppfs_cor:OperatingRevenueINV,営業収益、投資業,Operating revenue,Operating revenue-INV
+jppfs_cor:OperatingExpensesAbstractINV,営業費用、投資業 [タイトル項目],Operating expenses,Operating expenses-INV [abstract]
+jppfs_cor:AssetManagementFeeOEINV,資産運用報酬、営業費用、投資業,Asset management fee,Asset management fee-OE-INV
+jppfs_cor:AssetCustodyFeeOEINV,資産保管手数料、営業費用、投資業,Asset custody fee,Asset custody fee-OE-INV
+jppfs_cor:AdministrativeServiceFeesOEINV,一般事務委託手数料、営業費用、投資業,Administrative service fees,Administrative service fees-OE-INV
+jppfs_cor:LossOnSalesOfRealEstatePropertiesOEINV,不動産等売却損、営業費用、投資業,Loss on sales of real estate properties,Loss on sales of real estate properties-OE-INV
+jppfs_cor:ExpensesRelatedToRentBusinessOEINV,賃貸事業費用、営業費用、投資業,Expenses related to rent business,Expenses related to rent business-OE-INV
+jppfs_cor:AuditFeeOEINV,会計監査人報酬、営業費用、投資業,Audit fee,Audit fee-OE-INV
+jppfs_cor:OtherOperatingExpensesOEINV,その他営業費用、営業費用、投資業,Other operating expenses,Other operating expenses-OE-INV
+jppfs_cor:OperatingExpensesINV,営業費用、投資業,Operating expenses,Operating expenses-INV
+jppfs_cor:OperatingIncome,営業利益又は営業損失（△）,Operating profit (loss),Operating profit (loss)
+jppfs_cor:NonOperatingIncomeAbstract,営業外収益 [タイトル項目],Non-operating income,Non-operating income [abstract]
+jppfs_cor:NonOperatingIncome,営業外収益,Non-operating income,Non-operating income
+jppfs_cor:NonOperatingExpensesAbstract,営業外費用 [タイトル項目],Non-operating expenses,Non-operating expenses [abstract]
+jppfs_cor:InvestmentUnitIssuanceExpensesNOEINV,投資口交付費、営業外費用、投資業,Investment unit issuance expenses,Investment unit issuance expenses-NOE-INV
+jppfs_cor:AmortizationOfInvestmentUnitIssuanceExpensesNOEINV,投資口交付費償却、営業外費用、投資業,Amortization of investment unit issuance expenses,Amortization of investment unit issuance expenses-NOE-INV
+jppfs_cor:BorrowingExpensesNOEINV,融資手数料、営業外費用、投資業,Borrowing expenses,Borrowing expenses-NOE-INV
+jppfs_cor:BorrowingRelatedExpensesNOEINV,融資関連費用、営業外費用、投資業,Borrowing related expenses,Borrowing related expenses-NOE-INV
+jppfs_cor:InterestExpensesOnInvestmentCorporationBondsNOEINV,投資法人債利息、営業外費用、投資業,Interest expenses on investment corporation bonds,Interest expenses on investment corporation bonds-NOE-INV
+jppfs_cor:AmortizationOfInvestmentCorporationBondIssuanceCostsNOEINV,投資法人債発行費償却、営業外費用、投資業,Amortization of investment corporation bond issuance costs,Amortization of investment corporation bond issuance costs-NOE-INV
+jppfs_cor:NewInvestmentUnitIssuanceCostsNOEINV,新投資口交付費、営業外費用、投資業,New investment unit issuance costs,New investment unit issuance costs-NOE-INV
+jppfs_cor:OtherOfferingCostsAssociatedWithTheIssuanceOfInvestmentUnitsNOEINV,投資口公開関連費用、営業外費用、投資業,Investment unit public offering expenses,Investment unit public offering expenses - NOE - INV
+jppfs_cor:NonOperatingExpenses,営業外費用,Non-operating expenses,Non-operating expenses
+jppfs_cor:OrdinaryIncome,経常利益又は経常損失（△）,Ordinary profit (loss),Ordinary profit (loss)
+jppfs_cor:ExtraordinaryIncomeAbstract,特別利益 [タイトル項目],Extraordinary income,Extraordinary income [abstract]
+jppfs_cor:GainOnNegativeGoodwillEI,負ののれん発生益、特別利益,Gain on bargain purchase,Gain on bargain purchase-EI
+jppfs_cor:ExtraordinaryIncome,特別利益,Extraordinary income,Extraordinary income
+jppfs_cor:ExtraordinaryLossAbstract,特別損失 [タイトル項目],Extraordinary losses,Extraordinary losses [abstract]
+jppfs_cor:ImpairmentLossEL,減損損失、特別損失,Impairment loss,Impairment loss-EL
+jppfs_cor:LossOnDisasterEL,災害による損失、特別損失,Loss on disaster,Loss on disaster-EL
+jppfs_cor:ExtraordinaryLoss,特別損失,Extraordinary losses,Extraordinary losses
+jppfs_cor:IncomeBeforeIncomeTaxes,税引前当期純利益又は税引前当期純損失（△）,Profit (loss) before income taxes,Profit (loss) before income taxes
+jppfs_cor:IncomeTaxesCurrent,法人税、住民税及び事業税,Income taxes - current,Income taxes-current
+jppfs_cor:IncomeTaxesDeferred,法人税等調整額,Income taxes - deferred,Income taxes-deferred
+jppfs_cor:IncomeTaxes,法人税等,Income taxes,Income taxes
+jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
+jppfs_cor:RetainedEarningsBroughtForwardPriorINV,前期繰越利益又は前期繰越損失（△）、投資業,Retained earnings (deficit) brought forward,Retained earnings (deficit) brought forward-INV
+jppfs_cor:UnappropriatedRetainedEarningsUndisposedLossINV,当期未処分利益又は当期未処理損失（△）、投資業,Unappropriated retained earnings (undisposed loss),Unappropriated retained earnings (undisposed loss)-INV
+nan,,,
+nan,,,
+名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:StatementOfCashFlowsAbstract,キャッシュ・フロー計算書 [タイトル項目],Statement of cash flows,Statement of cash flows [abstract]
+jppfs_cor:StatementOfCashFlowsTable,キャッシュ・フロー計算書 [表],Statement of cash flows,Statement of cash flows [table]
+jppfs_cor:StatementOfCashFlowsLineItems,キャッシュ・フロー計算書 [表示項目],Statement of cash flows,Statement of cash flows [line items]
+jppfs_cor:NetCashProvidedByUsedInOperatingActivitiesAbstract,営業活動によるキャッシュ・フロー [タイトル項目],Cash flows from operating activities,Cash flows from operating activities [abstract]
+jppfs_cor:SubtotalOpeCF,小計、営業活動によるキャッシュ・フロー,Subtotal,Subtotal-OpeCF
+jppfs_cor:InvestmentUnitIssuanceExpensesOpeCFINV,投資口交付費、営業活動によるキャッシュ・フロー、投資業,Investment unit issuance expenses,Investment unit issuance expenses-OpeCF-INV
+jppfs_cor:AmortizationOfInvestmentUnitIssuanceExpensesOpeCFINV,投資口交付費償却、営業活動によるキャッシュ・フロー、投資業,Amortization of investment unit issuance expenses,Amortization of investment unit issuance expenses-OpeCF-INV
+jppfs_cor:AmortizationOfInvestmentCorporationBondIssuanceCostsOpeCFINV,投資法人債発行費償却、営業活動によるキャッシュ・フロー、投資業,Amortization of investment corporation bond issuance costs,Amortization of investment corporation bond issuance costs-OpeCF-INV
+jppfs_cor:DecreaseIncreaseInOperatingAccountsReceivableOpeCFINV,営業未収入金の増減額（△は増加）、営業活動によるキャッシュ・フロー、投資業,Decrease (increase) in operating accounts receivable,Decrease (increase) in operating accounts receivable-OpeCF-INV
+jppfs_cor:IncreaseDecreaseInOperatingAccountsPayableOpeCFINV,営業未払金の増減額（△は減少）、営業活動によるキャッシュ・フロー、投資業,Increase (decrease) in operating accounts payable,Increase (decrease) in operating accounts payable-OpeCF-INV
+jppfs_cor:NetCashProvidedByUsedInInvestmentActivitiesAbstract,投資活動によるキャッシュ・フロー [タイトル項目],Cash flows from investing activities,Cash flows from investing activities [abstract]
+jppfs_cor:PurchaseOfPropertyPlantAndEquipmentInTrustInvCFINV,信託有形固定資産の取得による支出、投資活動によるキャッシュ・フロー、投資業,"Purchase of property, plant and equipment in trust","Purchase of property, plant and equipment in trust-InvCF-INV"
+jppfs_cor:ProceedsFromTenantLeaseholdAndSecurityDepositsInTrustInvCFINV,信託預り敷金及び保証金の受入による収入、投資活動によるキャッシュ・フロー、投資業,Proceeds from tenant leasehold and security deposits in trust,Proceeds from tenant leasehold and security deposits in trust-InvCF-INV
+jppfs_cor:RepaymentsOfTenantLeaseholdAndSecurityDepositsInTrustInvCFINV,信託預り敷金及び保証金の返還による支出、投資活動によるキャッシュ・フロー、投資業,Repayments of tenant leasehold and security deposits in trust,Repayments of tenant leasehold and security deposits in trust-InvCF-INV
+jppfs_cor:ProceedsFromTenantLeaseholdAndSecurityDepositsInvCFINV,預り敷金及び保証金の受入による収入、投資活動によるキャッシュ・フロー、投資業,Proceeds from tenant leasehold and security deposits,Proceeds from tenant leasehold and security deposits-InvCF-INV
+jppfs_cor:RepaymentsOfTenantLeaseholdAndSecurityDepositsInvCFINV,預り敷金及び保証金の返還による支出、投資活動によるキャッシュ・フロー、投資業,Repayments of tenant leasehold and security deposits,Repayments of tenant leasehold and security deposits-InvCF-INV
+jppfs_cor:NetCashProvidedByUsedInFinancingActivitiesAbstract,財務活動によるキャッシュ・フロー [タイトル項目],Cash flows from financing activities,Cash flows from financing activities [abstract]
+jppfs_cor:ProceedsFromIssuanceOfInvestmentCorporationBondsFinCFINV,投資法人債の発行による収入、財務活動によるキャッシュ・フロー、投資業,Proceeds from issuance of investment corporation bonds,Proceeds from issuance of investment corporation bonds-FinCF-INV
+jppfs_cor:RedemptionOfInvestmentCorporationBondsFinCFINV,投資法人債の償還による支出、財務活動によるキャッシュ・フロー、投資業,Redemption of investment corporation bonds,Redemption of investment corporation bonds-FinCF-INV
+jppfs_cor:ProceedsFromIssuanceOfInvestmentUnitsFinCFINV,投資口の発行による収入、財務活動によるキャッシュ・フロー、投資業,Proceeds from issuance of investment units,Proceeds from issuance of investment units-FinCF-INV
+jppfs_cor:DividendsPaidFinCFINV,分配金の支払額、財務活動によるキャッシュ・フロー、投資業,Dividends paid,Dividends paid-FinCF-INV
+jppfs_cor:PaymentsForInvestmentUnitIssuanceExpensesFinCFINV,投資口交付費の支出、財務活動によるキャッシュ・フロー、投資業,Payments for investment unit issuance expenses,Payments for investment unit issuance expenses-FinCF-INV
+nan,,,
+nan,,,
+名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:StatementOfUnitholdersEquityAbstract,投資主資本等変動計算書 [タイトル項目],Statement of unitholders' equity,Statement of unitholders' equity [abstract]
+jppfs_cor:StatementOfUnitholdersEquityTable,投資主資本等変動計算書 [表],Statement of unitholders' equity,Statement of unitholders' equity [table]
+jppfs_cor:ComponentsOfEquityAxis,純資産の内訳項目 [軸],Components of equity,Components of equity [axis]
+jppfs_cor:NetAssetsMember,純資産 [メンバー],Net assets,Net assets [member]
+jppfs_cor:UnitholdersEquityINVMember,投資主資本、投資業 [メンバー],Unitholders' equity,Unitholders' equity-INV [member]
+jppfs_cor:UnitholdersCapitalINVMember,出資総額、投資業 [メンバー],Unitholders' capital,Unitholders' capital-INV [member]
+jppfs_cor:UnitholdersCapitalGrossINVMember,出資総額（総額）、投資業 [メンバー],Unitholders' capital,"Unitholders' capital, gross - INV [member]"
+jppfs_cor:DeductionFromUnitholdersCapitalINVMember,出資総額控除額、投資業 [メンバー],Deduction from unitholders' capital,Deduction from unitholders' capital - INV [member]
+jppfs_cor:AllowanceForTemporaryDifferenceAdjustmentDeductionFromUnitholdersCapitalINVMember,一時差異等調整引当額、出資総額控除額、投資業 [メンバー],Allowance for temporary difference adjustment,Allowance for temporary difference adjustment - deduction from unitholders' capital - INV [member]
+jppfs_cor:OtherDeductionFromUnitholdersCapitalINVMember,その他の出資総額控除額、投資業 [メンバー],Other deduction from unitholders' capital,Other deduction from unitholders' capital - INV [member]
+jppfs_cor:DepositsForNewInvestmentUnitsINVMember,新投資口申込証拠金、投資業 [メンバー],Deposits for new investment units,Deposits for new investment units-INV [member]
+jppfs_cor:SurplusINVMember,剰余金、投資業 [メンバー],Surplus,Surplus-INV [member]
+jppfs_cor:CapitalSurplusINVMember,出資剰余金、投資業 [メンバー],Capital surplus,Capital surplus-INV [member]
+jppfs_cor:CapitalSurplusGrossINVMember,出資剰余金（総額）、投資業 [メンバー],Capital surplus,"Capital surplus, gross - INV [member]"
+jppfs_cor:DeductionFromUnitholdersCapitalSurplusINVMember,出資剰余金控除額、投資業 [メンバー],Deduction from unitholders' capital surplus,Deduction from unitholders' capital surplus - INV [member]
+jppfs_cor:AllowanceForTemporaryDifferenceAdjustmentDeductionFromUnitholdersCapitalSurplusINVMember,一時差異等調整引当額、出資剰余金控除額、投資業 [メンバー],Allowance for temporary difference adjustment,Allowance for temporary difference adjustment - deduction from unitholders' capital surplus - INV [member]
+jppfs_cor:OtherDeductionFromUnitholdersCapitalSurplusINVMember,その他の出資剰余金控除額、投資業 [メンバー],Other deduction from unitholders' capital surplus,Other deduction from unitholders' capital surplus - INV [member]
+jppfs_cor:VoluntaryRetainedEarningsINVMember,任意積立金、投資業 [メンバー],Voluntary retained earnings,Voluntary retained earnings-INV [member]
+jppfs_cor:RetainedEarningsForTemporaryDifferenceAdjustmentINVMember,一時差異等調整積立金、投資業 [メンバー],Reserve for temporary difference adjustments,Reserve for temporary difference adjustments - INV [member]
+jppfs_cor:UnappropriatedRetainedEarningsUndisposedLossINVMember,当期未処分利益又は当期未処理損失（△）、投資業 [メンバー],Unappropriated retained earnings (undisposed loss),Unappropriated retained earnings (undisposed loss)-INV [member]
+jppfs_cor:InvestmentUnitOwnINVMember,自己投資口、投資業 [メンバー],Treasury investment units,Treasury investment units - INV [member]
+jppfs_cor:ValuationAndTranslationAdjustmentsMember,評価・換算差額等 [メンバー],Valuation and translation adjustments,Valuation and translation adjustments [member]
+jppfs_cor:ValuationDifferenceOnAvailableForSaleSecuritiesMember,その他有価証券評価差額金 [メンバー],Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities [member]
+jppfs_cor:DeferredGainsOrLossesOnHedgesMember,繰延ヘッジ損益 [メンバー],Deferred gains or losses on hedges,Deferred gains or losses on hedges [member]
+jppfs_cor:SubscriptionRightsToSharesINVMember,新投資口予約権、投資業 [メンバー],Investment unit acquisition rights,Investment unit acquisition rights - INV [member]
+jppfs_cor:TreasurySubscriptionRightsToSharesINVMember,自己新投資口予約権、投資業 [メンバー],Treasury investment unit acquisition rights,Treasury investment unit acquisition rights - INV [member]
+jppfs_cor:StatementOfUnitholdersEquityLineItems,投資主資本等変動計算書 [表示項目],Statement of unitholders' equity,Statement of unitholders' equity [line items]
+jppfs_cor:NetAssets,純資産,Net assets,Net assets
+jppfs_cor:ChangesOfItemsDuringThePeriodAbstract,当期変動額 [タイトル項目],Changes of items during period,Changes of items during period [abstract]
+jppfs_cor:IssuanceOfNewInvestmentUnitsINV,新投資口の発行、投資業,Issuance of new investment units,Issuance of new investment units-INV
+jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
+jppfs_cor:ProvisionOfReserveForTemporaryDifferenceAdjustmentsINV,一時差異等調整積立金の積立、投資業,Provision of reserve for temporary difference adjustments,Provision of reserve for temporary difference adjustments - INV
+jppfs_cor:ReversalOfReserveForTemporaryDifferenceAdjustmentsINV,一時差異等調整積立金の取崩、投資業,Reversal of reserve for temporary difference adjustments,Reversal of reserve for temporary difference adjustments - INV
+jppfs_cor:DividendsFromSurplus,剰余金の配当,Dividends of surplus,Dividends of surplus
+jppfs_cor:NetChangesOfItemsOtherThanShareholdersEquity,株主資本以外の項目の当期変動額（純額）,Net changes of items other than shareholders' equity,Net changes of items other than shareholders' equity
+jppfs_cor:TotalChangesOfItemsDuringThePeriod,当期変動額合計,Total changes of items during period,Total changes of items during period
