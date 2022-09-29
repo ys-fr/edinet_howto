@@ -28,18 +28,123 @@ EDINETとは、有価証券報告書をはじめとする開示書類を電子�
 
 
 ## APIを活用してダウンロードする方法
-次に、APIを活用してダウンロードする方法について説明しよう。APIを利用して
+次に、APIを活用してダウンロードする方法について説明しよう。to be written...
 
 
 
 
-### タクソノミからデータを取得する
-タクソノミとは、有価証券報告書などの開示文書に使用されるXBRLファイルを構成する要素である。
+# XBRLファイルからデータを取得する
+ XBRLファイルとは、有価証券報告書などの開示文書と同時に提出されるファイルである。また、そのファイルに記述されている内容は、PDF版の有価証券報告書と等価なものが記載されている。しかし、そのファイルのフォーマットは機械フレンドリーに作られている。そのため、人間が読むには適さない。本章では、そのxbrlファイルを適切に処理し、財務データを取得する方法について解説する。
 
+ ※ここでの解説は[公式サイト](https://www.fsa.go.jp/search/20211109/2b-1_InstanceGuide.pdf)に準拠します。
+
+## XBRLファイルのフォーマットについて
+XBRLファイルは、html言語のようなタグの集合として構成される:
+
+```html
+  <jpcrp_cor:CashAndCashEquivalentsIFRSSummaryOfBusinessResults contextRef="CurrentYearInstant" unitRef="JPY" decimals="-6">29367000000</jpcrp_cor:CashAndCashEquivalentsIFRSSummaryOfBusinessResults>
+```
+
+XBRLファイルに記述されている内容を適切に理解するために、``<...>text</...>''のフォーマットで書かれるタグの読み方を一つ一つ説明しよう。
+
+### ``<...>text</...>''の第一要素: 要素名
+まず、``<...>''に含まれる第一要素である「jpcrp_cor:CashAndCashEquivalentsIFRSSummaryOfBusinessResults 」について説明しよう。この第一要素は、タグで囲まれるtextの内容を表す識別子である。この識別子が指す財務指標はは、タクソノミ対応表を確認することで調べることが出来る。また、[このディレクトリ](AboutAPI/ProcessedData/TagList) にもその対応表を配置した。
+
+
+### ``<...>text</...>''の第二要素: コンテキストID
+次に、``<...>''に含まれる第二要素である「contextRef="CurrentYearInstant"」について説明しよう。この第二要素は、そのデータがいつのものかを表す指標である:
+|No|contextRef|意味|
+|---|---|---|
+|1|CurrentYear|当年度を意味します。|
+|2|Interim|中間期を意味します。|
+|3|Prior1Year|前年度を意味します。|
+|4|Prior1Interim|前中間期を意味します。|
+|5|Prior2Year|前々年度を意味します。|
+|6|Prior2Interim|前々中間期を意味します。|
+|7|Prior{n}Year|{n}年度前を意味します。|
+|8|Prior{n}Interim|{n}年度前中間期を意味します。|
+|9|CurrentYTD|当四半期累計期間を意味します。|
+|10|CurrentQuarter|当四半期会計期間を意味します。|
+|11|Prior{n}YTD|{n}年度前同四半期累計期間を意味します。|
+|12|Prior{n}Quarter|{n}年度前同四半期会計期間を意味します。|
+|13|FilingDate|提出日を意味します。|
+|14|RecordDate|議決権行使の基準日を意味します。※1|
+|15|RecentDate|最近日を意味します。※2、3|
+|16|FutureDate|予定日を意味します。※3|
+|17|Instant|時点を意味します。|
+|18|Duration|期間を意味します。|
+|19|メンバーの要素名|メンバーの要素名を意味します。|
+
+### ``<...>text</...>''の第三要素: ユニットID
+次に、``<...>''に含まれる第三要素である「unitRef="JPY"」について説明しよう。この第三要素は、そのデータに記載されている価格の単位を表す。日本の企業のであれば、多くの場合は日本円 (JPY) で単位が記述される。その他の単位に関しては、[このサイト](http://www.xbrl.org/utr/utr.xml) を参照
+
+### ``<...>text</...>''の第四要素: 数値の精度
+次に、``<...>''に含まれる第四要素である「decimals="-6"」について説明しよう。この第四要素は、そのデータに記載されている価格の精度を表す（100万単位など）。
+
+### その他の要素について
+この画像を参照してください:
+![](image/OffDoc.png)
+
+※ https://www.fsa.go.jp/search/20211109/2b-1_InstanceGuide.pdf より2022年9月30日時点の画像を引用.
+
+
+
+## データの取得方法
+ここでは、XBRLを読み込むためのパッケージである'xbrl'を使用したデータの取得例を説明します。
+
+### XBRLファイルに含まれるタクソノミ要素リストの確認
+まず、XBRLファイルに含まれるタクソノミ要素リスト（取得可能なデータリスト）を検索します
+```python
+# pathには、XBRLファイルの絶対パスを入力する
+path = "***"
+data = pd.read_csv(path,sep="\n",header=None)
+# Tagsに利用可能なタクソノミを格納する
+Tags = []
+for i in data[0].values:
+    i = i.split(" ")
+    n = 0
+    dic = {}
+    N = len(i)
+    for j in i:
+        if len(j)==0:
+            continue
+        j = j.strip("<")
+        if j[0]=="j":
+            Tags.append(j)
+        break
+    pass
+```
+
+ 
+### 分析に必要なデータを抽出する
+上のコマンドを実行して、Tagsに利用可能なデータの一覧を取得しました。Tagsの中に含まれるデータの中から必要なデータを取得し、取得します。
+```python
+import edinet
+from edinet.xbrl_file import XBRLDir
+import pandas as pd
+# DOC_IDにダウンロードしてきたファイルのディレクトリを入力する
+DOC_ID = "***"
+xbrl_dir = XBRLDir("./"+DOC_ID)
+# 例: 補助金収入を確認する
+for i in xbrl_dir.xbrl.find_all("jpcrp_cor:AuditFeesConsolidatedSubsidiaries"):
+    print(i._element["contextRef"], i.text)
+    # Prior1YearDuration 23000000
+    # CurrentYearDuration 23000000
+```
+
+この一連の分析手続きは、[リンク](Example/GetDataFromXBRL.ipynb)を確認してください。
+
+
+# 具体例
+- [ダウンロード可能なドキュメントを確認する方法](CheckDocID/get_doc_id.ipynb)
+- [データをダウンロードする方法](DownloadData/Download.ipynb)
+- [分析対象とするXBRLファイルで取得可能なデータ (タクソノミ) を確認する方法](GetAllTagsInXBRL/GetTags.ipynb)
+- [データをダウンロードしてからXBRLファイルからデータを取得する方法](Example/GetDataFromXBRL.ipynb)
 
 
 
 # 参考
+- タクソノミの対応表: RefTags/TagList を確認
 - xbrlの使い方: https://github.com/icoxfog417/xbrl_read_tutorial
 - EDINET: https://disclosure.edinet-fsa.go.jp/
 - タクソノミ要素リストの公式情報: https://www.fsa.go.jp/search/20211109.html
