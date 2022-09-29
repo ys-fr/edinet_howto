@@ -1,0 +1,193 @@
+タクソノミ,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:BalanceSheetAbstract,貸借対照表 [タイトル項目],Balance sheet,Balance sheet [abstract]
+jppfs_cor:BalanceSheetTable,貸借対照表 [表],Balance sheet,Balance sheet [table]
+jppfs_cor:BalanceSheetLineItems,貸借対照表 [表示項目],Balance sheet,Balance sheet [line items]
+jppfs_cor:AssetsAbstract,資産の部 [タイトル項目],Assets,Assets [abstract]
+jppfs_cor:CurrentAssetsAbstract,流動資産 [タイトル項目],Current assets,Current assets [abstract]
+jppfs_cor:DepositsCAFND,預金、流動資産、投資信託,Deposits,Deposits-CA-FND
+jppfs_cor:MoneyHeldInTrustCAFND,金銭信託、流動資産、投資信託,Money held in trust,Money held in trust-CA-FND
+jppfs_cor:CallLoansCAFND,コール・ローン、流動資産、投資信託,Call loans,Call loans-CA-FND
+jppfs_cor:MortgageSecuritiesCAFND,抵当証券、流動資産、投資信託,Mortgage securities,Mortgage securities-CA-FND
+jppfs_cor:MonetaryClaimCAFND,金銭債権、流動資産、投資信託,Monetary claim,Monetary claim-CA-FND
+jppfs_cor:PromissoryNoteCAFND,約束手形、流動資産、投資信託,Promissory note,Promissory note-CA-FND
+jppfs_cor:TrustBeneficiaryRightCAFND,信託受益権、流動資産、投資信託,Trust beneficiary right,Trust beneficiary right-CA-FND
+jppfs_cor:MoneyTrustBeneficiaryRightCAFND,受益証券発行信託の受益証券、流動資産、投資信託,Money trust beneficiary right,Money trust beneficiary right-CA-FND
+jppfs_cor:StocksCAFND,株式、流動資産、投資信託,Stocks,Stocks-CA-FND
+jppfs_cor:WarrantCAFND,新株予約権証券、流動資産、投資信託,Investments in share acquisition rights,Investments in share acquisition rights - CA - FND
+jppfs_cor:GovernmentBondsCAFND,国債証券、流動資産、投資信託,Government bonds,Government bonds-CA-FND
+jppfs_cor:MunicipalBondsCAFND,地方債証券、流動資産、投資信託,Municipal bonds,Municipal bonds-CA-FND
+jppfs_cor:SpecialBondsCAFND,特殊債券、流動資産、投資信託,Special bonds,Special bonds-CA-FND
+jppfs_cor:CorporateBondsCAFND,社債券、流動資産、投資信託,Corporate bonds,Corporate bonds-CA-FND
+jppfs_cor:SecurityInvestmentTrustBeneficiarySecuritiesCAFND,投資信託受益証券、流動資産、投資信託,Security investment trust beneficiary securities,Security investment trust beneficiary securities-CA-FND
+jppfs_cor:InvestmentSecuritiesCAFND,投資証券、流動資産、投資信託,Investment securities,Investment securities-CA-FND
+jppfs_cor:OtherSecuritiesCAFND,その他有価証券、流動資産、投資信託,Other securities,Other securities-CA-FND
+jppfs_cor:ParentsTrustBeneficiarySecuritiesCAFND,親投資信託受益証券、流動資産、投資信託,Parents trust beneficiary securities,Parents trust beneficiary securities-CA-FND
+jppfs_cor:CommercialPapersCAFND,コマーシャル・ペーパー、流動資産、投資信託,Commercial papers,Commercial papers-CA-FND
+jppfs_cor:CommodityCAFND,商品、流動資産、投資信託,Commodity,Commodity-CA-FND
+jppfs_cor:CallOptionCAFND,コール・オプション（買）、流動資産、投資信託,Call options,Call options-CA-FND
+jppfs_cor:PutOptionCAFND,プット・オプション（買）、流動資産、投資信託,Put options,Put options-CA-FND
+jppfs_cor:DerivativeEvaluationAccountCAFND,派生商品評価勘定、流動資産、投資信託,Derivative evaluation account,Derivative evaluation account-CA-FND
+jppfs_cor:GensakiTransactionAccountCAFND,現先取引勘定、流動資産、投資信託,Gensaki transaction account,Gensaki transaction account-CA-FND
+jppfs_cor:AccountsReceivableOther,未収入金,Accounts receivable - other,Accounts receivable-other
+jppfs_cor:DepositsForMarginTransactionCAFND,信用取引預け金、流動資産、投資信託,Deposits for margin transaction,Deposits for margin transaction-CA-FND
+jppfs_cor:AccruedDividendReceivableCAFND,未収配当金、流動資産、投資信託,Accrued dividend receivable,Accrued dividend receivable-CA-FND
+jppfs_cor:AccruedInterest,未収利息,Accrued interest,Accrued interest
+jppfs_cor:AdvancePaymentsCAFND,前払金、流動資産、投資信託,Advance payments,Advance payments-CA-FND
+jppfs_cor:PrepaidExpenses,前払費用,Prepaid expenses,Prepaid expenses
+jppfs_cor:OtherAccruedRevenueCAFND,その他未収収益、流動資産、投資信託,Other accrued revenue,Other accrued revenue-CA-FND
+jppfs_cor:GuaranteeDepositsCAFND,差入保証金、流動資産、投資信託,Guarantee deposits,Guarantee deposits-CA-FND
+jppfs_cor:CustomersMarginCAFND,差入委託証拠金、流動資産、投資信託,Customers' margin,Customers' margin-CA-FND
+jppfs_cor:OtherFinancialInstrumentsCAFND,その他の金融商品、流動資産、投資信託,Other financial instruments,Other financial instruments-CA-FND
+jppfs_cor:PreferredSecuritiesCAFND,優先出資証券、流動資産、投資信託,Preferred equity securities,Preferred equity securities-CA-FND
+jppfs_cor:PreferredSecuritiesOnDeedsCAFND,優先出資引受権証書、流動資産、投資信託,Preferred equity securities on deeds,Preferred equity securities on deeds-CA-FND
+jppfs_cor:NotionalPrincipalReceivableAssetsCAFND,想定元本受取資産、流動資産、投資信託,Notional principal receivable assets,Notional principal receivable assets-CA-FND
+jppfs_cor:CorrespondingAccountOfNotionalPrincipalPayableLiabilityCAFND,想定元本支払負債見合、流動資産、投資信託,Corresponding account of notional principal payable liability,Corresponding account of notional principal payable liability-CA-FND
+jppfs_cor:SecuritiesLoanedCAFND,貸付有価証券、流動資産、投資信託,Securities loaned,Securities loaned-CA-FND
+jppfs_cor:BorrowingTradeSecuritiesCAFND,借入取引有価証券、流動資産、投資信託,Borrowing trade securities,Borrowing trade securities-CA-FND
+jppfs_cor:PurchaseAccountOfFuturesMarketsCAFND,先物取引買勘定、流動資産、投資信託,Purchase account of futures markets,Purchase account of futures markets-CA-FND
+jppfs_cor:AccountsReceivableForeignExchangeCAFND,為替未収入金、流動資産、投資信託,Accounts receivable - foreign exchange,Accounts receivable-foreign exchange-CA-FND
+jppfs_cor:PurchaseForeignExchangeCAFND,買為替、流動資産、投資信託,Purchase - foreign exchange,Purchase-foreign exchange-CA-FND
+jppfs_cor:AccountsReceivableFuturesMarketsCAFND,先物取引未収入金、流動資産、投資信託,Accounts receivable - futures markets,Accounts receivable-futures markets-CA-FND
+jppfs_cor:SecuritiesReceivedAsCustomersDepositsForCashCollateralReceivedCAFND,受入担保金代用有価証券、流動資産、投資信託,Securities received as customers' deposits for cash collateral received,Securities received as customers' deposits for cash collateral received-CA-FND
+jppfs_cor:ForeignInvestmentAccountsCAFND,外国投資勘定、流動資産、投資信託,Foreign investment accounts,Foreign investment accounts-CA-FND
+jppfs_cor:AcquiredBeneficiarySecuritiesCAFND,買取受益証券、流動資産、投資信託,Acquired beneficiary securities,Acquired beneficiary securities-CA-FND
+jppfs_cor:CurrentAssets,流動資産,Current assets,Current assets
+jppfs_cor:NoncurrentAssetsAbstract,固定資産 [タイトル項目],Non-current assets,Non-current assets [abstract]
+jppfs_cor:PropertyPlantAndEquipmentAbstract,有形固定資産 [タイトル項目],"Property, plant and equipment","Property, plant and equipment [abstract]"
+jppfs_cor:PropertyPlantAndEquipment,有形固定資産,"Property, plant and equipment","Property, plant and equipment"
+jppfs_cor:IntangibleAssetsAbstract,無形固定資産 [タイトル項目],Intangible assets,Intangible assets [abstract]
+jppfs_cor:IntangibleAssets,無形固定資産,Intangible assets,Intangible assets
+jppfs_cor:InvestmentsAndOtherAssetsAbstract,投資その他の資産 [タイトル項目],Investments and other assets,Investments and other assets [abstract]
+jppfs_cor:GovernmentBondsNCAFND,国債証券、固定資産、投資信託,Government bonds,Government bonds-NCA-FND
+jppfs_cor:MunicipalBondsNCAFND,地方債証券、固定資産、投資信託,Municipal bonds,Municipal bonds-NCA-FND
+jppfs_cor:SpecialBondsNCAFND,特殊債券、固定資産、投資信託,Special bonds,Special bonds-NCA-FND
+jppfs_cor:CorporateBondsNCAFND,社債券、固定資産、投資信託,Corporate bonds,Corporate bonds-NCA-FND
+jppfs_cor:InvestmentsInCapitalSilentPartnershipAndOtherNCAFND,出資金（匿名組合出資持分等）、固定資産、投資信託,Investments in capital,Investments in capital (silent partnership and other)-NCA-FND
+jppfs_cor:InvestmentsAndOtherAssets,投資その他の資産,Investments and other assets,Investments and other assets
+jppfs_cor:NoncurrentAssets,固定資産,Non-current assets,Non-current assets
+jppfs_cor:DeferredAssetsAbstract,繰延資産 [タイトル項目],Deferred assets,Deferred assets [abstract]
+jppfs_cor:DeferredAssets,繰延資産,Deferred assets,Deferred assets
+jppfs_cor:Assets,資産,Assets,Assets
+jppfs_cor:LiabilitiesAbstract,負債の部 [タイトル項目],Liabilities,Liabilities [abstract]
+jppfs_cor:CurrentLiabilitiesAbstract,流動負債 [タイトル項目],Current liabilities,Current liabilities [abstract]
+jppfs_cor:SalesSecuritiesForMarginTradingCLFND,信用売証券、流動負債、投資信託,Sales securities for margin trading,Sales securities for margin trading-CL-FND
+jppfs_cor:SalesOfSecuritiesBorrowedCLFND,売却借入有価証券、流動負債、投資信託,Sales of securities borrowed,Sales of securities borrowed-CL-FND
+jppfs_cor:BondsSoldCLFND,売付債券、流動負債、投資信託,Bonds sold,Bonds sold-CL-FND
+jppfs_cor:CallOptionCLFND,コール・オプション（売）、流動負債、投資信託,Call options,Call options-CL-FND
+jppfs_cor:PutOptionCLFND,プット・オプション（売）、流動負債、投資信託,Put options,Put options-CL-FND
+jppfs_cor:DerivativeEvaluationAccountCLFND,派生商品評価勘定、流動負債、投資信託,Derivative evaluation account,Derivative evaluation account-CL-FND
+jppfs_cor:GensakiTransactionAccountCLFND,現先取引勘定、流動負債、投資信託,Gensaki transaction account,Gensaki transaction account-CL-FND
+jppfs_cor:ShortTermLoansPayable,短期借入金,Short-term loans payable,Short-term loans payable
+jppfs_cor:AdvancesReceived,前受金,Advances received,Advances received
+jppfs_cor:UnearnedRevenue,前受収益,Unearned revenue,Unearned revenue
+jppfs_cor:AccountsPayableOther,未払金,Accounts payable - other,Accounts payable-other
+jppfs_cor:UnpaidStockSubscriptionCLFND,未払株式払込金、流動負債、投資信託,Unpaid share subscription,Unpaid share subscription-CL-FND
+jppfs_cor:UnpaidDividendsCLFND,未払収益分配金、流動負債、投資信託,Unpaid dividends,Unpaid dividends-CL-FND
+jppfs_cor:RedemptionPayableCLFND,未払解約金、流動負債、投資信託,Redemption payable,Redemption payable-CL-FND
+jppfs_cor:TrusteeFeePayableCLFND,未払受託者報酬、流動負債、投資信託,Trustee fee payable,Trustee fee payable-CL-FND
+jppfs_cor:InvestmentTrustManagementFeePayableCLFND,未払委託者報酬、流動負債、投資信託,Investment trust management fee payable,Investment trust management fee payable-CL-FND
+jppfs_cor:AccruedInterestExpensesCLFND,未払利息、流動負債、投資信託,Accrued interest expenses,Accrued interest expenses-CL-FND
+jppfs_cor:CashCollateralReceivedCLFND,受入担保金、流動負債、投資信託,Cash collateral received,Cash collateral received-CL-FND
+jppfs_cor:OtherAccruedExpensesCLFND,その他未払費用、流動負債、投資信託,Other accrued expenses,Other accrued expenses-CL-FND
+jppfs_cor:CorrespondingAccountOfNotionalPrincipalReceivableAssetsCLFND,想定元本受取資産見合、流動負債、投資信託,Corresponding account of notional principal receivable assets,Corresponding account of notional principal receivable assets-CL-FND
+jppfs_cor:NotionalPrincipalPayableLiabilityCLFND,想定元本支払負債、流動負債、投資信託,Notional principal payable liability,Notional principal payable liability-CL-FND
+jppfs_cor:SecuritiesOfLoanTradeCLFND,貸付取引有価証券、流動負債、投資信託,Securities of loan trade,Securities of loan trade-CL-FND
+jppfs_cor:SecuritiesBorrowedCLFND,借入有価証券、流動負債、投資信託,Securities borrowed,Securities borrowed-CL-FND
+jppfs_cor:SalesForeignExchangeCLFND,売為替、流動負債、投資信託,Sales - foreign exchange,Sales-foreign exchange-CL-FND
+jppfs_cor:AccountsPayableForeignExchangeCLFND,為替未払金、流動負債、投資信託,Accounts payable - foreign exchange,Accounts payable-foreign exchange-CL-FND
+jppfs_cor:AccountsPayableFuturesMarketsCLFND,先物取引未払金、流動負債、投資信託,Accounts payable - futures markets,Accounts payable-futures markets-CL-FND
+jppfs_cor:SalesAccountOfFuturesMarketsCLFND,先物取引売勘定、流動負債、投資信託,Sales account of futures markets,Sales account of futures markets-CL-FND
+jppfs_cor:SecuritiesReceivedAsCustomersDepositsForGuaranteeDepositsCLFND,差入保証金代用有価証券、流動負債、投資信託,Securities received as customers' deposits for guarantee deposits,Securities received as customers' deposits for guarantee deposits-CL-FND
+jppfs_cor:SecuritiesReceivedAsCustomersDepositsForCustomersMarginCLFND,差入委託証拠金代用有価証券、流動負債、投資信託,Securities received as customers' deposits for customers' margin,Securities received as customers' deposits for customers' margin-CL-FND
+jppfs_cor:CurrentLiabilities,流動負債,Current liabilities,Current liabilities
+jppfs_cor:NoncurrentLiabilitiesAbstract,固定負債 [タイトル項目],Non-current liabilities,Non-current liabilities [abstract]
+jppfs_cor:NoncurrentLiabilities,固定負債,Non-current liabilities,Non-current liabilities
+jppfs_cor:Liabilities,負債,Liabilities,Liabilities
+jppfs_cor:NetAssetsAbstract,純資産の部 [タイトル項目],Net assets,Net assets [abstract]
+jppfs_cor:PrincipalAndOtherAbstractFND,元本等、投資信託 [タイトル項目],Principal and other,Principal and other-FND [abstract]
+jppfs_cor:PrincipalFND,元本、投資信託,Principal,Principal-FND
+jppfs_cor:ReserveForPrincipalFND,元本調整引当額、投資信託,Reserve for principal,Reserve for principal-FND
+jppfs_cor:SurplusAbstractFND,剰余金、投資信託 [タイトル項目],Surplus,Surplus-FND [abstract]
+jppfs_cor:SurplusDeficitFND,剰余金又は欠損金（△）、投資信託,Surplus (deficit),Surplus (deficit)-FND
+jppfs_cor:ReserveForDistributionFND,（分配準備積立金）、投資信託,Reserve for distribution,Reserve for distribution-FND
+jppfs_cor:ReserveForStockPriceFluctuationFND,（株価変動準備金）、投資信託,Reserve for stock price fluctuation,Reserve for stock price fluctuation-FND
+jppfs_cor:AcquiredBeneficiaryRightNAFND,買取受益権、純資産の部、投資信託,Acquired beneficiary right,Acquired beneficiary right-NA-FND
+jppfs_cor:PrincipalAndOtherFND,元本等、投資信託,Principal and other,Principal and other-FND
+jppfs_cor:ValuationAndTranslationAdjustmentsAbstract,評価・換算差額等 [タイトル項目],Valuation and translation adjustments,Valuation and translation adjustments [abstract]
+jppfs_cor:ValuationDifferenceOnAvailableForSaleSecurities,その他有価証券評価差額金,Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities
+jppfs_cor:DeferredGainsOrLossesOnHedges,繰延ヘッジ損益,Deferred gains or losses on hedges,Deferred gains or losses on hedges
+jppfs_cor:ValuationAndTranslationAdjustments,評価・換算差額等,Valuation and translation adjustments,Valuation and translation adjustments
+jppfs_cor:NetAssets,純資産,Net assets,Net assets
+jppfs_cor:LiabilitiesAndNetAssets,負債純資産,Liabilities and net assets,Liabilities and net assets
+nan,,,
+nan,,,
+名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:StatementOfIncomeAndRetainedEarningsAbstract,損益及び剰余金計算書 [タイトル項目],Statement of income and retained earnings,Statement of income and retained earnings [abstract]
+jppfs_cor:StatementOfIncomeAndRetainedEarningsTable,損益及び剰余金計算書 [表],Statement of income and retained earnings,Statement of income and retained earnings [table]
+jppfs_cor:StatementOfIncomeAndRetainedEarningsLineItems,損益及び剰余金計算書 [表示項目],Statement of income and retained earnings,Statement of income and retained earnings [line items]
+jppfs_cor:OperatingRevenueAbstractFND,営業収益、投資信託 [タイトル項目],Operating revenue,Operating revenue-FND [abstract]
+jppfs_cor:DividendsIncomeOIFND,受取配当金、営業収入、投資信託,Dividend income,Dividend income-OI-FND
+jppfs_cor:DividendsStockOIFND,配当株式、営業収入、投資信託,Dividends stock,Dividends stock-OI-FND
+jppfs_cor:InterestIncomeOIFND,受取利息、営業収入、投資信託,Interest income,Interest income-OI-FND
+jppfs_cor:ProfitAndLossOnBuyingAndSellingOfSecuritiesAndOtherOIFND,有価証券売買等損益、営業収入、投資信託,Profit and loss on buying and selling of securities and other,Profit and loss on buying and selling of securities and other-OI-FND
+jppfs_cor:ProfitAndLossOnDealingOfDerivativesOIFND,派生商品取引等損益、営業収入、投資信託,Profit and loss on dealing of derivatives,Profit and loss on dealing of derivatives-OI-FND
+jppfs_cor:ForeignExchangeGainsOrLossesOIFND,為替差損益、営業収入、投資信託,Foreign exchange gains or losses,Foreign exchange gains or losses-OI-FND
+jppfs_cor:OtherRevenueOIFND,その他収益、営業収入、投資信託,Other revenue,Other revenue-OI-FND
+jppfs_cor:GainOnSecuritiesTransactionsOIFND,有価証券売買益、営業収入、投資信託,Gain on securities transactions,Gain on securities transactions-OI-FND
+jppfs_cor:GainOnTransactionsOfFuturesMarketsOIFND,先物取引等取引益、営業収入、投資信託,Gain on transactions of futures markets,Gain on transactions of futures markets-OI-FND
+jppfs_cor:GainOnCancellationOIFND,解約差益金、営業収入、投資信託,Gain on cancellation,Gain on cancellation-OI-FND
+jppfs_cor:GainOnAdditionalSubscriptionsOIFND,追加信託差益金、営業収入、投資信託,Gain on additional subscriptions,Gain on additional subscriptions-OI-FND
+jppfs_cor:OtherForeignCurrencyRevenueOIFND,その他外貨収益金、営業収入、投資信託,Other foreign currency revenue,Other foreign currency revenue-OI-FND
+jppfs_cor:ReversalOfReserveForStockPriceFluctuationOIFND,株価変動準備金取崩し額、営業収入、投資信託,Reversal of reserve for stock price fluctuation,Reversal of reserve for stock price fluctuation-OI-FND
+jppfs_cor:ReversalOfReserveForPriceFluctuationOIFND,価額変動準備金取崩し額、営業収入、投資信託,Reversal of reserve for price fluctuation,Reversal of reserve for price fluctuation-OI-FND
+jppfs_cor:RevenueAdjustmentOIFND,収益調整金、営業収入、投資信託,Revenue adjustment,Revenue adjustment-OI-FND
+jppfs_cor:ValuationGainAdjustmentAccountsOIFND,評価益調整勘定、営業収入、投資信託,Valuation gain adjustment accounts,Valuation gain adjustment accounts-OI-FND
+jppfs_cor:ReversalOfReserveForDividendsOIFND,分配準備積立金取崩し額、営業収入、投資信託,Reversal of reserve for dividends,Reversal of reserve for dividends-OI-FND
+jppfs_cor:OperatingRevenueFND,営業収益、投資信託,Operating revenue,Operating revenue-FND
+jppfs_cor:OperatingExpensesAbstractFND,営業費用、投資信託 [タイトル項目],Operating expenses,Operating expenses-FND [abstract]
+jppfs_cor:SubscriptionFeeOEFND,募集手数料、営業費用、投資信託,Subscription fee,Subscription fee-OE-FND
+jppfs_cor:InterestExpensesOEFND,支払利息、営業費用、投資信託,Interest expenses,Interest expenses-OE-FND
+jppfs_cor:TrusteeFeeOEFND,受託者報酬、営業費用、投資信託,Trustee fee,Trustee fee-OE-FND
+jppfs_cor:InvestmentTrustManagementFeeOEFND,委託者報酬、営業費用、投資信託,Investment trust management fee,Investment trust management fee-OE-FND
+jppfs_cor:OtherExpensesOEFND,その他費用、営業費用、投資信託,Other expenses,Other expenses-OE-FND
+jppfs_cor:LossOnSecuritiesTransactionsOEFND,有価証券売買損、営業費用、投資信託,Loss on securities transactions,Loss on securities transactions-OE-FND
+jppfs_cor:LossOnTransactionsOfFuturesMarketsOEFND,先物取引等取引損、営業費用、投資信託,Loss on transactions of futures markets,Loss on transactions of futures markets-OE-FND
+jppfs_cor:LossOnCancellationOEFND,解約差損金、営業費用、投資信託,Loss on cancellation,Loss on cancellation-OE-FND
+jppfs_cor:LossOnAdditionalSubscriptionsOEFND,追加信託差損金、営業費用、投資信託,Loss on additional subscriptions,Loss on additional subscriptions-OE-FND
+jppfs_cor:OtherForeignCurrencyCostsOEFND,その他外貨費用、営業費用、投資信託,Other foreign currency costs,Other foreign currency costs-OE-FND
+jppfs_cor:DividendsOEFND,収益分配金、営業費用、投資信託,Dividends,Dividends-OE-FND
+jppfs_cor:ProvisionOfReserveForStockPriceFluctuationOEFND,株価変動準備金積立額、営業費用、投資信託,Provision of reserve for stock price fluctuation,Provision of reserve for stock price fluctuation-OE-FND
+jppfs_cor:ProvisionOfReserveForPriceFluctuationOEFND,価額変動準備金積立額、営業費用、投資信託,Provision of reserve for price fluctuation,Provision of reserve for price fluctuation-OE-FND
+jppfs_cor:ProvisionOfReserveForDividendsOEFND,分配準備積立金積立額、営業費用、投資信託,Provision of reserve for dividends,Provision of reserve for dividends-OE-FND
+jppfs_cor:RevenueAdjustmentOEFND,収益調整金、営業費用、投資信託,Revenue adjustment,Revenue adjustment-OE-FND
+jppfs_cor:ValuationLossAdjustmentAccountsOEFND,評価損調整勘定、営業費用、投資信託,Valuation loss adjustment accounts,Valuation loss adjustment accounts-OE-FND
+jppfs_cor:RepaymentForRetainedLossOEFND,繰越欠損金補てん額、営業費用、投資信託,Repayment for retained loss,Repayment for retained loss-OE-FND
+jppfs_cor:OperatingExpensesFND,営業費用、投資信託,Operating expenses,Operating expenses-FND
+jppfs_cor:OperatingIncome,営業利益又は営業損失（△）,Operating profit (loss),Operating profit (loss)
+jppfs_cor:NonOperatingIncomeAbstract,営業外収益 [タイトル項目],Non-operating income,Non-operating income [abstract]
+jppfs_cor:NonOperatingIncome,営業外収益,Non-operating income,Non-operating income
+jppfs_cor:NonOperatingExpensesAbstract,営業外費用 [タイトル項目],Non-operating expenses,Non-operating expenses [abstract]
+jppfs_cor:NonOperatingExpenses,営業外費用,Non-operating expenses,Non-operating expenses
+jppfs_cor:OrdinaryIncome,経常利益又は経常損失（△）,Ordinary profit (loss),Ordinary profit (loss)
+jppfs_cor:ExtraordinaryIncomeAbstract,特別利益 [タイトル項目],Extraordinary income,Extraordinary income [abstract]
+jppfs_cor:ExtraordinaryIncome,特別利益,Extraordinary income,Extraordinary income
+jppfs_cor:ExtraordinaryLossAbstract,特別損失 [タイトル項目],Extraordinary losses,Extraordinary losses [abstract]
+jppfs_cor:ExtraordinaryLoss,特別損失,Extraordinary losses,Extraordinary losses
+jppfs_cor:IncomeBeforeIncomeTaxes,税引前当期純利益又は税引前当期純損失（△）,Profit (loss) before income taxes,Profit (loss) before income taxes
+jppfs_cor:IncomeTaxesCurrent,法人税、住民税及び事業税,Income taxes - current,Income taxes-current
+jppfs_cor:IncomeTaxesDeferred,法人税等調整額,Income taxes - deferred,Income taxes-deferred
+jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
+jppfs_cor:DistributionOfNetIncomeFromPartialRedemptionsFND,一部解約に伴う当期純利益金額の分配額又は一部解約に伴う当期純損失金額の分配額（△）、投資信託,Distribution of profit loss from partial redemptions,Distribution of profit loss from partial redemptions-FND
+jppfs_cor:DistributionOfNetIncomeFromPartialExchangeFND,一部交換に伴う当期純利益金額の分配額又は一部交換に伴う当期純損失金額の分配額（△）、投資信託,Distribution of profit loss from partial exchange,Distribution of profit loss from partial exchange-FND
+jppfs_cor:SurplusDeficitAtBeginningOfPeriodBeforeRetrospectiveApplicationAndRetrospectiveRestatementFND,遡及処理前期首剰余金又は期首欠損金（△）、投資信託,Surplus (deficit) at beginning of period before retrospective application and retrospective restatement,Surplus (deficit) at beginning of period before retrospective application and retrospective restatement-FND
+jppfs_cor:CumulativeEffectOfRetrospectiveApplicationAndRetrospectiveRestatementFND,遡及処理の累積的影響額、投資信託,Cumulative effect of retrospective application and retrospective restatement,Cumulative effect of retrospective application and retrospective restatement-FND
+jppfs_cor:SurplusDeficitFND,剰余金又は欠損金（△）、投資信託,Surplus (deficit),Surplus (deficit)-FND
+jppfs_cor:IncreaseInSurplusOrDecreaseInDeficitFND,剰余金増加額又は欠損金減少額、投資信託,Increase in surplus or decrease in deficit,Increase in surplus or decrease in deficit-FND
+jppfs_cor:IncreaseInSurplusOrDecreaseInDeficitFromPartialRedemptionsFND,当期一部解約に伴う剰余金増加額又は欠損金減少額、投資信託,Increase in surplus or decrease in deficit from partial redemptions,Increase in surplus or decrease in deficit from partial redemptions-FND
+jppfs_cor:IncreaseInSurplusOrDecreaseInDeficitFromAdditionalSubscriptionsForThePeriodFND,当期追加信託に伴う剰余金増加額又は欠損金減少額、投資信託,Increase in surplus or decrease in deficit from additional subscriptions for period,Increase in surplus or decrease in deficit from additional subscriptions for period-FND
+jppfs_cor:IncreaseInSurplusOrDecreaseInDeficitFromPartialExchangeFND,当期一部交換に伴う剰余金増加額又は欠損金減少額、投資信託,Increase in surplus or decrease in deficit from partial exchange,Increase in surplus or decrease in deficit from partial exchange-FND
+jppfs_cor:DecreaseInSurplusOrIncreaseInDeficitFND,剰余金減少額又は欠損金増加額、投資信託,Decrease in surplus or increase in deficit,Decrease in surplus or increase in deficit-FND
+jppfs_cor:DecreaseInSurplusOrIncreaseInDeficitFromPartialRedemptionsFND,当期一部解約に伴う剰余金減少額又は欠損金増加額、投資信託,Decrease in surplus or increase in deficit from partial redemptions,Decrease in surplus or increase in deficit from partial redemptions-FND
+jppfs_cor:DecreaseInSurplusOrIncreaseInDeficitFromAdditionalSubscriptionsForThePeriodFND,当期追加信託に伴う剰余金減少額又は欠損金増加額、投資信託,Decrease in surplus or increase in deficit from additional subscriptions for period,Decrease in surplus or increase in deficit from additional subscriptions for period-FND
+jppfs_cor:DecreaseInSurplusOrIncreaseInDeficitFromPartialExchangeFND,当期一部交換に伴う剰余金減少額又は欠損金増加額、投資信託,Decrease in surplus or increase in deficit from partial exchange,Decrease in surplus or increase in deficit from partial exchange-FND
+jppfs_cor:DividendsFND,分配金、投資信託,Dividends,Dividends-FND

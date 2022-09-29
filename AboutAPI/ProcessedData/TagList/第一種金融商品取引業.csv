@@ -1,0 +1,260 @@
+タクソノミ,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:BalanceSheetAbstract,貸借対照表 [タイトル項目],Balance sheet,Balance sheet [abstract]
+jppfs_cor:BalanceSheetTable,貸借対照表 [表],Balance sheet,Balance sheet [table]
+jppfs_cor:BalanceSheetLineItems,貸借対照表 [表示項目],Balance sheet,Balance sheet [line items]
+jppfs_cor:AssetsAbstract,資産の部 [タイトル項目],Assets,Assets [abstract]
+jppfs_cor:CurrentAssetsAbstract,流動資産 [タイトル項目],Current assets,Current assets [abstract]
+jppfs_cor:CashAndDeposits,現金及び預金,Cash and deposits,Cash and deposits
+jppfs_cor:CashSegregatedAsDepositsCASEC,預託金、流動資産、第一種金融商品取引業,Cash segregated as deposits,Cash segregated as deposits-CA-SEC
+jppfs_cor:CashSegregatedAsDepositsForCustomersCASEC,顧客分別金信託、流動資産、第一種金融商品取引業,Cash segregated as deposits for customers,Cash segregated as deposits for customers-CA-SEC
+jppfs_cor:CashSegregatedAsDepositsForFinancialProductsTransactionLiabilitiesCASEC,金融商品取引責任準備預託金、流動資産、第一種金融商品取引業,Cash segregated as deposits for financial products transaction liabilities,Cash segregated as deposits for financial products transaction liabilities-CA-SEC
+jppfs_cor:CashSegregatedAsDepositsForOthersCASEC,その他の預託金、流動資産、第一種金融商品取引業,Cash segregated as deposits for others,Cash segregated as deposits for others-CA-SEC
+jppfs_cor:TradingProductsCASEC,トレーディング商品、流動資産、第一種金融商品取引業,Trading products,Trading products-CA-SEC
+jppfs_cor:TradingSecuritiesAndOtherCASEC,商品有価証券等、流動資産、第一種金融商品取引業,Trading securities and other,Trading securities and other-CA-SEC
+jppfs_cor:DerivativesCASEC,デリバティブ取引、流動資産、第一種金融商品取引業,Derivatives,Derivatives-CA-SEC
+jppfs_cor:TradeDateAccrualCASEC,約定見返勘定、流動資産、第一種金融商品取引業,Trade date accrual,Trade date accrual-CA-SEC
+jppfs_cor:MarginTransactionAssetsCASEC,信用取引資産、流動資産、第一種金融商品取引業,Margin transaction assets,Margin transaction assets-CA-SEC
+jppfs_cor:LoansOnMarginTransactionsCASEC,信用取引貸付金、流動資産、第一種金融商品取引業,Loans on margin transactions,Loans on margin transactions-CA-SEC
+jppfs_cor:CashCollateralPledgedForSecuritiesBorrowingOnMarginTransactionsCASEC,信用取引借証券担保金、流動資産、第一種金融商品取引業,Cash collateral pledged for securities borrowing on margin transactions,Cash collateral pledged for securities borrowing on margin transactions-CA-SEC
+jppfs_cor:LoansSecuredBySecuritiesCASEC,有価証券担保貸付金、流動資産、第一種金融商品取引業,Loans secured by securities,Loans secured by securities-CA-SEC
+jppfs_cor:CashCollateralPledgedForSecuritiesBorrowedCASEC,借入有価証券担保金、流動資産、第一種金融商品取引業,Cash collateral pledged for securities borrowed,Cash collateral pledged for securities borrowed-CA-SEC
+jppfs_cor:LoansOnGensakiTransactionsCASEC,現先取引貸付金、流動資産、第一種金融商品取引業,Loans on Gensaki transactions,Loans on Gensaki transactions-CA-SEC
+jppfs_cor:AdvancesPaidCASEC,立替金、流動資産、第一種金融商品取引業,Advances paid,Advances paid-CA-SEC
+jppfs_cor:AdvancePaymentsForCustomersOnTradesCASEC,顧客への立替金、流動資産、第一種金融商品取引業,Advance payments for customers on trades,Advance payments for customers on trades-CA-SEC
+jppfs_cor:AdvancePaymentsForOthersCASEC,その他の立替金、流動資産、第一種金融商品取引業,Advance payments for others,Advance payments for others-CA-SEC
+jppfs_cor:CashPaidForOfferingCASEC,募集等払込金、流動資産、第一種金融商品取引業,Cash paid for offering,Cash paid for offering-CA-SEC
+jppfs_cor:ShortTermGuaranteeDepositsCASEC,短期差入保証金、流動資産、第一種金融商品取引業,Short-term guarantee deposits,Short-term guarantee deposits-CA-SEC
+jppfs_cor:GuaranteeDepositsForWhenIssuedTransactionCASEC,発行日取引差入証拠金、流動資産、第一種金融商品取引業,Guarantee deposits for when issued transaction,Guarantee deposits for when issued transaction-CA-SEC
+jppfs_cor:GuaranteeDepositsForTransactionCASEC,信用取引差入保証金、流動資産、第一種金融商品取引業,Guarantee deposits for transaction,Guarantee deposits for transaction-CA-SEC
+jppfs_cor:InitialMarginsOfFuturesMarketsCASEC,先物取引差入証拠金、流動資産、第一種金融商品取引業,Initial margins of futures markets,Initial margins of futures markets-CA-SEC
+jppfs_cor:DepositForDueBillCASEC,有価証券引渡票支払金、流動資産、第一種金融商品取引業,Deposit for due bill,Deposit for due bill-CA-SEC
+jppfs_cor:MarginForForeignExchangeSEC,外国為替差入証拠金、第一種金融商品取引業,Margin for foreign exchange,Margin for foreign exchange-SEC
+jppfs_cor:GuaranteeDepositsForOthersCASEC,その他の差入保証金、流動資産、第一種金融商品取引業,Guarantee deposits for others,Guarantee deposits for others-CA-SEC
+jppfs_cor:AccountsForNonDeliveredSecuritiesAndOthersCASEC,有価証券等引渡未了勘定、流動資産、第一種金融商品取引業,Accounts for non-delivered securities and others,Accounts for non-delivered securities and others-CA-SEC
+jppfs_cor:VariationMarginPaidCASEC,支払差金勘定、流動資産、第一種金融商品取引業,Variation margin paid,Variation margin paid-CA-SEC
+jppfs_cor:ShortTermLoansReceivable,短期貸付金,Short-term loans receivable,Short-term loans receivable
+jppfs_cor:AdvancePaymentsCASEC,前払金、流動資産、第一種金融商品取引業,Advance payments,Advance payments-CA-SEC
+jppfs_cor:PrepaidExpenses,前払費用,Prepaid expenses,Prepaid expenses
+jppfs_cor:AccountsReceivableOther,未収入金,Accounts receivable - other,Accounts receivable-other
+jppfs_cor:AccruedIncome,未収収益,Accrued income,Accrued income
+jppfs_cor:DeferredTaxAssetsCA,繰延税金資産、流動資産,Deferred tax assets,Deferred tax assets-CA
+jppfs_cor:OtherCA,その他、流動資産,Other,Other-CA
+jppfs_cor:AllowanceForDoubtfulAccountsCA,貸倒引当金、流動資産、一括控除,Allowance for doubtful accounts,Allowance for doubtful accounts-CA-by group
+jppfs_cor:CurrentAssets,流動資産,Current assets,Current assets
+jppfs_cor:NoncurrentAssetsAbstract,固定資産 [タイトル項目],Non-current assets,Non-current assets [abstract]
+jppfs_cor:PropertyPlantAndEquipmentAbstract,有形固定資産 [タイトル項目],"Property, plant and equipment","Property, plant and equipment [abstract]"
+jppfs_cor:BuildingsNet,建物（純額）,"Buildings, net","Buildings, net"
+jppfs_cor:EquipmentPPESEC,器具備品（純額）、有形固定資産、第一種金融商品取引業,Equipment,"Equipment, net-PPE-SEC"
+jppfs_cor:Land,土地,Land,Land
+jppfs_cor:IntangibleAssetsAbstract,無形固定資産 [タイトル項目],Intangible assets,Intangible assets [abstract]
+jppfs_cor:Goodwill,のれん,Goodwill,Goodwill
+jppfs_cor:InvestmentsAndOtherAssetsAbstract,投資その他の資産 [タイトル項目],Investments and other assets,Investments and other assets [abstract]
+jppfs_cor:InvestmentSecurities,投資有価証券,Investment securities,Investment securities
+jppfs_cor:InvestmentsInCapital,出資金,Investments in capital,Investments in capital
+jppfs_cor:LongTermLoansReceivable,長期貸付金,Long-term loans receivable,Long-term loans receivable
+jppfs_cor:GuaranteeDepositsIOA,差入保証金、投資その他の資産,Guarantee deposits,Guarantee deposits-IOA
+jppfs_cor:LongTermPrepaidExpenses,長期前払費用,Long-term prepaid expenses,Long-term prepaid expenses
+jppfs_cor:DeferredTaxAssetsIOA,繰延税金資産、投資その他の資産,Deferred tax assets,Deferred tax assets-IOA
+jppfs_cor:OtherIOA,その他、投資その他の資産,Other,Other-IOA
+jppfs_cor:AllowanceForDoubtfulAccountsIOAByGroup,貸倒引当金、投資その他の資産、一括控除,Allowance for doubtful accounts,Allowance for doubtful accounts-IOA-by group
+jppfs_cor:NoncurrentAssets,固定資産,Non-current assets,Non-current assets
+jppfs_cor:DeferredAssetsAbstract,繰延資産 [タイトル項目],Deferred assets,Deferred assets [abstract]
+jppfs_cor:DeferredOrganizationExpensesDA,創立費、繰延資産,Deferred organization expenses,Deferred organization expenses-DA
+jppfs_cor:DeferredAssets,繰延資産,Deferred assets,Deferred assets
+jppfs_cor:Assets,資産,Assets,Assets
+jppfs_cor:LiabilitiesAbstract,負債の部 [タイトル項目],Liabilities,Liabilities [abstract]
+jppfs_cor:CurrentLiabilitiesAbstract,流動負債 [タイトル項目],Current liabilities,Current liabilities [abstract]
+jppfs_cor:TradingProductsCLSEC,トレーディング商品、流動負債、第一種金融商品取引業,Trading products,Trading products-CL-SEC
+jppfs_cor:TradingSecuritiesAndOtherCLSEC,商品有価証券等、流動負債、第一種金融商品取引業,Trading securities and other,Trading securities and other-CL-SEC
+jppfs_cor:DerivativesCLSEC,デリバティブ取引、流動負債、第一種金融商品取引業,Derivatives,Derivatives-CL-SEC
+jppfs_cor:TradeDateAccrualCLSEC,約定見返勘定、流動負債、第一種金融商品取引業,Trade date accrual,Trade date accrual-CL-SEC
+jppfs_cor:MarginTransactionLiabilitiesCLSEC,信用取引負債、流動負債、第一種金融商品取引業,Margin transaction liabilities,Margin transaction liabilities-CL-SEC
+jppfs_cor:BorrowingsOnMarginTransactionsCLSEC,信用取引借入金、流動負債、第一種金融商品取引業,Borrowings on margin transactions,Borrowings on margin transactions-CL-SEC
+jppfs_cor:CashReceivedForSecuritiesLendingOnMarginTransactionsCLSEC,信用取引貸証券受入金、流動負債、第一種金融商品取引業,Cash received for securities lending on margin transactions,Cash received for securities lending on margin transactions-CL-SEC
+jppfs_cor:LoansPayableSecuredBySecuritiesCLSEC,有価証券担保借入金、流動負債、第一種金融商品取引業,Loans payable secured by securities,Loans payable secured by securities-CL-SEC
+jppfs_cor:CashReceivedOnDebtCreditTransactionOfSecuritiesCLSEC,有価証券貸借取引受入金、流動負債、第一種金融商品取引業,Cash received on debt credit transaction of securities,Cash received on debt credit transaction of securities-CL-SEC
+jppfs_cor:BorrowingsOnGensakiTransactionCLSEC,現先取引借入金、流動負債、第一種金融商品取引業,Borrowings on Gensaki transaction,Borrowings on Gensaki transaction-CL-SEC
+jppfs_cor:DepositsReceivedCLSEC,預り金、流動負債、第一種金融商品取引業,Deposits received,Deposits received-CL-SEC
+jppfs_cor:DepositsFromCustomersCLSEC,顧客からの預り金、流動負債、第一種金融商品取引業,Deposits from customers,Deposits from customers-CL-SEC
+jppfs_cor:DepositsForSubscriptionCLSEC,募集等受入金、流動負債、第一種金融商品取引業,Deposits for subscription,Deposits for subscription-CL-SEC
+jppfs_cor:DepositsForOthersCLSEC,その他の預り金、流動負債、第一種金融商品取引業,Deposits for others,Deposits for others-CL-SEC
+jppfs_cor:GuaranteeDepositsReceivedCLSEC,受入保証金、流動負債、第一種金融商品取引業,Guarantee deposits received,Guarantee deposits received-CL-SEC
+jppfs_cor:GuaranteedDepositsReceivedForWhenIssuedTransactionCLSEC,発行日取引受入保証金、流動負債、第一種金融商品取引業,Guaranteed deposits received for when issued transaction,Guaranteed deposits received for when issued transaction-CL-SEC
+jppfs_cor:GuaranteeDepositsReceivedForMarginTransactionCLSEC,信用取引受入保証金、流動負債、第一種金融商品取引業,Guarantee deposits received for margin transaction,Guarantee deposits received for margin transaction-CL-SEC
+jppfs_cor:InitialMarginsOfFuturesMarketsLiabilitiesCLSEC,先物取引受入証拠金、流動負債、第一種金融商品取引業,Initial margins of futures markets,Initial margins of futures markets-liabilities-CL-SEC
+jppfs_cor:DepositReceivedForDueBillCLSEC,有価証券引渡票受入金、流動負債、第一種金融商品取引業,Deposit received for due bill,Deposit received for due bill-CL-SEC
+jppfs_cor:GuaranteeDepositsReceivedForOthersCLSEC,その他の受入保証金、流動負債、第一種金融商品取引業,Guarantee deposits received for others,Guarantee deposits received for others-CL-SEC
+jppfs_cor:AccountsForNonReceivedSecuritiesAndOthersCLSEC,有価証券等受入未了勘定、流動負債、第一種金融商品取引業,Accounts for non-received securities and others,Accounts for non-received securities and others-CL-SEC
+jppfs_cor:VariationMarginReceivedCLSEC,受取差金勘定、流動負債、第一種金融商品取引業,Variation margin received,Variation margin received-CL-SEC
+jppfs_cor:ShortTermLoansPayable,短期借入金,Short-term loans payable,Short-term loans payable
+jppfs_cor:AdvancesReceived,前受金,Advances received,Advances received
+jppfs_cor:UnearnedRevenue,前受収益,Unearned revenue,Unearned revenue
+jppfs_cor:AccountsPayableOther,未払金,Accounts payable - other,Accounts payable-other
+jppfs_cor:AccruedExpenses,未払費用,Accrued expenses,Accrued expenses
+jppfs_cor:IncomeTaxesPayable,未払法人税等,Income taxes payable,Income taxes payable
+jppfs_cor:DeferredTaxLiabilitiesCL,繰延税金負債、流動負債,Deferred tax liabilities,Deferred tax liabilities-CL
+jppfs_cor:ProvisionForBonuses,賞与引当金,Provision for bonuses,Provision for bonuses
+jppfs_cor:MarginDepositsReceivedForForeignExchangeSEC,外国為替受入証拠金、第一種金融商品取引業,Margin deposits received for foreign exchange,Margin deposits received for foreign exchange-SEC
+jppfs_cor:OtherCL,その他、流動負債,Other,Other-CL
+jppfs_cor:CurrentLiabilities,流動負債,Current liabilities,Current liabilities
+jppfs_cor:NoncurrentLiabilitiesAbstract,固定負債 [タイトル項目],Non-current liabilities,Non-current liabilities [abstract]
+jppfs_cor:LongTermLoansPayable,長期借入金,Long-term loans payable,Long-term loans payable
+jppfs_cor:DeferredTaxLiabilitiesNCL,繰延税金負債、固定負債,Deferred tax liabilities,Deferred tax liabilities-NCL
+jppfs_cor:ProvisionForRetirementBenefits,退職給付引当金,Provision for retirement benefits,Provision for retirement benefits
+jppfs_cor:NegativeGoodwill,負ののれん,Negative goodwill,Negative goodwill
+jppfs_cor:OtherNCL,その他、固定負債,Other,Other-NCL
+jppfs_cor:NoncurrentLiabilities,固定負債,Non-current liabilities,Non-current liabilities
+jppfs_cor:ReservesUnderTheSpecialLawsAbstract1,特別法上の準備金 [タイトル項目],Reserves under special laws,Reserves under special laws-1 [abstract]
+jppfs_cor:ReserveForFinancialProductsTransactionLiabilitiesReservesUnderTheSpecialLawsSEC,金融商品取引責任準備金、特別法上の準備金、第一種金融商品取引業,Reserve for financial products transaction liabilities,Reserve for financial products transaction liabilities-reserves under special laws-SEC
+jppfs_cor:ReservesUnderTheSpecialLaws1,特別法上の準備金,Reserves under special laws,Reserves under special laws-1
+jppfs_cor:Liabilities,負債,Liabilities,Liabilities
+jppfs_cor:NetAssetsAbstract,純資産の部 [タイトル項目],Net assets,Net assets [abstract]
+jppfs_cor:ShareholdersEquityAbstract,株主資本 [タイトル項目],Shareholders' equity,Shareholders' equity [abstract]
+jppfs_cor:CapitalStock,資本金,Capital stock,Capital stock
+jppfs_cor:DepositForSubscriptionsToShares,新株式申込証拠金,Deposit for subscriptions to shares,Deposit for subscriptions to shares
+jppfs_cor:CapitalSurplusAbstract,資本剰余金 [タイトル項目],Capital surplus,Capital surplus [abstract]
+jppfs_cor:LegalCapitalSurplus,資本準備金,Legal capital surplus,Legal capital surplus
+jppfs_cor:OtherCapitalSurplus,その他資本剰余金,Other capital surplus,Other capital surplus
+jppfs_cor:CapitalSurplus,資本剰余金,Capital surplus,Capital surplus
+jppfs_cor:RetainedEarningsAbstract,利益剰余金 [タイトル項目],Retained earnings,Retained earnings [abstract]
+jppfs_cor:LegalRetainedEarnings,利益準備金,Legal retained earnings,Legal retained earnings
+jppfs_cor:OtherRetainedEarningsAbstract,その他利益剰余金 [タイトル項目],Other retained earnings,Other retained earnings [abstract]
+jppfs_cor:ReserveORESEC,積立金、その他利益剰余金、第一種金融商品取引業,Reserve,Reserve-ORE-SEC
+jppfs_cor:RetainedEarningsBroughtForward,繰越利益剰余金,Retained earnings brought forward,Retained earnings brought forward
+jppfs_cor:RetainedEarnings,利益剰余金,Retained earnings,Retained earnings
+jppfs_cor:TreasuryStock,自己株式,Treasury shares,Treasury shares
+jppfs_cor:DepositForSubscriptionsToTreasuryStock,自己株式申込証拠金,Deposit for subscriptions to treasury shares,Deposit for subscriptions to treasury shares
+jppfs_cor:ShareholdersEquity,株主資本,Shareholders' equity,Shareholders' equity
+jppfs_cor:ValuationAndTranslationAdjustmentsAbstract,評価・換算差額等 [タイトル項目],Valuation and translation adjustments,Valuation and translation adjustments [abstract]
+jppfs_cor:ValuationDifferenceOnAvailableForSaleSecurities,その他有価証券評価差額金,Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities
+jppfs_cor:DeferredGainsOrLossesOnHedges,繰延ヘッジ損益,Deferred gains or losses on hedges,Deferred gains or losses on hedges
+jppfs_cor:RevaluationReserveForLand,土地再評価差額金,Revaluation reserve for land,Revaluation reserve for land
+jppfs_cor:ForeignCurrencyTranslationAdjustment,為替換算調整勘定,Foreign currency translation adjustment,Foreign currency translation adjustment
+jppfs_cor:ValuationAndTranslationAdjustments,評価・換算差額等,Valuation and translation adjustments,Valuation and translation adjustments
+jppfs_cor:SubscriptionRightsToShares,新株予約権,Share acquisition rights,Share acquisition rights
+jppfs_cor:NonControllingInterests,非支配株主持分,Non-controlling interests,Non-controlling interests
+jppfs_cor:NetAssets,純資産,Net assets,Net assets
+jppfs_cor:LiabilitiesAndNetAssets,負債純資産,Liabilities and net assets,Liabilities and net assets
+nan,,,
+nan,,,
+名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:StatementOfIncomeAbstract,損益計算書 [タイトル項目],Statement of income,Statement of income [abstract]
+jppfs_cor:StatementOfIncomeTable,損益計算書 [表],Statement of income,Statement of income [table]
+jppfs_cor:StatementOfIncomeLineItems,損益計算書 [表示項目],Statement of income,Statement of income [line items]
+jppfs_cor:OperatingRevenueAbstractSEC,営業収益、第一種金融商品取引業 [タイトル項目],Operating revenue,Operating revenue-SEC [abstract]
+jppfs_cor:CommissionReceivedORSEC,受入手数料、営業収益、第一種金融商品取引業,Commission received,Commission received-OR-SEC
+jppfs_cor:CommissionToConsigneesORSEC,委託手数料、営業収益、第一種金融商品取引業,Commission to consignees,Commission to consignees-OR-SEC
+jppfs_cor:CommissionForUnderwritingSecondaryDistributionAndSolicitationForSellingAndOthersForProfessionalInvestorsORSEC,引受け・売出し・特定投資家向け売付け勧誘等の手数料、営業収益、第一種金融商品取引業,"Commission for underwriting, secondary distribution and solicitation for selling and others for professional investors","Commission for underwriting, secondary distribution and solicitation for selling and others for professional investors-OR-SEC"
+jppfs_cor:UnderwritingAndDistributionCommissionORSEC,引受け・売出し手数料、営業収益、第一種金融商品取引業,Underwriting and distribution commission,Underwriting and distribution commission-OR-SEC
+jppfs_cor:FeeForOfferingSecondaryDistributionAndSolicitationForSellingAndOthersForProfessionalInvestorsORSEC,募集・売出し・特定投資家向け売付け勧誘等の取扱手数料、営業収益、第一種金融商品取引業,"Fee for offering, secondary distribution and solicitation for selling and others for professional investors","Fee for offering, secondary distribution and solicitation for selling and others for professional investors-OR-SEC"
+jppfs_cor:FlotationAndDistributionFeeORSEC,募集・売出しの取扱手数料、営業収益、第一種金融商品取引業,Flotation and distribution fee,Flotation and distribution fee-OR-SEC
+jppfs_cor:OtherFeesReceivedORSEC,その他の受入手数料、営業収益、第一種金融商品取引業,Other fees received,Other fees received-OR-SEC
+jppfs_cor:NetTradingIncomeORSEC,トレーディング損益、営業収益、第一種金融商品取引業,Net trading income,Net trading income-OR-SEC
+jppfs_cor:NetTradingIncomeFromSecuritiesORSEC,株券等トレーディング損益、営業収益、第一種金融商品取引業,Net trading income from securities,Net trading income from securities-OR-SEC
+jppfs_cor:NetTradingIncomeFromBondsORSEC,債券等トレーディング損益、営業収益、第一種金融商品取引業,Net trading income from bonds,Net trading income from bonds-OR-SEC
+jppfs_cor:OtherNetTradingIncomeORSEC,その他のトレーディング損益、営業収益、第一種金融商品取引業,Other net trading income,Other net trading income-OR-SEC
+jppfs_cor:FinancialRevenueORSEC,金融収益、営業収益、第一種金融商品取引業,Financial revenue,Financial revenue-OR-SEC
+jppfs_cor:NetGainOnTradingOfInvestmentSecuritiesForSaleSEC,営業投資有価証券売買損益、第一種金融商品取引業,Net gain on trading of investment securities for sale,Net gain on trading of investment securities for sale-SEC
+jppfs_cor:OtherNetGainOnGoodsTradingSEC,その他の商品売買損益、第一種金融商品取引業,Other net gain on goods trading,Other net gain on goods trading-SEC
+jppfs_cor:OperatingRevenueSEC,営業収益、第一種金融商品取引業,Operating revenue,Operating revenue-SEC
+jppfs_cor:FinancialExpensesSEC,金融費用、第一種金融商品取引業,Financial expenses,Financial expenses-SEC
+jppfs_cor:NetOperatingRevenueSEC,純営業収益、第一種金融商品取引業,Net operating revenue,Net operating revenue-SEC
+jppfs_cor:SellingGeneralAndAdministrativeExpensesAbstract,販売費及び一般管理費 [タイトル項目],"Selling, general and administrative expenses","Selling, general and administrative expenses [abstract]"
+jppfs_cor:TradingRelatedExpensesSGASEC,取引関係費、販売費及び一般管理費、第一種金融商品取引業,Trading related expenses,Trading related expenses-SGA-SEC
+jppfs_cor:PersonalExpensesSGA,人件費、販売費及び一般管理費,Personnel expenses,Personnel expenses-SGA
+jppfs_cor:RealEstateExpensesSGASEC,不動産関係費、販売費及び一般管理費、第一種金融商品取引業,Real estate expenses,Real estate expenses-SGA-SEC
+jppfs_cor:OfficeCostSGA,事務費、販売費及び一般管理費,Office cost,Office cost-SGA
+jppfs_cor:DepreciationSGA,減価償却費、販売費及び一般管理費,Depreciation,Depreciation-SGA
+jppfs_cor:TaxesAndDuesSGA,租税公課、販売費及び一般管理費,Taxes and dues,Taxes and dues-SGA
+jppfs_cor:ProvisionOfAllowanceForDoubtfulAccountsSGA,貸倒引当金繰入額、販売費及び一般管理費,Provision of allowance for doubtful accounts,Provision of allowance for doubtful accounts-SGA
+jppfs_cor:OtherSGA,その他、販売費及び一般管理費,Other,Other-SGA
+jppfs_cor:SellingGeneralAndAdministrativeExpenses,販売費及び一般管理費,"Selling, general and administrative expenses","Selling, general and administrative expenses"
+jppfs_cor:OperatingIncome,営業利益又は営業損失（△）,Operating profit (loss),Operating profit (loss)
+jppfs_cor:NonOperatingIncome,営業外収益,Non-operating income,Non-operating income
+jppfs_cor:NonOperatingExpenses,営業外費用,Non-operating expenses,Non-operating expenses
+jppfs_cor:OrdinaryIncome,経常利益又は経常損失（△）,Ordinary profit (loss),Ordinary profit (loss)
+jppfs_cor:ExtraordinaryIncomeAbstract,特別利益 [タイトル項目],Extraordinary income,Extraordinary income [abstract]
+jppfs_cor:ExtraordinaryProfitEISEC,臨時利益、特別利益、第一種金融商品取引業,Extraordinary profit,Extraordinary profit-EI-SEC
+jppfs_cor:ReversalOfReserveForFinancialProductsTransactionLiabilitiesEISEC,金融商品取引責任準備金戻入、特別利益、第一種金融商品取引業,Reversal of reserve for financial products transaction liabilities,Reversal of reserve for financial products transaction liabilities-EI-SEC
+jppfs_cor:ExtraordinaryIncome,特別利益,Extraordinary income,Extraordinary income
+jppfs_cor:ExtraordinaryLossAbstract,特別損失 [タイトル項目],Extraordinary losses,Extraordinary losses [abstract]
+jppfs_cor:LossOnValuationOfSecuritiesELSEC,有価証券評価減、特別損失、第一種金融商品取引業,Loss on valuation of securities,Loss on valuation of securities-EL-SEC
+jppfs_cor:NonrecurringLossEL,臨時損失、特別損失,Nonrecurring loss,Nonrecurring loss-EL
+jppfs_cor:ProvisionOfReserveForFinancialProductsTransactionLiabilitiesELSEC,金融商品取引責任準備金繰入れ、特別損失、第一種金融商品取引業,Provision of reserve for financial products transaction liabilities,Provision of reserve for financial products transaction liabilities-EL-SEC
+jppfs_cor:ExtraordinaryLoss,特別損失,Extraordinary losses,Extraordinary losses
+jppfs_cor:IncomeBeforeIncomeTaxes,税引前当期純利益又は税引前当期純損失（△）,Profit (loss) before income taxes,Profit (loss) before income taxes
+jppfs_cor:IncomeTaxes,法人税等,Income taxes,Income taxes
+jppfs_cor:IncomeTaxesCurrent,法人税、住民税及び事業税,Income taxes - current,Income taxes-current
+jppfs_cor:IncomeTaxesDeferred,法人税等調整額,Income taxes - deferred,Income taxes-deferred
+jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
+jppfs_cor:ProfitAttributableToAbstract,内訳、当期純利益 [タイトル項目],Profit attributable to,Profit attributable to [abstract]
+jppfs_cor:ProfitLossAttributableToNonControllingInterests,非支配株主に帰属する当期純利益又は非支配株主に帰属する当期純損失（△）,Profit (loss) attributable to non-controlling interests,Profit (loss) attributable to non-controlling interests
+jppfs_cor:ProfitLossAttributableToOwnersOfParent,親会社株主に帰属する当期純利益又は親会社株主に帰属する当期純損失（△）,Profit (loss) attributable to owners of parent,Profit (loss) attributable to owners of parent
+nan,,,
+nan,,,
+名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:StatementOfChangesInEquityAbstract,株主資本等変動計算書 [タイトル項目],Statement of changes in equity,Statement of changes in equity [abstract]
+jppfs_cor:StatementOfChangesInEquityTable,株主資本等変動計算書 [表],Statement of changes in equity,Statement of changes in equity [table]
+jppfs_cor:ComponentsOfEquityAxis,純資産の内訳項目 [軸],Components of equity,Components of equity [axis]
+jppfs_cor:NetAssetsMember,純資産 [メンバー],Net assets,Net assets [member]
+jppfs_cor:ShareholdersEquityMember,株主資本 [メンバー],Shareholders' equity,Shareholders' equity [member]
+jppfs_cor:CapitalStockMember,資本金 [メンバー],Capital stock,Capital stock [member]
+jppfs_cor:CapitalSurplusMember,資本剰余金 [メンバー],Capital surplus,Capital surplus [member]
+jppfs_cor:LegalCapitalSurplusMember,資本準備金 [メンバー],Legal capital surplus,Legal capital surplus [member]
+jppfs_cor:OtherCapitalSurplusMember,その他資本剰余金 [メンバー],Other capital surplus,Other capital surplus [member]
+jppfs_cor:RetainedEarningsMember,利益剰余金 [メンバー],Retained earnings,Retained earnings [member]
+jppfs_cor:LegalRetainedEarningsMember,利益準備金 [メンバー],Legal retained earnings,Legal retained earnings [member]
+jppfs_cor:OtherRetainedEarningsMember,その他利益剰余金 [メンバー],Other retained earnings,Other retained earnings [member]
+jppfs_cor:RetainedEarningsBroughtForwardMember,繰越利益剰余金 [メンバー],Retained earnings brought forward,Retained earnings brought forward [member]
+jppfs_cor:TreasuryStockMember,自己株式 [メンバー],Treasury shares,Treasury shares [member]
+jppfs_cor:ValuationAndTranslationAdjustmentsMember,評価・換算差額等 [メンバー],Valuation and translation adjustments,Valuation and translation adjustments [member]
+jppfs_cor:ValuationDifferenceOnAvailableForSaleSecuritiesMember,その他有価証券評価差額金 [メンバー],Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities [member]
+jppfs_cor:DeferredGainsOrLossesOnHedgesMember,繰延ヘッジ損益 [メンバー],Deferred gains or losses on hedges,Deferred gains or losses on hedges [member]
+jppfs_cor:RevaluationReserveForLandMember,土地再評価差額金 [メンバー],Revaluation reserve for land,Revaluation reserve for land [member]
+jppfs_cor:ForeignCurrencyTranslationAdjustmentMember,為替換算調整勘定 [メンバー],Foreign currency translation adjustment,Foreign currency translation adjustment [member]
+jppfs_cor:SubscriptionRightsToSharesMember,新株予約権 [メンバー],Share acquisition rights,Share acquisition rights [member]
+jppfs_cor:NonControllingInterestsMember,非支配株主持分 [メンバー],Non-controlling interests,Non-controlling interests [member]
+jppfs_cor:StatementOfChangesInEquityLineItems,株主資本等変動計算書 [表示項目],Statement of changes in equity,Statement of changes in equity [line items]
+jppfs_cor:NetAssets,純資産,Net assets,Net assets
+jppfs_cor:ChangesOfItemsDuringThePeriodAbstract,当期変動額 [タイトル項目],Changes of items during period,Changes of items during period [abstract]
+jppfs_cor:IssuanceOfNewShares,新株の発行,Issuance of new shares,Issuance of new shares
+jppfs_cor:DividendsFromSurplus,剰余金の配当,Dividends of surplus,Dividends of surplus
+jppfs_cor:ProfitLossAttributableToOwnersOfParent,親会社株主に帰属する当期純利益又は親会社株主に帰属する当期純損失（△）,Profit (loss) attributable to owners of parent,Profit (loss) attributable to owners of parent
+jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
+jppfs_cor:DisposalOfTreasuryStock,自己株式の処分,Disposal of treasury shares,Disposal of treasury shares
+jppfs_cor:NetChangesOfItemsOtherThanShareholdersEquity,株主資本以外の項目の当期変動額（純額）,Net changes of items other than shareholders' equity,Net changes of items other than shareholders' equity
+jppfs_cor:TotalChangesOfItemsDuringThePeriod,当期変動額合計,Total changes of items during period,Total changes of items during period
+nan,,,
+nan,,,
+名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:StatementOfCashFlowsAbstract,キャッシュ・フロー計算書 [タイトル項目],Statement of cash flows,Statement of cash flows [abstract]
+jppfs_cor:StatementOfCashFlowsTable,キャッシュ・フロー計算書 [表],Statement of cash flows,Statement of cash flows [table]
+jppfs_cor:StatementOfCashFlowsLineItems,キャッシュ・フロー計算書 [表示項目],Statement of cash flows,Statement of cash flows [line items]
+jppfs_cor:NetCashProvidedByUsedInOperatingActivitiesAbstract,営業活動によるキャッシュ・フロー [タイトル項目],Cash flows from operating activities,Cash flows from operating activities [abstract]
+jppfs_cor:SubtotalOpeCF,小計、営業活動によるキャッシュ・フロー,Subtotal,Subtotal-OpeCF
+jppfs_cor:LossGainFromValuationOfTradingProductsOpeCFSEC,トレーディング商品評価損益（△は益）、営業活動によるキャッシュ・フロー、第一種金融商品取引業,Loss (gain) from valuation of trading products,Loss (gain) from valuation of trading products-OpeCF-SEC
+jppfs_cor:DecreaseIncreaseInTradingProductsAssetsOpeCFSEC,トレーディング商品（資産）の増減額（△は増加）、営業活動によるキャッシュ・フロー、第一種金融商品取引業,Decrease (increase) in trading products (assets),Decrease (increase) in trading products (assets)-OpeCF-SEC
+jppfs_cor:IncreaseDecreaseInTradingProductsLiabilitiesOpeCFSEC,トレーディング商品（負債）の増減額（△は減少）、営業活動によるキャッシュ・フロー、第一種金融商品取引業,Increase (decrease) in trading products (liabilities),Increase (decrease) in trading products (liabilities)-OpeCF-SEC
+jppfs_cor:DecreaseIncreaseInTradingProductsAssetsLiabilitiesOpeCFSEC,トレーディング商品の増減額、営業活動によるキャッシュ・フロー、第一種金融商品取引業,Decrease (increase) in trading products - assets (liabilities),Decrease (increase) in trading products-assets (liabilities)-OpeCF-SEC
+jppfs_cor:DecreaseIncreaseInCashSegregatedAsDepositsForCustomersOpeCFSEC,顧客分別金信託の増減額（△は増加）、営業活動によるキャッシュ・フロー、第一種金融商品取引業,Decrease (increase) in cash segregated as deposits for customers,Decrease (increase) in cash segregated as deposits for customers-OpeCF-SEC
+jppfs_cor:IncreaseDecreaseInGuaranteeDepositsReceivedOpeCFSEC,受入保証金の増減額（△は減少）、営業活動によるキャッシュ・フロー、第一種金融商品取引業,Increase (decrease) in guarantee deposits received,Increase (decrease) in guarantee deposits received-OpeCF-SEC
+jppfs_cor:IncreaseDecreaseInReserveForFinancialProductsTransactionLiabilitiesOpeCFSEC,金融商品取引責任準備金の増減額（△は減少）、営業活動によるキャッシュ・フロー、第一種金融商品取引業,Increase (decrease) in reserve for financial products transaction liabilities,Increase (decrease) in reserve for financial products transaction liabilities-OpeCF-SEC
+jppfs_cor:ProvisionOfReserveForFinancialProductsTransactionLiabilitiesOpeCFSEC,金融商品取引責任準備金繰入れ、営業活動によるキャッシュ・フロー、第一種金融商品取引業,Provision of reserve for financial products transaction liabilities,Provision of reserve for financial products transaction liabilities-OpeCF-SEC
+jppfs_cor:DecreaseIncreaseInAssetsLiabilitiesForMarginTransactionOpeCFSEC,信用取引資産及び信用取引負債の増減額、営業活動によるキャッシュ・フロー、第一種金融商品取引業,Decrease/increase in assets/liabilities for margin transaction,Decrease/increase in assets/liabilities for margin transaction-OpeCF-SEC
+jppfs_cor:DecreaseIncreaseInMarginTransactionAssetsOpeCFSEC,信用取引資産の増減額（△は増加）、営業活動によるキャッシュ・フロー、第一種金融商品取引業,Decrease (increase) in margin transaction assets,Decrease (increase) in margin transaction assets-OpeCF-SEC
+jppfs_cor:IncreaseDecreaseInMarginTransactionLiabilitiesOpeCFSEC,信用取引負債の増減額（△は減少）、営業活動によるキャッシュ・フロー、第一種金融商品取引業,Increase (decrease) in margin transaction liabilities,Increase (decrease) in margin transaction liabilities-OpeCF-SEC
+jppfs_cor:DecreaseIncreaseInShortTermGuaranteeDepositsOpeCFSEC,短期差入保証金の増減額（△は増加）、営業活動によるキャッシュ・フロー、第一種金融商品取引業,Decrease (increase) in short-term guarantee deposits,Decrease (increase) in short-term guarantee deposits-OpeCF-SEC
+jppfs_cor:DecreaseIncreaseInCashPaidForSubscriptionOpeCFSEC,募集等払込金の増減額（△は増加）、営業活動によるキャッシュ・フロー、第一種金融商品取引業,Decrease (increase) in cash paid for subscription,Decrease (increase) in cash paid for subscription-OpeCF-SEC
+jppfs_cor:DecreaseIncreaseInTradeDateAccrualOpeCFSEC,約定見返勘定の増減額（△は増加）、営業活動によるキャッシュ・フロー、第一種金融商品取引業,Decrease (increase) in trade date accrual,Decrease (increase) in trade date accrual-OpeCF-SEC
+jppfs_cor:IncreaseDecreaseInBorrowingsSecuredBySecuritiesOpeCFSEC,有価証券担保借入金の増減額（△は減少）、営業活動によるキャッシュ・フロー、第一種金融商品取引業,Increase (decrease) in borrowings secured by securities,Increase (decrease) in borrowings secured by securities-OpeCF-SEC
+jppfs_cor:DecreaseIncreaseInLoansBorrowingsSecuredBySecuritiesOpeCFSEC,有価証券担保貸付金及び有価証券担保借入金の増減額、営業活動によるキャッシュ・フロー、第一種金融商品取引業,Decrease/increase in loans/borrowings secured by securities,Decrease/increase in loans/borrowings secured by securities-OpeCF-SEC
+jppfs_cor:DecreaseIncreaseInLoansSecuredBySecuritiesOpeCFSEC,有価証券担保貸付金の増減額（△は増加）、営業活動によるキャッシュ・フロー、第一種金融商品取引業,Decrease (increase) in loans secured by securities,Decrease (increase) in loans secured by securities-OpeCF-SEC
+jppfs_cor:IncreaseDecreaseInDepositsAndGuaranteeDepositsReceivedOpeCFSEC,預り金及び受入保証金の増減額（△は減少）、営業活動によるキャッシュ・フロー、第一種金融商品取引業,Increase (decrease) in deposits and guarantee deposits received,Increase (decrease) in deposits and guarantee deposits received-OpeCF-SEC
+jppfs_cor:DecreaseIncreaseInCashSegregatedAsDepositsOpeCFSEC,預託金の増減額（△は増加）、営業活動によるキャッシュ・フロー、第一種金融商品取引業,Decrease (increase) in cash segregated as deposits,Decrease (increase) in cash segregated as deposits-OpeCF-SEC
+jppfs_cor:DecreaseIncreaseInAdvancePaidDepositsReceivedOpeCFSEC,立替金及び預り金の増減額、営業活動によるキャッシュ・フロー、第一種金融商品取引業,Decrease/increase in advance paid/deposits received,Decrease/increase in advance paid/deposits received-OpeCF-SEC
+jppfs_cor:DecreaseIncreaseInAdvancePaidOpeCFSEC,立替金の増減額（△は増加）、営業活動によるキャッシュ・フロー、第一種金融商品取引業,Decrease (increase) in advance paid,Decrease (increase) in advance paid-OpeCF-SEC
+jppfs_cor:DecreaseIncreaseInLoansReceivableOpeCFSEC,貸付金の増減額（△は増加）、営業活動によるキャッシュ・フロー、第一種金融商品取引業,Decrease (increase) in loans receivable,Decrease (increase) in loans receivable-OpeCF-SEC
+jppfs_cor:DecreaseIncreaseInShortTermLoansReceivableOpeCFSEC,短期貸付金の増減額（△は増加）、営業活動によるキャッシュ・フロー、第一種金融商品取引業,Decrease (increase) in short-term loans receivable,Decrease (increase) in short-term loans receivable-OpeCF-SEC
+jppfs_cor:DecreaseIncreaseInCashCollateralPledgedForSecuritiesBorrowedOpeCFSEC,借入有価証券担保金の増減額（△は増加）、営業活動によるキャッシュ・フロー、第一種金融商品取引業,Decrease (increase) in cash collateral pledged for securities borrowed,Decrease (increase) in cash collateral pledged for securities borrowed-OpeCF-SEC
+jppfs_cor:NetCashProvidedByUsedInInvestmentActivitiesAbstract,投資活動によるキャッシュ・フロー [タイトル項目],Cash flows from investing activities,Cash flows from investing activities [abstract]
+jppfs_cor:NetCashProvidedByUsedInFinancingActivitiesAbstract,財務活動によるキャッシュ・フロー [タイトル項目],Cash flows from financing activities,Cash flows from financing activities [abstract]

@@ -1,0 +1,461 @@
+タクソノミ,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:BalanceSheetAbstract,貸借対照表 [タイトル項目],Balance sheet,Balance sheet [abstract]
+jppfs_cor:BalanceSheetTable,貸借対照表 [表],Balance sheet,Balance sheet [table]
+jppfs_cor:BalanceSheetLineItems,貸借対照表 [表示項目],Balance sheet,Balance sheet [line items]
+jppfs_cor:AssetsAbstract,資産の部 [タイトル項目],Assets,Assets [abstract]
+jppfs_cor:CurrentAssetsAbstract,流動資産 [タイトル項目],Current assets,Current assets [abstract]
+jppfs_cor:CashAndDeposits,現金及び預金,Cash and deposits,Cash and deposits
+jppfs_cor:NotesReceivableTrade,受取手形,Notes receivable - trade,Notes receivable-trade
+jppfs_cor:RailwayFaresReceivablesCARWY,未収運賃、流動資産、鉄道事業,Railway fares receivables,Railway fares receivables-CA-RWY
+jppfs_cor:AccountsReceivableCARWY,未収金、流動資産、鉄道事業,Accounts receivable,Accounts receivable-CA-RWY
+jppfs_cor:AccruedIncome,未収収益,Accrued income,Accrued income
+jppfs_cor:ShortTermLoansReceivable,短期貸付金,Short-term loans receivable,Short-term loans receivable
+jppfs_cor:ShortTermInvestmentSecurities,有価証券,Securities,Securities
+jppfs_cor:Inventories,たな卸資産,Inventories,Inventories
+jppfs_cor:MerchandiseAndFinishedGoods,商品及び製品,Merchandise and finished goods,Merchandise and finished goods
+jppfs_cor:WorkInProcess,仕掛品,Work in process,Work in process
+jppfs_cor:RawMaterialsAndSupplies,原材料及び貯蔵品,Raw materials and supplies,Raw materials and supplies
+jppfs_cor:Supplies,貯蔵品,Supplies,Supplies
+jppfs_cor:AdvancePaymentsCARWY,前払金、流動資産、鉄道事業,Advance payments,Advance payments-CA-RWY
+jppfs_cor:PrepaidExpenses,前払費用,Prepaid expenses,Prepaid expenses
+jppfs_cor:DeferredTaxAssetsCA,繰延税金資産、流動資産,Deferred tax assets,Deferred tax assets-CA
+jppfs_cor:SpecialReserveForExpansionOfRailwayTransportCapacityCARWY,特定都市鉄道整備積立金、流動資産、鉄道事業,Special reserve for expansion of railway transport capacity,Special reserve for expansion of railway transport capacity-CA-RWY
+jppfs_cor:LandAndBuildingsForSaleCARWY,販売土地及び建物、流動資産、鉄道事業,Land and buildings for sale,Land and buildings for sale-CA-RWY
+jppfs_cor:OtherCA,その他、流動資産,Other,Other-CA
+jppfs_cor:AllowanceForDoubtfulAccountsCA,貸倒引当金、流動資産、一括控除,Allowance for doubtful accounts,Allowance for doubtful accounts-CA-by group
+jppfs_cor:CurrentAssets,流動資産,Current assets,Current assets
+jppfs_cor:NotesAccountsReceivableTradeAndAccruedFreightRWY,受取手形、売掛金及び未収運賃、鉄道事業,"Notes, accounts receivable - trade and accrued freight","Notes, accounts receivable-trade and accrued freight-RWY"
+jppfs_cor:NoncurrentAssetsAbstract,固定資産 [タイトル項目],Non-current assets,Non-current assets [abstract]
+jppfs_cor:NoncurrentAssetsRailwayBusinessAbstractRWY,鉄道事業固定資産、鉄道事業 [タイトル項目],Non-current assets - railway business,Non-current assets - railway business-RWY [abstract]
+jppfs_cor:PropertyPlantAndEquipmentNCARailway,有形固定資産、鉄道事業固定資産,"Property, plant and equipment","Property, plant and equipment-NCA-railway"
+jppfs_cor:AccumulatedDepreciationPPERailway,減価償却累計額、鉄道事業有形固定資産,Accumulated depreciation,Accumulated depreciation-PPE-railway
+jppfs_cor:PropertyPlantAndEquipmentNetNCARailway,有形固定資産（純額）、鉄道事業固定資産,"Property, plant and equipment, net","Property, plant and equipment, net-NCA-railway"
+jppfs_cor:BuildingsRWY,建物、鉄道事業,Buildings,Buildings-RWY
+jppfs_cor:MachineryAndEquipmentRWY,機械及び装置、鉄道事業,Machinery and equipment,Machinery and equipment-RWY
+jppfs_cor:StructuresRWY,構築物、鉄道事業,Structures,Structures-RWY
+jppfs_cor:ToolsFurnitureAndFixturesRWY,工具、器具及び備品、鉄道事業,"Tools, furniture and fixtures","Tools, furniture and fixtures-RWY"
+jppfs_cor:RollingStockRWY,車両、鉄道事業,Rolling stock,Rolling stock-RWY
+jppfs_cor:LandRWY,土地、鉄道事業,Land,Land-RWY
+jppfs_cor:IntangibleAssetsNCARWY,無形固定資産、鉄道事業固定資産,Intangible assets,Intangible assets-NCA-RWY
+jppfs_cor:SoftwareRWY,ソフトウエア、鉄道事業,Software,Software-RWY
+jppfs_cor:RightOfUsingFacilitiesRWY,施設利用権、鉄道事業,Right of using facilities,Right of using facilities-RWY
+jppfs_cor:LeaseholdRightRWY,借地権、鉄道事業,Leasehold right,Leasehold right-RWY
+jppfs_cor:TelephoneSubscriptionRightRWY,電話加入権、鉄道事業,Telephone subscription right,Telephone subscription right-RWY
+jppfs_cor:RightOfUsingFacilitiesOfMutualDirectCommunicationRWY,相互直通施設利用権、鉄道事業,Right of using facilities of mutual direct communication,Right of using facilities of mutual direct communication-RWY
+jppfs_cor:RightOfUsingRailwayCommunicationFacilitiesInProgressRWY,鉄道連絡通行施設利用権仮勘定、鉄道事業,Right of using railway communication facilities in progress,Right of using railway communication facilities in progress-RWY
+jppfs_cor:NoncurrentAssetsRailwayRWY,鉄道事業固定資産、鉄道事業,Non-current assets - railway,Non-current assets - railway-RWY
+jppfs_cor:NoncurrentAssetsRelatedAbstractRWY,関連事業固定資産、鉄道事業 [タイトル項目],Non-current assets - related,Non-current assets - related-RWY [abstract]
+jppfs_cor:PropertyPlantAndEquipmentNCARelatedRWY,有形固定資産、関連事業固定資産、鉄道事業,"Property, plant and equipment","Property, plant and equipment-NCA-related-RWY"
+jppfs_cor:AccumulatedDepreciationPPERelatedRWY,減価償却累計額、関連事業有形固定資産、鉄道事業,Accumulated depreciation,Accumulated depreciation-PPE-related-RWY
+jppfs_cor:PropertyPlantAndEquipmentNetNCARelatedRWY,有形固定資産（純額）、関連事業固定資産、鉄道事業,"Property, plant and equipment, net","Property, plant and equipment, net-NCA-related-RWY"
+jppfs_cor:IntangibleAssetsRelatedRWY,無形固定資産、関連事業固定資産、鉄道事業,Intangible assets,Intangible assets-related-RWY
+jppfs_cor:NoncurrentAssetsRelatedRWY,関連事業固定資産、鉄道事業,Non-current assets - related,Non-current assets - related-RWY
+jppfs_cor:NoncurrentAssetsAffiliatedAbstractRWY,各事業関連固定資産、鉄道事業 [タイトル項目],Non-current assets - affiliated,Non-current assets - affiliated-RWY [abstract]
+jppfs_cor:PropertyPlantAndEquipmentNCAAffiliatedRWY,有形固定資産、各事業関連固定資産、鉄道事業,"Property, plant and equipment","Property, plant and equipment-NCA-affiliated-RWY"
+jppfs_cor:AccumulatedDepreciationNCAAffiliatedRWY,減価償却累計額、各事業関連固定資産、鉄道事業,Accumulated depreciation,Accumulated depreciation-NCA-affiliated-RWY
+jppfs_cor:PropertyPlantAndEquipmentNetNCAAffiliatedRWY,有形固定資産（純額）、各事業関連固定資産、鉄道事業,"Property, plant and equipment, net","Property, plant and equipment, net-NCA-affiliated-RWY"
+jppfs_cor:IntangibleAssetsAffiliatedRWY,無形固定資産、各事業関連固定資産、鉄道事業,Intangible assets,Intangible assets-affiliated-RWY
+jppfs_cor:NoncurrentAssetsAffiliatedRWY,各事業関連固定資産、鉄道事業,Non-current assets - affiliated,Non-current assets - affiliated-RWY
+jppfs_cor:ConstructionInProgressAbstractRWY,建設仮勘定、鉄道事業 [タイトル項目],Construction in progress,Construction in progress-RWY [abstract]
+jppfs_cor:ConstructionInProgressRailwayRWY,鉄道事業、建設仮勘定、鉄道事業,Construction in progress - railway,Construction in progress-railway-RWY
+jppfs_cor:ConstructionInProgressRWY,建設仮勘定、鉄道事業,Construction in progress,Construction in progress-RWY
+jppfs_cor:ConstructionInProgressOtherRWY,その他、建設仮勘定、鉄道事業,Construction in progress - other,Construction in progress-other-RWY
+jppfs_cor:ConstructionInProgressOtherBusinessRWY,その他の事業、建設仮勘定、鉄道事業,Construction in progress - other business,Construction in progress-other business-RWY
+jppfs_cor:ConstructionInProgressRealEstateRWY,不動産事業、建設仮勘定、鉄道事業,Construction in progress - real estate,Construction in progress-real estate-RWY
+jppfs_cor:ConstructionInProgressRelatedRWY,関連事業、建設仮勘定、鉄道事業,Construction in progress - related,Construction in progress-related-RWY
+jppfs_cor:ConstructionInProgressAutomobileRWY,自動車事業、建設仮勘定、鉄道事業,Construction in progress - automobile,Construction in progress-automobile-RWY
+jppfs_cor:ConstructionInProgressRailroadRWY,鉄軌道事業、建設仮勘定、鉄道事業,Construction in progress - railroad,Construction in progress-railroad-RWY
+jppfs_cor:ConstructionInProgressIncidentalRWY,付帯事業、建設仮勘定、鉄道事業,Construction in progress - incidental,Construction in progress-incidental-RWY
+jppfs_cor:ConstructionInProgressDevelopmentRWY,開発事業、建設仮勘定、鉄道事業,Construction in progress - development,Construction in progress-development-RWY
+jppfs_cor:ConstructionInProgressSideLineRWY,兼業、建設仮勘定、鉄道事業,Construction in progress - side line,Construction in progress-side line-RWY
+jppfs_cor:ConstructionInProgressAffiliatedRWY,各事業関連、建設仮勘定、鉄道事業,Construction in progress - affiliated,Construction in progress-affiliated-RWY
+jppfs_cor:InvestmentsAndOtherAssetsAbstract,投資その他の資産 [タイトル項目],Investments and other assets,Investments and other assets [abstract]
+jppfs_cor:StocksOfSubsidiariesAndAffiliates,関係会社株式,Shares of subsidiaries and associates,Shares of subsidiaries and associates
+jppfs_cor:InvestmentSecurities,投資有価証券,Investment securities,Investment securities
+jppfs_cor:InvestmentsInCapitalOfSubsidiariesAndAffiliates,関係会社出資金,Investments in capital of subsidiaries and associates,Investments in capital of subsidiaries and associates
+jppfs_cor:InvestmentsInCapital,出資金,Investments in capital,Investments in capital
+jppfs_cor:LongTermLoansReceivable,長期貸付金,Long-term loans receivable,Long-term loans receivable
+jppfs_cor:LongTermPrepaidExpenses,長期前払費用,Long-term prepaid expenses,Long-term prepaid expenses
+jppfs_cor:DeferredTaxAssetsIOA,繰延税金資産、投資その他の資産,Deferred tax assets,Deferred tax assets-IOA
+jppfs_cor:OtherIOA,その他、投資その他の資産,Other,Other-IOA
+jppfs_cor:AllowanceForDoubtfulAccountsIOAByGroup,貸倒引当金、投資その他の資産、一括控除,Allowance for doubtful accounts,Allowance for doubtful accounts-IOA-by group
+jppfs_cor:InvestmentsAndOtherAssets,投資その他の資産,Investments and other assets,Investments and other assets
+jppfs_cor:NoncurrentAssets,固定資産,Non-current assets,Non-current assets
+jppfs_cor:NoncurrentAssetsRailroadAbstractRWY,鉄軌道事業固定資産、鉄道事業 [タイトル項目],Non-current assets - railroad,Non-current assets - railroad-RWY [abstract]
+jppfs_cor:PropertyPlantAndEquipmentRailroadRWY,有形固定資産、鉄軌道事業、鉄道事業,"Property, plant and equipment","Property, plant and equipment-railroad-RWY"
+jppfs_cor:AccumulatedDepreciationRailroadRWY,減価償却累計額、鉄軌道事業、鉄道事業,Accumulated depreciation,Accumulated depreciation-railroad-RWY
+jppfs_cor:PropertyPlantAndEquipmentNetRailroadRWY,有形固定資産（純額）、鉄軌道事業、鉄道事業,"Property, plant and equipment, net","Property, plant and equipment, net-railroad-RWY"
+jppfs_cor:IntangibleAssetsRailroadRWY,無形固定資産、鉄軌道事業、鉄道事業,Intangible assets,Intangible assets-railroad-RWY
+jppfs_cor:NoncurrentAssetsRailroadRWY,鉄軌道事業固定資産、鉄道事業,Non-current assets - railroad,Non-current assets - railroad-RWY
+jppfs_cor:NoncurrentAssetsAutomobileAbstractRWY,自動車事業固定資産、鉄道事業 [タイトル項目],Non-current assets - automobile,Non-current assets - automobile-RWY [abstract]
+jppfs_cor:PropertyPlantAndEquipmentAutomobileRWY,有形固定資産、自動車事業、鉄道事業,"Property, plant and equipment","Property, plant and equipment-automobile-RWY"
+jppfs_cor:VehiclesAutomobileRWY,車両、自動車事業、鉄道事業,Vehicles,Vehicles-automobile-RWY
+jppfs_cor:AccumulatedDepreciationAutomobileRWY,減価償却累計額、自動車事業、鉄道事業,Accumulated depreciation,Accumulated depreciation-automobile-RWY
+jppfs_cor:PropertyPlantAndEquipmentNetAutomobileRWY,有形固定資産（純額）、自動車事業、鉄道事業,"Property, plant and equipment, net","Property, plant and equipment, net-automobile-RWY"
+jppfs_cor:IntangibleAssetsAutomobileRWY,無形固定資産、自動車事業、鉄道事業,Intangible assets,Intangible assets-automobile-RWY
+jppfs_cor:NoncurrentAssetsAutomobileRWY,自動車事業固定資産、鉄道事業,Non-current assets - automobile,Non-current assets - automobile-RWY
+jppfs_cor:NoncurrentAssetsRealEstateAbstractRWY,不動産事業固定資産、鉄道事業 [タイトル項目],Non-current assets - real estate,Non-current assets - real estate-RWY [abstract]
+jppfs_cor:PropertyPlantAndEquipmentRealEstateRWY,有形固定資産、不動産事業、鉄道事業,"Property, plant and equipment","Property, plant and equipment-real estate-RWY"
+jppfs_cor:AccumulatedDepreciationRealEstateRWY,減価償却累計額、不動産事業、鉄道事業,Accumulated depreciation,Accumulated depreciation-real estate-RWY
+jppfs_cor:PropertyPlantAndEquipmentNetRealEstateRWY,有形固定資産（純額）、不動産事業、鉄道事業,"Property, plant and equipment, net","Property, plant and equipment, net-real estate-RWY"
+jppfs_cor:IntangibleAssetsRealEstateRWY,無形固定資産、不動産事業、鉄道事業,Intangible assets,Intangible assets-real estate-RWY
+jppfs_cor:NoncurrentAssetsRealEstateHotelRWY,不動産事業固定資産、不動産事業、鉄道事業,Non-current assets - real estate,Non-current assets - real estate-RWY
+jppfs_cor:NoncurrentAssetsDevelopmentAbstractRWY,開発事業固定資産、鉄道事業 [タイトル項目],Non-current assets - development,Non-current assets - development-RWY [abstract]
+jppfs_cor:PropertyPlantAndEquipmentDevelopmentRWY,有形固定資産、開発事業、鉄道事業,"Property, plant and equipment","Property, plant and equipment-development-RWY"
+jppfs_cor:AccumulatedDepreciationDevelopmentRWY,減価償却累計額、開発事業、鉄道事業,Accumulated depreciation,Accumulated depreciation-development-RWY
+jppfs_cor:PropertyPlantAndEquipmentNetDevelopmentRWY,有形固定資産（純額）、開発事業、鉄道事業,"Property, plant and equipment, net","Property, plant and equipment, net-development-RWY"
+jppfs_cor:IntangibleAssetsDevelopmentRWY,無形固定資産、開発事業、鉄道事業,Intangible assets,Intangible assets-development-RWY
+jppfs_cor:NoncurrentAssetsDevelopmentDevelopmentRWY,開発事業固定資産、開発事業、鉄道事業,Non-current assets - development,Non-current assets - development-RWY
+jppfs_cor:NoncurrentAssetsIncidentalAbstractRWY,付帯事業固定資産、鉄道事業 [タイトル項目],Non-current assets - incidental,Non-current assets - incidental-RWY [abstract]
+jppfs_cor:PropertyPlantAndEquipmentIncidentalRWY,有形固定資産、付帯事業、鉄道事業,"Property, plant and equipment","Property, plant and equipment-incidental-RWY"
+jppfs_cor:AccumulatedDepreciationIncidentalRWY,減価償却累計額、付帯事業、鉄道事業,Accumulated depreciation,Accumulated depreciation-incidental-RWY
+jppfs_cor:PropertyPlantAndEquipmentNetIncidentalRWY,有形固定資産（純額）、付帯事業、鉄道事業,"Property, plant and equipment, net","Property, plant and equipment, net-incidental-RWY"
+jppfs_cor:IntangibleAssetsIncidentalRWY,無形固定資産、付帯事業、鉄道事業,Intangible assets,Intangible assets-incidental-RWY
+jppfs_cor:NoncurrentAssetsIncidentalBusinessIncidentalRWY,付帯事業固定資産、付帯事業、鉄道事業,Non-current assets - incidental,Non-current assets - incidental-RWY
+jppfs_cor:NoncurrentAssetsSideLineAbstractRWY,兼業固定資産、鉄道事業 [タイトル項目],Non-current assets - side line,Non-current assets - side line-RWY [abstract]
+jppfs_cor:PropertyPlantAndEquipmentSideLineRWY,有形固定資産、兼業、鉄道事業,"Property, plant and equipment","Property, plant and equipment-side line-RWY"
+jppfs_cor:AccumulatedDepreciationSideLineRWY,減価償却累計額、兼業、鉄道事業,Accumulated depreciation,Accumulated depreciation-side line-RWY
+jppfs_cor:PropertyPlantAndEquipmentNetSideLineRWY,有形固定資産（純額）、兼業、鉄道事業,"Property, plant and equipment, net","Property, plant and equipment, net-side line-RWY"
+jppfs_cor:IntangibleAssetsSideLineRWY,無形固定資産、兼業、鉄道事業,Intangible assets,Intangible assets-side line-RWY
+jppfs_cor:NoncurrentAssetsSideLineSideLineRWY,兼業固定資産、兼業、鉄道事業,Non-current assets - side line,Non-current assets - side line-RWY
+jppfs_cor:NoncurrentAssetsOtherAbstractRWY,その他事業固定資産、鉄道事業 [タイトル項目],Non-current assets - other,Non-current assets - other-RWY [abstract]
+jppfs_cor:PropertyPlantAndEquipmentOtherRWY,有形固定資産、その他事業、鉄道事業,"Property, plant and equipment","Property, plant and equipment-other-RWY"
+jppfs_cor:AccumulatedDepreciationOtherRWY,減価償却累計額、その他事業、鉄道事業,Accumulated depreciation,Accumulated depreciation-other-RWY
+jppfs_cor:PropertyPlantAndEquipmentNetOtherRWY,有形固定資産（純額）、その他事業、鉄道事業,"Property, plant and equipment, net","Property, plant and equipment, net-other-RWY"
+jppfs_cor:IntangibleAssetsOtherRWY,無形固定資産、その他事業、鉄道事業,Intangible assets,Intangible assets-other-RWY
+jppfs_cor:NoncurrentAssetsOtherOtherRWY,その他事業固定資産、その他事業、鉄道事業,Non-current assets - other,Non-current assets - other-other-RWY
+jppfs_cor:NoncurrentAssetsAdvertisingOtherRWY,広告業固定資産、その他事業、鉄道事業,Non-current assets - advertising,Non-current assets - advertising-other-RWY
+jppfs_cor:NoncurrentAssetsAirCargoOtherRWY,航空貨物業固定資産、その他事業、鉄道事業,Non-current assets - air cargo,Non-current assets - air cargo-other-RWY
+jppfs_cor:OtherNoncurrentAssetsAbstractRWY,その他の固定資産、鉄道事業 [タイトル項目],Other non-current assets,Other non-current assets-RWY [abstract]
+jppfs_cor:PropertyPlantAndEquipmentOtherNCARWY,有形固定資産、その他の固定資産、鉄道事業,"Property, plant and equipment","Property, plant and equipment-other NCA-RWY"
+jppfs_cor:AccumulatedDepreciationOtherNoncurrentAssetsRWY,減価償却累計額、その他の固定資産、鉄道事業,Accumulated depreciation,Accumulated depreciation-other NCA-RWY
+jppfs_cor:PropertyPlantAndEquipmentNetOtherNCARWY,有形固定資産（純額）、その他の固定資産、鉄道事業,"Property, plant and equipment, net","Property, plant and equipment, net-other NCA-RWY"
+jppfs_cor:IntangibleAssetsOtherNCARWY,無形固定資産、その他の固定資産、鉄道事業,Intangible assets,Intangible assets-other NCA-RWY
+jppfs_cor:OtherNoncurrentAssetsAffiliatedRWY,その他の固定資産、鉄道事業,Other non-current assets,Other non-current assets-RWY
+jppfs_cor:DeferredAssetsAbstract,繰延資産 [タイトル項目],Deferred assets,Deferred assets [abstract]
+jppfs_cor:DeferredDisasterLossDARWY,災害損失等繰延額、繰延資産、鉄道事業,Deferred disaster loss,Deferred disaster loss-DA-RWY
+jppfs_cor:DeferredAssets,繰延資産,Deferred assets,Deferred assets
+jppfs_cor:Assets,資産,Assets,Assets
+jppfs_cor:LiabilitiesAbstract,負債の部 [タイトル項目],Liabilities,Liabilities [abstract]
+jppfs_cor:CurrentLiabilitiesAbstract,流動負債 [タイトル項目],Current liabilities,Current liabilities [abstract]
+jppfs_cor:NotesPayableTrade,支払手形,Notes payable - trade,Notes payable-trade
+jppfs_cor:ShortTermLoansPayable,短期借入金,Short-term loans payable,Short-term loans payable
+jppfs_cor:CurrentPortionOfBonds,1年内償還予定の社債,Current portion of bonds,Current portion of bonds
+jppfs_cor:AccountsPayableOther,未払金,Accounts payable - other,Accounts payable-other
+jppfs_cor:AccruedExpenses,未払費用,Accrued expenses,Accrued expenses
+jppfs_cor:IncomeTaxesPayable,未払法人税等,Income taxes payable,Income taxes payable
+jppfs_cor:DeferredTaxLiabilitiesCL,繰延税金負債、流動負債,Deferred tax liabilities,Deferred tax liabilities-CL
+jppfs_cor:InterLineFaresReceivedCLRWY,預り連絡運賃、流動負債、鉄道事業,Inter-line fares received,Inter-line fares received-CL-RWY
+jppfs_cor:DepositsReceived,預り金,Deposits received,Deposits received
+jppfs_cor:PrepaidFaresReceivedCLRWY,前受運賃、流動負債、鉄道事業,Prepaid fares received,Prepaid fares received-CL-RWY
+jppfs_cor:AdvancesReceived,前受金,Advances received,Advances received
+jppfs_cor:UnearnedRevenue,前受収益,Unearned revenue,Unearned revenue
+jppfs_cor:AccountsPayableRailwayEquipmentCLRWY,鉄道施設購入未払金、流動負債、鉄道事業,Accounts payable - railway equipment,Accounts payable-railway equipment-CL-RWY
+jppfs_cor:CurrentPortionOfLongTermAccountsPayableRailwayEquipmentCLRWY,1年内に支払う鉄道施設購入長期未払金、流動負債、鉄道事業,Current portion of long-term accounts payable - railway equipment,Current portion of long-term accounts payable-railway equipment-CL-RWY
+jppfs_cor:OtherCL,その他、流動負債,Other,Other-CL
+jppfs_cor:CurrentLiabilities,流動負債,Current liabilities,Current liabilities
+jppfs_cor:NoncurrentLiabilitiesAbstract,固定負債 [タイトル項目],Non-current liabilities,Non-current liabilities [abstract]
+jppfs_cor:BondsPayable,社債,Bonds payable,Bonds payable
+jppfs_cor:LongTermLoansPayable,長期借入金,Long-term loans payable,Long-term loans payable
+jppfs_cor:DeferredTaxLiabilitiesNCL,繰延税金負債、固定負債,Deferred tax liabilities,Deferred tax liabilities-NCL
+jppfs_cor:NegativeGoodwill,負ののれん,Negative goodwill,Negative goodwill
+jppfs_cor:ProvisionForLargeScaleRenovationOfTheShinkansenInfrastructureNCLRWY,新幹線鉄道大規模改修引当金、固定負債、鉄道事業,Provision for large scale renovation of Shinkansen infrastructure,Provision for large scale renovation of Shinkansen infrastructure-NCL-RWY
+jppfs_cor:LongTermAccountsPayableRailwayEquipmentNCLRWY,鉄道施設購入長期未払金、固定負債、鉄道事業,Long-term accounts payable - railway equipment,Long-term accounts payable-railway equipment-NCL-RWY
+jppfs_cor:LongTermAccountsPayableToJapanRailwayConstructionTransportAndTechnologyAgencyNCLRWY,鉄道・運輸機構長期未払金、固定負債、鉄道事業,"Long-term accounts payable to Japan railway construction, transport and technology agency","Long-term accounts payable to Japan railway construction, transport and technology agency-NCL-RWY"
+jppfs_cor:OtherNCL,その他、固定負債,Other,Other-NCL
+jppfs_cor:NoncurrentLiabilities,固定負債,Non-current liabilities,Non-current liabilities
+jppfs_cor:ReservesUnderTheSpecialLawsAbstract1,特別法上の準備金 [タイトル項目],Reserves under special laws,Reserves under special laws-1 [abstract]
+jppfs_cor:SpecialReserveForExpansionOfRailwayTransportCapacityRWY,特定都市鉄道整備準備金、鉄道事業,Special reserve for expansion of railway transport capacity,Special reserve for expansion of railway transport capacity-RWY
+jppfs_cor:ReservesUnderTheSpecialLaws1,特別法上の準備金,Reserves under special laws,Reserves under special laws-1
+jppfs_cor:Liabilities,負債,Liabilities,Liabilities
+jppfs_cor:NetAssetsAbstract,純資産の部 [タイトル項目],Net assets,Net assets [abstract]
+jppfs_cor:ShareholdersEquityAbstract,株主資本 [タイトル項目],Shareholders' equity,Shareholders' equity [abstract]
+jppfs_cor:CapitalStock,資本金,Capital stock,Capital stock
+jppfs_cor:DepositForSubscriptionsToShares,新株式申込証拠金,Deposit for subscriptions to shares,Deposit for subscriptions to shares
+jppfs_cor:CapitalSurplusAbstract,資本剰余金 [タイトル項目],Capital surplus,Capital surplus [abstract]
+jppfs_cor:LegalCapitalSurplus,資本準備金,Legal capital surplus,Legal capital surplus
+jppfs_cor:OtherCapitalSurplus,その他資本剰余金,Other capital surplus,Other capital surplus
+jppfs_cor:CapitalSurplus,資本剰余金,Capital surplus,Capital surplus
+jppfs_cor:RetainedEarningsAbstract,利益剰余金 [タイトル項目],Retained earnings,Retained earnings [abstract]
+jppfs_cor:LegalRetainedEarnings,利益準備金,Legal retained earnings,Legal retained earnings
+jppfs_cor:OtherRetainedEarningsAbstract,その他利益剰余金 [タイトル項目],Other retained earnings,Other retained earnings [abstract]
+jppfs_cor:RetainedEarningsBroughtForward,繰越利益剰余金,Retained earnings brought forward,Retained earnings brought forward
+jppfs_cor:RetainedEarnings,利益剰余金,Retained earnings,Retained earnings
+jppfs_cor:TreasuryStock,自己株式,Treasury shares,Treasury shares
+jppfs_cor:DepositForSubscriptionsToTreasuryStock,自己株式申込証拠金,Deposit for subscriptions to treasury shares,Deposit for subscriptions to treasury shares
+jppfs_cor:ShareholdersEquity,株主資本,Shareholders' equity,Shareholders' equity
+jppfs_cor:ValuationAndTranslationAdjustmentsAbstract,評価・換算差額等 [タイトル項目],Valuation and translation adjustments,Valuation and translation adjustments [abstract]
+jppfs_cor:ValuationDifferenceOnAvailableForSaleSecurities,その他有価証券評価差額金,Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities
+jppfs_cor:DeferredGainsOrLossesOnHedges,繰延ヘッジ損益,Deferred gains or losses on hedges,Deferred gains or losses on hedges
+jppfs_cor:RevaluationReserveForLand,土地再評価差額金,Revaluation reserve for land,Revaluation reserve for land
+jppfs_cor:ValuationAndTranslationAdjustments,評価・換算差額等,Valuation and translation adjustments,Valuation and translation adjustments
+jppfs_cor:SubscriptionRightsToShares,新株予約権,Share acquisition rights,Share acquisition rights
+jppfs_cor:NonControllingInterests,非支配株主持分,Non-controlling interests,Non-controlling interests
+jppfs_cor:NetAssets,純資産,Net assets,Net assets
+jppfs_cor:LiabilitiesAndNetAssets,負債純資産,Liabilities and net assets,Liabilities and net assets
+nan,,,
+nan,,,
+名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:StatementOfIncomeAbstract,損益計算書 [タイトル項目],Statement of income,Statement of income [abstract]
+jppfs_cor:StatementOfIncomeTable,損益計算書 [表],Statement of income,Statement of income [table]
+jppfs_cor:StatementOfIncomeLineItems,損益計算書 [表示項目],Statement of income,Statement of income [line items]
+jppfs_cor:OperatingIncomeRailwayAbstractRWY,鉄道事業営業利益、鉄道事業 [タイトル項目],Operating profit - railway,Operating profit - railway - RWY [abstract]
+jppfs_cor:OperatingRevenueRailwayAbstractRWY,営業収益、鉄道事業営業利益、鉄道事業 [タイトル項目],Operating revenue,Operating revenue-railway-RWY [abstract]
+jppfs_cor:PassengerTransportationORRWY,旅客運輸収入、営業収益、鉄道事業,Passenger transportation,Passenger transportation-OR-RWY
+jppfs_cor:FreightTransportationORRWY,貨物運輸収入、営業収益、鉄道事業,Freight transportation,Freight transportation-OR-RWY
+jppfs_cor:TrackageRevenueORRWY,鉄道線路使用料収入、営業収益、鉄道事業,Trackage revenue,Trackage revenue-OR-RWY
+jppfs_cor:TransferOfRailroadLineORRWY,鉄道線路譲渡収入、営業収益、鉄道事業,Sale of railroad line,Sale of railroad line - OR - RWY
+jppfs_cor:MiscellaneousIncomeOfTransportationORRWY,運輸雑収、営業収益、鉄道事業,Miscellaneous income of transportation,Miscellaneous income of transportation-OR-RWY
+jppfs_cor:OperatingRevenueRailwayRWY,鉄道事業営業収益、鉄道事業,Operating revenue - railway,Operating revenue-railway-RWY
+jppfs_cor:OperatingExpensesRailwayAbstractRWY,営業費、鉄道事業営業利益、鉄道事業 [タイトル項目],Operating expenses,Operating expenses-railway-RWY [abstract]
+jppfs_cor:TransportationExpensesOERWY,運送費、営業費、鉄道事業,Transportation expenses,Transportation expenses-OE-RWY
+jppfs_cor:AdvertisingExpensesOERWY,案内宣伝費、営業費、鉄道事業,Advertising expenses,Advertising expenses-OE-RWY
+jppfs_cor:WelfareFacilitiesExpensesOERWY,厚生福利施設費、営業費、鉄道事業,Welfare facilities expenses,Welfare facilities expenses-OE-RWY
+jppfs_cor:GeneralAndAdministrativeExpensesOERWY,一般管理費、営業費、鉄道事業,General and administrative expenses,General and administrative expenses-OE-RWY
+jppfs_cor:TaxesOERWY,諸税、営業費、鉄道事業,Taxes,Taxes-OE-RWY
+jppfs_cor:DepreciationOERWY,減価償却費、営業費、鉄道事業,Depreciation,Depreciation-OE-RWY
+jppfs_cor:TransportationOperatingExpensesOERWY,運送営業費、営業費、鉄道事業,Transportation operating expenses,Transportation operating expenses-OE-RWY
+jppfs_cor:FacilityExpensesOERWY,施設運営費、営業費、鉄道事業,Facility expenses,Facility expenses-OE-RWY
+jppfs_cor:OperatingExpensesTransportationOERWY,運輸営業費、営業費、鉄道事業,Operating expenses - transportation,Operating expenses-transportation-OE-RWY
+jppfs_cor:OperatingExpensesRailwayRWY,鉄道事業営業費、鉄道事業,Operating expenses - railway,Operating expenses-railway-RWY
+jppfs_cor:OperatingIncomeRailwayRWY,鉄道事業営業利益又は鉄道事業営業損失（△）、鉄道事業,Operating profit (loss) - railway,Operating profit (loss) - railway - RWY
+jppfs_cor:OperatingIncomeCableRailwayRWY,鋼索鉄道事業営業利益又は鋼索鉄道事業営業損失（△）、鉄道事業,Operating profit (loss) - cable railway,Operating profit (loss) - cable railway - RWY
+jppfs_cor:OperatingIncomeCablewayRWY,索道事業営業利益又は索道事業営業損失（△）、鉄道事業,Operating profit (loss) - cableway,Operating profit (loss) - cableway - RWY
+jppfs_cor:OperatingIncomeRelatedAbstractRWY,関連事業営業利益、鉄道事業 [タイトル項目],Operating profit - related,Operating profit - related - RWY [abstract]
+jppfs_cor:OperatingRevenueRelatedAbstractRWY,営業収益、関連事業営業利益、鉄道事業 [タイトル項目],Operating revenue,Operating revenue-related-RWY [abstract]
+jppfs_cor:RevenueRealEstateLeaseORRelated,不動産賃貸事業収入、営業収益、関連事業、鉄道事業,Revenue - real estate lease,Revenue-real estate lease-OR-related-RWY
+jppfs_cor:RevenueCardORRelated,カード事業収入、営業収益、関連事業、鉄道事業,Revenue - card,Revenue-card-OR-related-RWY
+jppfs_cor:MiscellaneousRevenueORRelated,雑収入、営業収益、関連事業、鉄道事業,Miscellaneous revenue,Miscellaneous revenue-OR-related-RWY
+jppfs_cor:OperatingRevenueRelatedRWY,関連事業営業収益、鉄道事業,Operating revenue - related,Operating revenue-related-RWY
+jppfs_cor:OperatingExpensesRelatedAbstractRWY,営業費、関連事業営業利益、鉄道事業 [タイトル項目],Operating expenses,Operating expenses-related-RWY [abstract]
+jppfs_cor:CostOfSalesOERelated,売上原価、営業費、関連事業、鉄道事業,Cost of sales,Cost of sales-OE-related-RWY
+jppfs_cor:SellingGeneralAndAdministrativeExpensesOERelated,販売費及び一般管理費、営業費、関連事業、鉄道事業,"Selling, general and administrative expenses","Selling, general and administrative expenses-OE-related-RWY"
+jppfs_cor:TaxesOERelated,諸税、営業費、関連事業、鉄道事業,Taxes,Taxes-OE-related-RWY
+jppfs_cor:DepreciationOERelated,減価償却費、営業費、関連事業、鉄道事業,Depreciation,Depreciation-OE-related-RWY
+jppfs_cor:OperatingExpensesRelatedRWY,関連事業営業費、鉄道事業,Operating expenses - related,Operating expenses-related-RWY
+jppfs_cor:OperatingIncomeRelatedRWY,関連事業営業利益又は関連事業営業損失（△）、鉄道事業,Operating profit (loss) - related,Operating profit (loss) - related - RWY
+jppfs_cor:OperatingIncomeAutomobileAbstractRWY,自動車事業営業利益、鉄道事業 [タイトル項目],Operating profit - automobile,Operating profit - automobile - RWY [abstract]
+jppfs_cor:OperatingRevenueAutomobileAbstractRWY,営業収益、自動車事業営業利益、鉄道事業 [タイトル項目],Operating revenue,Operating revenue-automobile-RWY [abstract]
+jppfs_cor:PassengerTransportationORAutomobile,旅客運輸収入、営業収益、自動車事業、鉄道事業,Passenger transportation,Passenger transportation-OR-automobile-RWY
+jppfs_cor:PassengerTransportationRevenueORAutomobile,旅客運送収入、営業収益、自動車事業、鉄道事業,Passenger transportation revenue,Passenger transportation revenue-OR-automobile-RWY
+jppfs_cor:RevenueTransportationMiscellaneousORAutomobile,運輸雑収、営業収益、自動車事業、鉄道事業,Revenue - transportation miscellaneous,Revenue-transportation miscellaneous-OR-automobile-RWY
+jppfs_cor:RevenueAutomobileMiscellaneousOEAutomobile,運送雑収、営業収益、自動車事業、鉄道事業,Revenue - automobile miscellaneous,Revenue-automobile miscellaneous-OE-automobile-RWY
+jppfs_cor:OperatingRevenueAutomobileRWY,自動車事業営業収益、鉄道事業,Operating revenue - automobile,Operating revenue-automobile-RWY
+jppfs_cor:OperatingExpensesAutomobileAbstractRWY,営業費、自動車事業営業利益、鉄道事業 [タイトル項目],Operating expenses,Operating expenses-automobile-RWY [abstract]
+jppfs_cor:GeneralAndAdministrativeExpensesOEAutomobile,一般管理費、営業費、自動車事業、鉄道事業,General and administrative expenses,General and administrative expenses-OE-automobile-RWY
+jppfs_cor:TransportationOperatingExpensesOEAutomobile,運送営業費、営業費、自動車事業、鉄道事業,Transportation operating expenses,Transportation operating expenses-OE-automobile-RWY
+jppfs_cor:DepreciationOEAutomobile,減価償却費、営業費、自動車事業、鉄道事業,Depreciation,Depreciation-OE-automobile-RWY
+jppfs_cor:TaxesOEAutomobile,諸税、営業費、自動車事業、鉄道事業,Taxes,Taxes-OE-automobile-RWY
+jppfs_cor:OperatingExpensesAutomobileRWY,自動車事業営業費、鉄道事業,Operating expenses - automobile,Operating expenses-automobile-RWY
+jppfs_cor:OperatingIncomeAutomobileRWY,自動車事業営業利益又は自動車事業営業損失（△）、鉄道事業,Operating profit (loss) - automobile,Operating profit (loss) - automobile - RWY
+jppfs_cor:OperatingIncomeGeneralPassengerAutomobileTrafficOEAutomobile,一般旅客自動車運送事業営業利益又は一般旅客自動車運送事業営業損失（△）、鉄道事業,Operating profit (loss) - general passenger automobile traffic,Operating profit (loss) - general passenger automobile traffic - OE - automobile - RWY
+jppfs_cor:OperatingIncomeRealEstateAbstractRWY,不動産事業営業利益、鉄道事業 [タイトル項目],Operating profit - real estate,Operating profit - real estate - RWY [abstract]
+jppfs_cor:OperatingRevenueRealEstateAbstractRWY,営業収益、不動産事業営業利益、鉄道事業 [タイトル項目],Operating revenue,Operating revenue-real estate-RWY [abstract]
+jppfs_cor:RevenueRealEstateSalesORRealEstate,不動産販売事業収入、営業収益、不動産事業、鉄道事業,Revenue - real estate sales,Revenue-real estate sales-OR-real estate-RWY
+jppfs_cor:RevenueRealEstateORRealEstate,不動産事業収入、営業収益、不動産事業、鉄道事業,Revenue - real estate,Revenue-real estate-OR-real estate-RWY
+jppfs_cor:NetSalesORRealEstate,売上高、営業収益、不動産事業、鉄道事業,Net sales,Net sales-OR-real estate-RWY
+jppfs_cor:RevenueOtherORRealEstate,その他の収入、営業収益、不動産事業、鉄道事業,Revenue - other,Revenue-other-OR-real estate-RWY
+jppfs_cor:RevenueLeaseORRealEstate,賃貸収入、営業収益、不動産事業、鉄道事業,Revenue - lease,Revenue-lease-OR-real estate-RWY
+jppfs_cor:OperatingRevenueRealEstateRWY,不動産事業営業収益、鉄道事業,Operating revenue - real estate,Operating revenue-real estate-RWY
+jppfs_cor:OperatingExpensesRealEstateAbstractRWY,営業費、不動産事業営業利益、鉄道事業 [タイトル項目],Operating expenses,Operating expenses-real estate-RWY [abstract]
+jppfs_cor:CostOfSalesOERealEstate,売上原価、営業費、不動産事業、鉄道事業,Cost of sales,Cost of sales-OE-real estate-RWY
+jppfs_cor:CostOfSalesRealEstateOERealEstate,不動産事業売上原価、営業費、不動産事業、鉄道事業,Cost of sales - real estate,Cost of sales-real estate-OE-real estate-RWY
+jppfs_cor:SellingGeneralAndAdministrativeExpensesOERealEstate,販売費及び一般管理費、営業費、不動産事業、鉄道事業,"Selling, general and administrative expenses","Selling, general and administrative expenses-OE-real estate-RWY"
+jppfs_cor:GeneralAndAdministrativeExpensesOERealEstate,一般管理費、営業費、不動産事業、鉄道事業,General and administrative expenses,General and administrative expenses-OE-real estate-RWY
+jppfs_cor:TaxesOERealEstate,諸税、営業費、不動産事業、鉄道事業,Taxes,Taxes-OE-real estate-RWY
+jppfs_cor:DepreciationOERealEstate,減価償却費、営業費、不動産事業、鉄道事業,Depreciation,Depreciation-OE-real estate-RWY
+jppfs_cor:OperatingIncomeLeaseOERealEstate,賃貸事業営業費、営業費、不動産事業、鉄道事業,Operating expenses - lease,Operating expenses-lease-OE-real estate-RWY
+jppfs_cor:OperatingExpensesRealEstateRWY,不動産事業営業費、鉄道事業,Operating expenses - real estate,Operating expenses-real estate-RWY
+jppfs_cor:OperatingIncomeRealEstateRWY,不動産事業営業利益又は不動産事業営業損失（△）、鉄道事業,Operating profit (loss) - real estate,Operating profit (loss) - real estate - RWY
+jppfs_cor:OperatingIncomeDevelopmentAbstractRWY,開発事業営業利益、鉄道事業 [タイトル項目],Operating profit - development,Operating profit - development - RWY [abstract]
+jppfs_cor:OperatingRevenueDevelopmentAbstractRWY,営業収益、開発事業営業利益、鉄道事業 [タイトル項目],Operating revenue,Operating revenue-development-RWY [abstract]
+jppfs_cor:RevenueLandAndBuildingSaleInLotsORDevelopment,土地建物分譲収入、営業収益、開発事業、鉄道事業,Revenue - land and building sale in lots,Revenue-land and building sale in lots-OR-development-RWY
+jppfs_cor:RevenueLandAndBuildingLeaseORDevelopment,土地建物賃貸収入、営業収益、開発事業、鉄道事業,Revenue - land and building lease,Revenue-land and building lease-OR-development-RWY
+jppfs_cor:RevenueLeaseORDevelopment,賃貸収入、営業収益、開発事業、鉄道事業,Revenue - lease,Revenue-lease-OR-development-RWY
+jppfs_cor:RevenueSportsFacilitiesORDevelopment,スポーツ施設収入、営業収益、開発事業、鉄道事業,Revenue - sports facilities,Revenue-sports facilities-OR-development-RWY
+jppfs_cor:RevenueHotelORDevelopment,ホテル事業収入、営業収益、開発事業、鉄道事業,Revenue - hotel,Revenue-hotel-OR-development-RWY
+jppfs_cor:RevenueOtherLeisureORIncidental,その他のレジャー事業収入、営業収益、開発事業、鉄道事業,Revenue - other leisure,Revenue-other leisure-OR-incidental-RWY
+jppfs_cor:RevenueOtherORDevelopment,その他の収入、営業収益、開発事業、鉄道事業,Revenue - other,Revenue-other-OR-development-RWY
+jppfs_cor:OperatingRevenueDevelopmentRWY,開発事業営業収益、鉄道事業,Operating revenue - development,Operating revenue-development-RWY
+jppfs_cor:OperatingExpensesDevelopmentAbstractRWY,営業費、開発事業営業利益、鉄道事業 [タイトル項目],Operating expenses,Operating expenses-development-RWY [abstract]
+jppfs_cor:CostOfSalesOEDevelopment,売上原価、営業費、開発事業、鉄道事業,Cost of sales,Cost of sales-OE-development-RWY
+jppfs_cor:SellingGeneralAndAdministrativeExpensesOEDevelopment,販売費及び一般管理費、営業費、開発事業、鉄道事業,"Selling, general and administrative expenses","Selling, general and administrative expenses-OE-development-RWY"
+jppfs_cor:DepreciationOEDevelopment,減価償却費、営業費、開発事業、鉄道事業,Depreciation,Depreciation-OE-development-RWY
+jppfs_cor:TaxesOEDevelopment,諸税、営業費、開発事業、鉄道事業,Taxes,Taxes-OE-development-RWY
+jppfs_cor:OperatingExpensesDevelopmentRWY,開発事業営業費、鉄道事業,Operating expenses - development,Operating expenses-development-RWY
+jppfs_cor:OperatingIncomeDevelopmentRWY,開発事業営業利益又は開発事業営業損失（△）、鉄道事業,Operating profit (loss) - development,Operating profit (loss) - development - RWY
+jppfs_cor:OperatingIncomeIncidentalAbstractRWY,付帯事業営業利益、鉄道事業 [タイトル項目],Operating profit - incidental,Operating profit - incidental - RWY [abstract]
+jppfs_cor:OperatingRevenueIncidentalAbstractRWY,営業収益、付帯事業営業利益、鉄道事業 [タイトル項目],Operating revenue,Operating revenue-incidental-RWY [abstract]
+jppfs_cor:RevenueRealEstateLeaseORIncidental,不動産賃貸事業収入、営業収益、付帯事業、鉄道事業,Revenue - real estate lease,Revenue-real estate lease-OR-incidental-RWY
+jppfs_cor:RevenueRealEstateSalesORIncidental,不動産販売事業収入、営業収益、付帯事業、鉄道事業,Revenue - real estate sales,Revenue-real estate sales-OR-incidental-RWY
+jppfs_cor:LandAndBuildingSalesORIncidental,土地建物売上高、営業収益、付帯事業、鉄道事業,Land and building sales,Land and building sales-OR-incidental-RWY
+jppfs_cor:RevenueLandAndBuildingLeaseORIncidental,土地建物賃貸収入、営業収益、付帯事業、鉄道事業,Revenue - land and building lease,Revenue-land and building lease-OR-incidental-RWY
+jppfs_cor:RevenueAdvertisingORIncidental,広告収入、営業収益、付帯事業、鉄道事業,Revenue - advertising,Revenue-advertising-OR-incidental-RWY
+jppfs_cor:RevenueRealEstateORIncidental,不動産事業収入、営業収益、付帯事業、鉄道事業,Revenue - real estate,Revenue-real estate-OR-incidental-RWY
+jppfs_cor:RevenueInsuranceAgencyORIncidental,保険代理店事業収入、営業収益、付帯事業、鉄道事業,Revenue - insurance agency,Revenue-insurance agency-OR-incidental-RWY
+jppfs_cor:RevenueMerchandiseORIncidental,流通事業収入、営業収益、付帯事業、鉄道事業,Revenue - merchandise,Revenue-merchandise-OR-incidental-RWY
+jppfs_cor:RevenuePlayGardenORIncidental,遊園事業収入、営業収益、付帯事業、鉄道事業,Revenue - play garden,Revenue-play garden-OR-incidental-RWY
+jppfs_cor:RevenueLandAndBuildingORIncidental,土地建物事業収入、営業収益、付帯事業、鉄道事業,Revenue - land and building,Revenue-land and building-OR-incidental-RWY
+jppfs_cor:RevenueLeisureIncidental,レジャー事業収入、付帯事業、鉄道事業,Revenue - leisure,Revenue-leisure-incidental-RWY
+jppfs_cor:RevenueTourismORIncidental,観光事業収入、営業収益、付帯事業、鉄道事業,Revenue - tourism,Revenue-tourism-OR-incidental-RWY
+jppfs_cor:RevenueParkingAreaORIncidental,駐車場事業収入、営業収益、付帯事業、鉄道事業,Revenue - parking area,Revenue-parking area-OR-incidental-RWY
+jppfs_cor:RevenueLandAndBuildingSaleInLotsORIncidental,土地建物分譲収入、営業収益、付帯事業、鉄道事業,Revenue - land and building sale in lots,Revenue-land and building sale in lots-OR-incidental-RWY
+jppfs_cor:RevenueAutomobileMaintenanceORIncidental,自動車整備収入、営業収益、付帯事業、鉄道事業,Revenue - automobile maintenance,Revenue-automobile maintenance-OR-incidental-RWY
+jppfs_cor:RevenueOtherBusinessORIncidental,その他の事業収入、営業収益、付帯事業、鉄道事業,Revenue - other,Revenue-other business-OR-incidental-RWY
+jppfs_cor:RevenueOtherORIncidental,その他の収入、営業収益、付帯事業、鉄道事業,Revenue - other,Revenue-other-OR-incidental-RWY
+jppfs_cor:OperatingRevenueIncidentalRWY,付帯事業営業収益、鉄道事業,Operating revenue - incidental,Operating revenue-incidental-RWY
+jppfs_cor:OperatingExpensesIncidentalAbstractRWY,営業費、付帯事業営業利益、鉄道事業 [タイトル項目],Operating expenses,Operating expenses-incidental-RWY [abstract]
+jppfs_cor:CostOfSalesOEIncidental,売上原価、営業費、付帯事業、鉄道事業,Cost of sales,Cost of sales-OE-incidental-RWY
+jppfs_cor:DepreciationOEIncidental,減価償却費、営業費、付帯事業、鉄道事業,Depreciation,Depreciation-OE-incidental-RWY
+jppfs_cor:SellingGeneralAndAdministrativeExpensesOEIncidental,販売費及び一般管理費、営業費、付帯事業、鉄道事業,"Selling, general and administrative expenses","Selling, general and administrative expenses-OE-incidental-RWY"
+jppfs_cor:TaxesOEIncidental,諸税、営業費、付帯事業、鉄道事業,Taxes,Taxes-OE-incidental-RWY
+jppfs_cor:OperatingExpensesLandAndBuildingOEIncidental,土地建物営業費、営業費、付帯事業、鉄道事業,Operating expenses - land and building,Operating expenses-land and building-OE-incidental-RWY
+jppfs_cor:OperatingExpensesIncidentalRWY,付帯事業営業費、鉄道事業,Operating expenses - incidental,Operating expenses-incidental-RWY
+jppfs_cor:OperatingIncomeIncidentalRWY,付帯事業営業利益又は付帯事業営業損失（△）、鉄道事業,Operating profit (loss) - incidental,Operating profit (loss) - incidental - RWY
+jppfs_cor:OperatingIncomeOtherAbstractRWY,その他事業営業利益、鉄道事業 [タイトル項目],Operating profit - other,Operating profit - other - RWY [abstract]
+jppfs_cor:OperatingRevenueOtherAbstractRWY,営業収益、その他事業営業利益、鉄道事業 [タイトル項目],Operating revenue,Operating revenue-other-RWY [abstract]
+jppfs_cor:RevenueOtherOROther,その他の収入、営業収益、その他事業、鉄道事業,Revenue - other,Revenue-other-OR-other-RWY
+jppfs_cor:RevenueRealEstateOROther,不動産事業収入、営業収益、その他事業、鉄道事業,Revenue - real estate,Revenue-real estate-OR-other-RWY
+jppfs_cor:RevenueOtherBusinessOROther,その他の事業収入、営業収益、その他事業、鉄道事業,Revenue - other,Revenue-other business-OR-other-RWY
+jppfs_cor:RevenueGoodsSalesOROther,物品販売業収入、営業収益、その他事業、鉄道事業,Revenue - goods sales,Revenue-goods sales-OR-other-RWY
+jppfs_cor:GoodsSalesOROther,商品売上高、営業収益、その他事業、鉄道事業,Goods sales,Goods sales-OR-other-RWY
+jppfs_cor:RevenueRestaurantOROther,食堂収入、営業収益、その他事業、鉄道事業,Revenue - restaurant,Revenue-restaurant-OR-other-RWY
+jppfs_cor:RevenueStandOROther,売店収入、営業収益、その他事業、鉄道事業,Revenue - stand,Revenue-stand-OR-other-RWY
+jppfs_cor:RevenueTravelOROther,旅行業収入、営業収益、その他事業、鉄道事業,Revenue - travel,Revenue-travel-OR-other-RWY
+jppfs_cor:OperatingRevenueOtherRWY,その他事業営業収益、鉄道事業,Operating revenue - other,Operating revenue-other-RWY
+jppfs_cor:OperatingExpensesOtherAbstractRWY,営業費、その他事業営業利益、鉄道事業 [タイトル項目],Operating expenses,Operating expenses-other-RWY [abstract]
+jppfs_cor:CostOfSalesOEOtherRWY,売上原価、営業費、その他事業、鉄道事業,Cost of sales,Cost of sales-OE-other-RWY
+jppfs_cor:CostOfGoodsSalesOEOther,商品売上原価、営業費、その他事業、鉄道事業,Cost of goods sales,Cost of goods sales-OE-other-RWY
+jppfs_cor:SellingGeneralAndAdministrativeExpensesOEOther,販売費及び一般管理費、営業費、その他事業、鉄道事業,"Selling, general and administrative expenses","Selling, general and administrative expenses-OE-other-RWY"
+jppfs_cor:TaxesOEOther,諸税、営業費、その他事業、鉄道事業,Taxes,Taxes-OE-other-RWY
+jppfs_cor:DepreciationOEOtherRWY,減価償却費、営業費、その他事業、鉄道事業,Depreciation,Depreciation-OE-other-RWY
+jppfs_cor:OperatingExpensesOtherRWY,その他事業営業費、鉄道事業,Operating expenses - other,Operating expenses-other-RWY
+jppfs_cor:OperatingIncomeOtherRWY,その他事業営業利益又はその他事業営業損失（△）、鉄道事業,Operating profit (loss) - other,Operating profit (loss) - other - RWY
+jppfs_cor:OperatingIncomeSideLineAbstractRWY,兼業営業利益、鉄道事業 [タイトル項目],Operating profit - side line,Operating profit - side line - RWY [abstract]
+jppfs_cor:OperatingRevenueSideLineAbstractRWY,営業収益、兼業営業利益、鉄道事業 [タイトル項目],Operating revenue - side line,Operating revenue-side line-RWY [abstract]
+jppfs_cor:RevenueLeaseORSideLine,賃貸収入、営業収益、兼業、鉄道事業,Revenue - lease,Revenue-lease-OR-side line-RWY
+jppfs_cor:AirCargoRevenueORSideLine,航空貨物収入、営業収益、兼業、鉄道事業,Air cargo revenue,Air cargo revenue-OR-side line-RWY
+jppfs_cor:LandAndBuildingSalesORSideLine,土地建物売上高、営業収益、兼業、鉄道事業,Land and building sales,Land and building sales-OR-side line-RWY
+jppfs_cor:RevenueOtherORSideLine,その他の事業収入、営業収益、兼業、鉄道事業,Revenue - other,Revenue-other-OR-side line-RWY
+jppfs_cor:RevenueEatingORSideLine,飲食業収入、営業収益、兼業、鉄道事業,Revenue - eating,Revenue-eating-OR-side line-RWY
+jppfs_cor:GoodsAndEatingSalesORSideLine,商品飲食品売上高、営業収益、兼業、鉄道事業,Goods and eating sales,Goods and eating sales-OR-side line-RWY
+jppfs_cor:RevenueLandAndBuildingSaleInLotsORSideLine,土地建物分譲収入、営業収益、兼業、鉄道事業,Revenue - land and building sale in lots,Revenue-land and building sale in lots-OR-side line-RWY
+jppfs_cor:RevenueGoodsSalesORSideLine,物品販売業収入、営業収益、兼業、鉄道事業,Revenue - goods sales,Revenue-goods sales-OR-side line-RWY
+jppfs_cor:OtherRevenueORSideLine,その他の収入、営業収益、兼業、鉄道事業,Other revenue,Other revenue-OR-side line-RWY
+jppfs_cor:OperatingRevenueSideLineRWY,兼業営業収益、鉄道事業,Operating revenue - side line,Operating revenue-side line-RWY
+jppfs_cor:OperatingExpensesSideLineAbstractRWY,営業費、兼業営業利益、鉄道事業 [タイトル項目],Operating expenses,Operating expenses-side line-RWY [abstract]
+jppfs_cor:CostOfSalesOESideLineRWY,売上原価、営業費、兼業、鉄道事業,Cost of sales,Cost of sales-OE-side line-RWY
+jppfs_cor:OperatingExpensesTravelOESideLine,旅行業営業費、営業費、兼業、鉄道事業,Operating expenses - travel,Operating expenses-travel-OE-side line-RWY
+jppfs_cor:SellingGeneralAndAdministrativeExpensesOESideLine,販売費及び一般管理費、営業費、兼業、鉄道事業,"Selling, general and administrative expenses","Selling, general and administrative expenses-OE-side line-RWY"
+jppfs_cor:TaxesOESideLine,諸税、営業費、兼業、鉄道事業,Taxes,Taxes-OE-side line-RWY
+jppfs_cor:DepreciationOESideLineRWY,減価償却費、営業費、兼業、鉄道事業,Depreciation,Depreciation-OE-side line-RWY
+jppfs_cor:OperatingExpensesSideLineRWY,兼業営業費、鉄道事業,Operating expenses - side line,Operating expenses-side line-RWY
+jppfs_cor:OperatingIncomeSideLineRWY,兼業営業利益又は兼業営業損失（△）、鉄道事業,Operating profit (loss) - side line,Operating profit (loss) - side line - RWY
+jppfs_cor:OperatingIncomeRailroadAbstractRWY,鉄軌道事業営業利益、鉄道事業 [タイトル項目],Operating profit - railroad,Operating profit - railroad - RWY [abstract]
+jppfs_cor:OperatingRevenueRailroadAbstractRWY,営業収益、鉄軌道事業営業利益、鉄道事業 [タイトル項目],Operating revenue,Operating revenue-railroad-RWY [abstract]
+jppfs_cor:OperatingRevenueRailroadRWY,鉄軌道事業営業収益、鉄道事業,Operating revenue - railroad,Operating revenue-railroad-RWY
+jppfs_cor:OperatingExpensesRailroadAbstractRWY,営業費、鉄軌道事業営業利益、鉄道事業 [タイトル項目],Operating expenses,Operating expenses-railroad-RWY [abstract]
+jppfs_cor:OperatingExpensesRailroadRWY,鉄軌道事業営業費、鉄道事業,Operating expenses - railroad,Operating expenses-railroad-RWY
+jppfs_cor:OperatingIncomeRailroadOERWY,鉄軌道事業営業利益又は鉄軌道事業営業損失（△）、鉄道事業,Operating profit (loss) - railroad,Operating profit (loss) - railroad - OE - RWY
+jppfs_cor:OperatingIncome,営業利益又は営業損失（△）,Operating profit (loss),Operating profit (loss)
+jppfs_cor:OperatingRevenueTotalRWY,全事業営業収益、鉄道事業,Operating revenue - total,Operating revenue-total-RWY
+jppfs_cor:OperatingExpensesTotalRWY,全事業営業費、鉄道事業,Operating expenses - total,Operating expenses-total-RWY
+jppfs_cor:OperatingRevenueRWY,営業収益、鉄道事業,Operating revenue,Operating revenue-RWY
+jppfs_cor:OperatingExpensesAbstractRWY,営業費、鉄道事業 [タイトル項目],Operating expenses,Operating expenses-RWY [abstract]
+jppfs_cor:OperatingExpensesAndCostOfSalesOfTransportationRWY,運輸業等営業費及び売上原価、鉄道事業,Operating expenses and cost of sales of transportation,Operating expenses and cost of sales of transportation-RWY
+jppfs_cor:SellingGeneralAndAdministrativeExpenses,販売費及び一般管理費,"Selling, general and administrative expenses","Selling, general and administrative expenses"
+jppfs_cor:OperatingExpensesRWY,営業費、鉄道事業,Operating expenses,Operating expenses-RWY
+jppfs_cor:NonOperatingIncomeAbstract,営業外収益 [タイトル項目],Non-operating income,Non-operating income [abstract]
+jppfs_cor:InterestAndDiscountsEarnedNOIRWY,受取利息・割引料、営業外収益,Interest and discounts earned,Interest and discounts earned-NOI-RWY
+jppfs_cor:InterestOnSecuritiesNOI,有価証券利息、営業外収益,Interest on securities,Interest on securities-NOI
+jppfs_cor:DividendsIncomeNOI,受取配当金、営業外収益,Dividend income,Dividend income-NOI
+jppfs_cor:GainOnSalesOfSecuritiesNOI,有価証券売却益、営業外収益,Gain on sales of securities,Gain on sales of securities-NOI
+jppfs_cor:GainOnValuationOfSecuritiesNOI,有価証券評価益、営業外収益,Gain on valuation of securities,Gain on valuation of securities-NOI
+jppfs_cor:GainOnSalesOfGoodsNOIRWY,物品売却益、営業外収益、鉄道事業,Gain on sales of goods,Gain on sales of goods-NOI-RWY
+jppfs_cor:RevenueLandRentNOIRWY,土地物件貸付料、営業外収益、鉄道事業,Revenue - land rent,Revenue-land rent-NOI-RWY
+jppfs_cor:ReversalOfClericalCostsOnWorkPerformedOnContractNOIRWY,受託工事事務費戻入、営業外収益、鉄道事業,Reversal of clerical costs on work performed on contract,Reversal of clerical costs on work performed on contract-NOI-RWY
+jppfs_cor:MiscellaneousIncomeNOIRWY,雑収入、営業外収益、鉄道事業,Miscellaneous income,Miscellaneous income-NOI-RWY
+jppfs_cor:NonOperatingIncome,営業外収益,Non-operating income,Non-operating income
+jppfs_cor:NonOperatingExpensesAbstract,営業外費用 [タイトル項目],Non-operating expenses,Non-operating expenses [abstract]
+jppfs_cor:InterestAndDiscountsExpensesNOERWY,支払利息・割引料、営業外費用,Interest and discounts expenses,Interest and discounts expenses-NOE-RWY
+jppfs_cor:InterestOnBondsNOE,社債利息、営業外費用,Interest on bonds,Interest on bonds-NOE
+jppfs_cor:LossOnSalesOfSecuritiesNOE,有価証券売却損、営業外費用,Loss on sales of securities,Loss on sales of securities-NOE
+jppfs_cor:LossOnValuationOfSecuritiesNOE,有価証券評価損、営業外費用,Loss on valuation of securities,Loss on valuation of securities-NOE
+jppfs_cor:LossOnSalesOfGoodsNOERWY,物品売却損、営業外費用、鉄道事業,Loss on sales of goods,Loss on sales of goods-NOE-RWY
+jppfs_cor:InterestOnLongTermAccountsPayableRailwayEquipmentRWY,鉄道施設購入長期未払金利息、鉄道事業,Interest on long-term accounts payable - railway equipment,Interest on long term accounts payable-railway equipment-RWY
+jppfs_cor:LossOnLongTermAccountsPayableRailwayFacilitiesRWY,鉄道施設購入長期未払金返済損、鉄道事業,Loss on long-term accounts payable - railway facilities,Loss on long term accounts payable-railway facilities-RWY
+jppfs_cor:MiscellaneousExpensesNOERWY,雑支出、営業外費用、鉄道事業,Miscellaneous expenses,Miscellaneous expenses-NOE-RWY
+jppfs_cor:NonOperatingExpenses,営業外費用,Non-operating expenses,Non-operating expenses
+jppfs_cor:OrdinaryIncome,経常利益又は経常損失（△）,Ordinary profit (loss),Ordinary profit (loss)
+jppfs_cor:ExtraordinaryIncomeAbstract,特別利益 [タイトル項目],Extraordinary income,Extraordinary income [abstract]
+jppfs_cor:GainOnSalesOfNoncurrentAssetsEI,固定資産売却益、特別利益,Gain on sales of non-current assets,Gain on sales of non-current assets-EI
+jppfs_cor:SubsidyEIRWY,補助金、特別利益、鉄道事業,Subsidy,Subsidy-EI-RWY
+jppfs_cor:EvaluationOnRailwayFacilitiesAsReceivedPropertyEIRWY,鉄道施設受贈財産評価額、特別利益、鉄道事業,Evaluation on railway facilities as received property,Evaluation on railway facilities as received property-EI-RWY
+jppfs_cor:DonationForRailwayFacilitiesConstructionEIRWY,鉄道施設建設受入寄附金、特別利益、鉄道事業,Donation for railway facilities construction,Donation for railway facilities construction-EI-RWY
+jppfs_cor:ReversalOfSpecialReserveForExpansionOfRailwayTransportCapacityEIRWY,特定都市鉄道整備準備金取崩額、特別利益、鉄道事業,Reversal of special reserve for expansion of railway transport capacity,Reversal of special reserve for expansion of railway transport capacity-EI-RWY
+jppfs_cor:ExtraordinaryIncome,特別利益,Extraordinary income,Extraordinary income
+jppfs_cor:ExtraordinaryLossAbstract,特別損失 [タイトル項目],Extraordinary losses,Extraordinary losses [abstract]
+jppfs_cor:LossOnSalesOfNoncurrentAssetsEL,固定資産売却損、特別損失,Loss on sales of non-current assets,Loss on sales of non-current assets-EL
+jppfs_cor:ImpairmentLossEL,減損損失、特別損失,Impairment loss,Impairment loss-EL
+jppfs_cor:NonrecurringLossEL,臨時損失、特別損失,Nonrecurring loss,Nonrecurring loss-EL
+jppfs_cor:RetirementExpensesELRWY,除却費、特別損失、鉄道事業,Retirement expenses,Retirement expenses-EL-RWY
+jppfs_cor:AmortizationOfDeferredDisasterLossRWY,災害損失等繰延額償却、鉄道事業,Amortization of deferred disaster loss,Amortization of deferred disaster loss-RWY
+jppfs_cor:ProvisionOfSpecialReserveForExpansionOfRailwayTransportCapacityELRWY,特定都市鉄道整備準備金繰入額、特別損失、鉄道事業,Provision of special reserve for expansion of railway transport capacity,Provision of special reserve for expansion of railway transport capacity-EL-RWY
+jppfs_cor:ExtraordinaryLoss,特別損失,Extraordinary losses,Extraordinary losses
+jppfs_cor:IncomeBeforeIncomeTaxes,税引前当期純利益又は税引前当期純損失（△）,Profit (loss) before income taxes,Profit (loss) before income taxes
+jppfs_cor:IncomeTaxes,法人税等,Income taxes,Income taxes
+jppfs_cor:IncomeTaxesCurrent,法人税、住民税及び事業税,Income taxes - current,Income taxes-current
+jppfs_cor:IncomeTaxesDeferred,法人税等調整額,Income taxes - deferred,Income taxes-deferred
+jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
+jppfs_cor:ProfitAttributableToAbstract,内訳、当期純利益 [タイトル項目],Profit attributable to,Profit attributable to [abstract]
+jppfs_cor:ProfitLossAttributableToNonControllingInterests,非支配株主に帰属する当期純利益又は非支配株主に帰属する当期純損失（△）,Profit (loss) attributable to non-controlling interests,Profit (loss) attributable to non-controlling interests
+jppfs_cor:ProfitLossAttributableToOwnersOfParent,親会社株主に帰属する当期純利益又は親会社株主に帰属する当期純損失（△）,Profit (loss) attributable to owners of parent,Profit (loss) attributable to owners of parent
+nan,,,
+nan,,,
+名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:StatementOfChangesInEquityAbstract,株主資本等変動計算書 [タイトル項目],Statement of changes in equity,Statement of changes in equity [abstract]
+jppfs_cor:StatementOfChangesInEquityTable,株主資本等変動計算書 [表],Statement of changes in equity,Statement of changes in equity [table]
+jppfs_cor:ComponentsOfEquityAxis,純資産の内訳項目 [軸],Components of equity,Components of equity [axis]
+jppfs_cor:NetAssetsMember,純資産 [メンバー],Net assets,Net assets [member]
+jppfs_cor:ShareholdersEquityMember,株主資本 [メンバー],Shareholders' equity,Shareholders' equity [member]
+jppfs_cor:CapitalStockMember,資本金 [メンバー],Capital stock,Capital stock [member]
+jppfs_cor:CapitalSurplusMember,資本剰余金 [メンバー],Capital surplus,Capital surplus [member]
+jppfs_cor:LegalCapitalSurplusMember,資本準備金 [メンバー],Legal capital surplus,Legal capital surplus [member]
+jppfs_cor:OtherCapitalSurplusMember,その他資本剰余金 [メンバー],Other capital surplus,Other capital surplus [member]
+jppfs_cor:RetainedEarningsMember,利益剰余金 [メンバー],Retained earnings,Retained earnings [member]
+jppfs_cor:LegalRetainedEarningsMember,利益準備金 [メンバー],Legal retained earnings,Legal retained earnings [member]
+jppfs_cor:OtherRetainedEarningsMember,その他利益剰余金 [メンバー],Other retained earnings,Other retained earnings [member]
+jppfs_cor:RetainedEarningsBroughtForwardMember,繰越利益剰余金 [メンバー],Retained earnings brought forward,Retained earnings brought forward [member]
+jppfs_cor:TreasuryStockMember,自己株式 [メンバー],Treasury shares,Treasury shares [member]
+jppfs_cor:ValuationAndTranslationAdjustmentsMember,評価・換算差額等 [メンバー],Valuation and translation adjustments,Valuation and translation adjustments [member]
+jppfs_cor:ValuationDifferenceOnAvailableForSaleSecuritiesMember,その他有価証券評価差額金 [メンバー],Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities [member]
+jppfs_cor:DeferredGainsOrLossesOnHedgesMember,繰延ヘッジ損益 [メンバー],Deferred gains or losses on hedges,Deferred gains or losses on hedges [member]
+jppfs_cor:RevaluationReserveForLandMember,土地再評価差額金 [メンバー],Revaluation reserve for land,Revaluation reserve for land [member]
+jppfs_cor:ForeignCurrencyTranslationAdjustmentMember,為替換算調整勘定 [メンバー],Foreign currency translation adjustment,Foreign currency translation adjustment [member]
+jppfs_cor:SubscriptionRightsToSharesMember,新株予約権 [メンバー],Share acquisition rights,Share acquisition rights [member]
+jppfs_cor:NonControllingInterestsMember,非支配株主持分 [メンバー],Non-controlling interests,Non-controlling interests [member]
+jppfs_cor:StatementOfChangesInEquityLineItems,株主資本等変動計算書 [表示項目],Statement of changes in equity,Statement of changes in equity [line items]
+jppfs_cor:NetAssets,純資産,Net assets,Net assets
+jppfs_cor:ChangesOfItemsDuringThePeriodAbstract,当期変動額 [タイトル項目],Changes of items during period,Changes of items during period [abstract]
+jppfs_cor:IssuanceOfNewShares,新株の発行,Issuance of new shares,Issuance of new shares
+jppfs_cor:DividendsFromSurplus,剰余金の配当,Dividends of surplus,Dividends of surplus
+jppfs_cor:ProfitLossAttributableToOwnersOfParent,親会社株主に帰属する当期純利益又は親会社株主に帰属する当期純損失（△）,Profit (loss) attributable to owners of parent,Profit (loss) attributable to owners of parent
+jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
+jppfs_cor:DisposalOfTreasuryStock,自己株式の処分,Disposal of treasury shares,Disposal of treasury shares
+jppfs_cor:NetChangesOfItemsOtherThanShareholdersEquity,株主資本以外の項目の当期変動額（純額）,Net changes of items other than shareholders' equity,Net changes of items other than shareholders' equity
+jppfs_cor:TotalChangesOfItemsDuringThePeriod,当期変動額合計,Total changes of items during period,Total changes of items during period
+nan,,,
+nan,,,
+名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:StatementOfCashFlowsAbstract,キャッシュ・フロー計算書 [タイトル項目],Statement of cash flows,Statement of cash flows [abstract]
+jppfs_cor:StatementOfCashFlowsTable,キャッシュ・フロー計算書 [表],Statement of cash flows,Statement of cash flows [table]
+jppfs_cor:StatementOfCashFlowsLineItems,キャッシュ・フロー計算書 [表示項目],Statement of cash flows,Statement of cash flows [line items]
+jppfs_cor:NetCashProvidedByUsedInOperatingActivitiesAbstract,営業活動によるキャッシュ・フロー [タイトル項目],Cash flows from operating activities,Cash flows from operating activities [abstract]
+jppfs_cor:SubtotalOpeCF,小計、営業活動によるキャッシュ・フロー,Subtotal,Subtotal-OpeCF
+jppfs_cor:IncreaseDecreaseInSpecialReserveForExpansionOfRailwayTransportCapacityOpeCFRWY,特定都市鉄道整備準備金の増減額（△は減少）、営業活動によるキャッシュ・フロー、鉄道事業,Increase (decrease) in special reserve for expansion of railway transport capacity,Increase (decrease) in special reserve for expansion of railway transport capacity-OpeCF-RWY
+jppfs_cor:IncreaseDecreaseInProvisionForLargeScaleRenovationOfTheShinkansenInfrastructureOpeCFRWY,新幹線鉄道大規模改修引当金の増減額（△は減少）、営業活動によるキャッシュ・フロー、鉄道事業,Increase (decrease) in provision for large scale renovation of Shinkansen infrastructure,Increase (decrease) in provision for large scale renovation of Shinkansen infrastructure-OpeCF-RWY
+jppfs_cor:NetCashProvidedByUsedInInvestmentActivitiesAbstract,投資活動によるキャッシュ・フロー [タイトル項目],Cash flows from investing activities,Cash flows from investing activities [abstract]
+jppfs_cor:NetCashProvidedByUsedInFinancingActivitiesAbstract,財務活動によるキャッシュ・フロー [タイトル項目],Cash flows from financing activities,Cash flows from financing activities [abstract]
+jppfs_cor:PaymentsForLongTermAccountsPayableOtherFinCFRWY,長期未払金の返済による支出、財務活動によるキャッシュ・フロー、鉄道事業,Payments for long-term accounts payable - other,Payments for long-term accounts payable-other-FinCF-RWY
+jppfs_cor:PaymentsForLongTermAccountsPayableRailwayEquipmentFinCFRWY,鉄道施設購入長期未払金の支払による支出、財務活動によるキャッシュ・フロー、鉄道事業,Payments for long-term accounts payable - railway equipment,Payments for long-term accounts payable-railway equipment-FinCF-RWY
+jppfs_cor:RedemptionOfAccountsPayableToJapanRailwayConstructionTransportAndTechnologyAgencyFinCFRWY,鉄道・運輸機構未払金の返済による支出、財務活動によるキャッシュ・フロー、鉄道事業,"Redemption of accounts payable to Japan railway construction, transport and technology agency","Redemption of accounts payable to Japan railway construction, transport and technology agency-FinCF-RWY"

@@ -1,0 +1,271 @@
+タクソノミ,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:BalanceSheetAbstract,貸借対照表 [タイトル項目],Balance sheet,Balance sheet [abstract]
+jppfs_cor:BalanceSheetTable,貸借対照表 [表],Balance sheet,Balance sheet [table]
+jppfs_cor:BalanceSheetLineItems,貸借対照表 [表示項目],Balance sheet,Balance sheet [line items]
+jppfs_cor:AssetsAbstract,資産の部 [タイトル項目],Assets,Assets [abstract]
+jppfs_cor:CurrentAssetsAbstract,流動資産 [タイトル項目],Current assets,Current assets [abstract]
+jppfs_cor:CashAndDeposits,現金及び預金,Cash and deposits,Cash and deposits
+jppfs_cor:NotesReceivableTrade,受取手形,Notes receivable - trade,Notes receivable-trade
+jppfs_cor:AccountsReceivableTrade,売掛金,Accounts receivable - trade,Accounts receivable-trade
+jppfs_cor:AccountsReceivableInstallmentSalesCALEA,割賦債権、流動資産、リース事業,Accounts receivable - installment sales,Accounts receivable-installment sales-CA-LEA
+jppfs_cor:LeaseReceivablesCA,リース債権、流動資産,Lease receivables,Lease receivables-CA
+jppfs_cor:LeaseInvestmentAssetsCA,リース投資資産、流動資産,Lease investment assets,Lease investment assets-CA
+jppfs_cor:LeaseReceivablesAndInvestmentAssetsCA,リース債権及びリース投資資産、流動資産,Lease receivables and investment assets,Lease receivables and investment assets-CA
+jppfs_cor:AccountsReceivableOperatingLoansCALEA,営業貸付金、流動資産、リース事業,Accounts receivable - operating loans,Accounts receivable-operating loans-CA-LEA
+jppfs_cor:AccountsReceivableOtherLoansToCustomersCALEA,その他の営業貸付債権、流動資産、リース事業,Accounts receivable - other loans to customers,Accounts receivable-other loans to customers-CA-LEA
+jppfs_cor:OperationalInvestmentSecuritiesCA,営業投資有価証券、流動資産,Operational investment securities,Operational investment securities-CA
+jppfs_cor:AccountsReceivableLeaseCALEA,賃貸料等未収入金、流動資産、リース事業,Accounts receivable - lease,Accounts receivable-lease-CA-LEA
+jppfs_cor:ShortTermInvestmentSecurities,有価証券,Securities,Securities
+jppfs_cor:Supplies,貯蔵品,Supplies,Supplies
+jppfs_cor:AdvancePaymentsTrade,前渡金,Advance payments - trade,Advance payments-trade
+jppfs_cor:PrepaidExpenses,前払費用,Prepaid expenses,Prepaid expenses
+jppfs_cor:DeferredTaxAssetsCA,繰延税金資産、流動資産,Deferred tax assets,Deferred tax assets-CA
+jppfs_cor:OtherOperatingAssetsCALEA,その他の営業資産、流動資産、リース事業,Other operating assets,Other operating assets-CA-LEA
+jppfs_cor:AccruedIncome,未収収益,Accrued income,Accrued income
+jppfs_cor:ShortTermClaimsOnShareholdersDirectorsOrEmployees,株主、役員又は従業員に対する短期債権,"Short-term claims on shareholders, directors (and other officers) or employees","Short-term claims on shareholders, directors (and other officers) or employees"
+jppfs_cor:ShortTermLoansReceivable,短期貸付金,Short-term loans receivable,Short-term loans receivable
+jppfs_cor:AccountsReceivableOther,未収入金,Accounts receivable - other,Accounts receivable-other
+jppfs_cor:OtherCA,その他、流動資産,Other,Other-CA
+jppfs_cor:AllowanceForDoubtfulAccountsCA,貸倒引当金、流動資産、一括控除,Allowance for doubtful accounts,Allowance for doubtful accounts-CA-by group
+jppfs_cor:CurrentAssets,流動資産,Current assets,Current assets
+jppfs_cor:NoncurrentAssetsAbstract,固定資産 [タイトル項目],Non-current assets,Non-current assets [abstract]
+jppfs_cor:PropertyPlantAndEquipmentAbstract,有形固定資産 [タイトル項目],"Property, plant and equipment","Property, plant and equipment [abstract]"
+jppfs_cor:LeasedAssetsPPEAbstractLEA,賃貸資産、有形固定資産、リース事業 [タイトル項目],Assets for lease,Assets for lease-PPE-LEA [abstract]
+jppfs_cor:PropertyForLeasePPELEA,賃貸資産、有形固定資産、リース事業,Assets for lease,Assets for lease-PPE-LEA
+jppfs_cor:ProvisionForLossOnDisposalOfPropertyForLeasePPELEA,リース資産処分損引当金、有形固定資産、リース事業,Provision for loss on disposal of property for lease,Provision for loss on disposal of property for lease-PPE-LEA
+jppfs_cor:AdvancesForPurchasesAtLeasedAssetsPPELEA,賃貸資産前渡金、有形固定資産、リース事業,Advances for purchases of assets for lease,Advances for purchases of assets for lease-PPE-LEA
+jppfs_cor:LeasedAssetsPPELEA,賃貸資産、合計、有形固定資産、リース事業,Assets for lease,Assets for lease-total-PPE-LEA
+jppfs_cor:OwnUsedAssetsPPEAbstractLEA,社用資産、有形固定資産、リース事業 [タイトル項目],Own-used assets,Own-used assets-PPE-LEA [abstract]
+jppfs_cor:Buildings,建物,Buildings,Buildings
+jppfs_cor:Structures,構築物,Structures,Structures
+jppfs_cor:MachineryAndEquipment,機械及び装置,Machinery and equipment,Machinery and equipment
+jppfs_cor:VehiclesPPELEA,車両、有形固定資産、リース事業,Vehicles,Vehicles-PPE-LEA
+jppfs_cor:AccumulatedDepreciationVehiclesLEA,減価償却累計額、車両、リース事業,Accumulated depreciation,Accumulated depreciation-vehicles-LEA
+jppfs_cor:AccumulatedImpairmentLossVehiclesLEA,減損損失累計額、車両、リース事業,Accumulated impairment loss,Accumulated impairment loss-vehicles-LEA
+jppfs_cor:AccumulatedDepreciationAndImpairmentLossVehiclesLEA,減価償却累計額及び減損損失累計額、車両、リース事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-vehicles-LEA
+jppfs_cor:VehiclesNetPPELEA,車両（純額）、有形固定資産、リース事業,"Vehicles, net","Vehicles, net-PPE-LEA"
+jppfs_cor:MachineryEquipmentAndVehicles,機械装置及び運搬具,"Machinery, equipment and vehicles","Machinery, equipment and vehicles"
+jppfs_cor:EquipmentPPELEA,器具備品、有形固定資産、リース事業,Equipment,Equipment-PPE-LEA
+jppfs_cor:AccumulatedDepreciationEquipmentLEA,減価償却累計額、器具備品、リース事業,Accumulated depreciation,Accumulated depreciation-equipment-LEA
+jppfs_cor:AccumulatedImpairmentLossEquipmentLEA,減損損失累計額、器具備品、リース事業,Accumulated impairment loss,Accumulated impairment loss-equipment-LEA
+jppfs_cor:AccumulatedDepreciationAndImpairmentLossEquipmentLEA,減価償却累計額及び減損損失累計額、器具備品、リース事業,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-equipment-LEA
+jppfs_cor:EquipmentNetPPELEA,器具備品（純額）、有形固定資産、リース事業,"Equipment, net","Equipment, net-PPE-LEA"
+jppfs_cor:Land,土地,Land,Land
+jppfs_cor:LeaseAssetsPPE,リース資産、有形固定資産,Leased assets,Leased assets-PPE
+jppfs_cor:ConstructionInProgress,建設仮勘定,Construction in progress,Construction in progress
+jppfs_cor:OtherPPE,その他、有形固定資産,Other,Other-PPE
+jppfs_cor:OwnUsedAssetsPPELEA,社用資産、有形固定資産、リース事業,Own-used assets,Own-used assets-PPE-LEA
+jppfs_cor:PropertyPlantAndEquipment,有形固定資産,"Property, plant and equipment","Property, plant and equipment"
+jppfs_cor:IntangibleAssetsAbstract,無形固定資産 [タイトル項目],Intangible assets,Intangible assets [abstract]
+jppfs_cor:LeasedAssetsIAAbstractLEA,賃貸資産、無形固定資産、リース事業 [タイトル項目],Assets for lease,Assets for lease-IA-LEA [abstract]
+jppfs_cor:LeasePropertyIALEA,賃貸資産、無形固定資産、リース事業,Assets for lease,Assets for lease-IA-LEA
+jppfs_cor:AdvancesForPurchasesAtPropertyForLeaseIALEA,賃貸資産前渡金、無形固定資産、リース事業,Advances for purchases of assets for lease,Advances for purchases of assets for lease-IA-LEA
+jppfs_cor:LeasedAssetsIALEA,賃貸資産、合計、無形固定資産、リース事業,Assets for lease,Assets for lease-total-IA-LEA
+jppfs_cor:OtherIntangibleAssetsAbstractLEA,その他の無形固定資産、リース事業 [タイトル項目],Other intangible assets,Other intangible assets-LEA [abstract]
+jppfs_cor:Goodwill,のれん,Goodwill,Goodwill
+jppfs_cor:LeaseAssetsIA,リース資産、無形固定資産,Leased assets,Leased assets-IA
+jppfs_cor:LeaseholdRight,借地権,Leasehold right,Leasehold right
+jppfs_cor:MiningRight,鉱業権,Mining right,Mining right
+jppfs_cor:OtherIA,その他、無形固定資産,Other,Other-IA
+jppfs_cor:OtherIntangibleAssetsLEA,その他の無形固定資産、リース事業,Other intangible assets,Other intangible assets-LEA
+jppfs_cor:IntangibleAssets,無形固定資産,Intangible assets,Intangible assets
+jppfs_cor:InvestmentsAndOtherAssetsAbstract,投資その他の資産 [タイトル項目],Investments and other assets,Investments and other assets [abstract]
+jppfs_cor:InvestmentSecurities,投資有価証券,Investment securities,Investment securities
+jppfs_cor:StocksOfSubsidiariesAndAffiliates,関係会社株式,Shares of subsidiaries and associates,Shares of subsidiaries and associates
+jppfs_cor:BondsOfSubsidiariesAndAffiliates,関係会社社債,Bonds of subsidiaries and associates,Bonds of subsidiaries and associates
+jppfs_cor:InvestmentsInCapital,出資金,Investments in capital,Investments in capital
+jppfs_cor:InvestmentsInCapitalOfSubsidiariesAndAffiliates,関係会社出資金,Investments in capital of subsidiaries and associates,Investments in capital of subsidiaries and associates
+jppfs_cor:LongTermLoansReceivable,長期貸付金,Long-term loans receivable,Long-term loans receivable
+jppfs_cor:LongTermLoansReceivableFromShareholdersDirectorsOrEmployees,株主、役員又は従業員に対する長期貸付金,"Long-term loans receivable from shareholders, directors (and other officers) or employees","Long-term loans receivable from shareholders, directors (and other officers) or employees"
+jppfs_cor:LongTermLoansReceivableFromSubsidiariesAndAffiliates,関係会社長期貸付金,Long-term loans receivable from subsidiaries and associates,Long-term loans receivable from subsidiaries and associates
+jppfs_cor:ClaimsProvableInBankruptcyClaimsProvableInRehabilitationAndOther,破産更生債権等,"Claims provable in bankruptcy, claims provable in rehabilitation and other","Claims provable in bankruptcy, claims provable in rehabilitation and other"
+jppfs_cor:GuaranteeDepositsIOA,差入保証金、投資その他の資産,Guarantee deposits,Guarantee deposits-IOA
+jppfs_cor:BadDebtsIOALEA,固定化営業債権、投資その他の資産、リース事業,Bad debts,Bad debts-IOA-LEA
+jppfs_cor:LongTermPrepaidExpenses,長期前払費用,Long-term prepaid expenses,Long-term prepaid expenses
+jppfs_cor:DeferredTaxAssetsIOA,繰延税金資産、投資その他の資産,Deferred tax assets,Deferred tax assets-IOA
+jppfs_cor:RealEstateForInvestmentNet,投資不動産（純額）,"Real estate for investment, net","Real estate for investment, net"
+jppfs_cor:OtherIOA,その他、投資その他の資産,Other,Other-IOA
+jppfs_cor:AllowanceForDoubtfulAccountsIOAByGroup,貸倒引当金、投資その他の資産、一括控除,Allowance for doubtful accounts,Allowance for doubtful accounts-IOA-by group
+jppfs_cor:InvestmentsAndOtherAssets,投資その他の資産,Investments and other assets,Investments and other assets
+jppfs_cor:NoncurrentAssets,固定資産,Non-current assets,Non-current assets
+jppfs_cor:DeferredAssets,繰延資産,Deferred assets,Deferred assets
+jppfs_cor:Assets,資産,Assets,Assets
+jppfs_cor:LiabilitiesAbstract,負債の部 [タイトル項目],Liabilities,Liabilities [abstract]
+jppfs_cor:CurrentLiabilitiesAbstract,流動負債 [タイトル項目],Current liabilities,Current liabilities [abstract]
+jppfs_cor:NotesPayableTrade,支払手形,Notes payable - trade,Notes payable-trade
+jppfs_cor:AccountsPayableTrade,買掛金,Accounts payable - trade,Accounts payable-trade
+jppfs_cor:ShortTermLoansPayable,短期借入金,Short-term loans payable,Short-term loans payable
+jppfs_cor:CurrentPortionOfLongTermLoansPayable,1年内返済予定の長期借入金,Current portion of long-term loans payable,Current portion of long-term loans payable
+jppfs_cor:CurrentPortionOfBonds,1年内償還予定の社債,Current portion of bonds,Current portion of bonds
+jppfs_cor:CommercialPapersLiabilities,コマーシャル・ペーパー,Commercial papers,Commercial papers-liabilities
+jppfs_cor:PayablesUnderFluidityLeaseReceivablesCLLEA,債権流動化に伴う支払債務、流動負債、リース事業,Payables under fluidity lease receivables,Payables under fluidity lease receivables-CL-LEA
+jppfs_cor:CurrentPortionOfLongTermPayablesUnderFluidityLeaseReceivablesCLLEA,1年内支払予定の債権流動化に伴う長期支払債務、流動負債、リース事業,Current portion of long-term payables under fluidity lease receivables,Current portion of long-term payables under fluidity lease receivables-CL-LEA
+jppfs_cor:LeaseObligationsCL,リース債務、流動負債,Lease obligations,Lease obligations-CL
+jppfs_cor:InstallmentPayablesCLLEA,割賦債務、流動負債、リース事業,Installment payables,Installment payables-CL-LEA
+jppfs_cor:AccountsPayableOther,未払金,Accounts payable - other,Accounts payable-other
+jppfs_cor:IncomeTaxesPayable,未払法人税等,Income taxes payable,Income taxes payable
+jppfs_cor:AccruedExpenses,未払費用,Accrued expenses,Accrued expenses
+jppfs_cor:DeferredTaxLiabilitiesCL,繰延税金負債、流動負債,Deferred tax liabilities,Deferred tax liabilities-CL
+jppfs_cor:AdvancesReceived,前受金,Advances received,Advances received
+jppfs_cor:UnearnedLeaseIncomeCLLEA,前受リース料、流動負債、リース事業,Unearned lease income,Unearned lease income-CL-LEA
+jppfs_cor:AdvancesReceivedLeaseCLLEA,賃貸料等前受金、流動負債、リース事業,Advances received - lease,Advances received-lease-CL-LEA
+jppfs_cor:DepositsReceived,預り金,Deposits received,Deposits received
+jppfs_cor:UnearnedRevenue,前受収益,Unearned revenue,Unearned revenue
+jppfs_cor:DeferredProfitOnInstallmentSalesCLLEA,割賦未実現利益、流動負債、リース事業,Deferred profit on installment sales,Deferred profit on installment sales-CL-LEA
+jppfs_cor:ProvisionCL,引当金、流動負債,Provision,Provision-CL
+jppfs_cor:ProvisionForRepairs,修繕引当金,Provision for repairs,Provision for repairs
+jppfs_cor:ShortTermLoansPayableToShareholdersDirectorsOrEmployees,株主、役員又は従業員からの短期借入金,"Short-term loans payable to shareholders, directors (and other officers) or employees","Short-term loans payable to shareholders, directors (and other officers) or employees"
+jppfs_cor:DepositsReceivedFromEmployees,従業員預り金,Deposits received from employees,Deposits received from employees
+jppfs_cor:OtherCL,その他、流動負債,Other,Other-CL
+jppfs_cor:CurrentLiabilities,流動負債,Current liabilities,Current liabilities
+jppfs_cor:NoncurrentLiabilitiesAbstract,固定負債 [タイトル項目],Non-current liabilities,Non-current liabilities [abstract]
+jppfs_cor:BondsPayable,社債,Bonds payable,Bonds payable
+jppfs_cor:LongTermLoansPayable,長期借入金,Long-term loans payable,Long-term loans payable
+jppfs_cor:LongTermLoansPayableToSubsidiariesAndAffiliates,関係会社長期借入金,Long-term loans payable to subsidiaries and associates,Long-term loans payable to subsidiaries and associates
+jppfs_cor:LongTermLoansPayableToShareholdersDirectorsOrEmployees,株主、役員又は従業員からの長期借入金,"Long-term loans payable to shareholders, directors (and other officers) or employees","Long-term loans payable to shareholders, directors (and other officers) or employees"
+jppfs_cor:LongTermPayablesUnderFluidityLeaseReceivablesNCLLEA,債権流動化に伴う長期支払債務、固定負債、リース事業,Long-term payables under fluidity lease receivables,Long-term payables under fluidity lease receivables-NCL-LEA
+jppfs_cor:LeaseObligationsNCL,リース債務、固定負債,Lease obligations,Lease obligations-NCL
+jppfs_cor:LongTermAccountsPayableOther,長期未払金,Long-term accounts payable - other,Long-term accounts payable-other
+jppfs_cor:DeferredTaxLiabilitiesNCL,繰延税金負債、固定負債,Deferred tax liabilities,Deferred tax liabilities-NCL
+jppfs_cor:ProvisionNCL,引当金、固定負債,Provision,Provision-NCL
+jppfs_cor:ProvisionForRetirementBenefits,退職給付引当金,Provision for retirement benefits,Provision for retirement benefits
+jppfs_cor:GuaranteeReceivedNCLLEA,受取保証金、固定負債、リース事業,Guarantee received,Guarantee received-NCL-LEA
+jppfs_cor:NegativeGoodwill,負ののれん,Negative goodwill,Negative goodwill
+jppfs_cor:OtherNCL,その他、固定負債,Other,Other-NCL
+jppfs_cor:NoncurrentLiabilities,固定負債,Non-current liabilities,Non-current liabilities
+jppfs_cor:Liabilities,負債,Liabilities,Liabilities
+jppfs_cor:NetAssetsAbstract,純資産の部 [タイトル項目],Net assets,Net assets [abstract]
+jppfs_cor:ShareholdersEquityAbstract,株主資本 [タイトル項目],Shareholders' equity,Shareholders' equity [abstract]
+jppfs_cor:CapitalStock,資本金,Capital stock,Capital stock
+jppfs_cor:DepositForSubscriptionsToShares,新株式申込証拠金,Deposit for subscriptions to shares,Deposit for subscriptions to shares
+jppfs_cor:CapitalSurplusAbstract,資本剰余金 [タイトル項目],Capital surplus,Capital surplus [abstract]
+jppfs_cor:LegalCapitalSurplus,資本準備金,Legal capital surplus,Legal capital surplus
+jppfs_cor:OtherCapitalSurplus,その他資本剰余金,Other capital surplus,Other capital surplus
+jppfs_cor:CapitalSurplus,資本剰余金,Capital surplus,Capital surplus
+jppfs_cor:RetainedEarningsAbstract,利益剰余金 [タイトル項目],Retained earnings,Retained earnings [abstract]
+jppfs_cor:LegalRetainedEarnings,利益準備金,Legal retained earnings,Legal retained earnings
+jppfs_cor:OtherRetainedEarnings,その他利益剰余金,Other retained earnings,Other retained earnings
+jppfs_cor:RetainedEarningsBroughtForward,繰越利益剰余金,Retained earnings brought forward,Retained earnings brought forward
+jppfs_cor:RetainedEarnings,利益剰余金,Retained earnings,Retained earnings
+jppfs_cor:TreasuryStock,自己株式,Treasury shares,Treasury shares
+jppfs_cor:DepositForSubscriptionsToTreasuryStock,自己株式申込証拠金,Deposit for subscriptions to treasury shares,Deposit for subscriptions to treasury shares
+jppfs_cor:ShareholdersEquity,株主資本,Shareholders' equity,Shareholders' equity
+jppfs_cor:ValuationAndTranslationAdjustmentsAbstract,評価・換算差額等 [タイトル項目],Valuation and translation adjustments,Valuation and translation adjustments [abstract]
+jppfs_cor:ValuationDifferenceOnAvailableForSaleSecurities,その他有価証券評価差額金,Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities
+jppfs_cor:RevaluationReserveForLand,土地再評価差額金,Revaluation reserve for land,Revaluation reserve for land
+jppfs_cor:DeferredGainsOrLossesOnHedges,繰延ヘッジ損益,Deferred gains or losses on hedges,Deferred gains or losses on hedges
+jppfs_cor:ForeignCurrencyTranslationAdjustment,為替換算調整勘定,Foreign currency translation adjustment,Foreign currency translation adjustment
+jppfs_cor:ValuationAndTranslationAdjustments,評価・換算差額等,Valuation and translation adjustments,Valuation and translation adjustments
+jppfs_cor:SubscriptionRightsToShares,新株予約権,Share acquisition rights,Share acquisition rights
+jppfs_cor:NonControllingInterests,非支配株主持分,Non-controlling interests,Non-controlling interests
+jppfs_cor:NetAssets,純資産,Net assets,Net assets
+jppfs_cor:LiabilitiesAndNetAssets,負債純資産,Liabilities and net assets,Liabilities and net assets
+nan,,,
+nan,,,
+名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:StatementOfIncomeAbstract,損益計算書 [タイトル項目],Statement of income,Statement of income [abstract]
+jppfs_cor:StatementOfIncomeTable,損益計算書 [表],Statement of income,Statement of income [table]
+jppfs_cor:StatementOfIncomeLineItems,損益計算書 [表示項目],Statement of income,Statement of income [line items]
+jppfs_cor:NetSalesAbstract,売上高 [タイトル項目],Net sales,Net sales [abstract]
+jppfs_cor:LeaseSalesSalesLEA,リース売上高、売上高、リース事業,Lease sales,Lease sales-sales-LEA
+jppfs_cor:LeaseIncomeSalesLEA,賃貸料収入、売上高、リース事業,Lease income,Lease income-sales-LEA
+jppfs_cor:InstallmentSalesSalesLEA,割賦売上高、売上高、リース事業,Installment sales,Installment sales-sales-LEA
+jppfs_cor:FinanceRevenueSalesLEA,ファイナンス収益、売上高、リース事業,Finance revenue,Finance revenue-sales-LEA
+jppfs_cor:RevenueOperatingLoansSalesLEA,営業貸付収益、売上高、リース事業,Revenue - operating loans,Revenue-operating loans-sales-LEA
+jppfs_cor:CommissionIncomeSalesLEA,受取手数料、売上高、リース事業,Commission income,Commission income-sales-LEA
+jppfs_cor:OtherNetSalesSalesLEA,その他の売上高、売上高、リース事業,Other net sales,Other net sales-sales-LEA
+jppfs_cor:NetSales,売上高,Net sales,Net sales
+jppfs_cor:CostOfSalesAbstract,売上原価 [タイトル項目],Cost of sales,Cost of sales [abstract]
+jppfs_cor:LeaseCostCOSLEA,リース原価、売上原価、リース事業,Lease cost,Lease cost-COS-LEA
+jppfs_cor:RentCostCOSLEA,賃貸原価、売上原価、リース事業,Rent cost,Rent cost-COS-LEA
+jppfs_cor:InstallmentCostCOSLEA,割賦原価、売上原価、リース事業,Installment cost,Installment cost-COS-LEA
+jppfs_cor:FinanceCostCOSLEA,ファイナンス原価、売上原価、リース事業,Finance cost,Finance cost-COS-LEA
+jppfs_cor:CapitalCostCOSLEA,資金原価、売上原価、リース事業,Capital cost,Capital cost-COS-LEA
+jppfs_cor:OtherCostOfSalesCOSLEA,その他の売上原価、売上原価、リース事業,Other cost of sales,Other cost of sales-COS-LEA
+jppfs_cor:CostOfSales,売上原価,Cost of sales,Cost of sales
+jppfs_cor:GrossProfit,売上総利益又は売上総損失（△）,Gross profit (loss),Gross profit (loss)
+jppfs_cor:SellingGeneralAndAdministrativeExpenses,販売費及び一般管理費,"Selling, general and administrative expenses","Selling, general and administrative expenses"
+jppfs_cor:OperatingIncome,営業利益又は営業損失（△）,Operating profit (loss),Operating profit (loss)
+jppfs_cor:NonOperatingIncomeAbstract,営業外収益 [タイトル項目],Non-operating income,Non-operating income [abstract]
+jppfs_cor:InterestIncomeNOI,受取利息、営業外収益,Interest income,Interest income-NOI
+jppfs_cor:InterestOnSecuritiesNOI,有価証券利息、営業外収益,Interest on securities,Interest on securities-NOI
+jppfs_cor:DividendsIncomeNOI,受取配当金、営業外収益,Dividend income,Dividend income-NOI
+jppfs_cor:OtherNOI,その他、営業外収益,Other,Other-NOI
+jppfs_cor:NonOperatingIncome,営業外収益,Non-operating income,Non-operating income
+jppfs_cor:NonOperatingExpensesAbstract,営業外費用 [タイトル項目],Non-operating expenses,Non-operating expenses [abstract]
+jppfs_cor:InterestExpensesNOE,支払利息、営業外費用,Interest expenses,Interest expenses-NOE
+jppfs_cor:OtherNOE,その他、営業外費用,Other,Other-NOE
+jppfs_cor:NonOperatingExpenses,営業外費用,Non-operating expenses,Non-operating expenses
+jppfs_cor:OrdinaryIncome,経常利益又は経常損失（△）,Ordinary profit (loss),Ordinary profit (loss)
+jppfs_cor:ExtraordinaryIncomeAbstract,特別利益 [タイトル項目],Extraordinary income,Extraordinary income [abstract]
+jppfs_cor:ExtraordinaryIncome,特別利益,Extraordinary income,Extraordinary income
+jppfs_cor:ExtraordinaryLossAbstract,特別損失 [タイトル項目],Extraordinary losses,Extraordinary losses [abstract]
+jppfs_cor:ExtraordinaryLoss,特別損失,Extraordinary losses,Extraordinary losses
+jppfs_cor:IncomeBeforeIncomeTaxes,税引前当期純利益又は税引前当期純損失（△）,Profit (loss) before income taxes,Profit (loss) before income taxes
+jppfs_cor:IncomeTaxes,法人税等,Income taxes,Income taxes
+jppfs_cor:IncomeTaxesCurrent,法人税、住民税及び事業税,Income taxes - current,Income taxes-current
+jppfs_cor:IncomeTaxesDeferred,法人税等調整額,Income taxes - deferred,Income taxes-deferred
+jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
+jppfs_cor:ProfitAttributableToAbstract,内訳、当期純利益 [タイトル項目],Profit attributable to,Profit attributable to [abstract]
+jppfs_cor:ProfitLossAttributableToNonControllingInterests,非支配株主に帰属する当期純利益又は非支配株主に帰属する当期純損失（△）,Profit (loss) attributable to non-controlling interests,Profit (loss) attributable to non-controlling interests
+jppfs_cor:ProfitLossAttributableToOwnersOfParent,親会社株主に帰属する当期純利益又は親会社株主に帰属する当期純損失（△）,Profit (loss) attributable to owners of parent,Profit (loss) attributable to owners of parent
+nan,,,
+nan,,,
+名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:StatementOfChangesInEquityAbstract,株主資本等変動計算書 [タイトル項目],Statement of changes in equity,Statement of changes in equity [abstract]
+jppfs_cor:StatementOfChangesInEquityTable,株主資本等変動計算書 [表],Statement of changes in equity,Statement of changes in equity [table]
+jppfs_cor:ComponentsOfEquityAxis,純資産の内訳項目 [軸],Components of equity,Components of equity [axis]
+jppfs_cor:NetAssetsMember,純資産 [メンバー],Net assets,Net assets [member]
+jppfs_cor:ShareholdersEquityMember,株主資本 [メンバー],Shareholders' equity,Shareholders' equity [member]
+jppfs_cor:CapitalStockMember,資本金 [メンバー],Capital stock,Capital stock [member]
+jppfs_cor:CapitalSurplusMember,資本剰余金 [メンバー],Capital surplus,Capital surplus [member]
+jppfs_cor:LegalCapitalSurplusMember,資本準備金 [メンバー],Legal capital surplus,Legal capital surplus [member]
+jppfs_cor:OtherCapitalSurplusMember,その他資本剰余金 [メンバー],Other capital surplus,Other capital surplus [member]
+jppfs_cor:RetainedEarningsMember,利益剰余金 [メンバー],Retained earnings,Retained earnings [member]
+jppfs_cor:LegalRetainedEarningsMember,利益準備金 [メンバー],Legal retained earnings,Legal retained earnings [member]
+jppfs_cor:OtherRetainedEarningsMember,その他利益剰余金 [メンバー],Other retained earnings,Other retained earnings [member]
+jppfs_cor:RetainedEarningsBroughtForwardMember,繰越利益剰余金 [メンバー],Retained earnings brought forward,Retained earnings brought forward [member]
+jppfs_cor:TreasuryStockMember,自己株式 [メンバー],Treasury shares,Treasury shares [member]
+jppfs_cor:ValuationAndTranslationAdjustmentsMember,評価・換算差額等 [メンバー],Valuation and translation adjustments,Valuation and translation adjustments [member]
+jppfs_cor:ValuationDifferenceOnAvailableForSaleSecuritiesMember,その他有価証券評価差額金 [メンバー],Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities [member]
+jppfs_cor:DeferredGainsOrLossesOnHedgesMember,繰延ヘッジ損益 [メンバー],Deferred gains or losses on hedges,Deferred gains or losses on hedges [member]
+jppfs_cor:RevaluationReserveForLandMember,土地再評価差額金 [メンバー],Revaluation reserve for land,Revaluation reserve for land [member]
+jppfs_cor:ForeignCurrencyTranslationAdjustmentMember,為替換算調整勘定 [メンバー],Foreign currency translation adjustment,Foreign currency translation adjustment [member]
+jppfs_cor:SubscriptionRightsToSharesMember,新株予約権 [メンバー],Share acquisition rights,Share acquisition rights [member]
+jppfs_cor:NonControllingInterestsMember,非支配株主持分 [メンバー],Non-controlling interests,Non-controlling interests [member]
+jppfs_cor:StatementOfChangesInEquityLineItems,株主資本等変動計算書 [表示項目],Statement of changes in equity,Statement of changes in equity [line items]
+jppfs_cor:NetAssets,純資産,Net assets,Net assets
+jppfs_cor:ChangesOfItemsDuringThePeriodAbstract,当期変動額 [タイトル項目],Changes of items during period,Changes of items during period [abstract]
+jppfs_cor:IssuanceOfNewShares,新株の発行,Issuance of new shares,Issuance of new shares
+jppfs_cor:DividendsFromSurplus,剰余金の配当,Dividends of surplus,Dividends of surplus
+jppfs_cor:ProfitLossAttributableToOwnersOfParent,親会社株主に帰属する当期純利益又は親会社株主に帰属する当期純損失（△）,Profit (loss) attributable to owners of parent,Profit (loss) attributable to owners of parent
+jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
+jppfs_cor:DisposalOfTreasuryStock,自己株式の処分,Disposal of treasury shares,Disposal of treasury shares
+jppfs_cor:NetChangesOfItemsOtherThanShareholdersEquity,株主資本以外の項目の当期変動額（純額）,Net changes of items other than shareholders' equity,Net changes of items other than shareholders' equity
+jppfs_cor:TotalChangesOfItemsDuringThePeriod,当期変動額合計,Total changes of items during period,Total changes of items during period
+nan,,,
+nan,,,
+名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:StatementOfCashFlowsAbstract,キャッシュ・フロー計算書 [タイトル項目],Statement of cash flows,Statement of cash flows [abstract]
+jppfs_cor:StatementOfCashFlowsTable,キャッシュ・フロー計算書 [表],Statement of cash flows,Statement of cash flows [table]
+jppfs_cor:StatementOfCashFlowsLineItems,キャッシュ・フロー計算書 [表示項目],Statement of cash flows,Statement of cash flows [line items]
+jppfs_cor:NetCashProvidedByUsedInOperatingActivitiesAbstract,営業活動によるキャッシュ・フロー [タイトル項目],Cash flows from operating activities,Cash flows from operating activities [abstract]
+jppfs_cor:SubtotalOpeCF,小計、営業活動によるキャッシュ・フロー,Subtotal,Subtotal-OpeCF
+jppfs_cor:DepreciationOfLeasedAssetsOpeCFLEA,賃貸資産減価償却費、営業活動によるキャッシュ・フロー、リース事業,Depreciation of assets for lease,Depreciation of assets for lease-OpeCF-LEA
+jppfs_cor:DepreciationOfOwnUsedAssetsOpeCFLEA,社用資産減価償却費、営業活動によるキャッシュ・フロー、リース事業,Depreciation of own-used assets,Depreciation of own-used assets-OpeCF-LEA
+jppfs_cor:DepreciationAndLossOnRetirementOfOwnUsedAssetsOpeCFLEA,社用資産減価償却費及び除却損、営業活動によるキャッシュ・フロー、リース事業,Depreciation and loss on retirement of own-used assets,Depreciation and loss on retirement of own-used assets-OpeCF-LEA
+jppfs_cor:DepreciationOfLeasedAndOwnUsedAssetsOpeCFLEA,賃貸資産及び社用資産減価償却費、営業活動によるキャッシュ・フロー、リース事業,Depreciation of assets for lease and own-used assets,Depreciation of assets for lease and own-used assets-OpeCF-LEA
+jppfs_cor:LossOnRetirementOfLeasedAssetsOpeCFLEA,賃貸資産除却損、営業活動によるキャッシュ・フロー、リース事業,Loss on retirement of assets for lease,Loss on retirement of assets for lease-OpeCF-LEA
+jppfs_cor:LossGainOnDisposalOfLeasedAssetsOpeCFLEA,賃貸資産処分損益（△は益）、営業活動によるキャッシュ・フロー、リース事業,Loss (gain) on disposal of assets for lease,Loss (gain) on disposal of assets for lease-OpeCF-LEA
+jppfs_cor:CapitalCostAndInterestExpensesOpeCFLEA,資金原価及び支払利息、営業活動によるキャッシュ・フロー、リース事業,Capital cost and interest expenses,Capital cost and interest expenses-OpeCF-LEA
+jppfs_cor:DecreaseIncreaseInReceivablesInstallmentOpeCFLEA,割賦債権の増減額（△は増加）、営業活動によるキャッシュ・フロー、リース事業,Decrease (increase) in receivables - installment,Decrease (increase) in receivables-installment-OpeCF-LEA
+jppfs_cor:DecreaseIncreaseInAccountsReceivableOperatingLoansOpeCFLEA,営業貸付金の増減額（△は増加）、営業活動によるキャッシュ・フロー、リース事業,Decrease (increase) in accounts receivable - operating loans,Decrease (increase) in accounts receivable-operating loans-OpeCF-LEA
+jppfs_cor:DecreaseIncreaseInOtherOperatingAssetsOpeCFLEA,その他の営業資産の増減額（△は増加）、営業活動によるキャッシュ・フロー、リース事業,Decrease (increase) in other operating assets,Decrease (increase) in other operating assets-OpeCF-LEA
+jppfs_cor:DecreaseIncreaseInAccountsReceivableLeaseOpeCFLEA,賃貸料等未収入金の増減額（△は増加）、営業活動によるキャッシュ・フロー、リース事業,Decrease (increase) in accounts receivable - lease,Decrease (increase) in accounts receivable-lease-OpeCF-LEA
+jppfs_cor:PurchaseOfLeasedAssetsOpeCFLEA,賃貸資産の取得による支出、営業活動によるキャッシュ・フロー、リース事業,Purchase of assets for lease,Purchase of assets for lease-OpeCF-LEA
+jppfs_cor:DecreaseIncreaseInLeasedAssetsOpeCFLEA,賃貸資産の増減額（△は増加）、営業活動によるキャッシュ・フロー、リース事業,Decrease (increase) in assets for lease,Decrease (increase) in assets for lease-OpeCF-LEA
+jppfs_cor:NetCashProvidedByUsedInInvestmentActivitiesAbstract,投資活動によるキャッシュ・フロー [タイトル項目],Cash flows from investing activities,Cash flows from investing activities [abstract]
+jppfs_cor:PurchaseOfOwnUsedAssetsInvCFLEA,社用資産の取得による支出、投資活動によるキャッシュ・フロー、リース事業,Purchase of own-used assets,Purchase of own-used assets-InvCF-LEA
+jppfs_cor:NetCashProvidedByUsedInFinancingActivitiesAbstract,財務活動によるキャッシュ・フロー [タイトル項目],Cash flows from financing activities,Cash flows from financing activities [abstract]
+jppfs_cor:ProceedsFromFluidityOfLeaseReceivablesFinCFLEA,債権流動化による収入、財務活動によるキャッシュ・フロー、リース事業,Proceeds from fluidity of lease receivables,Proceeds from fluidity of lease receivables-FinCF-LEA
+jppfs_cor:RepaymentsOfPayablesUnderFluidityLeaseReceivablesFinCFLEA,債権流動化の返済による支出、財務活動によるキャッシュ・フロー、リース事業,Repayments of payables under fluidity lease receivables,Repayments of payables under fluidity lease receivables-FinCF-LEA

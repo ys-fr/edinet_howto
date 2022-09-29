@@ -1,0 +1,183 @@
+タクソノミ,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:BalanceSheetAbstract,貸借対照表 [タイトル項目],Balance sheet,Balance sheet [abstract]
+jppfs_cor:BalanceSheetTable,貸借対照表 [表],Balance sheet,Balance sheet [table]
+jppfs_cor:BalanceSheetLineItems,貸借対照表 [表示項目],Balance sheet,Balance sheet [line items]
+jppfs_cor:AssetsAbstract,資産の部 [タイトル項目],Assets,Assets [abstract]
+jppfs_cor:CurrentAssets,流動資産,Current assets,Current assets
+jppfs_cor:CashAndDeposits,現金及び預金,Cash and deposits,Cash and deposits
+jppfs_cor:OperatingAccountsReceivableMED,事業未収金、社会医療法人,Operating accounts receivable,Operating accounts receivable-MED
+jppfs_cor:AllowanceForDoubtfulAccountsOperatingAccountsReceivableMED,貸倒引当金、事業未収金、社会医療法人,Allowance for doubtful accounts,Allowance for doubtful accounts-operating accounts receivable-MED
+jppfs_cor:OperatingAccountsReceivableNetMED,事業未収金（純額）、社会医療法人,"Operating accounts receivable, net","Operating accounts receivable, net-MED"
+jppfs_cor:ShortTermInvestmentSecurities,有価証券,Securities,Securities
+jppfs_cor:Inventories,たな卸資産,Inventories,Inventories
+jppfs_cor:AdvancePaymentsTrade,前渡金,Advance payments - trade,Advance payments-trade
+jppfs_cor:PrepaidExpenses,前払費用,Prepaid expenses,Prepaid expenses
+jppfs_cor:DeferredTaxAssetsCA,繰延税金資産、流動資産,Deferred tax assets,Deferred tax assets-CA
+jppfs_cor:OtherCA,その他、流動資産,Other,Other-CA
+jppfs_cor:AllowanceForDoubtfulAccountsCA,貸倒引当金、流動資産、一括控除,Allowance for doubtful accounts,Allowance for doubtful accounts-CA-by group
+jppfs_cor:NoncurrentAssets,固定資産,Non-current assets,Non-current assets
+jppfs_cor:PropertyPlantAndEquipment,有形固定資産,"Property, plant and equipment","Property, plant and equipment"
+jppfs_cor:Buildings,建物,Buildings,Buildings
+jppfs_cor:AccumulatedDepreciationBuildings,減価償却累計額、建物,Accumulated depreciation,Accumulated depreciation-buildings
+jppfs_cor:AccumulatedImpairmentLossBuildings,減損損失累計額、建物,Accumulated impairment loss,Accumulated impairment loss-buildings
+jppfs_cor:BuildingsNet,建物（純額）,"Buildings, net","Buildings, net"
+jppfs_cor:Structures,構築物,Structures,Structures
+jppfs_cor:AccumulatedDepreciationStructures,減価償却累計額、構築物,Accumulated depreciation,Accumulated depreciation-structures
+jppfs_cor:AccumulatedImpairmentLossStructures,減損損失累計額、構築物,Accumulated impairment loss,Accumulated impairment loss-structures
+jppfs_cor:StructuresNet,構築物（純額）,"Structures, net","Structures, net"
+jppfs_cor:MedicalInstrumentAndEquipmentMED,医療用器械備品、社会医療法人,Medical instrument and equipment,Medical instrument and equipment-MED
+jppfs_cor:AccumulatedDepreciationMedicalInstrumentAndEquipmentMED,減価償却累計額、医療用器械備品、社会医療法人,Accumulated depreciation,Accumulated depreciation-medical instrument and equipment-MED
+jppfs_cor:AccumulatedImpairmentLossMedicalInstrumentAndEquipmentMED,減損損失累計額、医療用器械備品、社会医療法人,Accumulated impairment loss,Accumulated impairment loss-medical instrument and equipment-MED
+jppfs_cor:AccumulatedDepreciationAndImpairmentLossMedicalInstrumentAndEquipmentMED,減価償却累計額及び減損損失累計額、医療用器械備品、社会医療法人,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-medical instrument and equipment-MED
+jppfs_cor:MedicalInstrumentAndEquipmentNetMED,医療用器械備品（純額）、社会医療法人,"Medical instrument and equipment, net","Medical instrument and equipment, net-MED"
+jppfs_cor:OtherInstrumentAndEquipmentMED,その他の器械備品、社会医療法人,Other instrument and equipment,Other instrument and equipment-MED
+jppfs_cor:AccumulatedDepreciationOtherInstrumentAndEquipmentMED,減価償却累計額、その他の器械備品、社会医療法人,Accumulated depreciation,Accumulated depreciation-other instrument and equipment-MED
+jppfs_cor:AccumulatedImpairmentLossOtherInstrumentAndEquipmentMED,減損損失累計額、その他の器械備品、社会医療法人,Accumulated impairment loss,Accumulated impairment loss-other instrument and equipment-MED
+jppfs_cor:AccumulatedDepreciationAndImpairmentLossOtherInstrumentAndEquipmentMED,減価償却累計額及び減損損失累計額、その他の器械備品、社会医療法人,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-other instrument and equipment-MED
+jppfs_cor:OtherInstrumentAndEquipmentNetMED,その他の器械備品（純額）、社会医療法人,"Other instrument and equipment, net","Other instrument and equipment, net-MED"
+jppfs_cor:VehiclesAndVesselsMED,車両及び船舶、社会医療法人,Vehicles and vessels,Vehicles and vessels-MED
+jppfs_cor:AccumulatedDepreciationVehiclesAndVesselsMED,減価償却累計額、車両及び船舶、社会医療法人,Accumulated depreciation,Accumulated depreciation-vehicles and vessels-MED
+jppfs_cor:AccumulatedImpairmentLossVehiclesAndVesselsMED,減損損失累計額、車両及び船舶、社会医療法人,Accumulated impairment loss,Accumulated impairment loss-vehicles and vessels-MED
+jppfs_cor:AccumulatedDepreciationAndImpairmentLossVehiclesAndVesselsMED,減価償却累計額及び減損損失累計額、車両及び船舶、社会医療法人,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-vehicles and vessels-MED
+jppfs_cor:VehiclesAndVesselsNetMED,車両及び船舶（純額）、社会医療法人,"Vehicles and vessels, net","Vehicles and vessels, net-MED"
+jppfs_cor:Land,土地,Land,Land
+jppfs_cor:ConstructionInProgress,建設仮勘定,Construction in progress,Construction in progress
+jppfs_cor:OtherPPE,その他、有形固定資産,Other,Other-PPE
+jppfs_cor:AccumulatedDepreciationOtherPPE,減価償却累計額、その他、有形固定資産,Accumulated depreciation,Accumulated depreciation-other-PPE
+jppfs_cor:AccumulatedImpairmentLossOtherPPE,減損損失累計額、その他、有形固定資産,Accumulated impairment loss,Accumulated impairment loss-other-PPE
+jppfs_cor:OtherNetPPE,その他（純額）、有形固定資産,"Other, net","Other, net-PPE"
+jppfs_cor:AccumulatedDepreciationPPEByGroup,減価償却累計額、有形固定資産、一括控除,Accumulated depreciation,Accumulated depreciation-PPE-by group
+jppfs_cor:AccumulatedImpairmentLossPPEByGroup,減損損失累計額、有形固定資産、一括控除,Accumulated impairment loss,Accumulated impairment loss-PPE-by group
+jppfs_cor:AccumulatedDepreciationAndImpairmentLossPPEByGroup,減価償却累計額及び減損損失累計額、有形固定資産、一括控除,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-PPE-by group
+jppfs_cor:IntangibleAssets,無形固定資産,Intangible assets,Intangible assets
+jppfs_cor:LeaseholdRight,借地権,Leasehold right,Leasehold right
+jppfs_cor:Software,ソフトウエア,Software,Software
+jppfs_cor:OtherIA,その他、無形固定資産,Other,Other-IA
+jppfs_cor:OtherAssetsMED,その他の資産、社会医療法人,Other assets,Other assets-MED
+jppfs_cor:InvestmentSecurities,投資有価証券,Investment securities,Investment securities
+jppfs_cor:LongTermLoansReceivable,長期貸付金,Long-term loans receivable,Long-term loans receivable
+jppfs_cor:AllowanceForDoubtfulAccountsLongTermLoansReceivable,貸倒引当金、長期貸付金,Allowance for doubtful accounts,Allowance for doubtful accounts-long-term loans receivable
+jppfs_cor:LongTermLoansReceivableNet,長期貸付金（純額）,"Long-term loans receivable, net","Long-term loans receivable, net"
+jppfs_cor:LongTermLoansReceivableFromDirectorsEmployeesAndOtherMED,役職員等長期貸付金、社会医療法人,"Long-term loans receivable from directors, employees and other","Long-term loans receivable from directors, employees and other-MED"
+jppfs_cor:AllowanceForDoubtfulAccountsLongTermLoansReceivableFromDirectorsEmployeesAndOtherMED,貸倒引当金、役職員等長期貸付金、社会医療法人,Allowance for doubtful accounts,"Allowance for doubtful accounts-long-term loans receivable from directors, employees and other-MED"
+jppfs_cor:LongTermLoansReceivableFromDirectorsEmployeesAndOtherNetMED,役職員等長期貸付金（純額）、社会医療法人,"Long-term loans receivable from directors, employees and other, net","Long-term loans receivable from directors, employees and other, net-MED"
+jppfs_cor:LongTermPrepaidExpenses,長期前払費用,Long-term prepaid expenses,Long-term prepaid expenses
+jppfs_cor:DeferredTaxAssetsIOA,繰延税金資産、投資その他の資産,Deferred tax assets,Deferred tax assets-IOA
+jppfs_cor:OtherNoncurrentAssetsMED,その他の固定資産、社会医療法人,Other non-current assets,Other non-current assets-MED
+jppfs_cor:AllowanceForDoubtfulAccountsIOAByGroup,貸倒引当金、投資その他の資産、一括控除,Allowance for doubtful accounts,Allowance for doubtful accounts-IOA-by group
+jppfs_cor:Assets,資産,Assets,Assets
+jppfs_cor:LiabilitiesAbstract,負債の部 [タイトル項目],Liabilities,Liabilities [abstract]
+jppfs_cor:CurrentLiabilities,流動負債,Current liabilities,Current liabilities
+jppfs_cor:NotesPayableTrade,支払手形,Notes payable - trade,Notes payable-trade
+jppfs_cor:AccountsPayableTrade,買掛金,Accounts payable - trade,Accounts payable-trade
+jppfs_cor:ShortTermLoansPayable,短期借入金,Short-term loans payable,Short-term loans payable
+jppfs_cor:AccountsPayableOther,未払金,Accounts payable - other,Accounts payable-other
+jppfs_cor:AccruedExpenses,未払費用,Accrued expenses,Accrued expenses
+jppfs_cor:IncomeTaxesPayable,未払法人税等,Income taxes payable,Income taxes payable
+jppfs_cor:AccruedConsumptionTaxes,未払消費税等,Accrued consumption taxes,Accrued consumption taxes
+jppfs_cor:DeferredTaxLiabilitiesCL,繰延税金負債、流動負債,Deferred tax liabilities,Deferred tax liabilities-CL
+jppfs_cor:AdvancesReceived,前受金,Advances received,Advances received
+jppfs_cor:DepositsReceived,預り金,Deposits received,Deposits received
+jppfs_cor:UnearnedRevenue,前受収益,Unearned revenue,Unearned revenue
+jppfs_cor:OtherCL,その他、流動負債,Other,Other-CL
+jppfs_cor:NoncurrentLiabilities,固定負債,Non-current liabilities,Non-current liabilities
+jppfs_cor:SocialMedicalCorporationBondsPayableMED,社会医療法人債、社会医療法人,Social medical corporation bonds payable,Social medical corporation bonds payable-MED
+jppfs_cor:LongTermLoansPayable,長期借入金,Long-term loans payable,Long-term loans payable
+jppfs_cor:DeferredTaxLiabilitiesNCL,繰延税金負債、固定負債,Deferred tax liabilities,Deferred tax liabilities-NCL
+jppfs_cor:OtherNCL,その他、固定負債,Other,Other-NCL
+jppfs_cor:Liabilities,負債,Liabilities,Liabilities
+jppfs_cor:NetAssetsAbstract,純資産の部 [タイトル項目],Net assets,Net assets [abstract]
+jppfs_cor:ReserveFundMED,積立金、社会医療法人,Reserves,Reserves - MED
+jppfs_cor:ReserveAtIncorporationMED,設立等積立金、社会医療法人,Reserve at incorporation,Reserve at incorporation - MED
+jppfs_cor:AlternateFundMED,代替基金、社会医療法人,Alternative fund,Alternative fund - MED
+jppfs_cor:ProfitReserveBroughtForwardMED,繰越利益積立金、社会医療法人,Profit reserve brought forward,Profit reserve brought forward - MED
+jppfs_cor:ValuationAndTranslationAdjustments,評価・換算差額等,Valuation and translation adjustments,Valuation and translation adjustments
+jppfs_cor:ValuationDifferenceOnAvailableForSaleSecurities,その他有価証券評価差額金,Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities
+jppfs_cor:DeferredGainsOrLossesOnHedges,繰延ヘッジ損益,Deferred gains or losses on hedges,Deferred gains or losses on hedges
+jppfs_cor:NetAssets,純資産,Net assets,Net assets
+jppfs_cor:LiabilitiesAndNetAssets,負債純資産,Liabilities and net assets,Liabilities and net assets
+nan,,,
+nan,,,
+名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:StatementOfIncomeAbstract,損益計算書 [タイトル項目],Statement of income,Statement of income [abstract]
+jppfs_cor:StatementOfIncomeTable,損益計算書 [表],Statement of income,Statement of income [table]
+jppfs_cor:StatementOfIncomeLineItems,損益計算書 [表示項目],Statement of income,Statement of income [line items]
+jppfs_cor:OperatingProfitAndLossAbstractMED,事業損益、社会医療法人 [タイトル項目],Operating revenue and expenses,Operating revenue and expenses - MED [abstract]
+jppfs_cor:PrimaryOperatingProfitAndLossAbstractMED,本来業務事業損益、社会医療法人 [タイトル項目],Primary operating revenue and expenses,Primary operating revenue and expenses - MED [abstract]
+jppfs_cor:OperatingRevenuePrimaryMED,事業収益、本来業務事業損益、社会医療法人,Operating revenue,Operating revenue-primary-MED
+jppfs_cor:OperatingExpensesPrimaryAbstractMED,事業費用、本来業務事業損益、社会医療法人 [タイトル項目],Operating expenses,Operating expenses-primary-MED [abstract]
+jppfs_cor:OperatingExpensesOperatingPrimaryMED,事業費、本来業務事業損益、社会医療法人,Operating expenses - operating,Operating expenses-operating-primary-MED
+jppfs_cor:HeadOfficeExpensesPrimaryMED,本部費、本来業務事業損益、社会医療法人,Head office expenses,Head office expenses-primary-MED
+jppfs_cor:OperatingExpensesPrimaryMED,事業費用、本来業務事業損益、社会医療法人,Operating expenses,Operating expenses-primary-MED
+jppfs_cor:PrimaryOperatingIncomeMED,本来業務事業利益又は本来業務事業損失（△）、社会医療法人,Primary operating profit (loss),Primary operating profit (loss) - MED
+jppfs_cor:IncidentalOperatingProfitAndLossAbstractMED,附帯業務事業損益、社会医療法人 [タイトル項目],Incidental operating revenue and expenses,Incidental operating revenue and expenses - MED [abstract]
+jppfs_cor:OperatingRevenueIncidentalMED,事業収益、附帯業務事業損益、社会医療法人,Operating revenue,Operating revenue-incidental-MED
+jppfs_cor:OperatingExpensesIncidentalMED,事業費用、附帯業務事業損益、社会医療法人,Operating expenses,Operating expenses-incidental-MED
+jppfs_cor:IncidentalOperatingIncomeMED,附帯業務事業利益又は附帯業務事業損失（△）、社会医療法人,Incidental operating profit (loss),Incidental operating profit (loss) - MED
+jppfs_cor:ProfitMakingOperatingProfitAndLossAbstractMED,収益業務事業損益、社会医療法人 [タイトル項目],Profit-making operating revenue and expenses,Profit-making operating revenue and expenses - MED [abstract]
+jppfs_cor:OperatingRevenueProfitMakingMED,事業収益、収益業務事業損益、社会医療法人,Operating revenue,Operating revenue-profit-making-MED
+jppfs_cor:OperatingExpensesProfitMakingMED,事業費用、収益業務事業損益、社会医療法人,Operating expenses,Operating expenses-profit-making-MED
+jppfs_cor:ProfitMakingOperatingIncomeMED,収益業務事業利益又は収益業務事業損失（△）、社会医療法人,Profit-making operating profit (loss),Profit-making operating profit (loss) - MED
+jppfs_cor:OperatingIncomeMED,事業利益又は事業損失（△）、社会医療法人,Operating profit (loss),Operating profit (loss) - MED
+jppfs_cor:NonOperatingIncomeAbstractMED,事業外収益、社会医療法人 [タイトル項目],Non-operating income,Non-operating income-MED [abstract]
+jppfs_cor:InterestIncomeNOI,受取利息、営業外収益,Interest income,Interest income-NOI
+jppfs_cor:OtherNonOperatingIncomeMED,その他の事業外収益、社会医療法人,Other non-operating income,Other non-operating income-MED
+jppfs_cor:NonOperatingIncomeMED,事業外収益、社会医療法人,Non-operating income,Non-operating income-MED
+jppfs_cor:NonOperatingExpensesAbstractMED,事業外費用、社会医療法人 [タイトル項目],Non-operating expenses,Non-operating expenses-MED [abstract]
+jppfs_cor:InterestExpensesNOE,支払利息、営業外費用,Interest expenses,Interest expenses-NOE
+jppfs_cor:OtherNonOperatingExpensesMED,その他の事業外費用、社会医療法人,Other non-operating expenses,Other non-operating expenses-MED
+jppfs_cor:NonOperatingExpensesMED,事業外費用、社会医療法人,Non-operating expenses,Non-operating expenses-MED
+jppfs_cor:OrdinaryIncome,経常利益又は経常損失（△）,Ordinary profit (loss),Ordinary profit (loss)
+jppfs_cor:ExtraordinaryIncome,特別利益,Extraordinary income,Extraordinary income
+jppfs_cor:GainOnSalesOfNoncurrentAssetsEI,固定資産売却益、特別利益,Gain on sales of non-current assets,Gain on sales of non-current assets-EI
+jppfs_cor:OtherEI,その他、特別利益,Other,Other-EI
+jppfs_cor:ExtraordinaryLoss,特別損失,Extraordinary losses,Extraordinary losses
+jppfs_cor:LossOnSalesOfNoncurrentAssetsEL,固定資産売却損、特別損失,Loss on sales of non-current assets,Loss on sales of non-current assets-EL
+jppfs_cor:OtherEL,その他、特別損失,Other,Other-EL
+jppfs_cor:IncomeBeforeIncomeTaxes,税引前当期純利益又は税引前当期純損失（△）,Profit (loss) before income taxes,Profit (loss) before income taxes
+jppfs_cor:IncomeTaxes,法人税等,Income taxes,Income taxes
+jppfs_cor:IncomeTaxesCurrent,法人税、住民税及び事業税,Income taxes - current,Income taxes-current
+jppfs_cor:IncomeTaxesDeferred,法人税等調整額,Income taxes - deferred,Income taxes-deferred
+jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
+jppfs_cor:ProfitAttributableToAbstract,内訳、当期純利益 [タイトル項目],Profit attributable to,Profit attributable to [abstract]
+jppfs_cor:ProfitLossAttributableToNonControllingInterests,非支配株主に帰属する当期純利益又は非支配株主に帰属する当期純損失（△）,Profit (loss) attributable to non-controlling interests,Profit (loss) attributable to non-controlling interests
+jppfs_cor:ProfitLossAttributableToOwnersOfParent,親会社株主に帰属する当期純利益又は親会社株主に帰属する当期純損失（△）,Profit (loss) attributable to owners of parent,Profit (loss) attributable to owners of parent
+nan,,,
+nan,,,
+名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:StatementOfChangesInNetAssetsAbstract,純資産変動計算書 [タイトル項目],Statement of changes in net assets,Statement of changes in net assets [abstract]
+jppfs_cor:StatementOfChangesInNetAssetsTable,純資産変動計算書 [表],Statement of changes in net assets,Statement of changes in net assets [table]
+jppfs_cor:ComponentsOfEquityAxis,純資産の内訳項目 [軸],Components of equity,Components of equity [axis]
+jppfs_cor:NetAssetsMember,純資産 [メンバー],Net assets,Net assets [member]
+jppfs_cor:ReservesMEDMember,積立金、社会医療法人 [メンバー],Reserves,Reserves - MED [member]
+jppfs_cor:ReserveAtIncorporationMEDMember,設立等積立金、社会医療法人 [メンバー],Reserve at incorporation,Reserve at incorporation - MED [member]
+jppfs_cor:AlternateFundMEDMember,代替基金、社会医療法人 [メンバー],Alternative fund,Alternative fund - MED [member]
+jppfs_cor:ProfitReserveBroughtForwardMEDMember,繰越利益積立金、社会医療法人 [メンバー],Profit reserve brought forward,Profit reserve brought forward - MED [member]
+jppfs_cor:ValuationAndTranslationAdjustmentsMember,評価・換算差額等 [メンバー],Valuation and translation adjustments,Valuation and translation adjustments [member]
+jppfs_cor:ValuationDifferenceOnAvailableForSaleSecuritiesMember,その他有価証券評価差額金 [メンバー],Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities [member]
+jppfs_cor:DeferredGainsOrLossesOnHedgesMember,繰延ヘッジ損益 [メンバー],Deferred gains or losses on hedges,Deferred gains or losses on hedges [member]
+jppfs_cor:StatementOfChangesInNetAssetsLineItems,純資産変動計算書 [表示項目],Statement of changes in net assets,Statement of changes in net assets [line items]
+jppfs_cor:NetAssets,純資産,Net assets,Net assets
+jppfs_cor:ChangesOfItemsDuringThePeriodAbstract,当期変動額 [タイトル項目],Changes of items during period,Changes of items during period [abstract]
+jppfs_cor:ProfitLossAttributableToOwnersOfParent,親会社株主に帰属する当期純利益又は親会社株主に帰属する当期純損失（△）,Profit (loss) attributable to owners of parent,Profit (loss) attributable to owners of parent
+jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
+jppfs_cor:TotalChangesOfItemsDuringThePeriod,当期変動額合計,Total changes of items during period,Total changes of items during period
+nan,,,
+nan,,,
+名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:StatementOfCashFlowsAbstract,キャッシュ・フロー計算書 [タイトル項目],Statement of cash flows,Statement of cash flows [abstract]
+jppfs_cor:StatementOfCashFlowsTable,キャッシュ・フロー計算書 [表],Statement of cash flows,Statement of cash flows [table]
+jppfs_cor:StatementOfCashFlowsLineItems,キャッシュ・フロー計算書 [表示項目],Statement of cash flows,Statement of cash flows [line items]
+jppfs_cor:NetCashProvidedByUsedInOperatingActivitiesAbstractMED,事業活動によるキャッシュ・フロー、社会医療法人 [タイトル項目],Cash flows from operating activities,Cash flows from operating activities-MED [abstract]
+jppfs_cor:SubtotalOpeCF,小計、営業活動によるキャッシュ・フロー,Subtotal,Subtotal-OpeCF
+jppfs_cor:PrimaryOperatingIncomeOpeCFMED,本来業務事業収入、事業活動によるキャッシュ・フロー、社会医療法人,Receipts from primary operating revenue,Receipts from primary operating revenue - OpeCF - MED
+jppfs_cor:PrimaryOperatingExpenditureOpeCFMED,本来業務事業費支出、事業活動によるキャッシュ・フロー、社会医療法人,Primary operating expenditure,Primary operating expenditure-OpeCF-MED
+jppfs_cor:IncidentalOperatingIncomeOpeCFMED,附帯業務事業収入、事業活動によるキャッシュ・フロー、社会医療法人,Receipts from incidental operating revenue,Receipts from incidental operating revenue - OpeCF - MED
+jppfs_cor:IncidentalOperatingExpenditureOpeCFMED,附帯業務事業費支出、事業活動によるキャッシュ・フロー、社会医療法人,Incidental operating expenditure,Incidental operating expenditure-OpeCF-MED
+jppfs_cor:ProfitMakingOperatingIncomeOpeCFMED,収益業務事業収入、事業活動によるキャッシュ・フロー、社会医療法人,Receipts from profit-making operating revenue,Receipts from profit-making operating revenue - OpeCF - MED
+jppfs_cor:ProfitMakingOperatingExpenditureOpeCFMED,収益業務事業費支出、事業活動によるキャッシュ・フロー、社会医療法人,Profit-making operating expenditure,Profit-making operating expenditure-OpeCF-MED
+jppfs_cor:DecreaseIncreaseInOperatingReceivablesOpeCFMED,事業債権の増減額（△は増加）、事業活動によるキャッシュ・フロー、社会医療法人,Decrease (increase) in operating receivables,Decrease (increase) in operating receivables-OpeCF-MED
+jppfs_cor:NetCashProvidedByUsedInOperatingActivitiesMED,事業活動によるキャッシュ・フロー、社会医療法人,Net cash provided by (used in) operating activities,Net cash provided by (used in) operating activities-MED
+jppfs_cor:NetCashProvidedByUsedInInvestmentActivitiesAbstract,投資活動によるキャッシュ・フロー [タイトル項目],Cash flows from investing activities,Cash flows from investing activities [abstract]
+jppfs_cor:ProceedsFromFacilitiesSubsidiesInvCFMED,施設設備補助金の受入れによる収入、投資活動によるキャッシュ・フロー、社会医療法人,Proceeds from facilities subsidies,Proceeds from facilities subsidies-InvCF-MED
+jppfs_cor:NetCashProvidedByUsedInFinancingActivitiesAbstract,財務活動によるキャッシュ・フロー [タイトル項目],Cash flows from financing activities,Cash flows from financing activities [abstract]

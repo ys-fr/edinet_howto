@@ -1,0 +1,357 @@
+タクソノミ,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:BalanceSheetAbstract,貸借対照表 [タイトル項目],Balance sheet,Balance sheet [abstract]
+jppfs_cor:BalanceSheetTable,貸借対照表 [表],Balance sheet,Balance sheet [table]
+jppfs_cor:BalanceSheetLineItems,貸借対照表 [表示項目],Balance sheet,Balance sheet [line items]
+jppfs_cor:AssetsAbstract,資産の部 [タイトル項目],Assets,Assets [abstract]
+jppfs_cor:CashAndDepositsAssetsINS,現金及び預貯金、資産の部、保険業,Cash and deposits,Cash and deposits-assets-INS
+jppfs_cor:CashAssetsINS,現金、資産の部、保険業,Cash,Cash-assets-INS
+jppfs_cor:DepositsAssetsINS,預貯金、資産の部、保険業,Deposits,Deposits-assets-INS
+jppfs_cor:CallLoansAssetsINS,コールローン、資産の部、保険業,Call loans,Call loans-assets-INS
+jppfs_cor:ReceivablesUnderResaleAgreementsAssetsINS,買現先勘定、資産の部、保険業,Receivables under resale agreements,Receivables under resale agreements-assets-INS
+jppfs_cor:ReceivablesUnderSecuritiesBorrowingTransactionsAssetsINS,債券貸借取引支払保証金、資産の部、保険業,Receivables under securities borrowing transactions,Receivables under securities borrowing transactions-assets-INS
+jppfs_cor:MonetaryReceivablesPurchasedAssetsINS,買入金銭債権、資産の部、保険業,Monetary receivables purchased,Monetary receivables purchased-assets-INS
+jppfs_cor:TradingAssetsAssetsINS,特定取引資産、資産の部、保険業,Trading assets,Trading assets-assets-INS
+jppfs_cor:TradingAccountSecuritiesAssetsINS,商品有価証券、資産の部、保険業,Trading account securities,Trading account securities-assets-INS
+jppfs_cor:MoneyHeldInTrustAssetsINS,金銭の信託、資産の部、保険業,Money held in trust,Money held in trust-assets-INS
+jppfs_cor:SecuritiesAssetsINS,有価証券、資産の部、保険業,Securities,Securities-assets-INS
+jppfs_cor:GovernmentBondsAssetsINS,国債、資産の部、保険業,Government bonds,Government bonds-assets-INS
+jppfs_cor:LocalGovernmentBondsAssetsINS,地方債、資産の部、保険業,Local government bonds,Local government bonds-assets-INS
+jppfs_cor:CorporateBondsAssetsINS,社債、資産の部、保険業,Corporate bonds,Corporate bonds-assets-INS
+jppfs_cor:StocksAssetsINS,株式、資産の部、保険業,Stocks,Stocks-assets-INS
+jppfs_cor:ForeignSecuritiesAssetsINS,外国証券、資産の部、保険業,Foreign securities,Foreign securities-assets-INS
+jppfs_cor:OtherSecuritiesAssetsINS,その他の証券、資産の部、保険業,Other securities,Other securities-assets-INS
+jppfs_cor:SecuritiesLoanedAssetsINS,貸付有価証券、資産の部、保険業,Securities loaned,Securities loaned-assets-INS
+jppfs_cor:LoansReceivablesAssetsINS,貸付金、資産の部、保険業,Loans receivable,Loans receivable-assets-INS
+jppfs_cor:PolicyLoansAssetsINS,保険約款貸付、資産の部、保険業,Policy loans,Policy loans-assets-INS
+jppfs_cor:GeneralLoansAssetsINS,一般貸付、資産の部、保険業,General loans,General loans-assets-INS
+jppfs_cor:PropertyPlantAndEquipment,有形固定資産,"Property, plant and equipment","Property, plant and equipment"
+jppfs_cor:Land,土地,Land,Land
+jppfs_cor:BuildingsNet,建物（純額）,"Buildings, net","Buildings, net"
+jppfs_cor:LeaseAssetsNetPPE,リース資産（純額）、有形固定資産,"Leased assets, net","Leased assets, net-PPE"
+jppfs_cor:ConstructionInProgress,建設仮勘定,Construction in progress,Construction in progress
+jppfs_cor:OtherNetPPE,その他（純額）、有形固定資産,"Other, net","Other, net-PPE"
+jppfs_cor:IntangibleAssets,無形固定資産,Intangible assets,Intangible assets
+jppfs_cor:Software,ソフトウエア,Software,Software
+jppfs_cor:Goodwill,のれん,Goodwill,Goodwill
+jppfs_cor:LeaseAssetsIA,リース資産、無形固定資産,Leased assets,Leased assets-IA
+jppfs_cor:OtherIA,その他、無形固定資産,Other,Other-IA
+jppfs_cor:OtherAssetsAssetsINS,その他資産、資産の部、保険業,Other assets,Other assets-assets-INS
+jppfs_cor:AccruedPremiumsAssetsINS,未収保険料、資産の部、保険業,Accrued premiums,Accrued premiums-assets-INS
+jppfs_cor:AgencyAccountsReceivableAssetsINS,代理店貸、資産の部、保険業,Agency accounts receivable,Agency accounts receivable-assets-INS
+jppfs_cor:ForeignAgencyAccountsReceivableAssetsINS,外国代理店貸、資産の部、保険業,Foreign agency accounts receivable,Foreign agency accounts receivable-assets-INS
+jppfs_cor:CoinsuranceAccountsReceivableAssetsINS,共同保険貸、資産の部、保険業,Coinsurance accounts receivable,Coinsurance accounts receivable-assets-INS
+jppfs_cor:ReinsuranceAccountsReceivableAssetsINS,再保険貸、資産の部、保険業,Reinsurance accounts receivable,Reinsurance accounts receivable-assets-INS
+jppfs_cor:ForeignReinsuranceAccountsReceivableAssetsINS,外国再保険貸、資産の部、保険業,Foreign reinsurance accounts receivable,Foreign reinsurance accounts receivable-assets-INS
+jppfs_cor:ProxyServiceReceivableAssetsINS,代理業務貸、資産の部、保険業,Proxy service receivable,Proxy service receivable-assets-INS
+jppfs_cor:AccountsReceivableAssetsINS,未収金、資産の部、保険業,Accounts receivable,Accounts receivable-assets-INS
+jppfs_cor:AccruedIncome,未収収益,Accrued income,Accrued income
+jppfs_cor:CashSegregatedAsDepositsAssetsINS,預託金、資産の部、保険業,Cash segregated as deposits,Cash segregated as deposits-assets-INS
+jppfs_cor:DepositsForEarthQuakeInsuranceAssetsINS,地震保険預託金、資産の部、保険業,Deposits for earth quake insurance,Deposits for earth quake insurance-assets-INS
+jppfs_cor:SuspensePaymentsAssetsINS,仮払金、資産の部、保険業,Suspense payments,Suspense payments-assets-INS
+jppfs_cor:InitialMarginsOfFuturesMarketsAssetsINS,先物取引差入証拠金、資産の部、保険業,Initial margins of futures markets,Initial margins of futures markets-assets-INS
+jppfs_cor:VariationMarginsOfFuturesMarketsAssetsINS,先物取引差金勘定、資産の部、保険業,Variation margins of futures markets,Variation margins of futures markets-assets-INS
+jppfs_cor:SecuritiesInCustodyAssetsINS,保管有価証券、資産の部、保険業,Securities in custody,Securities in custody-assets-INS
+jppfs_cor:DerivativesOtherThanForTradingAssetsAssetsINS,金融派生商品、資産の部、保険業,Derivatives other than for trading - assets,Derivatives other than for trading-assets-assets-INS
+jppfs_cor:CashCollateralPaidForFinancialInstrumentsAssets,金融商品等差入担保金、資産の部,Cash collateral paid for financial instruments,Cash collateral paid for financial instruments-assets
+jppfs_cor:DeferredAssetsUnderArticle113OfTheInsuranceBusinessLawAssetsINS,保険業法第113条繰延資産、資産の部、保険業,Deferred assets under article 113 of Insurance Business Act,Deferred assets under article 113 of Insurance Business Act-assets-INS
+jppfs_cor:LeaseInvestmentAssetsAssets,リース投資資産、資産の部,Lease investment assets,Lease investment assets-assets
+jppfs_cor:RestOfTheOtherAssetsAssetsINS,その他の資産、資産の部、保険業,Rest of other assets,Rest of other assets-assets-INS
+jppfs_cor:PrepaidPensionCostAssets,前払年金費用、資産の部,Prepaid pension cost,Prepaid pension cost-assets
+jppfs_cor:DeferredTaxAssetsAssetsINS,繰延税金資産、資産の部、保険業,Deferred tax assets,Deferred tax assets-assets-INS
+jppfs_cor:DeferredTaxAssetsForLandRevaluation,再評価に係る繰延税金資産,Deferred tax assets for land revaluation,Deferred tax assets for land revaluation
+jppfs_cor:CustomersLiabilitiesForAcceptancesAndGuaranteesAssetsINS,支払承諾見返、資産の部、保険業,Customers' liabilities for acceptances and guarantees,Customers' liabilities for acceptances and guarantees-assets-INS
+jppfs_cor:AllowanceForDoubtfulAccountsAssetsINS,貸倒引当金、資産の部、保険業,Allowance for doubtful accounts,Allowance for doubtful accounts-assets-INS
+jppfs_cor:AllowanceForInvestmentLossAssetsINS,投資損失引当金、資産の部、保険業,Allowance for investment loss,Allowance for investment loss-assets-INS
+jppfs_cor:Assets,資産,Assets,Assets
+jppfs_cor:LiabilitiesAbstract,負債の部 [タイトル項目],Liabilities,Liabilities [abstract]
+jppfs_cor:ReserveForInsurancePolicyLiabilitiesLiabilitiesINS,保険契約準備金、負債の部、保険業,Reserve for insurance policy liabilities,Reserve for insurance policy liabilities-liabilities-INS
+jppfs_cor:OutstandingClaimsLiabilitiesINS,支払備金、負債の部、保険業,Outstanding claims,Outstanding claims-liabilities-INS
+jppfs_cor:PolicyReserveLiabilitiesINS,責任準備金、負債の部、保険業,Policy reserve,Policy reserve-liabilities-INS
+jppfs_cor:PolicyReserveAndOtherLiabilitiesINS,責任準備金等、負債の部、保険業,Policy reserve and other,Policy reserve and other-liabilities-INS
+jppfs_cor:TradingLiabilitiesLiabilitiesINS,特定取引負債、負債の部、保険業,Trading liabilities,Trading liabilities-liabilities-INS
+jppfs_cor:ShortTermBondsPayable,短期社債,Short-term bonds payable,Short-term bonds payable
+jppfs_cor:BondsPayable,社債,Bonds payable,Bonds payable
+jppfs_cor:BondsWithSubscriptionRightsToSharesNCL,新株予約権付社債、固定負債,Bonds with share acquisition rights,Bonds with share acquisition rights - NCL
+jppfs_cor:OtherLiabilitiesLiabilitiesINS,その他負債、負債の部、保険業,Other liabilities,Other liabilities-liabilities-INS
+jppfs_cor:CoinsuranceAccountsPayableLiabilitiesINS,共同保険借、負債の部、保険業,Coinsurance accounts payable,Coinsurance accounts payable-liabilities-INS
+jppfs_cor:ReinsuranceAccountsPayableLiabilitiesINS,再保険借、負債の部、保険業,Reinsurance accounts payable,Reinsurance accounts payable-liabilities-INS
+jppfs_cor:ForeignReinsuranceAccountsPayableLiabilitiesINS,外国再保険借、負債の部、保険業,Foreign reinsurance accounts payable,Foreign reinsurance accounts payable-liabilities-INS
+jppfs_cor:ProxyServicePayableLiabilitiesINS,代理業務借、負債の部、保険業,Proxy service payable,Proxy service payable-liabilities-INS
+jppfs_cor:PayablesUnderRepurchaseAgreementsLiabilitiesINS,売現先勘定、負債の部、保険業,Payables under repurchase agreements,Payables under repurchase agreements-liabilities-INS
+jppfs_cor:PayableUnderSecuritiesLendingTransactionsLiabilitiesINS,債券貸借取引受入担保金、負債の部、保険業,Payable under securities lending transactions,Payable under securities lending transactions-liabilities-INS
+jppfs_cor:BorrowingsLiabilitiesINS,借入金、負債の部、保険業,Borrowings,Borrowings-liabilities-INS
+jppfs_cor:IncomeTaxesPayable,未払法人税等,Income taxes payable,Income taxes payable
+jppfs_cor:DepositsReceived,預り金,Deposits received,Deposits received
+jppfs_cor:UnearnedRevenue,前受収益,Unearned revenue,Unearned revenue
+jppfs_cor:AccountsPayableOther,未払金,Accounts payable - other,Accounts payable-other
+jppfs_cor:SuspenseReceipt,仮受金,Suspense receipt,Suspense receipt
+jppfs_cor:InitialMarginsOfFuturesMarketsLiabilitiesLiabilitiesINS,先物取引受入証拠金、負債の部、保険業,Initial margins of futures markets - liabilities,Initial margins of futures markets-liabilities-liabilities-INS
+jppfs_cor:VariationMarginsOfFuturesMarketsLiabilitiesINS,先物取引差金勘定、負債の部、保険業,Variation margins of futures markets,Variation margins of futures markets-liabilities-INS
+jppfs_cor:SecuritiesBorrowedLiabilitiesINS,借入有価証券、負債の部、保険業,Securities borrowed,Securities borrowed-liabilities-INS
+jppfs_cor:SecuritiesSoldForShortSalesOtherLiabilitiesLiabilitiesINS,売付有価証券、その他負債、負債の部、保険業,Securities sold for short sales,Securities sold for short sales-other liabilities-liabilities-INS
+jppfs_cor:DerivativesOtherThanForTradingAssetsLiabilitiesINS,金融派生商品、負債の部、保険業,Derivatives other than for trading - liabilities,Derivatives other than for trading - liabilities-liabilities-INS
+jppfs_cor:CashCollateralReceivedForFinancialInstrumentsLiabilities,金融商品等受入担保金、負債の部,Cash collateral received for financial instruments,Cash collateral received for financial instruments-liabilities
+jppfs_cor:LeaseObligationsLiabilities,リース債務、負債の部,Lease obligations,Lease obligations-liabilities
+jppfs_cor:AssetRetirementObligationsLiabilities,資産除去債務、負債の部,Asset retirement obligations,Asset retirement obligations-liabilities
+jppfs_cor:RestOfTheOtherLiabilitiesLiabilitiesINS,その他の負債、負債の部、保険業,Rest of other liabilities,Rest of other liabilities-liabilities-INS
+jppfs_cor:ProvisionForRetirementBenefits,退職給付引当金,Provision for retirement benefits,Provision for retirement benefits
+jppfs_cor:ProvisionForDirectorsRetirementBenefits,役員退職慰労引当金,Provision for retirement benefits for directors (and other officers),Provision for retirement benefits for directors (and other officers)
+jppfs_cor:ProvisionForBonuses,賞与引当金,Provision for bonuses,Provision for bonuses
+jppfs_cor:ReservesUnderTheSpecialLaws1,特別法上の準備金,Reserves under special laws,Reserves under special laws-1
+jppfs_cor:ReserveForPriceFluctuationLiabilitiesINS,価格変動準備金、負債の部、保険業,Reserve for price fluctuation,Reserve for price fluctuation-liabilities-INS
+jppfs_cor:ReserveForFinancialProductsTransactionLiabilitiesLiabilitiesINS,金融商品取引責任準備金、負債の部、保険業,Reserve for financial products transaction liabilities,Reserve for financial products transaction liabilities-liabilities-INS
+jppfs_cor:DeferredTaxLiabilitiesLiabilitiesINS,繰延税金負債、負債の部、保険業,Deferred tax liabilities,Deferred tax liabilities-liabilities-INS
+jppfs_cor:DeferredTaxLiabilitiesForLandRevaluation,再評価に係る繰延税金負債,Deferred tax liabilities for land revaluation,Deferred tax liabilities for land revaluation
+jppfs_cor:NegativeGoodwill,負ののれん,Negative goodwill,Negative goodwill
+jppfs_cor:AcceptancesAndGuaranteesLiabilitiesINS,支払承諾、負債の部、保険業,Acceptances and guarantees,Acceptances and guarantees-liabilities-INS
+jppfs_cor:Liabilities,負債,Liabilities,Liabilities
+jppfs_cor:NetAssetsAbstract,純資産の部 [タイトル項目],Net assets,Net assets [abstract]
+jppfs_cor:ShareholdersEquityAbstract,株主資本 [タイトル項目],Shareholders' equity,Shareholders' equity [abstract]
+jppfs_cor:CapitalStock,資本金,Capital stock,Capital stock
+jppfs_cor:DepositForSubscriptionsToShares,新株式申込証拠金,Deposit for subscriptions to shares,Deposit for subscriptions to shares
+jppfs_cor:CapitalSurplusAbstract,資本剰余金 [タイトル項目],Capital surplus,Capital surplus [abstract]
+jppfs_cor:LegalCapitalSurplus,資本準備金,Legal capital surplus,Legal capital surplus
+jppfs_cor:OtherCapitalSurplus,その他資本剰余金,Other capital surplus,Other capital surplus
+jppfs_cor:CapitalSurplus,資本剰余金,Capital surplus,Capital surplus
+jppfs_cor:RetainedEarningsAbstract,利益剰余金 [タイトル項目],Retained earnings,Retained earnings [abstract]
+jppfs_cor:LegalRetainedEarnings,利益準備金,Legal retained earnings,Legal retained earnings
+jppfs_cor:OtherRetainedEarnings,その他利益剰余金,Other retained earnings,Other retained earnings
+jppfs_cor:RetainedEarningsBroughtForward,繰越利益剰余金,Retained earnings brought forward,Retained earnings brought forward
+jppfs_cor:RetainedEarnings,利益剰余金,Retained earnings,Retained earnings
+jppfs_cor:TreasuryStock,自己株式,Treasury shares,Treasury shares
+jppfs_cor:DepositForSubscriptionsToTreasuryStock,自己株式申込証拠金,Deposit for subscriptions to treasury shares,Deposit for subscriptions to treasury shares
+jppfs_cor:ShareholdersEquity,株主資本,Shareholders' equity,Shareholders' equity
+jppfs_cor:ValuationAndTranslationAdjustmentsAbstract,評価・換算差額等 [タイトル項目],Valuation and translation adjustments,Valuation and translation adjustments [abstract]
+jppfs_cor:ValuationDifferenceOnAvailableForSaleSecurities,その他有価証券評価差額金,Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities
+jppfs_cor:DeferredGainsOrLossesOnHedges,繰延ヘッジ損益,Deferred gains or losses on hedges,Deferred gains or losses on hedges
+jppfs_cor:RevaluationReserveForLand,土地再評価差額金,Revaluation reserve for land,Revaluation reserve for land
+jppfs_cor:ForeignCurrencyTranslationAdjustment,為替換算調整勘定,Foreign currency translation adjustment,Foreign currency translation adjustment
+jppfs_cor:ValuationAndTranslationAdjustments,評価・換算差額等,Valuation and translation adjustments,Valuation and translation adjustments
+jppfs_cor:SubscriptionRightsToShares,新株予約権,Share acquisition rights,Share acquisition rights
+jppfs_cor:NonControllingInterests,非支配株主持分,Non-controlling interests,Non-controlling interests
+jppfs_cor:NetAssets,純資産,Net assets,Net assets
+jppfs_cor:LiabilitiesAndNetAssets,負債純資産,Liabilities and net assets,Liabilities and net assets
+nan,,,
+nan,,,
+名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:StatementOfIncomeAbstract,損益計算書 [タイトル項目],Statement of income,Statement of income [abstract]
+jppfs_cor:StatementOfIncomeTable,損益計算書 [表],Statement of income,Statement of income [table]
+jppfs_cor:StatementOfIncomeLineItems,損益計算書 [表示項目],Statement of income,Statement of income [line items]
+jppfs_cor:OperatingIncomeINS,経常収益、保険業,Ordinary income,Ordinary income - INS
+jppfs_cor:UnderwritingIncomeOIINS,保険引受収益、経常収益、保険業,Underwriting income,Underwriting income-OI-INS
+jppfs_cor:NetPremiumsWrittenOIINS,正味収入保険料、経常収益、保険業,Net premiums written,Net premiums written-OI-INS
+jppfs_cor:PremiumsOfSavingTypeInsuranceOIINS,収入積立保険料、経常収益、保険業,Premiums of saving-type insurance,Premiums of saving-type insurance-OI-INS
+jppfs_cor:InvestmentIncomeFromSavingTypeInsuranceOIINS,積立保険料等運用益、経常収益、保険業,Investment income from saving type insurance,Investment income from saving type insurance-OI-INS
+jppfs_cor:ForeignExchangeGainsInsuranceOIINS,為替差益、保険引受収益、経常収益、保険業,Foreign exchange gains,Foreign exchange gains-insurance-OI-INS
+jppfs_cor:LifeInsurancePremiumsOIINS,生命保険料、経常収益、保険業,Life insurance premiums,Life insurance premiums-OI-INS
+jppfs_cor:ReversalOfPolicyReserveINS,責任準備金戻入額、保険業,Reversal of policy reserve,Reversal of policy reserve-INS
+jppfs_cor:ReversalOfPolicyReserveAndOtherINS,責任準備金等戻入額、保険業,Reversal of policy reserve and other,Reversal of policy reserve and other-INS
+jppfs_cor:ReversalOfReserveForOutstandingClaimsINS,支払備金戻入額、保険業,Reversal of reserve for outstanding claims,Reversal of reserve for outstanding claims-INS
+jppfs_cor:OtherUnderwritingIncomeOIINS,その他保険引受収益、経常収益、保険業,Other underwriting income,Other underwriting income-OI-INS
+jppfs_cor:InvestmentIncomeOIINS,資産運用収益、経常収益、保険業,Investment income,Investment income-OI-INS
+jppfs_cor:InterestAndDividendsIncomeOIINS,利息及び配当金収入、経常収益、保険業,Interest and dividend income,Interest and dividend income-OI-INS
+jppfs_cor:TradingIncomeOIINS,特定取引収益、経常収益、保険業,Trading income,Trading income-OI-INS
+jppfs_cor:GainOnTradingAccountSecuritiesOIINS,商品有価証券運用益、経常収益、保険業,Gain on trading account securities,Gain on trading account securities-OI-INS
+jppfs_cor:GainFromMoneyHeldInTrustOIINS,金銭の信託運用益、経常収益、保険業,Gain from money held in trust,Gain from money held in trust-OI-INS
+jppfs_cor:GainOnTradingSecuritiesOIINS,売買目的有価証券運用益、経常収益、保険業,Gain on trading securities,Gain on trading securities-OI-INS
+jppfs_cor:GainOnSalesOfSecuritiesOIINS,有価証券売却益、経常収益、保険業,Gain on sales of securities,Gain on sales of securities-OI-INS
+jppfs_cor:GainOnRedemptionOfSecuritiesOIINS,有価証券償還益、経常収益、保険業,Gain on redemption of securities,Gain on redemption of securities-OI-INS
+jppfs_cor:NetDerivativeFinancialInstrumentsGainOIINS,金融派生商品収益、経常収益、保険業,Net derivative financial instruments gain,Net derivative financial instruments gain-OI-INS
+jppfs_cor:ForeignExchangeGainsTradingOIINS,為替差益、資産運用収益、経常収益、保険業,Foreign exchange gains,Foreign exchange gains-trading-OI-INS
+jppfs_cor:GainOnSeparateAccountsOIINS,特別勘定資産運用益、経常収益、保険業,Gain on separate accounts,Gain on separate accounts-OI-INS
+jppfs_cor:OtherInvestmentIncomeOIINS,その他運用収益、経常収益、保険業,Other investment income,Other investment income-OI-INS
+jppfs_cor:IncomeCreditedToSavingTypeInsuranceOIINS,積立保険料等運用益振替、経常収益、保険業,Income credited to saving type insurance,Income credited to saving type insurance-OI-INS
+jppfs_cor:OtherOperatingIncomeOIINS,その他経常収益、経常収益、保険業,Other operating income,Other operating income-OI-INS
+jppfs_cor:AmortizationOfNegativeGoodwillNOI,負ののれん償却額、営業外収益,Amortization of negative goodwill,Amortization of negative goodwill-NOI
+jppfs_cor:EquityInEarningsOfAffiliatesNOI,持分法による投資利益、営業外収益,Share of profit of entities accounted for using equity method,Share of profit of entities accounted for using equity method-NOI
+jppfs_cor:OtherOtherOperatingIncomeOIINS,その他の経常収益、経常収益、保険業,Other,Other-other operating income-OI-INS
+jppfs_cor:OperatingExpensesINS,経常費用、保険業,Ordinary expenses,Ordinary expenses - INS
+jppfs_cor:UnderwritingExpensesOEINS,保険引受費用、経常費用、保険業,Underwriting expenses,Underwriting expenses-OE-INS
+jppfs_cor:NetLossPaidOEINS,正味支払保険金、経常費用、保険業,Net claims paid,Net claims paid-OE-INS
+jppfs_cor:LossAdjustmentExpensesOEINS,損害調査費、経常費用、保険業,Loss adjustment expenses,Loss adjustment expenses-OE-INS
+jppfs_cor:CommissionsAndCollectionFeesOEINS,諸手数料及び集金費、経常費用、保険業,Commissions and collection fees,Commissions and collection fees-OE-INS
+jppfs_cor:MaturityRefundsToPolicyholdersOEINS,満期返戻金、経常費用、保険業,Maturity refunds to policyholders,Maturity refunds to policyholders-OE-INS
+jppfs_cor:DividendsToPolicyholdersOEINS,契約者配当金、経常費用、保険業,Dividends to policyholders,Dividends to policyholders-OE-INS
+jppfs_cor:LifeInsuranceClaimsPaidOEINS,生命保険金等、経常費用、保険業,Life insurance claims paid,Life insurance claims paid-OE-INS
+jppfs_cor:ProvisionOfOutstandingClaimsOEINS,支払備金繰入額、経常費用、保険業,Provision of outstanding claims,Provision of outstanding claims-OE-INS
+jppfs_cor:ProvisionOfPolicyReserveOEINS,責任準備金繰入額、経常費用、保険業,Provision of policy reserve,Provision of policy reserve-OE-INS
+jppfs_cor:ProvisionOfPolicyReserveAndOtherOEINS,責任準備金等繰入額、経常費用、保険業,Provision of policy reserve and other,Provision of policy reserve and other-OE-INS
+jppfs_cor:ForeignExchangeLossesOEINS,為替差損、保険引受費用、経常費用、保険業,Foreign exchange losses,Foreign exchange losses-OE-INS
+jppfs_cor:OtherUnderwritingExpensesOEINS,その他保険引受費用、経常費用、保険業,Other underwriting expenses,Other underwriting expenses-OE-INS
+jppfs_cor:InvestmentExpensesOEINS,資産運用費用、経常費用、保険業,Investment expenses,Investment expenses-OE-INS
+jppfs_cor:TradingExpensesOEINS,特定取引費用、経常費用、保険業,Trading expenses,Trading expenses-OE-INS
+jppfs_cor:LossOnTradingAccountSecuritiesOEINS,商品有価証券運用損、経常費用、保険業,Loss on trading account securities,Loss on trading account securities-OE-INS
+jppfs_cor:LossOnInvestmentsInMoneyHeldInTrustOEINS,金銭の信託運用損、経常費用、保険業,Loss on investments in money held in trust,Loss on investments in money held in trust-OE-INS
+jppfs_cor:LossOnTradingSecuritiesOEINS,売買目的有価証券運用損、経常費用、保険業,Loss on trading securities,Loss on trading securities-OE-INS
+jppfs_cor:LossOnSalesOfSecuritiesOEINS,有価証券売却損、経常費用、保険業,Loss on sales of securities,Loss on sales of securities-OE-INS
+jppfs_cor:LossOnValuationOfSecuritiesOEINS,有価証券評価損、経常費用、保険業,Loss on valuation of securities,Loss on valuation of securities-OE-INS
+jppfs_cor:LossOnRedemptionOfSecuritiesOEINS,有価証券償還損、経常費用、保険業,Loss on redemption of securities,Loss on redemption of securities-OE-INS
+jppfs_cor:NetDerivativeFinancialInstrumentsLossOEINS,金融派生商品費用、経常費用、保険業,Net derivative financial instruments loss,Net derivative financial instruments loss-OE-INS
+jppfs_cor:ForeignExchangeLossesInvestmentExpensesOEINS,為替差損、資産運用費用、経常費用、保険業,Foreign exchange losses,Foreign exchange losses-investment expenses-OE-INS
+jppfs_cor:LossOnSeparateAccountsOEINS,特別勘定資産運用損、経常費用、保険業,Loss on separate accounts,Loss on separate accounts-OE-INS
+jppfs_cor:OtherInvestmentExpensesOEINS,その他運用費用、経常費用、保険業,Other investment expenses,Other investment expenses-OE-INS
+jppfs_cor:SalesAndAdministrativeExpensesOEINS,営業費及び一般管理費、経常費用、保険業,Sales and administrative expenses,Sales and administrative expenses-OE-INS
+jppfs_cor:OtherOperatingExpensesOEINS,その他経常費用、経常費用、保険業,Other operating expenses,Other operating expenses-OE-INS
+jppfs_cor:InterestExpensesOEINS,支払利息、経常費用、保険業,Interest expenses,Interest expenses-OE-INS
+jppfs_cor:ProvisionOfAllowanceForDoubtfulAccountsOEINS,貸倒引当金繰入額、経常費用、保険業,Provision of allowance for doubtful accounts,Provision of allowance for doubtful accounts-OE-INS
+jppfs_cor:ProvisionOfAllowanceForInvestmentLossOEINS,投資損失引当金繰入額、経常費用、保険業,Provision of allowance for investment loss,Provision of allowance for investment loss-OE-INS
+jppfs_cor:LossFromBadDebtsOEINS,貸倒損失、経常費用、保険業,Loss from bad debts,Loss from bad debts-OE-INS
+jppfs_cor:EquityInLossesOfAffiliatesNOE,持分法による投資損失、営業外費用,Share of loss of entities accounted for using equity method,Share of loss of entities accounted for using equity method-NOE
+jppfs_cor:AmortizationOfDeferredAssetsUnderArticle113OfTheInsuranceBusinessLawINS,保険業法第113条繰延資産償却費、保険業,Amortization of deferred assets under article 113 of Insurance Business Act,Amortization of deferred assets under article 113 of Insurance Business Act-INS
+jppfs_cor:OtherOtherOperatingExpensesOEINS,その他の経常費用、経常費用、保険業,Other,Other-other operating expenses-OE-INS
+jppfs_cor:DeferredExpensesUnderArticle113OfInsuranceBusinessLawOEINS,保険業法第113条繰延額、経常費用、保険業,Deferred expenses under article 113 of Insurance Business Act,Deferred expenses under article 113 of Insurance Business Act-OE-INS
+jppfs_cor:OrdinaryIncome,経常利益又は経常損失（△）,Ordinary profit (loss),Ordinary profit (loss)
+jppfs_cor:ExtraordinaryIncome,特別利益,Extraordinary income,Extraordinary income
+jppfs_cor:GainOnDisposalOfNoncurrentAssetsEIINSNonlife,固定資産処分益、特別利益、保険業、損害保険,Gain on disposal of non-current assets,Gain on disposal of non-current assets-EI-INS-nonlife
+jppfs_cor:GainOnNegativeGoodwillEI,負ののれん発生益、特別利益,Gain on bargain purchase,Gain on bargain purchase-EI
+jppfs_cor:AppraisalGainUnderArticle112OfTheInsuranceBusinessLawEIINS,保険業法第112条評価益、特別利益、保険業,Gain on valuation under article 112 of Insurance Business Act,Gain on valuation under article 112 of Insurance Business Act-EI-INS
+jppfs_cor:ReversalOfReserveForPriceFluctuationEIINS,価格変動準備金戻入額、特別利益、保険業,Reversal of reserve for price fluctuation,Reversal of reserve for price fluctuation-EI-INS
+jppfs_cor:OtherEI,その他、特別利益,Other,Other-EI
+jppfs_cor:ExtraordinaryLoss,特別損失,Extraordinary losses,Extraordinary losses
+jppfs_cor:LossOnDisposalOfNoncurrentAssetsELINSNonlife,固定資産処分損、特別損失、保険業、損害保険,Loss on disposal of non-current assets,Loss on disposal of non-current assets-EL-INS-nonlife
+jppfs_cor:ImpairmentLossEL,減損損失、特別損失,Impairment loss,Impairment loss-EL
+jppfs_cor:ProvisionOfReservesUnderTheSpecialLawsEL,特別法上の準備金繰入額、特別損失,Provision of reserves under special laws,Provision of reserves under special laws-EL
+jppfs_cor:ProvisionOfReserveForPriceFluctuationELINS,価格変動準備金繰入額、特別損失、保険業,Provision of reserve for price fluctuation,Provision of reserve for price fluctuation-EL-INS
+jppfs_cor:TransferToReserveForFinancialProductsTransactionLiabilitiesELINS,金融商品取引責任準備金繰入額、特別損失、保険業,Transfer to reserve for financial products transaction liabilities,Transfer to reserve for financial products transaction liabilities-EL-INS
+jppfs_cor:LossOnReductionOfRealEstateELINS,不動産圧縮損、特別損失、保険業,Loss on reduction of real estate,Loss on reduction of real estate-EL-INS
+jppfs_cor:OtherEL,その他、特別損失,Other,Other-EL
+jppfs_cor:IncomeBeforeIncomeTaxes,税引前当期純利益又は税引前当期純損失（△）,Profit (loss) before income taxes,Profit (loss) before income taxes
+jppfs_cor:IncomeTaxes,法人税等,Income taxes,Income taxes
+jppfs_cor:IncomeTaxesCurrentConsolidatedINS,法人税及び住民税等、保険業,Income taxes - current,Income taxes-current-consolidated-INS
+jppfs_cor:IncomeTaxesCurrentNonconsolidatedINS,法人税及び住民税、保険業,Income taxes - current,Income taxes-current-nonconsolidated-INS
+jppfs_cor:IncomeTaxesDeferred,法人税等調整額,Income taxes - deferred,Income taxes-deferred
+jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
+jppfs_cor:ProfitLossAttributableToNonControllingInterests,非支配株主に帰属する当期純利益又は非支配株主に帰属する当期純損失（△）,Profit (loss) attributable to non-controlling interests,Profit (loss) attributable to non-controlling interests
+jppfs_cor:ProfitLossAttributableToOwnersOfParent,親会社株主に帰属する当期純利益又は親会社株主に帰属する当期純損失（△）,Profit (loss) attributable to owners of parent,Profit (loss) attributable to owners of parent
+nan,,,
+nan,,,
+名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:StatementOfChangesInEquityAbstract,株主資本等変動計算書 [タイトル項目],Statement of changes in equity,Statement of changes in equity [abstract]
+jppfs_cor:StatementOfChangesInEquityTable,株主資本等変動計算書 [表],Statement of changes in equity,Statement of changes in equity [table]
+jppfs_cor:ComponentsOfEquityAxis,純資産の内訳項目 [軸],Components of equity,Components of equity [axis]
+jppfs_cor:NetAssetsMember,純資産 [メンバー],Net assets,Net assets [member]
+jppfs_cor:ShareholdersEquityMember,株主資本 [メンバー],Shareholders' equity,Shareholders' equity [member]
+jppfs_cor:CapitalStockMember,資本金 [メンバー],Capital stock,Capital stock [member]
+jppfs_cor:CapitalSurplusMember,資本剰余金 [メンバー],Capital surplus,Capital surplus [member]
+jppfs_cor:LegalCapitalSurplusMember,資本準備金 [メンバー],Legal capital surplus,Legal capital surplus [member]
+jppfs_cor:OtherCapitalSurplusMember,その他資本剰余金 [メンバー],Other capital surplus,Other capital surplus [member]
+jppfs_cor:RetainedEarningsMember,利益剰余金 [メンバー],Retained earnings,Retained earnings [member]
+jppfs_cor:LegalRetainedEarningsMember,利益準備金 [メンバー],Legal retained earnings,Legal retained earnings [member]
+jppfs_cor:OtherRetainedEarningsMember,その他利益剰余金 [メンバー],Other retained earnings,Other retained earnings [member]
+jppfs_cor:RetainedEarningsBroughtForwardMember,繰越利益剰余金 [メンバー],Retained earnings brought forward,Retained earnings brought forward [member]
+jppfs_cor:TreasuryStockMember,自己株式 [メンバー],Treasury shares,Treasury shares [member]
+jppfs_cor:ValuationAndTranslationAdjustmentsMember,評価・換算差額等 [メンバー],Valuation and translation adjustments,Valuation and translation adjustments [member]
+jppfs_cor:ValuationDifferenceOnAvailableForSaleSecuritiesMember,その他有価証券評価差額金 [メンバー],Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities [member]
+jppfs_cor:DeferredGainsOrLossesOnHedgesMember,繰延ヘッジ損益 [メンバー],Deferred gains or losses on hedges,Deferred gains or losses on hedges [member]
+jppfs_cor:RevaluationReserveForLandMember,土地再評価差額金 [メンバー],Revaluation reserve for land,Revaluation reserve for land [member]
+jppfs_cor:ForeignCurrencyTranslationAdjustmentMember,為替換算調整勘定 [メンバー],Foreign currency translation adjustment,Foreign currency translation adjustment [member]
+jppfs_cor:SubscriptionRightsToSharesMember,新株予約権 [メンバー],Share acquisition rights,Share acquisition rights [member]
+jppfs_cor:NonControllingInterestsMember,非支配株主持分 [メンバー],Non-controlling interests,Non-controlling interests [member]
+jppfs_cor:StatementOfChangesInEquityLineItems,株主資本等変動計算書 [表示項目],Statement of changes in equity,Statement of changes in equity [line items]
+jppfs_cor:NetAssets,純資産,Net assets,Net assets
+jppfs_cor:ChangesOfItemsDuringThePeriodAbstract,当期変動額 [タイトル項目],Changes of items during period,Changes of items during period [abstract]
+jppfs_cor:IssuanceOfNewShares,新株の発行,Issuance of new shares,Issuance of new shares
+jppfs_cor:DividendsFromSurplus,剰余金の配当,Dividends of surplus,Dividends of surplus
+jppfs_cor:ProfitLossAttributableToOwnersOfParent,親会社株主に帰属する当期純利益又は親会社株主に帰属する当期純損失（△）,Profit (loss) attributable to owners of parent,Profit (loss) attributable to owners of parent
+jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
+jppfs_cor:DisposalOfTreasuryStock,自己株式の処分,Disposal of treasury shares,Disposal of treasury shares
+jppfs_cor:NetChangesOfItemsOtherThanShareholdersEquity,株主資本以外の項目の当期変動額（純額）,Net changes of items other than shareholders' equity,Net changes of items other than shareholders' equity
+jppfs_cor:TotalChangesOfItemsDuringThePeriod,当期変動額合計,Total changes of items during period,Total changes of items during period
+nan,,,
+nan,,,
+名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:StatementOfCashFlowsAbstract,キャッシュ・フロー計算書 [タイトル項目],Statement of cash flows,Statement of cash flows [abstract]
+jppfs_cor:StatementOfCashFlowsTable,キャッシュ・フロー計算書 [表],Statement of cash flows,Statement of cash flows [table]
+jppfs_cor:StatementOfCashFlowsLineItems,キャッシュ・フロー計算書 [表示項目],Statement of cash flows,Statement of cash flows [line items]
+jppfs_cor:NetCashProvidedByUsedInOperatingActivitiesAbstract,営業活動によるキャッシュ・フロー [タイトル項目],Cash flows from operating activities,Cash flows from operating activities [abstract]
+jppfs_cor:SubtotalOpeCF,小計、営業活動によるキャッシュ・フロー,Subtotal,Subtotal-OpeCF
+jppfs_cor:InsurancePremiumsRevenueOpeCFINS,保険料の収入、営業活動によるキャッシュ・フロー、保険業,Insurance premiums revenue,Insurance premiums revenue-OpeCF-INS
+jppfs_cor:SavingTypeInsurancePremiumsRevenueOpeCFINS,積立保険料の収入、営業活動によるキャッシュ・フロー、保険業,Saving-type insurance premiums revenue,Saving-type insurance premiums revenue-OpeCF-INS
+jppfs_cor:InsuranceClaimsOpeCFINS,保険金の支出、営業活動によるキャッシュ・フロー、保険業,Insurance claims,Insurance claims-OpeCF-INS
+jppfs_cor:LossAdjustmentExpensesPaymentOpeCFINS,損害調査費の支出、営業活動によるキャッシュ・フロー、保険業,Loss adjustment expenses payment,Loss adjustment expenses payment-OpeCF-INS
+jppfs_cor:CommissionsAndCollectionFeesPaymentOpeCFINS,諸手数料及び集金費の支出、営業活動によるキャッシュ・フロー、保険業,Commissions and collection fees payment,Commissions and collection fees payment-OpeCF-INS
+jppfs_cor:MaturityRefundPaymentOpeCFINS,満期返戻金の支出、営業活動によるキャッシュ・フロー、保険業,Maturity refund payment,Maturity refund payment-OpeCF-INS
+jppfs_cor:PolicyholdersDividendsPaymentOpeCFINS,契約者配当金の支出、営業活動によるキャッシュ・フロー、保険業,Policyholders dividends payment,Policyholders dividends payment-OpeCF-INS
+jppfs_cor:ProceedsFromTradingOpeCFINS,特定取引による収入、営業活動によるキャッシュ・フロー、保険業,Proceeds from trading,Proceeds from trading-OpeCF-INS
+jppfs_cor:PaymentsForTradingOpeCFINS,特定取引による支出、営業活動によるキャッシュ・フロー、保険業,Payments for trading,Payments for trading-OpeCF-INS
+jppfs_cor:ProceedsFromSalesOfTradingAccountSecuritiesOpeCFINS,商品有価証券の売却による収入、営業活動によるキャッシュ・フロー、保険業,Proceeds from sales of trading account securities,Proceeds from sales of trading account securities-OpeCF-INS
+jppfs_cor:PurchaseOfTradingAccountSecuritiesOpeCFINS,商品有価証券の取得による支出、営業活動によるキャッシュ・フロー、保険業,Purchase of trading account securities,Purchase of trading account securities-OpeCF-INS
+jppfs_cor:SalesAndAdministrativeExpensesPaymentOpeCFINS,営業費及び一般管理費の支出、営業活動によるキャッシュ・フロー、保険業,Sales and administrative expenses payment,Sales and administrative expenses payment-OpeCF-INS
+jppfs_cor:IncomeBeforeIncomeTaxes,税引前当期純利益又は税引前当期純損失（△）,Profit (loss) before income taxes,Profit (loss) before income taxes
+jppfs_cor:DepreciationAndAmortizationOpeCF,減価償却費、営業活動によるキャッシュ・フロー,Depreciation,Depreciation-OpeCF
+jppfs_cor:ImpairmentLossOpeCF,減損損失、営業活動によるキャッシュ・フロー,Impairment loss,Impairment loss-OpeCF
+jppfs_cor:AmortizationOfGoodwillOpeCF,のれん償却額、営業活動によるキャッシュ・フロー,Amortization of goodwill,Amortization of goodwill-OpeCF
+jppfs_cor:IncreaseDecreaseInOutstandingClaimsOpeCFINS,支払備金の増減額（△は減少）、営業活動によるキャッシュ・フロー、保険業,Increase (decrease) in outstanding claims,Increase (decrease) in outstanding claims-OpeCF-INS
+jppfs_cor:IncreaseDecreaseInPolicyReserveOpeCFINS,責任準備金の増減額（△は減少）、営業活動によるキャッシュ・フロー、保険業,Increase (decrease) in policy reserve,Increase (decrease) in policy reserve-OpeCF-INS
+jppfs_cor:IncreaseDecreaseInPolicyReserveAndOtherOpeCFINS,責任準備金等の増減額（△は減少）、営業活動によるキャッシュ・フロー、保険業,Increase (decrease) in policy reserve and other,Increase (decrease) in policy reserve and other-OpeCF-INS
+jppfs_cor:IncreaseDecreaseInAllowanceForDoubtfulAccountsOpeCF,貸倒引当金の増減額（△は減少）、営業活動によるキャッシュ・フロー,Increase (decrease) in allowance for doubtful accounts,Increase (decrease) in allowance for doubtful accounts-OpeCF
+jppfs_cor:IncreaseDecreaseInNetDefinedBenefitLiabilityOpeCF,退職給付に係る負債の増減額（△は減少）、営業活動によるキャッシュ・フロー,Increase (decrease) in retirement benefit liability,Increase (decrease) in retirement benefit liability - OpeCF
+jppfs_cor:IncreaseDecreaseInNetDefinedBenefitAssetOpeCF,退職給付に係る資産の増減額（△は増加）、営業活動によるキャッシュ・フロー,Decrease (increase) in retirement benefit asset,Decrease (increase) in retirement benefit asset - OpeCF
+jppfs_cor:IncreaseDecreaseInProvisionForRetirementBenefitsOpeCF,退職給付引当金の増減額（△は減少）、営業活動によるキャッシュ・フロー,Increase (decrease) in provision for retirement benefits,Increase (decrease) in provision for retirement benefits-OpeCF
+jppfs_cor:IncreaseDecreaseInProvisionForBonusesOpeCF,賞与引当金の増減額（△は減少）、営業活動によるキャッシュ・フロー,Increase (decrease) in provision for bonuses,Increase (decrease) in provision for bonuses-OpeCF
+jppfs_cor:IncreaseDecreaseInReserveForPriceFluctuationOpeCFINS,価格変動準備金の増減額（△は減少）、営業活動によるキャッシュ・フロー、保険業,Increase (decrease) in reserve for price fluctuation,Increase (decrease) in reserve for price fluctuation-OpeCF-INS
+jppfs_cor:IncreaseDecreaseInReserveForFinancialProductsTransactionLiabilitiesOpeCFINS,金融商品取引責任準備金の増減額（△は減少）、営業活動によるキャッシュ・フロー、保険業,Increase (decrease) in reserve for financial products transaction liabilities,Increase (decrease) in reserve for financial products transaction liabilities-OpeCF-INS
+jppfs_cor:AppraisalGainUnderArticle112OfTheInsuranceBusinessLawOpeCFINS,保険業法第112条評価益、営業活動によるキャッシュ・フロー、保険業,Gain on valuation under article 112 of Insurance Business Act,Gain on valuation under article 112 of Insurance Business Act-OpeCF-INS
+jppfs_cor:InterestAndDividendsIncomeOpeCFINSNonlife,利息及び配当金収入、営業活動によるキャッシュ・フロー、保険業、損害保険,Interest and dividend income,Interest and dividend income-OpeCF-INS-nonlife
+jppfs_cor:LossGainRelatedToSecuritiesOpeCFINS,有価証券関係損益（△は益）、営業活動によるキャッシュ・フロー、保険業,Loss (gain) related to securities,Loss (gain) related to securities-OpeCF-INS
+jppfs_cor:LossGainOnSeparateAccountsOpeCFINS,特別勘定資産運用損益（△は益）、営業活動によるキャッシュ・フロー、保険業,Loss (gain) on separate accounts,Loss (gain) on separate accounts-OpeCF-INS
+jppfs_cor:InterestExpensesOpeCF,支払利息、営業活動によるキャッシュ・フロー,Interest expenses,Interest expenses-OpeCF
+jppfs_cor:ForeignExchangeLossesGainsOpeCF,為替差損益（△は益）、営業活動によるキャッシュ・フロー,Foreign exchange losses (gains),Foreign exchange losses (gains)-OpeCF
+jppfs_cor:LossGainRelatedToPropertyPlantAndEquipmentOpeCFINS,有形固定資産関係損益（△は益）、営業活動によるキャッシュ・フロー、保険業,"Loss (gain) related to property, plant and equipment","Loss (gain) related to property, plant and equipment-OpeCF-INS"
+jppfs_cor:EquityInEarningsLossesOfAffiliatesOpeCF,持分法による投資損益（△は益）、営業活動によるキャッシュ・フロー,Share of loss (profit) of entities accounted for using equity method,Share of loss (profit) of entities accounted for using equity method - OpeCF
+jppfs_cor:DecreaseIncreaseInTradingAssetsOpeCFINS,特定取引資産の増減額（△は増加）、営業活動によるキャッシュ・フロー、保険業,Decrease (increase) in trading assets,Decrease (increase) in trading assets-OpeCF-INS
+jppfs_cor:IncreaseDecreaseInTradingLiabilitiesOpeCFINS,特定取引負債の増減額（△は減少）、営業活動によるキャッシュ・フロー、保険業,Increase (decrease) in trading liabilities,Increase (decrease) in trading liabilities-OpeCF-INS
+jppfs_cor:DecreaseIncreaseInTradingSecuritiesOpeCFINS,商品有価証券の増減額（△は増加）、営業活動によるキャッシュ・フロー、保険業,Decrease (increase) in trading securities,Decrease (increase) in trading securities-OpeCF-INS
+jppfs_cor:DecreaseIncreaseInOtherInvestingAndFinancingActivitiesAssetsOpeCFINS,その他資産（除く投資活動関連、財務活動関連）の増減額（△は増加）、営業活動によるキャッシュ・フロー、保険業,Decrease (increase) in other investing and financing activities assets,Decrease (increase) in other investing and financing activities assets-OpeCF-INS
+jppfs_cor:IncreaseDecreaseInOtherInvestingAndFinancingActivitiesLiabilitiesOpeCFINS,その他負債（除く投資活動関連、財務活動関連）の増減額（△は減少）、営業活動によるキャッシュ・フロー、保険業,Increase (decrease) in other investing and financing activities liabilities,Increase (decrease) in other investing and financing activities liabilities-OpeCF-INS
+jppfs_cor:LossGainRelatedToMoneyInTrustOpeCFINS,金銭の信託関係損益（△は益）、営業活動によるキャッシュ・フロー、保険業,Loss (gain) related to money in trust,Loss (gain) related to money in trust-OpeCF-INS
+jppfs_cor:LossGainOnDerivativesOpeCFINS,金融派生商品損益（△は益）、営業活動によるキャッシュ・フロー、保険業,Loss (gain) on derivatives,Loss (gain) on derivatives-OpeCF-INS
+jppfs_cor:IncreaseInInterestPortionOfPolicyholderDividendsOpeCFINS,契約者配当金積立利息繰入額、営業活動によるキャッシュ・フロー、保険業,Increase in interest portion of policyholder dividends,Increase in interest portion of policyholder dividends-OpeCF-INS
+jppfs_cor:LossGainRelatedToLoansOpeCFINS,貸付金関係損益（△は益）、営業活動によるキャッシュ・フロー、保険業,Loss (gain) related to loans,Loss (gain) related to loans-OpeCF-INS
+jppfs_cor:AmortizationOfLoansOpeCFINS,貸付金償却、営業活動によるキャッシュ・フロー、保険業,Amortization of loans,Amortization of loans-OpeCF-INS
+jppfs_cor:AmortizationOfDeferredAssetsUnderArticle113OfTheInsuranceBusinessLawOpeCFINS,保険業法第113条繰延資産償却費、営業活動によるキャッシュ・フロー、保険業,Amortization of deferred assets under article 113 of Insurance Business Act,Amortization of deferred assets under article 113 of Insurance Business Act-OpeCF-INS
+jppfs_cor:OtherInvestmentIncomeOpeCFINS,その他運用収益、営業活動によるキャッシュ・フロー、保険業,Other investment income,Other investment income-OpeCF-INS
+jppfs_cor:OtherInvestmentExpensesOpeCFINS,その他運用費用、営業活動によるキャッシュ・フロー、保険業,Other investment expenses,Other investment expenses-OpeCF-INS
+jppfs_cor:OtherNetOpeCFINS,その他、営業活動によるキャッシュ・フロー、保険業,"Other, net","Other, net-OpeCF-INS"
+jppfs_cor:InterestAndDividendsIncomeReceivedOpeCFInvCF,利息及び配当金の受取額、営業活動によるキャッシュ・フロー又は投資活動によるキャッシュ・フロー,Interest and dividend income received,Interest and dividend income received-OpeCF/InvCF
+jppfs_cor:InterestExpensesPaidOpeCFFinCF,利息の支払額、営業活動によるキャッシュ・フロー又は財務活動によるキャッシュ・フロー,Interest expenses paid,Interest expenses paid-OpeCF/FinCF
+jppfs_cor:OtherNetOpeCFSubtotalINS,その他、営業活動によるキャッシュ・フロー、小計の下、保険業,"Other, net","Other, net-OpeCF-subtotal-INS"
+jppfs_cor:IncomeTaxesPaidOpeCF,法人税等の支払額、営業活動によるキャッシュ・フロー,Income taxes paid,Income taxes paid-OpeCF
+jppfs_cor:ProceedsFromGainOnInvestmentToMoneyHeldInTrustOpeCFINS,金銭の信託運用益の受取額、営業活動によるキャッシュ・フロー、保険業,Proceeds from gain on investment in money held in trust,Proceeds from gain on investment in money held in trust-OpeCF-INS
+jppfs_cor:NetCashProvidedByUsedInOperatingActivities,営業活動によるキャッシュ・フロー,Net cash provided by (used in) operating activities,Net cash provided by (used in) operating activities
+jppfs_cor:NetCashProvidedByUsedInInvestmentActivitiesAbstract,投資活動によるキャッシュ・フロー [タイトル項目],Cash flows from investing activities,Cash flows from investing activities [abstract]
+jppfs_cor:TotalOfNetCashProvidedByUsedInInvestmentTransactionsInvCFINS,資産運用活動計、投資活動によるキャッシュ・フロー、保険業,Total of net cash provided by (used in) investment transactions,Total of net cash provided by (used in) investment transactions-InvCF-INS
+jppfs_cor:NetIncreaseDecreaseInCashAndDepositsInvCFINS,預貯金の純増減額（△は増加）、投資活動によるキャッシュ・フロー、保険業,Net decrease (increase) in cash and deposits,Net decrease (increase) in cash and deposits-InvCF-INS
+jppfs_cor:PurchasesOfMonetaryReceivablesPurchasedInvCFINS,買入金銭債権の取得による支出、投資活動によるキャッシュ・フロー、保険業,Purchases of monetary receivables purchased,Purchases of monetary receivables purchased-InvCF-INS
+jppfs_cor:ProceedsFromSalesAndRedemptionOfMonetaryReceivablesPurchasedInvCFINS,買入金銭債権の売却・償還による収入、投資活動によるキャッシュ・フロー、保険業,Proceeds from sales and redemption of monetary receivables purchased,Proceeds from sales and redemption of monetary receivables purchased-InvCF-INS
+jppfs_cor:IncreaseInMoneyHeldInTrustInvCFINS,金銭の信託の増加による支出、投資活動によるキャッシュ・フロー、保険業,Increase in money held in trust,Increase in money held in trust-InvCF-INS
+jppfs_cor:DecreaseInMoneyHeldInTrustInvCFINS,金銭の信託の減少による収入、投資活動によるキャッシュ・フロー、保険業,Decrease in money held in trust,Decrease in money held in trust-InvCF-INS
+jppfs_cor:PurchaseOfShortTermInvestmentSecuritiesInvCF,有価証券の取得による支出、投資活動によるキャッシュ・フロー,Purchase of securities,Purchase of securities-InvCF
+jppfs_cor:ProceedsFromSalesAndRedemptionOfSecuritiesInvCFINS,有価証券の売却・償還による収入、投資活動によるキャッシュ・フロー、保険業,Proceeds from sales and redemption of securities,Proceeds from sales and redemption of securities-InvCF-INS
+jppfs_cor:PaymentsOfLoansReceivableInvCF,貸付けによる支出、投資活動によるキャッシュ・フロー,Payments of loans receivable,Payments of loans receivable-InvCF
+jppfs_cor:CollectionOfLoansReceivableInvCF,貸付金の回収による収入、投資活動によるキャッシュ・フロー,Collection of loans receivable,Collection of loans receivable-InvCF
+jppfs_cor:NetIncreaseDecreaseInPayablesUnderSecuritiesLendingTransactionsInvCFINS,債券貸借取引受入担保金の純増減額（△は減少）、投資活動によるキャッシュ・フロー、保険業,Net increase (decrease) in payables under securities lending transactions,Net increase (decrease) in payables under securities lending transactions-InvCF-INS
+jppfs_cor:NetIncreaseDecreaseInReceivablesPayablesUnderSecuritiesBorrowingTransactionsInvCFINS,債券貸借取引支払保証金・受入担保金の純増減額、投資活動によるキャッシュ・フロー、保険業,Net increase/decrease in receivables/payables under securities borrowing transactions,Net increase/decrease in receivables/payables under securities borrowing transactions-InvCF-INS
+jppfs_cor:OtherNetInvCFINS,その他、投資活動によるキャッシュ・フロー、保険業,"Other, net","Other, net-InvCF-INS"
+jppfs_cor:TotalOfNetCashProvidedByUsedInOperatingActivitiesAndInvestmentTransactionsInvCFINS,営業活動及び資産運用活動計、投資活動によるキャッシュ・フロー、保険業,Total of net cash provided by (used in) operating activities and investment transactions,Total of net cash provided by (used in) operating activities and investment transactions-InvCF-INS
+jppfs_cor:PurchaseOfPropertyPlantAndEquipmentInvCF,有形固定資産の取得による支出、投資活動によるキャッシュ・フロー,"Purchase of property, plant and equipment","Purchase of property, plant and equipment-InvCF"
+jppfs_cor:ProceedsFromSalesOfPropertyPlantAndEquipmentInvCF,有形固定資産の売却による収入、投資活動によるキャッシュ・フロー,"Proceeds from sales of property, plant and equipment","Proceeds from sales of property, plant and equipment-InvCF"
+jppfs_cor:PurchaseOfInvestmentsInSubsidiariesResultingInChangeInScopeOfConsolidationInvCF,連結の範囲の変更を伴う子会社株式の取得による支出、投資活動によるキャッシュ・フロー,Purchase of shares of subsidiaries resulting in change in scope of consolidation,Purchase of shares of subsidiaries resulting in change in scope of consolidation-InvCF
+jppfs_cor:ProceedsFromSalesOfInvestmentsInSubsidiariesResultingInChangeInScopeOfConsolidationInvCF,連結の範囲の変更を伴う子会社株式の売却による収入、投資活動によるキャッシュ・フロー,Proceeds from sales of shares of subsidiaries resulting in change in scope of consolidation,Proceeds from sales of shares of subsidiaries resulting in change in scope of consolidation-InvCF
+jppfs_cor:OtherNetInvCFSubtotalINS,その他、投資活動によるキャッシュ・フロー、小計の下、保険業,"Other, net","Other, net-InvCF-subtotal-INS"
+jppfs_cor:NetCashProvidedByUsedInInvestmentActivities,投資活動によるキャッシュ・フロー,Net cash provided by (used in) investing activities,Net cash provided by (used in) investing activities
+jppfs_cor:NetCashProvidedByUsedInFinancingActivitiesAbstract,財務活動によるキャッシュ・フロー [タイトル項目],Cash flows from financing activities,Cash flows from financing activities [abstract]
+jppfs_cor:ProceedsFromLoansPayableFinCF,借入れによる収入、財務活動によるキャッシュ・フロー,Proceeds from loans payable,Proceeds from loans payable-FinCF
+jppfs_cor:RepaymentsOfLoansPayableFinCF,借入金の返済による支出、財務活動によるキャッシュ・フロー,Repayments of loans payable,Repayments of loans payable-FinCF
+jppfs_cor:ProceedsFromIssuanceOfCommercialPapersFinCF,コマーシャル・ペーパーの発行による収入、財務活動によるキャッシュ・フロー,Proceeds from issuance of commercial papers,Proceeds from issuance of commercial papers-FinCF
+jppfs_cor:RedemptionOfCommercialPapersFinCF,コマーシャル・ペーパーの償還による支出、財務活動によるキャッシュ・フロー,Redemption of commercial papers,Redemption of commercial papers-FinCF
+jppfs_cor:ProceedsFromIssuanceOfBondsFinCF,社債の発行による収入、財務活動によるキャッシュ・フロー,Proceeds from issuance of bonds,Proceeds from issuance of bonds-FinCF
+jppfs_cor:RedemptionOfBondsFinCF,社債の償還による支出、財務活動によるキャッシュ・フロー,Redemption of bonds,Redemption of bonds-FinCF
+jppfs_cor:ProceedsFromIssuanceOfCommonStockFinCF,株式の発行による収入、財務活動によるキャッシュ・フロー,Proceeds from issuance of common shares,Proceeds from issuance of common shares-FinCF
+jppfs_cor:PurchaseOfTreasuryStockFinCF,自己株式の取得による支出、財務活動によるキャッシュ・フロー,Purchase of treasury shares,Purchase of treasury shares-FinCF
+jppfs_cor:CashDividendsPaidFinCF,配当金の支払額、財務活動によるキャッシュ・フロー,Cash dividends paid,Cash dividends paid-FinCF
+jppfs_cor:OtherNetFinCFINS,その他、財務活動によるキャッシュ・フロー、保険業,"Other, net","Other, net-FinCF-INS"
+jppfs_cor:NetCashProvidedByUsedInFinancingActivities,財務活動によるキャッシュ・フロー,Net cash provided by (used in) financing activities,Net cash provided by (used in) financing activities
+jppfs_cor:EffectOfExchangeRateChangeOnCashAndCashEquivalents,現金及び現金同等物に係る換算差額,Effect of exchange rate change on cash and cash equivalents,Effect of exchange rate change on cash and cash equivalents
+jppfs_cor:NetIncreaseDecreaseInCashAndCashEquivalents,現金及び現金同等物の増減額（△は減少）,Net increase (decrease) in cash and cash equivalents,Net increase (decrease) in cash and cash equivalents
+jppfs_cor:CashAndCashEquivalents,現金及び現金同等物の残高,Cash and cash equivalents,Cash and cash equivalents

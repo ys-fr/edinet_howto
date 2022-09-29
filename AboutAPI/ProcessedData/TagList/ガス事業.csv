@@ -1,0 +1,283 @@
+タクソノミ,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:BalanceSheetAbstract,貸借対照表 [タイトル項目],Balance sheet,Balance sheet [abstract]
+jppfs_cor:BalanceSheetTable,貸借対照表 [表],Balance sheet,Balance sheet [table]
+jppfs_cor:BalanceSheetLineItems,貸借対照表 [表示項目],Balance sheet,Balance sheet [line items]
+jppfs_cor:AssetsAbstract,資産の部 [タイトル項目],Assets,Assets [abstract]
+jppfs_cor:NoncurrentAssetsAbstract,固定資産 [タイトル項目],Non-current assets,Non-current assets [abstract]
+jppfs_cor:PropertyPlantAndEquipmentAbstract,有形固定資産 [タイトル項目],"Property, plant and equipment","Property, plant and equipment [abstract]"
+jppfs_cor:ProductionFacilitiesPPEGAS,製造設備、有形固定資産、ガス事業,Production facilities,Production facilities-PPE-GAS
+jppfs_cor:NaturalGasGatheringFacilitiesPPEGAS,天然ガス採取設備、有形固定資産、ガス事業,Natural gas gathering facilities,Natural gas gathering facilities-PPE-GAS
+jppfs_cor:DistributionFacilitiesPPEGAS,供給設備、有形固定資産、ガス事業,Distribution facilities,Distribution facilities-PPE-GAS
+jppfs_cor:ServiceAndMaintenanceFacilitiesPPEGAS,業務設備、有形固定資産、ガス事業,Service and maintenance facilities,Service and maintenance facilities-PPE-GAS
+jppfs_cor:FacilitiesForIncidentalBusinessesPPEGAS,附帯事業設備、有形固定資産、ガス事業,Facilities for incidental businesses,Facilities for incidental businesses-PPE-GAS
+jppfs_cor:InactiveFacilitiesPPEGAS,休止設備、有形固定資産、ガス事業,Inactive facilities,Inactive facilities-PPE-GAS
+jppfs_cor:OtherFacilitiesPPEGAS,その他の設備、有形固定資産、ガス事業,Other facilities,Other facilities-PPE-GAS
+jppfs_cor:ConstructionInProgress,建設仮勘定,Construction in progress,Construction in progress
+jppfs_cor:PropertyPlantAndEquipment,有形固定資産,"Property, plant and equipment","Property, plant and equipment"
+jppfs_cor:IntangibleAssetsAbstract,無形固定資産 [タイトル項目],Intangible assets,Intangible assets [abstract]
+jppfs_cor:PatentRight,特許権,Patent right,Patent right
+jppfs_cor:LeaseholdRight,借地権,Leasehold right,Leasehold right
+jppfs_cor:MiningRight,鉱業権,Mining right,Mining right
+jppfs_cor:Goodwill,のれん,Goodwill,Goodwill
+jppfs_cor:OtherIA,その他、無形固定資産,Other,Other-IA
+jppfs_cor:IntangibleAssets,無形固定資産,Intangible assets,Intangible assets
+jppfs_cor:InvestmentsAndOtherAssetsAbstract,投資その他の資産 [タイトル項目],Investments and other assets,Investments and other assets [abstract]
+jppfs_cor:InvestmentSecurities,投資有価証券,Investment securities,Investment securities
+jppfs_cor:InvestmentsInSubsidiariesAndAffiliatesIOAGAS,関係会社投資、投資その他の資産、ガス事業,Investments in subsidiaries and associates,Investments in subsidiaries and associates-IOA-GAS
+jppfs_cor:StocksOfParentCompanyIOA,親会社株式、投資その他の資産,Shares of parent,Shares of parent-IOA
+jppfs_cor:LongTermLoansReceivable,長期貸付金,Long-term loans receivable,Long-term loans receivable
+jppfs_cor:InHouseLongTermLoansReceivableIOAGAS,社内長期貸付金、投資その他の資産、ガス事業,In-house long-term loans receivable,In-house long-term loans receivable-IOA-GAS
+jppfs_cor:LongTermLoansReceivableFromSubsidiariesAndAffiliates,関係会社長期貸付金,Long-term loans receivable from subsidiaries and associates,Long-term loans receivable from subsidiaries and associates
+jppfs_cor:InvestmentsInCapital,出資金,Investments in capital,Investments in capital
+jppfs_cor:SinkingFundIOAGAS,減債基金、投資その他の資産、ガス事業,Sinking fund,Sinking fund-IOA-GAS
+jppfs_cor:LongTermPrepaidExpenses,長期前払費用,Long-term prepaid expenses,Long-term prepaid expenses
+jppfs_cor:PrepaidPensionCostIOA,前払年金費用、投資その他の資産,Prepaid pension cost,Prepaid pension cost-IOA
+jppfs_cor:DeferredTaxAssetsIOA,繰延税金資産、投資その他の資産,Deferred tax assets,Deferred tax assets-IOA
+jppfs_cor:OtherIOA,その他、投資その他の資産,Other,Other-IOA
+jppfs_cor:AllowanceForDoubtfulAccountsIOAByGroup,貸倒引当金、投資その他の資産、一括控除,Allowance for doubtful accounts,Allowance for doubtful accounts-IOA-by group
+jppfs_cor:InvestmentsAndOtherAssets,投資その他の資産,Investments and other assets,Investments and other assets
+jppfs_cor:NoncurrentAssets,固定資産,Non-current assets,Non-current assets
+jppfs_cor:CurrentAssetsAbstract,流動資産 [タイトル項目],Current assets,Current assets [abstract]
+jppfs_cor:CashAndDeposits,現金及び預金,Cash and deposits,Cash and deposits
+jppfs_cor:NotesAndAccountsReceivableTrade,受取手形及び売掛金,Notes and accounts receivable - trade,Notes and accounts receivable-trade
+jppfs_cor:NotesReceivableTrade,受取手形,Notes receivable - trade,Notes receivable-trade
+jppfs_cor:NotesReceivableFromSubsidiariesAndAffiliatesTradeCAGAS,関係会社受取手形、流動資産、ガス事業,Notes receivable from subsidiaries and associates - trade,Notes receivable from subsidiaries and associates - trade-CA-GAS
+jppfs_cor:AccountsReceivableTrade,売掛金,Accounts receivable - trade,Accounts receivable-trade
+jppfs_cor:AccountsReceivableFromSubsidiariesAndAffiliatesTradeCAGAS,関係会社売掛金、流動資産、ガス事業,Accounts receivable from subsidiaries and associates - trade,Accounts receivable from subsidiaries and associates - trade-CA-GAS
+jppfs_cor:AccountsReceivableOther,未収入金,Accounts receivable - other,Accounts receivable-other
+jppfs_cor:ShortTermInvestmentSecurities,有価証券,Securities,Securities
+jppfs_cor:Inventories,たな卸資産,Inventories,Inventories
+jppfs_cor:MerchandiseAndFinishedGoods,商品及び製品,Merchandise and finished goods,Merchandise and finished goods
+jppfs_cor:FinishedGoods,製品,Finished goods,Finished goods
+jppfs_cor:WorkInProcess,仕掛品,Work in process,Work in process
+jppfs_cor:RawMaterialsAndSupplies,原材料及び貯蔵品,Raw materials and supplies,Raw materials and supplies
+jppfs_cor:RawMaterialsCAGAS,原料、流動資産、ガス事業,Raw materials,Raw materials-CA-GAS
+jppfs_cor:Supplies,貯蔵品,Supplies,Supplies
+jppfs_cor:AdvancePaymentsCAGAS,前払金、流動資産、ガス事業,Advance payments,Advance payments-CA-GAS
+jppfs_cor:PrepaidExpenses,前払費用,Prepaid expenses,Prepaid expenses
+jppfs_cor:ShortTermReceivablesFromSubsidiariesAndAffiliatesCAGAS,関係会社短期債権、流動資産、ガス事業,Short-term receivables from subsidiaries and associates,Short-term receivables from subsidiaries and associates-CA-GAS
+jppfs_cor:StocksOfParentCompanyCA,親会社株式、流動資産,Shares of parent,Shares of parent-CA
+jppfs_cor:DeferredTaxAssetsCA,繰延税金資産、流動資産,Deferred tax assets,Deferred tax assets-CA
+jppfs_cor:CurrentAssetsForIncidentalBusinessesCAGAS,附帯事業流動資産、流動資産、ガス事業,Current assets for incidental businesses,Current assets for incidental businesses-CA-GAS
+jppfs_cor:RelatedConstructionGAS,受注工事勘定、ガス事業,Related construction,Related construction-GAS
+jppfs_cor:OtherCA,その他、流動資産,Other,Other-CA
+jppfs_cor:AllowanceForDoubtfulAccountsCA,貸倒引当金、流動資産、一括控除,Allowance for doubtful accounts,Allowance for doubtful accounts-CA-by group
+jppfs_cor:CurrentAssets,流動資産,Current assets,Current assets
+jppfs_cor:DeferredAssetsAbstract,繰延資産 [タイトル項目],Deferred assets,Deferred assets [abstract]
+jppfs_cor:DeferredOrganizationExpensesDA,創立費、繰延資産,Deferred organization expenses,Deferred organization expenses-DA
+jppfs_cor:BusinessCommencementExpensesDA,開業費、繰延資産,Business commencement expenses,Business commencement expenses-DA
+jppfs_cor:StockIssuanceCostDA,株式交付費、繰延資産,Share issuance cost,Share issuance cost-DA
+jppfs_cor:BondIssuanceCostDA,社債発行費、繰延資産,Bond issuance cost,Bond issuance cost-DA
+jppfs_cor:CorporateBondIssuanceCostDAGAS,企業債発行費、繰延資産、ガス事業,Corporate bond issuance cost,Corporate bond issuance cost-DA-GAS
+jppfs_cor:CorporateBondDiscountDAGAS,企業債発行差金、繰延資産、ガス事業,Corporate bond discount,Corporate bond discount-DA-GAS
+jppfs_cor:DevelopmentExpensesDA,開発費、繰延資産,Development expenses,Development expenses-DA
+jppfs_cor:NonrecurringLossDAGAS,臨時損失、繰延資産、ガス事業,Nonrecurring loss,Nonrecurring loss-DA-GAS
+jppfs_cor:DeferredAssets,繰延資産,Deferred assets,Deferred assets
+jppfs_cor:Assets,資産,Assets,Assets
+jppfs_cor:LiabilitiesAbstract,負債の部 [タイトル項目],Liabilities,Liabilities [abstract]
+jppfs_cor:NoncurrentLiabilitiesAbstract,固定負債 [タイトル項目],Non-current liabilities,Non-current liabilities [abstract]
+jppfs_cor:BondsPayable,社債,Bonds payable,Bonds payable
+jppfs_cor:CorporateBondsNCLGAS,企業債、固定負債、ガス事業,Corporate bonds,Corporate bonds-NCL-GAS
+jppfs_cor:LongTermLoansPayable,長期借入金,Long-term loans payable,Long-term loans payable
+jppfs_cor:LongTermDebtToSubsidiariesAndAffiliatesNCLGAS,関係会社長期債務、固定負債、ガス事業,Long-term debt to subsidiaries and associates,Long-term debt to subsidiaries and associates-NCL-GAS
+jppfs_cor:TransferFromOtherAccountNCLGAS,他会計からの繰入金、固定負債、ガス事業,Transfer from other account,Transfer from other account-NCL-GAS
+jppfs_cor:DeferredTaxLiabilitiesNCL,繰延税金負債、固定負債,Deferred tax liabilities,Deferred tax liabilities-NCL
+jppfs_cor:ProvisionForRetirementBenefits,退職給付引当金,Provision for retirement benefits,Provision for retirement benefits
+jppfs_cor:AssetRetirementObligationsNCL,資産除去債務、固定負債,Asset retirement obligations,Asset retirement obligations-NCL
+jppfs_cor:NegativeGoodwill,負ののれん,Negative goodwill,Negative goodwill
+jppfs_cor:ProvisionForGasHolderRepairsGAS,ガスホルダー修繕引当金、ガス事業,Provision for gas holder repairs,Provision for gas holder repairs-GAS
+jppfs_cor:ProvisionForSafetyMeasuresGAS,保安対策引当金、ガス事業,Provision for safety measures,Provision for safety measures-GAS
+jppfs_cor:OtherNCL,その他、固定負債,Other,Other-NCL
+jppfs_cor:NoncurrentLiabilities,固定負債,Non-current liabilities,Non-current liabilities
+jppfs_cor:CurrentLiabilitiesAbstract,流動負債 [タイトル項目],Current liabilities,Current liabilities [abstract]
+jppfs_cor:CurrentPortionOfNoncurrentLiabilitiesCLGAS,1年以内に期限到来の固定負債、流動負債、ガス事業,Current portion of non-current liabilities,Current portion of non-current liabilities-CL-GAS
+jppfs_cor:NotesAndAccountsPayableTrade,支払手形及び買掛金,Notes and accounts payable - trade,Notes and accounts payable-trade
+jppfs_cor:NotesPayableTrade,支払手形,Notes payable - trade,Notes payable-trade
+jppfs_cor:AccountsPayableTrade,買掛金,Accounts payable - trade,Accounts payable-trade
+jppfs_cor:ShortTermLoansPayable,短期借入金,Short-term loans payable,Short-term loans payable
+jppfs_cor:AccountsPayableOther,未払金,Accounts payable - other,Accounts payable-other
+jppfs_cor:AccruedExpenses,未払費用,Accrued expenses,Accrued expenses
+jppfs_cor:IncomeTaxesPayable,未払法人税等,Income taxes payable,Income taxes payable
+jppfs_cor:DeferredTaxLiabilitiesCL,繰延税金負債、流動負債,Deferred tax liabilities,Deferred tax liabilities-CL
+jppfs_cor:AdvancesReceived,前受金,Advances received,Advances received
+jppfs_cor:DepositsReceived,預り金,Deposits received,Deposits received
+jppfs_cor:ShortTermDebtToSubsidiariesAndAffiliatesCLGAS,関係会社短期債務、流動負債、ガス事業,Short-term debt to subsidiaries and associates,Short-term debt to subsidiaries and associates-CL-GAS
+jppfs_cor:AssetRetirementObligationsCL,資産除去債務、流動負債,Asset retirement obligations,Asset retirement obligations-CL
+jppfs_cor:CurrentLiabilitiesForIncidentalBusinessesCLGAS,附帯事業流動負債、流動負債、ガス事業,Current liabilities for incidental businesses,Current liabilities for incidental businesses-CL-GAS
+jppfs_cor:OtherCL,その他、流動負債,Other,Other-CL
+jppfs_cor:CurrentLiabilities,流動負債,Current liabilities,Current liabilities
+jppfs_cor:ReservesUnderTheSpecialLawsAbstract2,特別法上の引当金 [タイトル項目],Reserves under special laws,Reserves under special laws-2 [abstract]
+jppfs_cor:ReservesUnderTheSpecialLaws2,特別法上の引当金,Reserves under special laws,Reserves under special laws-2
+jppfs_cor:Liabilities,負債,Liabilities,Liabilities
+jppfs_cor:NetAssetsAbstract,純資産の部 [タイトル項目],Net assets,Net assets [abstract]
+jppfs_cor:ShareholdersEquityAbstract,株主資本 [タイトル項目],Shareholders' equity,Shareholders' equity [abstract]
+jppfs_cor:CapitalStock,資本金,Capital stock,Capital stock
+jppfs_cor:DepositForSubscriptionsToShares,新株式申込証拠金,Deposit for subscriptions to shares,Deposit for subscriptions to shares
+jppfs_cor:CapitalSurplusAbstract,資本剰余金 [タイトル項目],Capital surplus,Capital surplus [abstract]
+jppfs_cor:LegalCapitalSurplus,資本準備金,Legal capital surplus,Legal capital surplus
+jppfs_cor:OtherCapitalSurplus,その他資本剰余金,Other capital surplus,Other capital surplus
+jppfs_cor:CapitalSurplus,資本剰余金,Capital surplus,Capital surplus
+jppfs_cor:RetainedEarningsAbstract,利益剰余金 [タイトル項目],Retained earnings,Retained earnings [abstract]
+jppfs_cor:LegalRetainedEarnings,利益準備金,Legal retained earnings,Legal retained earnings
+jppfs_cor:OtherRetainedEarningsAbstract,その他利益剰余金 [タイトル項目],Other retained earnings,Other retained earnings [abstract]
+jppfs_cor:ReserveForAdjustmentOfCostFluctuationsGAS,原価変動調整積立金、ガス事業,Reserve for adjustment of cost fluctuations,Reserve for adjustment of cost fluctuations-GAS
+jppfs_cor:ReserveForDepreciationOfSpecifiedGasPipelineConstructionGAS,特定ガス導管工事償却準備金、ガス事業,Reserve for depreciation of specified gas pipeline construction,Reserve for depreciation of specified gas pipeline construction-GAS
+jppfs_cor:RetainedEarningsBroughtForward,繰越利益剰余金,Retained earnings brought forward,Retained earnings brought forward
+jppfs_cor:RetainedEarnings,利益剰余金,Retained earnings,Retained earnings
+jppfs_cor:TreasuryStock,自己株式,Treasury shares,Treasury shares
+jppfs_cor:DepositForSubscriptionsToTreasuryStock,自己株式申込証拠金,Deposit for subscriptions to treasury shares,Deposit for subscriptions to treasury shares
+jppfs_cor:ShareholdersEquity,株主資本,Shareholders' equity,Shareholders' equity
+jppfs_cor:ValuationAndTranslationAdjustmentsAbstract,評価・換算差額等 [タイトル項目],Valuation and translation adjustments,Valuation and translation adjustments [abstract]
+jppfs_cor:ValuationDifferenceOnAvailableForSaleSecurities,その他有価証券評価差額金,Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities
+jppfs_cor:DeferredGainsOrLossesOnHedges,繰延ヘッジ損益,Deferred gains or losses on hedges,Deferred gains or losses on hedges
+jppfs_cor:RevaluationReserveForLand,土地再評価差額金,Revaluation reserve for land,Revaluation reserve for land
+jppfs_cor:ForeignCurrencyTranslationAdjustment,為替換算調整勘定,Foreign currency translation adjustment,Foreign currency translation adjustment
+jppfs_cor:ValuationAndTranslationAdjustments,評価・換算差額等,Valuation and translation adjustments,Valuation and translation adjustments
+jppfs_cor:SubscriptionRightsToShares,新株予約権,Share acquisition rights,Share acquisition rights
+jppfs_cor:NonControllingInterests,非支配株主持分,Non-controlling interests,Non-controlling interests
+jppfs_cor:NetAssets,純資産,Net assets,Net assets
+jppfs_cor:LiabilitiesAndNetAssets,負債純資産,Liabilities and net assets,Liabilities and net assets
+nan,,,
+nan,,,
+名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:StatementOfIncomeAbstract,損益計算書 [タイトル項目],Statement of income,Statement of income [abstract]
+jppfs_cor:StatementOfIncomeTable,損益計算書 [表],Statement of income,Statement of income [table]
+jppfs_cor:StatementOfIncomeLineItems,損益計算書 [表示項目],Statement of income,Statement of income [line items]
+jppfs_cor:NetSales,売上高,Net sales,Net sales
+jppfs_cor:InstallationWorkAndAppliancesSalesGAS,受注工事及び器具売上、ガス事業,Installation work and appliances sales,Installation work and appliances sales-GAS
+jppfs_cor:IncidentalBusinessesSalesGAS,附帯事業売上、ガス事業,Incidental businesses sales,Incidental businesses sales-GAS
+jppfs_cor:SalesFromGasBusinessGASAbstract,ガス事業売上高、ガス事業 [タイトル項目],Sales from gas business,Sales from gas business - GAS [abstract]
+jppfs_cor:GasSalesGAS,ガス売上、ガス事業,Gas sales,Gas sales-GAS
+jppfs_cor:ThirdPartyAccessRevenueGAS,託送供給収益、ガス事業,Gas transportation service revenue,Gas transportation service revenue - GAS
+jppfs_cor:RevenueFromInteroperatorSettlementGAS,事業者間精算収益、ガス事業,Revenue from interoperator settlement,Revenue from interoperator settlement - GAS
+jppfs_cor:RevenueFromContractManufacturingGAS,受託製造収益、ガス事業,Revenue from contract manufacturing,Revenue from contract manufacturing - GAS
+jppfs_cor:SalesFromGasBusinessGAS,ガス事業売上高、ガス事業,Sales from gas business,Sales from gas business - GAS
+jppfs_cor:ProductSalesAbstractGAS,製品売上、ガス事業 [タイトル項目],Product sales,Product sales-GAS [abstract]
+jppfs_cor:ProductSalesGAS,製品売上、ガス事業,Product sales,Product sales-GAS
+jppfs_cor:CostOfSalesAbstract,売上原価 [タイトル項目],Cost of sales,Cost of sales [abstract]
+jppfs_cor:BeginningInventoriesGAS,期首たな卸高、ガス事業,Beginning inventories,Beginning inventories-GAS
+jppfs_cor:CostOfProductsManufactured,当期製品製造原価,Cost of products manufactured,Cost of products manufactured
+jppfs_cor:PurchaseOfFinishedGoodsGAS,当期製品仕入高、ガス事業,Purchase of finished goods,Purchase of finished goods-GAS
+jppfs_cor:CostsOfGasForOwnUseGAS,当期製品自家使用高、ガス事業,Costs of gas for own use,Costs of gas for own use-GAS
+jppfs_cor:EndingInventoriesGAS,期末たな卸高、ガス事業,Ending inventories,Ending inventories-GAS
+jppfs_cor:CostOfSales,売上原価,Cost of sales,Cost of sales
+jppfs_cor:CostOfGasSalesGAS,ガス売上原価、ガス事業,Cost of gas sales,Cost of gas sales-GAS
+jppfs_cor:CostOfInstallationWorkAndAppliancesSalesGAS,受注工事及び器具売上原価、ガス事業,Cost of installation work and appliances sales,Cost of installation work and appliances sales-GAS
+jppfs_cor:CostOfSalesOnIncidentalBusinessGAS,附帯事業売上原価、ガス事業,Cost of sales on incidental business,Cost of sales on incidental business-GAS
+jppfs_cor:GrossProfit,売上総利益又は売上総損失（△）,Gross profit (loss),Gross profit (loss)
+jppfs_cor:SellingGeneralAndAdministrativeExpensesAbstractGAS,供給販売費及び一般管理費、ガス事業 [タイトル項目],"Selling, general and administrative expenses","Selling, general and administrative expenses-GAS [abstract]"
+jppfs_cor:SupplyAndSalesExpensesGAS,供給販売費、ガス事業,Supply and sales expenses,Supply and sales expenses-GAS
+jppfs_cor:GeneralAndAdministrativeExpensesGAS,一般管理費、ガス事業,General and administrative expenses,General and administrative expenses-GAS
+jppfs_cor:SellingGeneralAndAdministrativeExpensesGAS,供給販売費及び一般管理費、ガス事業,"Selling, general and administrative expenses","Selling, general and administrative expenses-GAS"
+jppfs_cor:IncomeOnCoreBusinessGAS,事業利益又は事業損失（△）、ガス事業,Profit (loss) on core business,Profit (loss) on core business - GAS
+jppfs_cor:MiscellaneousOperatingRevenueAbstractGAS,営業雑収益、ガス事業 [タイトル項目],Miscellaneous operating revenue,Miscellaneous operating revenue-GAS [abstract]
+jppfs_cor:RevenueFromInstallationWorkGAS,受注工事収益、ガス事業,Revenue from installation work,Revenue from installation work-GAS
+jppfs_cor:RevenueFromGasApplianceSalesGAS,器具販売収益、ガス事業,Revenue from gas appliance sales,Revenue from gas appliance sales-GAS
+jppfs_cor:OtherMiscellaneousOperatingRevenueGAS,その他営業雑収益、ガス事業,Other miscellaneous operating revenue,Other miscellaneous operating revenue-GAS
+jppfs_cor:MiscellaneousOperatingRevenueGAS,営業雑収益、ガス事業,Miscellaneous operating revenue,Miscellaneous operating revenue-GAS
+jppfs_cor:MiscellaneousOperatingExpensesAbstractGAS,営業雑費用、ガス事業 [タイトル項目],Miscellaneous operating expenses,Miscellaneous operating expenses-GAS [abstract]
+jppfs_cor:ExpensesOfInstallationWorkGAS,受注工事費用、ガス事業,Expenses of installation work,Expenses of installation work-GAS
+jppfs_cor:OtherMiscellaneousOperatingExpensesGAS,その他営業雑費用、ガス事業,Other miscellaneous operating expenses,Other miscellaneous operating expenses - GAS
+jppfs_cor:ExpensesOfGasApplianceSalesGAS,器具販売費用、ガス事業,Expenses of gas appliance sales,Expenses of gas appliance sales-GAS
+jppfs_cor:OperatingMiscellaneousExpensesGAS,営業雑費用、ガス事業,Miscellaneous operating expenses,Miscellaneous operating expenses - GAS
+jppfs_cor:RevenueForIncidentalBusinessesAbstractGAS,附帯事業収益、ガス事業 [タイトル項目],Revenue for incidental businesses,Revenue for incidental businesses-GAS [abstract]
+jppfs_cor:RevenueFromDistrictHeatingAndCoolingBusinessGAS,熱供給収益、ガス事業,Revenue from district heating and cooling business,Revenue from district heating and cooling business-GAS
+jppfs_cor:RevenueFromLNGSalesGAS,ＬＮＧ販売収益、ガス事業,Revenue from LNG sales,Revenue from LNG sales-GAS
+jppfs_cor:RevenueFromOtherIncidentalBusinessesGAS,その他附帯事業収益、ガス事業,Revenue from other incidental businesses,Revenue from other incidental businesses-GAS
+jppfs_cor:RevenueForIncidentalBusinessesGAS,附帯事業収益、ガス事業,Revenue for incidental businesses,Revenue for incidental businesses-GAS
+jppfs_cor:ExpensesForIncidentalBusinessesAbstractGAS,附帯事業費用、ガス事業 [タイトル項目],Expenses for incidental businesses,Expenses for incidental businesses-GAS [abstract]
+jppfs_cor:ExpensesForDistrictHeatingAndCoolingBusinessGAS,熱供給費用、ガス事業,Expenses for district heating and cooling business,Expenses for district heating and cooling business-GAS
+jppfs_cor:ExpensesForLNGSalesGAS,ＬＮＧ販売費用、ガス事業,Expenses for LNG sales,Expenses for LNG sales-GAS
+jppfs_cor:ExpensesForOtherIncidentalBusinessesGAS,その他附帯事業費用、ガス事業,Expenses for other incidental businesses,Expenses for other incidental businesses-GAS
+jppfs_cor:ExpensesForIncidentalBusinessesGAS,附帯事業費用、ガス事業,Expenses for incidental businesses,Expenses for incidental businesses-GAS
+jppfs_cor:OperatingIncome,営業利益又は営業損失（△）,Operating profit (loss),Operating profit (loss)
+jppfs_cor:NonOperatingIncomeAbstract,営業外収益 [タイトル項目],Non-operating income,Non-operating income [abstract]
+jppfs_cor:InterestIncomeNOI,受取利息、営業外収益,Interest income,Interest income-NOI
+jppfs_cor:InterestOnSecuritiesNOI,有価証券利息、営業外収益,Interest on securities,Interest on securities-NOI
+jppfs_cor:DividendsIncomeNOI,受取配当金、営業外収益,Dividend income,Dividend income-NOI
+jppfs_cor:MiscellaneousIncomeGAS,雑収入、ガス事業,Miscellaneous income,Miscellaneous income-GAS
+jppfs_cor:NonOperatingIncome,営業外収益,Non-operating income,Non-operating income
+jppfs_cor:NonOperatingExpensesAbstract,営業外費用 [タイトル項目],Non-operating expenses,Non-operating expenses [abstract]
+jppfs_cor:InterestExpensesNOE,支払利息、営業外費用,Interest expenses,Interest expenses-NOE
+jppfs_cor:InterestOnBondsNOE,社債利息、営業外費用,Interest on bonds,Interest on bonds-NOE
+jppfs_cor:CorporateBondInterestGAS,企業債利息、ガス事業,Corporate bond interest,Corporate bond interest-GAS
+jppfs_cor:AmortizationOfCorporateBondDiscountGAS,企業債発行差金償却、ガス事業,Amortization of corporate bond discount,Amortization of corporate bond discount-GAS
+jppfs_cor:AmortizationOfStockIssuanceCostNOE,株式交付費償却、営業外費用,Amortization of share issuance cost,Amortization of share issuance cost-NOE
+jppfs_cor:AmortizationOfBondIssuanceCostNOE,社債発行費償却、営業外費用,Amortization of bond issuance cost,Amortization of bond issuance cost-NOE
+jppfs_cor:AmortizationOfCorporateBondIssuanceCostGAS,企業債発行費償却、ガス事業,Amortization of corporate bond issuance cost,Amortization of corporate bond issuance cost-GAS
+jppfs_cor:AmortizationOfDeferredOrganizationExpensesNOE,創立費償却、営業外費用,Amortization of deferred organization expenses,Amortization of deferred organization expenses-NOE
+jppfs_cor:AmortizationOfBusinessCommencementExpensesNOE,開業費償却、営業外費用,Amortization of business commencement expenses,Amortization of business commencement expenses-NOE
+jppfs_cor:MiscellaneousExpensesGAS,雑支出、ガス事業,Miscellaneous expenses,Miscellaneous expenses-GAS
+jppfs_cor:NonOperatingExpenses,営業外費用,Non-operating expenses,Non-operating expenses
+jppfs_cor:OrdinaryIncome,経常利益又は経常損失（△）,Ordinary profit (loss),Ordinary profit (loss)
+jppfs_cor:ExtraordinaryIncomeAbstract,特別利益 [タイトル項目],Extraordinary income,Extraordinary income [abstract]
+jppfs_cor:GainOnSalesOfNoncurrentAssetsEI,固定資産売却益、特別利益,Gain on sales of non-current assets,Gain on sales of non-current assets-EI
+jppfs_cor:GainOnNegativeGoodwillEI,負ののれん発生益、特別利益,Gain on bargain purchase,Gain on bargain purchase-EI
+jppfs_cor:ReversalOfProvisionForGasHolderRepairsGAS,ガスホルダー修繕引当金戻入額、ガス事業,Reversal of provision for gas holder repairs,Reversal of provision for gas holder repairs-GAS
+jppfs_cor:OtherEI,その他、特別利益,Other,Other-EI
+jppfs_cor:ExtraordinaryIncome,特別利益,Extraordinary income,Extraordinary income
+jppfs_cor:ExtraordinaryLossAbstract,特別損失 [タイトル項目],Extraordinary losses,Extraordinary losses [abstract]
+jppfs_cor:LossOnSalesOfNoncurrentAssetsEL,固定資産売却損、特別損失,Loss on sales of non-current assets,Loss on sales of non-current assets-EL
+jppfs_cor:ImpairmentLossEL,減損損失、特別損失,Impairment loss,Impairment loss-EL
+jppfs_cor:LossOnDisasterEL,災害による損失、特別損失,Loss on disaster,Loss on disaster-EL
+jppfs_cor:OtherEL,その他、特別損失,Other,Other-EL
+jppfs_cor:ExtraordinaryLoss,特別損失,Extraordinary losses,Extraordinary losses
+jppfs_cor:IncomeBeforeIncomeTaxes,税引前当期純利益又は税引前当期純損失（△）,Profit (loss) before income taxes,Profit (loss) before income taxes
+jppfs_cor:IncomeTaxes,法人税等,Income taxes,Income taxes
+jppfs_cor:IncomeTaxesCurrent,法人税、住民税及び事業税,Income taxes - current,Income taxes-current
+jppfs_cor:IncomeTaxesDeferred,法人税等調整額,Income taxes - deferred,Income taxes-deferred
+jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
+jppfs_cor:ProfitAttributableToAbstract,内訳、当期純利益 [タイトル項目],Profit attributable to,Profit attributable to [abstract]
+jppfs_cor:ProfitLossAttributableToNonControllingInterests,非支配株主に帰属する当期純利益又は非支配株主に帰属する当期純損失（△）,Profit (loss) attributable to non-controlling interests,Profit (loss) attributable to non-controlling interests
+jppfs_cor:ProfitLossAttributableToOwnersOfParent,親会社株主に帰属する当期純利益又は親会社株主に帰属する当期純損失（△）,Profit (loss) attributable to owners of parent,Profit (loss) attributable to owners of parent
+nan,,,
+nan,,,
+名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:StatementOfChangesInEquityAbstract,株主資本等変動計算書 [タイトル項目],Statement of changes in equity,Statement of changes in equity [abstract]
+jppfs_cor:StatementOfChangesInEquityTable,株主資本等変動計算書 [表],Statement of changes in equity,Statement of changes in equity [table]
+jppfs_cor:ComponentsOfEquityAxis,純資産の内訳項目 [軸],Components of equity,Components of equity [axis]
+jppfs_cor:NetAssetsMember,純資産 [メンバー],Net assets,Net assets [member]
+jppfs_cor:ShareholdersEquityMember,株主資本 [メンバー],Shareholders' equity,Shareholders' equity [member]
+jppfs_cor:CapitalStockMember,資本金 [メンバー],Capital stock,Capital stock [member]
+jppfs_cor:CapitalSurplusMember,資本剰余金 [メンバー],Capital surplus,Capital surplus [member]
+jppfs_cor:LegalCapitalSurplusMember,資本準備金 [メンバー],Legal capital surplus,Legal capital surplus [member]
+jppfs_cor:OtherCapitalSurplusMember,その他資本剰余金 [メンバー],Other capital surplus,Other capital surplus [member]
+jppfs_cor:RetainedEarningsMember,利益剰余金 [メンバー],Retained earnings,Retained earnings [member]
+jppfs_cor:LegalRetainedEarningsMember,利益準備金 [メンバー],Legal retained earnings,Legal retained earnings [member]
+jppfs_cor:OtherRetainedEarningsMember,その他利益剰余金 [メンバー],Other retained earnings,Other retained earnings [member]
+jppfs_cor:ReserveForDepreciationOfSpecifiedGasPipelineConstructionGASMember,特定ガス導管工事償却準備金、ガス事業 [メンバー],Reserve for depreciation of specified gas pipeline construction,Reserve for depreciation of specified gas pipeline construction-GAS [member]
+jppfs_cor:ReserveForAdjustmentOfCostFluctuationsGASMember,原価変動調整積立金、ガス事業 [メンバー],Reserve for adjustment of cost fluctuations,Reserve for adjustment of cost fluctuations-GAS [member]
+jppfs_cor:RetainedEarningsBroughtForwardMember,繰越利益剰余金 [メンバー],Retained earnings brought forward,Retained earnings brought forward [member]
+jppfs_cor:TreasuryStockMember,自己株式 [メンバー],Treasury shares,Treasury shares [member]
+jppfs_cor:ValuationAndTranslationAdjustmentsMember,評価・換算差額等 [メンバー],Valuation and translation adjustments,Valuation and translation adjustments [member]
+jppfs_cor:ValuationDifferenceOnAvailableForSaleSecuritiesMember,その他有価証券評価差額金 [メンバー],Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities [member]
+jppfs_cor:DeferredGainsOrLossesOnHedgesMember,繰延ヘッジ損益 [メンバー],Deferred gains or losses on hedges,Deferred gains or losses on hedges [member]
+jppfs_cor:RevaluationReserveForLandMember,土地再評価差額金 [メンバー],Revaluation reserve for land,Revaluation reserve for land [member]
+jppfs_cor:ForeignCurrencyTranslationAdjustmentMember,為替換算調整勘定 [メンバー],Foreign currency translation adjustment,Foreign currency translation adjustment [member]
+jppfs_cor:SubscriptionRightsToSharesMember,新株予約権 [メンバー],Share acquisition rights,Share acquisition rights [member]
+jppfs_cor:NonControllingInterestsMember,非支配株主持分 [メンバー],Non-controlling interests,Non-controlling interests [member]
+jppfs_cor:StatementOfChangesInEquityLineItems,株主資本等変動計算書 [表示項目],Statement of changes in equity,Statement of changes in equity [line items]
+jppfs_cor:NetAssets,純資産,Net assets,Net assets
+jppfs_cor:ChangesOfItemsDuringThePeriodAbstract,当期変動額 [タイトル項目],Changes of items during period,Changes of items during period [abstract]
+jppfs_cor:IssuanceOfNewShares,新株の発行,Issuance of new shares,Issuance of new shares
+jppfs_cor:DividendsFromSurplus,剰余金の配当,Dividends of surplus,Dividends of surplus
+jppfs_cor:ProfitLossAttributableToOwnersOfParent,親会社株主に帰属する当期純利益又は親会社株主に帰属する当期純損失（△）,Profit (loss) attributable to owners of parent,Profit (loss) attributable to owners of parent
+jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
+jppfs_cor:DisposalOfTreasuryStock,自己株式の処分,Disposal of treasury shares,Disposal of treasury shares
+jppfs_cor:NetChangesOfItemsOtherThanShareholdersEquity,株主資本以外の項目の当期変動額（純額）,Net changes of items other than shareholders' equity,Net changes of items other than shareholders' equity
+jppfs_cor:ReversalOfReserveForDepreciationOfSpecifiedGasPipelineConstructionGAS,特定ガス導管工事償却準備金の取崩、ガス事業,Reversal of reserve for depreciation of specified gas pipeline construction,Reversal of reserve for depreciation of specified gas pipeline construction-GAS
+jppfs_cor:ProvisionOfReserveForAdjustmentOfCostFluctuationsGAS,原価変動調整積立金の積立、ガス事業,Provision of reserve for adjustment of cost fluctuations,Provision of reserve for adjustment of cost fluctuations-GAS
+jppfs_cor:ReversalOfReserveForAdjustmentOfCostFluctuationsGAS,原価変動調整積立金の取崩、ガス事業,Reversal of reserve for adjustment of cost fluctuations,Reversal of reserve for adjustment of cost fluctuations-GAS
+jppfs_cor:TotalChangesOfItemsDuringThePeriod,当期変動額合計,Total changes of items during period,Total changes of items during period
+nan,,,
+nan,,,
+名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+jppfs_cor:StatementOfCashFlowsAbstract,キャッシュ・フロー計算書 [タイトル項目],Statement of cash flows,Statement of cash flows [abstract]
+jppfs_cor:StatementOfCashFlowsTable,キャッシュ・フロー計算書 [表],Statement of cash flows,Statement of cash flows [table]
+jppfs_cor:StatementOfCashFlowsLineItems,キャッシュ・フロー計算書 [表示項目],Statement of cash flows,Statement of cash flows [line items]
+jppfs_cor:NetCashProvidedByUsedInOperatingActivitiesAbstract,営業活動によるキャッシュ・フロー [タイトル項目],Cash flows from operating activities,Cash flows from operating activities [abstract]
+jppfs_cor:SubtotalOpeCF,小計、営業活動によるキャッシュ・フロー,Subtotal,Subtotal-OpeCF
+jppfs_cor:IncreaseDecreaseInProvisionForGasHolderRepairsOpeCFGAS,ガスホルダー修繕引当金の増減額（△は減少）、営業活動によるキャッシュ・フロー、ガス事業,Increase (decrease) in provision for gas holder repairs,Increase (decrease) in provision for gas holder repairs-OpeCF-GAS
+jppfs_cor:IncreaseDecreaseInProvisionForSafetyMeasuresOpeCFGAS,保安対策引当金の増減額（△は減少）、営業活動によるキャッシュ・フロー、ガス事業,Increase (decrease) in provision for safety measures,Increase (decrease) in provision for safety measures-OpeCF-GAS
+jppfs_cor:NetCashProvidedByUsedInInvestmentActivitiesAbstract,投資活動によるキャッシュ・フロー [タイトル項目],Cash flows from investing activities,Cash flows from investing activities [abstract]
+jppfs_cor:NetCashProvidedByUsedInFinancingActivitiesAbstract,財務活動によるキャッシュ・フロー [タイトル項目],Cash flows from financing activities,Cash flows from financing activities [abstract]
