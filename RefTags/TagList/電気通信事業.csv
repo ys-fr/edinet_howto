@@ -1,0 +1,297 @@
+,タクソノミ,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+0,jppfs_cor:BalanceSheetAbstract,貸借対照表 [タイトル項目],Balance sheet,Balance sheet [abstract]
+1,jppfs_cor:BalanceSheetTable,貸借対照表 [表],Balance sheet,Balance sheet [table]
+2,jppfs_cor:BalanceSheetLineItems,貸借対照表 [表示項目],Balance sheet,Balance sheet [line items]
+3,jppfs_cor:AssetsAbstract,資産の部 [タイトル項目],Assets,Assets [abstract]
+4,jppfs_cor:NoncurrentAssetsAbstract,固定資産 [タイトル項目],Non-current assets,Non-current assets [abstract]
+5,jppfs_cor:NoncurrentAssetsTelecommunicationsBusinessAbstract,電気通信事業固定資産 [タイトル項目],Non-current assets - telecommunications business,Non-current assets - telecommunications business [abstract]
+6,jppfs_cor:PropertyPlantAndEquipmentNCATelecommunicationsAbstract,有形固定資産、電気通信事業固定資産 [タイトル項目],"Property, plant and equipment","Property, plant and equipment-NCA-telecommunications [abstract]"
+7,jppfs_cor:MachineryNCATelecommunications,機械設備、電気通信事業固定資産,Machinery,Machinery-NCA-telecommunications
+8,jppfs_cor:AccumulatedDepreciationMachineryNCATelecommunications,減価償却累計額、機械設備、電気通信事業固定資産,Accumulated depreciation,Accumulated depreciation-machinery-NCA-telecommunications
+9,jppfs_cor:MachineryNetNCATelecommunications,機械設備（純額）、電気通信事業固定資産,"Machinery, net","Machinery, net-NCA-telecommunications"
+10,jppfs_cor:AntennaFacilitiesNCATelecommunications,空中線設備、電気通信事業固定資産,Antenna facilities,Antenna facilities-NCA-telecommunications
+11,jppfs_cor:AccumulatedDepreciationAntennaNCATelecommunications,減価償却累計額、空中線設備、電気通信事業固定資産,Accumulated depreciation,Accumulated depreciation-antenna-NCA-telecommunications
+12,jppfs_cor:AntennaFacilitiesNetNCATelecommunications,空中線設備（純額）、電気通信事業固定資産,"Antenna facilities, net","Antenna facilities, net-NCA-telecommunications"
+13,jppfs_cor:CommunicationSatelliteFacilitiesNCATelecommunications,通信衛星設備、電気通信事業固定資産,Communication satellite facilities,Communication satellite facilities-NCA-telecommunications
+14,jppfs_cor:AccumulatedDepreciationSatelliteNCATelecommunications,減価償却累計額、通信衛星設備、電気通信事業固定資産,Accumulated depreciation,Accumulated depreciation-satellite-NCA-telecommunications
+15,jppfs_cor:CommunicationSatelliteFacilitiesNetNCATelecommunications,通信衛星設備（純額）、電気通信事業固定資産,"Communication satellite facilities, net","Communication satellite facilities, net-NCA-telecommunications"
+16,jppfs_cor:TerminalFacilitiesNCATelecommunications,端末設備、電気通信事業固定資産,Terminal facilities,Terminal facilities-NCA-telecommunications
+17,jppfs_cor:AccumulatedDepreciationTerminalNCATelecommunications,減価償却累計額、端末設備、電気通信事業固定資産,Accumulated depreciation,Accumulated depreciation-terminal-NCA-telecommunications
+18,jppfs_cor:TerminalFacilitiesNetNCATelecommunications,端末設備（純額）、電気通信事業固定資産,"Terminal facilities, net","Terminal facilities, net-NCA-telecommunications"
+19,jppfs_cor:LocalLineFacilitiesNCATelecommunications,市内線路設備、電気通信事業固定資産,Local line facilities,Local line facilities-NCA-telecommunications
+20,jppfs_cor:AccumulatedDepreciationLocalNCATelecommunications,減価償却累計額、市内線路設備、電気通信事業固定資産,Accumulated depreciation,Accumulated depreciation-local-NCA-telecommunications
+21,jppfs_cor:LocalLineFacilitiesNetNCATelecommunications,市内線路設備（純額）、電気通信事業固定資産,"Local line facilities, net","Local line facilities, net-NCA-telecommunications"
+22,jppfs_cor:LongDistanceLineFacilitiesNCATelecommunications,市外線路設備、電気通信事業固定資産,Long-distance line facilities,Long-distance line facilities-NCA-telecommunications
+23,jppfs_cor:AccumulatedDepreciationLongNCATelecommunications,減価償却累計額、市外線路設備、電気通信事業固定資産,Accumulated depreciation,Accumulated depreciation-long-NCA-telecommunications
+24,jppfs_cor:LongDistanceLineFacilitiesNetNCATelecommunications,市外線路設備（純額）、電気通信事業固定資産,"Long-distance line facilities, net","Long-distance line facilities, net-NCA-telecommunications"
+25,jppfs_cor:LineFacilitiesNCATelecommunications,線路設備、電気通信事業固定資産,Line facilities,Line facilities-NCA-telecommunications
+26,jppfs_cor:AccumulatedDepreciationLineFacilitiesNCATelecommunications,減価償却累計額、線路設備、電気通信事業固定資産,Accumulated depreciation,Accumulated depreciation-line facilities-NCA-telecommunications
+27,jppfs_cor:LineFacilitiesNetNCATelecommunications,線路設備（純額）、電気通信事業固定資産,"Line facilities, net","Line facilities, net-NCA-telecommunications"
+28,jppfs_cor:EngineeringFacilitiesNCATelecommunications,土木設備、電気通信事業固定資産,Engineering facilities,Engineering facilities-NCA-telecommunications
+29,jppfs_cor:AccumulatedDepreciationEngineeringNCATelecommunications,減価償却累計額、土木設備、電気通信事業固定資産,Accumulated depreciation,Accumulated depreciation-engineering-NCA-telecommunications
+30,jppfs_cor:EngineeringFacilitiesNetNCATelecommunications,土木設備（純額）、電気通信事業固定資産,"Engineering facilities, net","Engineering facilities, net-NCA-telecommunications"
+31,jppfs_cor:SubmarineLineFacilitiesNCATelecommunications,海底線設備、電気通信事業固定資産,Submarine line facilities,Submarine line facilities-NCA-telecommunications
+32,jppfs_cor:AccumulatedDepreciationSubmarineNCATelecommunications,減価償却累計額、海底線設備、電気通信事業固定資産,Accumulated depreciation,Accumulated depreciation-submarine-NCA-telecommunications
+33,jppfs_cor:SubmarineLineFacilitiesNetNCATelecommunications,海底線設備（純額）、電気通信事業固定資産,"Submarine line facilities, net","Submarine line facilities, net-NCA-telecommunications"
+34,jppfs_cor:BuildingsNCATelecommunications,建物、電気通信事業固定資産,Buildings,Buildings-NCA-telecommunications
+35,jppfs_cor:AccumulatedDepreciationBuildingNCATelecommunications,減価償却累計額、建物、電気通信事業固定資産,Accumulated depreciation,Accumulated depreciation-building-NCA-telecommunications
+36,jppfs_cor:BuildingsNetNCATelecommunications,建物（純額）、電気通信事業固定資産,"Buildings, net","Buildings, net-NCA-telecommunications"
+37,jppfs_cor:StructuresNCATelecommunications,構築物、電気通信事業固定資産,Structures,Structures-NCA-telecommunications
+38,jppfs_cor:AccumulatedDepreciationStructuresNCATelecommunications,減価償却累計額、構築物、電気通信事業固定資産,Accumulated depreciation,Accumulated depreciation-structures-NCA-telecommunications
+39,jppfs_cor:StructuresNetNCATelecommunications,構築物（純額）、電気通信事業固定資産,"Structures, net","Structures, net-NCA-telecommunications"
+40,jppfs_cor:MachineryAndEquipmentNCATelecommunications,機械及び装置、電気通信事業固定資産,Machinery and equipment,Machinery and equipment-NCA-telecommunications
+41,jppfs_cor:AccumulatedDepreciationMachineryAndEquipmentNCATelecommunications,減価償却累計額、機械及び装置、電気通信事業固定資産,Accumulated depreciation,Accumulated depreciation-machinery and equipment-NCA-telecommunications
+42,jppfs_cor:MachineryAndEquipmentNetNCATelecommunications,機械及び装置（純額）、電気通信事業固定資産,"Machinery and equipment, net","Machinery and equipment, net-NCA-telecommunications"
+43,jppfs_cor:VehicleAndShipsNCATelecommunications,車両及び船舶、電気通信事業固定資産,Vehicle and ships,Vehicle and ships-NCA-telecommunications
+44,jppfs_cor:AccumulatedDepreciationVehicleNCATelecommunications,減価償却累計額、車両及び船舶、電気通信事業固定資産,Accumulated depreciation,Accumulated depreciation-vehicle-NCA-telecommunications
+45,jppfs_cor:VehicleAndShipsNetNCATelecommunications,車両及び船舶（純額）、電気通信事業固定資産,"Vehicle and ships, net","Vehicle and ships, net-NCA-telecommunications"
+46,jppfs_cor:VehiclesNCATelecommunications,車両、電気通信事業固定資産,Vehicles,Vehicles-NCA-telecommunications
+47,jppfs_cor:AccumulatedDepreciationVehiclesNCATelecommunications,減価償却累計額、車両、電気通信事業固定資産,Accumulated depreciation,Accumulated depreciation-vehicles-NCA-telecommunications
+48,jppfs_cor:VehiclesNetNCATelecommunications,車両（純額）、電気通信事業固定資産,"Vehicles, net","Vehicles, net-NCA-telecommunications"
+49,jppfs_cor:ToolsFurnitureAndFixturesNCATelecommunications,工具、器具及び備品、電気通信事業固定資産,"Tools, furniture and fixtures","Tools, furniture and fixtures-NCA-telecommunications"
+50,jppfs_cor:AccumulatedDepreciationToolsFurnitureAndFixturesNCATelecommunications,減価償却累計額、工具、器具及び備品、電気通信事業固定資産,Accumulated depreciation,"Accumulated depreciation-tools, furniture and fixtures-NCA-telecommunications"
+51,jppfs_cor:ToolsFurnitureAndFixturesNetNCATelecommunications,工具、器具及び備品（純額）、電気通信事業固定資産,"Tools, furniture and fixtures, net","Tools, furniture and fixtures, net-NCA-telecommunications"
+52,jppfs_cor:InactiveFacilitiesNCATelecommunications,休止設備、電気通信事業固定資産,Inactive facilities,Inactive facilities-NCA-telecommunications
+53,jppfs_cor:AccumulatedDepreciationInactiveNCATelecommunications,減価償却累計額、休止設備、電気通信事業固定資産,Accumulated depreciation,Accumulated depreciation-inactive-NCA-telecommunications
+54,jppfs_cor:InactiveFacilitiesNetNCATelecommunications,休止設備（純額）、電気通信事業固定資産,"Inactive facilities, net","Inactive facilities, net-NCA-telecommunications"
+55,jppfs_cor:LandNCATelecommunications,土地、電気通信事業固定資産,Land,Land-NCA-telecommunications
+56,jppfs_cor:LeaseAssetsNCATelecommunications,リース資産、電気通信事業固定資産,Leased assets,Leased assets-NCA-telecommunications
+57,jppfs_cor:AccumulatedDepreciationLeaseAssetsNCATelecommunications,減価償却累計額、リース資産、電気通信事業固定資産,Accumulated depreciation,Accumulated depreciation-lease assets-NCA-telecommunications
+58,jppfs_cor:LeaseAssetsNetNCATelecommunications,リース資産（純額）、電気通信事業固定資産,"Leased assets, net","Leased assets, net-NCA-telecommunications"
+59,jppfs_cor:ConstructionInProgressNCATelecommunications,建設仮勘定、電気通信事業固定資産,Construction in progress,Construction in progress-NCA-telecommunications
+60,jppfs_cor:PropertyPlantAndEquipmentNCATelecommunications,有形固定資産、電気通信事業固定資産,"Property, plant and equipment","Property, plant and equipment-NCA-telecommunications"
+61,jppfs_cor:IntangibleAssetsNCATelecommunicationsAbstract,無形固定資産、電気通信事業固定資産 [タイトル項目],Intangible assets,Intangible assets-NCA-telecommunications [abstract]
+62,jppfs_cor:RightOfUsingSubmarineLineFacilitiesIANCATelecommunications,海底線使用権、無形固定資産、電気通信事業固定資産,Right of using submarine line facilities,Right of using submarine line facilities-IA-NCA-telecommunications
+63,jppfs_cor:RightOfUsingSatelliteIANCATelecommunications,衛星利用権、無形固定資産、電気通信事業固定資産,Right of using satellite,Right of using satellite-IA-NCA-telecommunications
+64,jppfs_cor:RightOfUsingFacilitiesIANCATelecommunications,施設利用権、無形固定資産、電気通信事業固定資産,Right of using facilities,Right of using facilities-IA-NCA-telecommunications
+65,jppfs_cor:SoftwareIANCATelecommunications,ソフトウェア、無形固定資産、電気通信事業固定資産,Software,Software-IA-NCA-telecommunications
+66,jppfs_cor:GoodwillIAELC,のれん、無形固定資産、電気通信事業固定資産,Goodwill,Goodwill-IA-ELC
+67,jppfs_cor:PatentRightIANCATelecommunications,特許権、無形固定資産、電気通信事業固定資産,Patent right,Patent right-IA-NCA-telecommunications
+68,jppfs_cor:LeaseholdRightIANCATelecommunications,借地権、無形固定資産、電気通信事業固定資産,Leasehold right,Leasehold right-IA-NCA-telecommunications
+69,jppfs_cor:LeaseAssetsIANCATelecommunications,リース資産、無形固定資産、電気通信事業固定資産,Leased assets,Leased assets-IA-NCA-telecommunications
+70,jppfs_cor:OtherIntangibleAssetsIANCATelecommunications,その他の無形固定資産、無形固定資産、電気通信事業固定資産,Other intangible assets,Other intangible assets-IA-NCA-telecommunications
+71,jppfs_cor:IntangibleAssetsNCATelecommunications,無形固定資産、電気通信事業固定資産,Intangible assets,Intangible assets-NCA-telecommunications
+72,jppfs_cor:NoncurrentAssetsTelecommunicationsBusinessELC,電気通信事業固定資産、電気通信事業,Non-current assets - telecommunications business,Non-current assets - telecommunications business-ELC
+73,jppfs_cor:IncidentalBusinessFacilitiesAbstractELC,附帯事業固定資産、電気通信事業 [タイトル項目],Incidental business facilities,Incidental business facilities-ELC [abstract]
+74,jppfs_cor:PropertyPlantAndEquipmentNCAIncidentalAbstractELC,有形固定資産、附帯事業固定資産、電気通信事業 [タイトル項目],"Property, plant and equipment","Property, plant and equipment-NCA-incidental-ELC [abstract]"
+75,jppfs_cor:PropertyPlantAndEquipmentGrossNCAIncidentalELC,有形固定資産（総額）、附帯事業固定資産、電気通信事業,"Property, plant and equipment, gross","Property, plant and equipment, gross-NCA-incidental-ELC"
+76,jppfs_cor:AccumulatedDepreciationPPEIncidentalELC,減価償却累計額、有形固定資産、附帯事業固定資産、電気通信事業,Accumulated depreciation,Accumulated depreciation-PPE-incidental-ELC
+77,jppfs_cor:PropertyPlantAndEquipmentNCAIncidentalELC,有形固定資産、附帯事業固定資産、電気通信事業,"Property, plant and equipment","Property, plant and equipment-NCA-incidental-ELC"
+78,jppfs_cor:IntangibleAssetsNCAIncidentalAbstractELC,無形固定資産、附帯事業固定資産、電気通信事業 [タイトル項目],Intangible assets,Intangible assets-NCA-incidental-ELC [abstract]
+79,jppfs_cor:IntangibleAssetsNCAIncidentalELC,無形固定資産、附帯事業固定資産、電気通信事業,Intangible assets,Intangible assets-NCA-incidental-ELC
+80,jppfs_cor:NoncurrentAssetsIncidentalBusinessNCAELC,附帯事業固定資産、電気通信事業,Non-current assets - incidental business,Non-current assets - incidental business-NCA-ELC
+81,jppfs_cor:InvestmentsAndOtherAssetsAbstract,投資その他の資産 [タイトル項目],Investments and other assets,Investments and other assets [abstract]
+82,jppfs_cor:InvestmentSecurities,投資有価証券,Investment securities,Investment securities
+83,jppfs_cor:StocksOfParentCompanyIOA,親会社株式、投資その他の資産,Shares of parent,Shares of parent-IOA
+84,jppfs_cor:StocksOfSubsidiariesAndAffiliates,関係会社株式,Shares of subsidiaries and associates,Shares of subsidiaries and associates
+85,jppfs_cor:OtherInvestmentsInSubsidiariesAndAffiliatesIOAELC,その他の関係会社投資、投資その他の資産、電気通信事業,Other investments in subsidiaries and associates,Other investments in subsidiaries and associates-IOA-ELC
+86,jppfs_cor:InvestmentsInCapital,出資金,Investments in capital,Investments in capital
+87,jppfs_cor:InvestmentsInCapitalOfSubsidiariesAndAffiliates,関係会社出資金,Investments in capital of subsidiaries and associates,Investments in capital of subsidiaries and associates
+88,jppfs_cor:LongTermLoansReceivable,長期貸付金,Long-term loans receivable,Long-term loans receivable
+89,jppfs_cor:LongTermLoansReceivableFromInterCompanyInvestmentSecuritiesELC,社内長期貸付金、投資その他の資産、電気通信事業,Long-term loans receivable from inter-company,Long-term loans receivable from inter-company-IOA-ELC
+90,jppfs_cor:LongTermLoansReceivableFromSubsidiariesAndAffiliates,関係会社長期貸付金,Long-term loans receivable from subsidiaries and associates,Long-term loans receivable from subsidiaries and associates
+91,jppfs_cor:LongTermPrepaidExpenses,長期前払費用,Long-term prepaid expenses,Long-term prepaid expenses
+92,jppfs_cor:DeferredTaxAssetsIOA,繰延税金資産、投資その他の資産,Deferred tax assets,Deferred tax assets-IOA
+93,jppfs_cor:OtherIOA,その他、投資その他の資産,Other,Other-IOA
+94,jppfs_cor:AllowanceForDoubtfulAccountsIOAByGroup,貸倒引当金、投資その他の資産、一括控除,Allowance for doubtful accounts,Allowance for doubtful accounts-IOA-by group
+95,jppfs_cor:InvestmentsAndOtherAssets,投資その他の資産,Investments and other assets,Investments and other assets
+96,jppfs_cor:NoncurrentAssets,固定資産,Non-current assets,Non-current assets
+97,jppfs_cor:CurrentAssetsAbstract,流動資産 [タイトル項目],Current assets,Current assets [abstract]
+98,jppfs_cor:CashAndDeposits,現金及び預金,Cash and deposits,Cash and deposits
+99,jppfs_cor:NotesAndAccountsReceivableTrade,受取手形及び売掛金,Notes and accounts receivable - trade,Notes and accounts receivable-trade
+100,jppfs_cor:NotesReceivableTrade,受取手形,Notes receivable - trade,Notes receivable-trade
+101,jppfs_cor:AccountsReceivableTrade,売掛金,Accounts receivable - trade,Accounts receivable-trade
+102,jppfs_cor:AccountsReceivableOther,未収入金,Accounts receivable - other,Accounts receivable-other
+103,jppfs_cor:LeaseReceivablesAndInvestmentAssetsCA,リース債権及びリース投資資産、流動資産,Lease receivables and investment assets,Lease receivables and investment assets-CA
+104,jppfs_cor:LeaseReceivablesCA,リース債権、流動資産,Lease receivables,Lease receivables-CA
+105,jppfs_cor:LeaseInvestmentAssetsCA,リース投資資産、流動資産,Lease investment assets,Lease investment assets-CA
+106,jppfs_cor:ShortTermInvestmentSecurities,有価証券,Securities,Securities
+107,jppfs_cor:StocksOfParentCompanyCA,親会社株式、流動資産,Shares of parent,Shares of parent-CA
+108,jppfs_cor:Supplies,貯蔵品,Supplies,Supplies
+109,jppfs_cor:AdvancePaymentsTrade,前渡金,Advance payments - trade,Advance payments-trade
+110,jppfs_cor:PrepaidExpenses,前払費用,Prepaid expenses,Prepaid expenses
+111,jppfs_cor:DeferredTaxAssetsCA,繰延税金資産、流動資産,Deferred tax assets,Deferred tax assets-CA
+112,jppfs_cor:OtherCA,その他、流動資産,Other,Other-CA
+113,jppfs_cor:AllowanceForDoubtfulAccountsCA,貸倒引当金、流動資産、一括控除,Allowance for doubtful accounts,Allowance for doubtful accounts-CA-by group
+114,jppfs_cor:CurrentAssets,流動資産,Current assets,Current assets
+115,jppfs_cor:DeferredAssetsAbstract,繰延資産 [タイトル項目],Deferred assets,Deferred assets [abstract]
+116,jppfs_cor:DeferredOrganizationExpensesDA,創立費、繰延資産,Deferred organization expenses,Deferred organization expenses-DA
+117,jppfs_cor:BusinessCommencementExpensesDA,開業費、繰延資産,Business commencement expenses,Business commencement expenses-DA
+118,jppfs_cor:StockIssuanceCostDA,株式交付費、繰延資産,Share issuance cost,Share issuance cost-DA
+119,jppfs_cor:BondIssuanceCostDA,社債発行費、繰延資産,Bond issuance cost,Bond issuance cost-DA
+120,jppfs_cor:DevelopmentExpensesDA,開発費、繰延資産,Development expenses,Development expenses-DA
+121,jppfs_cor:DeferredAssets,繰延資産,Deferred assets,Deferred assets
+122,jppfs_cor:Assets,資産,Assets,Assets
+123,jppfs_cor:LiabilitiesAbstract,負債の部 [タイトル項目],Liabilities,Liabilities [abstract]
+124,jppfs_cor:NoncurrentLiabilitiesAbstract,固定負債 [タイトル項目],Non-current liabilities,Non-current liabilities [abstract]
+125,jppfs_cor:BondsPayable,社債,Bonds payable,Bonds payable
+126,jppfs_cor:LongTermLoansPayable,長期借入金,Long-term loans payable,Long-term loans payable
+127,jppfs_cor:LongTermLoansPayableToSubsidiariesAndAffiliates,関係会社長期借入金,Long-term loans payable to subsidiaries and associates,Long-term loans payable to subsidiaries and associates
+128,jppfs_cor:LeaseObligationsNCL,リース債務、固定負債,Lease obligations,Lease obligations-NCL
+129,jppfs_cor:DeferredTaxLiabilitiesNCL,繰延税金負債、固定負債,Deferred tax liabilities,Deferred tax liabilities-NCL
+130,jppfs_cor:ProvisionForRetirementBenefits,退職給付引当金,Provision for retirement benefits,Provision for retirement benefits
+131,jppfs_cor:AssetRetirementObligationsNCL,資産除去債務、固定負債,Asset retirement obligations,Asset retirement obligations-NCL
+132,jppfs_cor:OtherNCL,その他、固定負債,Other,Other-NCL
+133,jppfs_cor:NoncurrentLiabilities,固定負債,Non-current liabilities,Non-current liabilities
+134,jppfs_cor:CurrentLiabilitiesAbstract,流動負債 [タイトル項目],Current liabilities,Current liabilities [abstract]
+135,jppfs_cor:CurrentPortionOfNoncurrentLiabilitiesCLELC,1年以内に期限到来の固定負債、流動負債、電気通信業,Current portion of non-current liabilities,Current portion of non-current liabilities-CL-ELC
+136,jppfs_cor:CurrentPortionOfLongTermLoansPayableToSubsidiariesAndAffiliatesCLELC,1年以内に期限到来の関係会社長期借入金、流動負債、電気通信業,Current portion of long-term loans payable to subsidiaries and associates,Current portion of long-term loans payable to subsidiaries and associates-CL-ELC
+137,jppfs_cor:NotesAndAccountsPayableTrade,支払手形及び買掛金,Notes and accounts payable - trade,Notes and accounts payable-trade
+138,jppfs_cor:NotesPayableTrade,支払手形,Notes payable - trade,Notes payable-trade
+139,jppfs_cor:AccountsPayableTrade,買掛金,Accounts payable - trade,Accounts payable-trade
+140,jppfs_cor:ShortTermLoansPayable,短期借入金,Short-term loans payable,Short-term loans payable
+141,jppfs_cor:LeaseObligationsCL,リース債務、流動負債,Lease obligations,Lease obligations-CL
+142,jppfs_cor:AccountsPayableOther,未払金,Accounts payable - other,Accounts payable-other
+143,jppfs_cor:AccruedExpenses,未払費用,Accrued expenses,Accrued expenses
+144,jppfs_cor:IncomeTaxesPayable,未払法人税等,Income taxes payable,Income taxes payable
+145,jppfs_cor:DeferredTaxLiabilitiesCL,繰延税金負債、流動負債,Deferred tax liabilities,Deferred tax liabilities-CL
+146,jppfs_cor:AdvancesReceived,前受金,Advances received,Advances received
+147,jppfs_cor:DepositsReceived,預り金,Deposits received,Deposits received
+148,jppfs_cor:DepositsReceivedFromEmployees,従業員預り金,Deposits received from employees,Deposits received from employees
+149,jppfs_cor:UnearnedRevenue,前受収益,Unearned revenue,Unearned revenue
+150,jppfs_cor:AssetRetirementObligationsCL,資産除去債務、流動負債,Asset retirement obligations,Asset retirement obligations-CL
+151,jppfs_cor:OtherCL,その他、流動負債,Other,Other-CL
+152,jppfs_cor:CurrentLiabilities,流動負債,Current liabilities,Current liabilities
+153,jppfs_cor:Liabilities,負債,Liabilities,Liabilities
+154,jppfs_cor:NetAssetsAbstract,純資産の部 [タイトル項目],Net assets,Net assets [abstract]
+155,jppfs_cor:ShareholdersEquityAbstract,株主資本 [タイトル項目],Shareholders' equity,Shareholders' equity [abstract]
+156,jppfs_cor:CapitalStock,資本金,Capital stock,Capital stock
+157,jppfs_cor:DepositForSubscriptionsToShares,新株式申込証拠金,Deposit for subscriptions to shares,Deposit for subscriptions to shares
+158,jppfs_cor:CapitalSurplusAbstract,資本剰余金 [タイトル項目],Capital surplus,Capital surplus [abstract]
+159,jppfs_cor:LegalCapitalSurplus,資本準備金,Legal capital surplus,Legal capital surplus
+160,jppfs_cor:OtherCapitalSurplus,その他資本剰余金,Other capital surplus,Other capital surplus
+161,jppfs_cor:CapitalSurplus,資本剰余金,Capital surplus,Capital surplus
+162,jppfs_cor:RetainedEarningsAbstract,利益剰余金 [タイトル項目],Retained earnings,Retained earnings [abstract]
+163,jppfs_cor:LegalRetainedEarnings,利益準備金,Legal retained earnings,Legal retained earnings
+164,jppfs_cor:OtherRetainedEarningsAbstract,その他利益剰余金 [タイトル項目],Other retained earnings,Other retained earnings [abstract]
+165,jppfs_cor:RetainedEarningsBroughtForward,繰越利益剰余金,Retained earnings brought forward,Retained earnings brought forward
+166,jppfs_cor:RetainedEarnings,利益剰余金,Retained earnings,Retained earnings
+167,jppfs_cor:TreasuryStock,自己株式,Treasury shares,Treasury shares
+168,jppfs_cor:DepositForSubscriptionsToTreasuryStock,自己株式申込証拠金,Deposit for subscriptions to treasury shares,Deposit for subscriptions to treasury shares
+169,jppfs_cor:ShareholdersEquity,株主資本,Shareholders' equity,Shareholders' equity
+170,jppfs_cor:ValuationAndTranslationAdjustmentsAbstract,評価・換算差額等 [タイトル項目],Valuation and translation adjustments,Valuation and translation adjustments [abstract]
+171,jppfs_cor:ValuationDifferenceOnAvailableForSaleSecurities,その他有価証券評価差額金,Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities
+172,jppfs_cor:DeferredGainsOrLossesOnHedges,繰延ヘッジ損益,Deferred gains or losses on hedges,Deferred gains or losses on hedges
+173,jppfs_cor:RevaluationReserveForLand,土地再評価差額金,Revaluation reserve for land,Revaluation reserve for land
+174,jppfs_cor:ForeignCurrencyTranslationAdjustment,為替換算調整勘定,Foreign currency translation adjustment,Foreign currency translation adjustment
+175,jppfs_cor:ValuationAndTranslationAdjustments,評価・換算差額等,Valuation and translation adjustments,Valuation and translation adjustments
+176,jppfs_cor:SubscriptionRightsToShares,新株予約権,Share acquisition rights,Share acquisition rights
+177,jppfs_cor:NonControllingInterests,非支配株主持分,Non-controlling interests,Non-controlling interests
+178,jppfs_cor:NetAssets,純資産,Net assets,Net assets
+179,jppfs_cor:LiabilitiesAndNetAssets,負債純資産,Liabilities and net assets,Liabilities and net assets
+180,nan,,,
+181,nan,,,
+182,名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+183,jppfs_cor:StatementOfIncomeAbstract,損益計算書 [タイトル項目],Statement of income,Statement of income [abstract]
+184,jppfs_cor:StatementOfIncomeTable,損益計算書 [表],Statement of income,Statement of income [table]
+185,jppfs_cor:StatementOfIncomeLineItems,損益計算書 [表示項目],Statement of income,Statement of income [line items]
+186,jppfs_cor:OperatingIncomeAndLossFromTelecommunicationsAbstract,電気通信事業営業損益 [タイトル項目],Operating revenue and expenses from telecommunications,Operating revenue and expenses from telecommunications [abstract]
+187,jppfs_cor:OperatingRevenueOILTelecommunicationsAbstract,営業収益、電気通信事業営業損益 [タイトル項目],Operating revenue,Operating revenue-OIL-telecommunications [abstract]
+188,jppfs_cor:VoiceCommunicationsOROILTelecommunications,音声伝送収入、営業収益、電気通信事業営業損益,Voice communications,Voice communications-OR-OIL-telecommunications
+189,jppfs_cor:DigitalDataTransmissionServicesOROILTelecommunications,データ伝送収入、営業収益、電気通信事業営業損益,Digital data transmission services,Digital data transmission services-OR-OIL-telecommunications
+190,jppfs_cor:PrivateLineOROILTelecommunications,専用収入、営業収益、電気通信事業営業損益,Private line,Private line-OR-OIL-telecommunications
+191,jppfs_cor:OtherRevenueOROILTelecommunications,その他の収入、営業収益、電気通信事業営業損益,Other revenue,Other revenue-OR-OIL-telecommunications
+192,jppfs_cor:OperatingRevenueOILTelecommunications,営業収益、電気通信事業営業損益,Operating revenue,Operating revenue-OIL-telecommunications
+193,jppfs_cor:OperatingExpensesOILTelecommunicationsAbstract,営業費用、電気通信事業営業損益 [タイトル項目],Operating expenses,Operating expenses-OIL-telecommunications [abstract]
+194,jppfs_cor:BusinessExpensesOEOILTelecommunications,営業費、営業費用、電気通信事業営業損益,Business expenses,Business expenses-OE-OIL-telecommunications
+195,jppfs_cor:OperatingExpensesOEOILTelecommunications,運用費、営業費用、電気通信事業営業損益,Operating expenses,Operating expenses-OE-OIL-telecommunications
+196,jppfs_cor:FacilitiesMaintenanceExpensesOEOILTelecommunications,施設保全費、営業費用、電気通信事業営業損益,Facilities maintenance expenses,Facilities maintenance expenses-OE-OIL-telecommunications
+197,jppfs_cor:CommonExpensesOEOILTelecommunications,共通費、営業費用、電気通信事業営業損益,Common expenses,Common expenses-OE-OIL-telecommunications
+198,jppfs_cor:AdministrativeExpensesOEOILTelecommunications,管理費、営業費用、電気通信事業営業損益,Administrative expenses,Administrative expenses-OE-OIL-telecommunications
+199,jppfs_cor:ExperimentAndResearchExpensesOEOILTelecommunications,試験研究費、営業費用、電気通信事業営業損益,Experiment and research expenses,Experiment and research expenses-OE-OIL-telecommunications
+200,jppfs_cor:ResearchExpensesAllowanceOEOILTelecommunications,研究費償却、営業費用、電気通信事業営業損益,Research expenses allowance,Research expenses allowance-OE-OIL-telecommunications
+201,jppfs_cor:DepreciationOEOILTelecommunications,減価償却費、営業費用、電気通信事業営業損益,Depreciation,Depreciation-OE-OIL-telecommunications
+202,jppfs_cor:NoncurrentAssetsRetirementCostOEOILTelecommunications,固定資産除却費、営業費用、電気通信事業営業損益,Non-current assets retirement cost,Non-current assets retirement cost-OE-OIL-telecommunications
+203,jppfs_cor:CommunicationFacilityFeeOEOILTelecommunications,通信設備使用料、営業費用、電気通信事業営業損益,Communication facility fee,Communication facility fee-OE-OIL-telecommunications
+204,jppfs_cor:TaxesAndDuesOEOILTelecommunications,租税公課、営業費用、電気通信事業営業損益,Taxes and dues,Taxes and dues-OE-OIL-telecommunications
+205,jppfs_cor:OperatingExpensesOILTelecommunications,営業費用、電気通信事業営業損益,Operating expenses,Operating expenses-OIL-telecommunications
+206,jppfs_cor:NetOperatingIncomeFromTelecommunicationELC,電気通信事業営業利益又は電気通信事業営業損失（△）、電気通信事業,Operating profit (loss) from telecommunication,Operating profit (loss) from telecommunication - ELC
+207,jppfs_cor:OperatingIncomeAndLossFromIncidentalBusinessAbstractELC,附帯事業営業損益、電気通信事業 [タイトル項目],Operating revenue and expenses from incidental business,Operating revenue and expenses from incidental business - ELC [abstract]
+208,jppfs_cor:OperatingRevenueIncidentalAbstractELC,営業収益、附帯事業営業損益、電気通信事業 [タイトル項目],Operating revenue,Operating revenue-incidental-ELC [abstract]
+209,jppfs_cor:OperatingRevenueIncidentalELC,営業収益、附帯事業営業損益、電気通信事業,Operating revenue,Operating revenue-incidental-ELC
+210,jppfs_cor:OperatingExpensesIncidentalAbstractELC,営業費用、附帯事業営業損益、電気通信事業 [タイトル項目],Operating expenses,Operating expenses-incidental-ELC [abstract]
+211,jppfs_cor:OperatingExpensesIncidentalELC,営業費用、附帯事業営業損益、電気通信事業,Operating expenses,Operating expenses-incidental-ELC
+212,jppfs_cor:NetOperatingIncomeFromIncidentalBusinessELC,附帯事業営業利益又は附帯事業営業損失（△）、電気通信事業,Operating profit (loss) from incidental business,Operating profit (loss) from incidental business - ELC
+213,jppfs_cor:OperatingIncome,営業利益又は営業損失（△）,Operating profit (loss),Operating profit (loss)
+214,jppfs_cor:NonOperatingIncomeAbstract,営業外収益 [タイトル項目],Non-operating income,Non-operating income [abstract]
+215,jppfs_cor:InterestIncomeNOI,受取利息、営業外収益,Interest income,Interest income-NOI
+216,jppfs_cor:InterestOnSecuritiesNOI,有価証券利息、営業外収益,Interest on securities,Interest on securities-NOI
+217,jppfs_cor:DividendsIncomeNOI,受取配当金、営業外収益,Dividend income,Dividend income-NOI
+218,jppfs_cor:GainOnSalesOfSecuritiesNOI,有価証券売却益、営業外収益,Gain on sales of securities,Gain on sales of securities-NOI
+219,jppfs_cor:MiscellaneousIncomeNOI,雑収入、営業外収益,Miscellaneous income,Miscellaneous income-NOI
+220,jppfs_cor:NonOperatingIncome,営業外収益,Non-operating income,Non-operating income
+221,jppfs_cor:NonOperatingExpensesAbstract,営業外費用 [タイトル項目],Non-operating expenses,Non-operating expenses [abstract]
+222,jppfs_cor:InterestExpensesNOE,支払利息、営業外費用,Interest expenses,Interest expenses-NOE
+223,jppfs_cor:InterestOnBondsNOE,社債利息、営業外費用,Interest on bonds,Interest on bonds-NOE
+224,jppfs_cor:AmortizationOfBondIssuanceCostNOE,社債発行費償却、営業外費用,Amortization of bond issuance cost,Amortization of bond issuance cost-NOE
+225,jppfs_cor:AmortizationOfStockIssuanceCostNOE,株式交付費償却、営業外費用,Amortization of share issuance cost,Amortization of share issuance cost-NOE
+226,jppfs_cor:AmortizationOfDeferredOrganizationExpensesNOE,創立費償却、営業外費用,Amortization of deferred organization expenses,Amortization of deferred organization expenses-NOE
+227,jppfs_cor:AmortizationOfBusinessCommencementExpensesNOE,開業費償却、営業外費用,Amortization of business commencement expenses,Amortization of business commencement expenses-NOE
+228,jppfs_cor:AmortizationOfDevelopmentExpensesNOE,開発費償却、営業外費用,Amortization of development expenses,Amortization of development expenses-NOE
+229,jppfs_cor:LossOnSalesOfSecuritiesNOE,有価証券売却損、営業外費用,Loss on sales of securities,Loss on sales of securities-NOE
+230,jppfs_cor:LossOnValuationOfSecuritiesNOE,有価証券評価損、営業外費用,Loss on valuation of securities,Loss on valuation of securities-NOE
+231,jppfs_cor:MiscellaneousExpensesNOEELC,雑支出、営業外費用、電気通信事業,Miscellaneous expenses,Miscellaneous expenses-NOE-ELC
+232,jppfs_cor:NonOperatingExpenses,営業外費用,Non-operating expenses,Non-operating expenses
+233,jppfs_cor:OrdinaryIncome,経常利益又は経常損失（△）,Ordinary profit (loss),Ordinary profit (loss)
+234,jppfs_cor:ExtraordinaryIncomeAbstract,特別利益 [タイトル項目],Extraordinary income,Extraordinary income [abstract]
+235,jppfs_cor:GainOnSalesOfNoncurrentAssetsEI,固定資産売却益、特別利益,Gain on sales of non-current assets,Gain on sales of non-current assets-EI
+236,jppfs_cor:GainOnNegativeGoodwillEI,負ののれん発生益、特別利益,Gain on bargain purchase,Gain on bargain purchase-EI
+237,jppfs_cor:ExtraordinaryIncome,特別利益,Extraordinary income,Extraordinary income
+238,jppfs_cor:ExtraordinaryLossAbstract,特別損失 [タイトル項目],Extraordinary losses,Extraordinary losses [abstract]
+239,jppfs_cor:LossOnSalesOfNoncurrentAssetsEL,固定資産売却損、特別損失,Loss on sales of non-current assets,Loss on sales of non-current assets-EL
+240,jppfs_cor:ImpairmentLossEL,減損損失、特別損失,Impairment loss,Impairment loss-EL
+241,jppfs_cor:NonrecurringLossEL,臨時損失、特別損失,Nonrecurring loss,Nonrecurring loss-EL
+242,jppfs_cor:LossOnRetirementOfNoncurrentAssetsEL,固定資産除却損、特別損失,Loss on retirement of non-current assets,Loss on retirement of non-current assets-EL
+243,jppfs_cor:ExtraordinaryLoss,特別損失,Extraordinary losses,Extraordinary losses
+244,jppfs_cor:IncomeBeforeIncomeTaxes,税引前当期純利益又は税引前当期純損失（△）,Profit (loss) before income taxes,Profit (loss) before income taxes
+245,jppfs_cor:IncomeTaxes,法人税等,Income taxes,Income taxes
+246,jppfs_cor:IncomeTaxesCurrent,法人税、住民税及び事業税,Income taxes - current,Income taxes-current
+247,jppfs_cor:IncomeTaxesDeferred,法人税等調整額,Income taxes - deferred,Income taxes-deferred
+248,jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
+249,jppfs_cor:ProfitAttributableToAbstract,内訳、当期純利益 [タイトル項目],Profit attributable to,Profit attributable to [abstract]
+250,jppfs_cor:ProfitLossAttributableToNonControllingInterests,非支配株主に帰属する当期純利益又は非支配株主に帰属する当期純損失（△）,Profit (loss) attributable to non-controlling interests,Profit (loss) attributable to non-controlling interests
+251,jppfs_cor:ProfitLossAttributableToOwnersOfParent,親会社株主に帰属する当期純利益又は親会社株主に帰属する当期純損失（△）,Profit (loss) attributable to owners of parent,Profit (loss) attributable to owners of parent
+252,nan,,,
+253,nan,,,
+254,名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+255,jppfs_cor:StatementOfChangesInEquityAbstract,株主資本等変動計算書 [タイトル項目],Statement of changes in equity,Statement of changes in equity [abstract]
+256,jppfs_cor:StatementOfChangesInEquityTable,株主資本等変動計算書 [表],Statement of changes in equity,Statement of changes in equity [table]
+257,jppfs_cor:ComponentsOfEquityAxis,純資産の内訳項目 [軸],Components of equity,Components of equity [axis]
+258,jppfs_cor:NetAssetsMember,純資産 [メンバー],Net assets,Net assets [member]
+259,jppfs_cor:ShareholdersEquityMember,株主資本 [メンバー],Shareholders' equity,Shareholders' equity [member]
+260,jppfs_cor:CapitalStockMember,資本金 [メンバー],Capital stock,Capital stock [member]
+261,jppfs_cor:CapitalSurplusMember,資本剰余金 [メンバー],Capital surplus,Capital surplus [member]
+262,jppfs_cor:LegalCapitalSurplusMember,資本準備金 [メンバー],Legal capital surplus,Legal capital surplus [member]
+263,jppfs_cor:OtherCapitalSurplusMember,その他資本剰余金 [メンバー],Other capital surplus,Other capital surplus [member]
+264,jppfs_cor:RetainedEarningsMember,利益剰余金 [メンバー],Retained earnings,Retained earnings [member]
+265,jppfs_cor:LegalRetainedEarningsMember,利益準備金 [メンバー],Legal retained earnings,Legal retained earnings [member]
+266,jppfs_cor:OtherRetainedEarningsMember,その他利益剰余金 [メンバー],Other retained earnings,Other retained earnings [member]
+267,jppfs_cor:RetainedEarningsBroughtForwardMember,繰越利益剰余金 [メンバー],Retained earnings brought forward,Retained earnings brought forward [member]
+268,jppfs_cor:TreasuryStockMember,自己株式 [メンバー],Treasury shares,Treasury shares [member]
+269,jppfs_cor:ValuationAndTranslationAdjustmentsMember,評価・換算差額等 [メンバー],Valuation and translation adjustments,Valuation and translation adjustments [member]
+270,jppfs_cor:ValuationDifferenceOnAvailableForSaleSecuritiesMember,その他有価証券評価差額金 [メンバー],Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities [member]
+271,jppfs_cor:DeferredGainsOrLossesOnHedgesMember,繰延ヘッジ損益 [メンバー],Deferred gains or losses on hedges,Deferred gains or losses on hedges [member]
+272,jppfs_cor:RevaluationReserveForLandMember,土地再評価差額金 [メンバー],Revaluation reserve for land,Revaluation reserve for land [member]
+273,jppfs_cor:ForeignCurrencyTranslationAdjustmentMember,為替換算調整勘定 [メンバー],Foreign currency translation adjustment,Foreign currency translation adjustment [member]
+274,jppfs_cor:SubscriptionRightsToSharesMember,新株予約権 [メンバー],Share acquisition rights,Share acquisition rights [member]
+275,jppfs_cor:NonControllingInterestsMember,非支配株主持分 [メンバー],Non-controlling interests,Non-controlling interests [member]
+276,jppfs_cor:StatementOfChangesInEquityLineItems,株主資本等変動計算書 [表示項目],Statement of changes in equity,Statement of changes in equity [line items]
+277,jppfs_cor:NetAssets,純資産,Net assets,Net assets
+278,jppfs_cor:ChangesOfItemsDuringThePeriodAbstract,当期変動額 [タイトル項目],Changes of items during period,Changes of items during period [abstract]
+279,jppfs_cor:IssuanceOfNewShares,新株の発行,Issuance of new shares,Issuance of new shares
+280,jppfs_cor:DividendsFromSurplus,剰余金の配当,Dividends of surplus,Dividends of surplus
+281,jppfs_cor:ProfitLossAttributableToOwnersOfParent,親会社株主に帰属する当期純利益又は親会社株主に帰属する当期純損失（△）,Profit (loss) attributable to owners of parent,Profit (loss) attributable to owners of parent
+282,jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
+283,jppfs_cor:DisposalOfTreasuryStock,自己株式の処分,Disposal of treasury shares,Disposal of treasury shares
+284,jppfs_cor:NetChangesOfItemsOtherThanShareholdersEquity,株主資本以外の項目の当期変動額（純額）,Net changes of items other than shareholders' equity,Net changes of items other than shareholders' equity
+285,jppfs_cor:TotalChangesOfItemsDuringThePeriod,当期変動額合計,Total changes of items during period,Total changes of items during period
+286,nan,,,
+287,nan,,,
+288,名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+289,jppfs_cor:StatementOfCashFlowsAbstract,キャッシュ・フロー計算書 [タイトル項目],Statement of cash flows,Statement of cash flows [abstract]
+290,jppfs_cor:StatementOfCashFlowsTable,キャッシュ・フロー計算書 [表],Statement of cash flows,Statement of cash flows [table]
+291,jppfs_cor:StatementOfCashFlowsLineItems,キャッシュ・フロー計算書 [表示項目],Statement of cash flows,Statement of cash flows [line items]
+292,jppfs_cor:NetCashProvidedByUsedInOperatingActivitiesAbstract,営業活動によるキャッシュ・フロー [タイトル項目],Cash flows from operating activities,Cash flows from operating activities [abstract]
+293,jppfs_cor:SubtotalOpeCF,小計、営業活動によるキャッシュ・フロー,Subtotal,Subtotal-OpeCF
+294,jppfs_cor:NetCashProvidedByUsedInInvestmentActivitiesAbstract,投資活動によるキャッシュ・フロー [タイトル項目],Cash flows from investing activities,Cash flows from investing activities [abstract]
+295,jppfs_cor:NetCashProvidedByUsedInFinancingActivitiesAbstract,財務活動によるキャッシュ・フロー [タイトル項目],Cash flows from financing activities,Cash flows from financing activities [abstract]

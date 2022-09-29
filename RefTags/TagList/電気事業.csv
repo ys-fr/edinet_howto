@@ -1,0 +1,311 @@
+,タクソノミ,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+0,jppfs_cor:BalanceSheetAbstract,貸借対照表 [タイトル項目],Balance sheet,Balance sheet [abstract]
+1,jppfs_cor:BalanceSheetTable,貸借対照表 [表],Balance sheet,Balance sheet [table]
+2,jppfs_cor:BalanceSheetLineItems,貸借対照表 [表示項目],Balance sheet,Balance sheet [line items]
+3,jppfs_cor:AssetsAbstract,資産の部 [タイトル項目],Assets,Assets [abstract]
+4,jppfs_cor:NoncurrentAssets,固定資産,Non-current assets,Non-current assets
+5,jppfs_cor:ElectricUtilityPlantAndEquipmentAssetsELE,電気事業固定資産、電気事業,Electric utility plant and equipment,Electric utility plant and equipment assets-ELE
+6,jppfs_cor:HydroelectricPowerProductionFacilitiesNCAElectricELE,水力発電設備、電気事業固定資産、電気事業,Hydroelectric power production facilities,Hydroelectric power production facilities-NCA-electric-ELE
+7,jppfs_cor:ThermalPowerProductionFacilitiesNCAElectricELE,汽力発電設備、電気事業固定資産、電気事業,Thermal power production facilities,Thermal power production facilities-NCA-electric-ELE
+8,jppfs_cor:NuclearPowerProductionFacilitiesNCAElectricELE,原子力発電設備、電気事業固定資産、電気事業,Nuclear power production facilities,Nuclear power production facilities-NCA-electric-ELE
+9,jppfs_cor:InternalCombustionEnginePowerProductionFacilitiesNCAElectricELE,内燃力発電設備、電気事業固定資産、電気事業,Internal combustion engine power production facilities,Internal combustion engine power production facilities-NCA-electric-ELE
+10,jppfs_cor:RenewablePowerProductionFacilitiesNCAElectricELE,新エネルギー等発電設備、電気事業固定資産、電気事業,Renewable power production facilities,Renewable power production facilities-NCA-electric-ELE
+11,jppfs_cor:TransmissionFacilitiesNCAElectricELE,送電設備、電気事業固定資産、電気事業,Transmission facilities,Transmission facilities-NCA-electric-ELE
+12,jppfs_cor:TransformationFacilitiesNCAElectricELE,変電設備、電気事業固定資産、電気事業,Transformation facilities,Transformation facilities-NCA-electric-ELE
+13,jppfs_cor:DistributionFacilitiesNCAElectricELE,配電設備、電気事業固定資産、電気事業,Distribution facilities,Distribution facilities-NCA-electric-ELE
+14,jppfs_cor:GeneralFacilitiesNCAElectricELE,業務設備、電気事業固定資産、電気事業,General facilities,General facilities-NCA-electric-ELE
+15,jppfs_cor:InactiveFacilitiesNCAElectricELE,休止設備、電気事業固定資産、電気事業,Inactive facilities,Inactive facilities-NCA-electric-ELE
+16,jppfs_cor:FacilitiesLoanedNCAElectricELE,貸付設備、電気事業固定資産、電気事業,Facilities loaned,Facilities loaned-NCA-electric-ELE
+17,jppfs_cor:OtherElectricUtilityPlantAndEquipmentNCAElectricELE,その他の電気事業固定資産、電気事業固定資産、電気事業,Other electric utility plant and equipment,Other electric utility plant and equipment-NCA-electric-ELE
+18,jppfs_cor:IncidentalBusinessFacilitiesELE,附帯事業固定資産、電気事業,Incidental business facilities,Incidental business facilities-ELE
+19,jppfs_cor:NonOperatingFacilitiesELE,事業外固定資産、電気事業,Non-operating facilities,Non-operating facilities-ELE
+20,jppfs_cor:OtherNoncurrentAssetsELE,その他の固定資産、電気事業,Other non-current assets,Other non-current assets-ELE
+21,jppfs_cor:ConstructionInProgressELE,固定資産仮勘定、電気事業,Construction in progress,Construction in progress-ELE
+22,jppfs_cor:ConstructionInProgressNCAInProgressELE,建設仮勘定、固定資産仮勘定、電気事業,Construction in progress,Construction in progress-NCA in progress-ELE
+23,jppfs_cor:RetirementInProgressNCAInProgressELE,除却仮勘定、固定資産仮勘定、電気事業,Retirement in progress,Retirement in progress-NCA in progress-ELE
+24,jppfs_cor:NuclearPowerAbolitionInProgressELE,原子力廃止関連仮勘定、固定資産仮勘定、電気事業,Special account related to nuclear power decommissioning,Special account related to nuclear power decommissioning - ELE
+25,jppfs_cor:SpecialAccountRelatedToReprocessingOfSpentNuclearFuelELE,使用済燃料再処理関連加工仮勘定、固定資産仮勘定、電気事業,Special account related to reprocessing of spent nuclear fuel,Special account related to reprocessing of spent nuclear fuel - ELE
+26,jppfs_cor:ConstructionAndRetirementInProgressNCAInProcessELE,建設仮勘定及び除却仮勘定、固定資産仮勘定、電気事業,Construction and retirement in progress,Construction and retirement in progress-NCA in process-ELE
+27,jppfs_cor:NuclearFuelNCAELE,核燃料、固定資産、電気事業,Nuclear fuel,Nuclear fuel-NCA-ELE
+28,jppfs_cor:LoadedNuclearFuelNCAELE,装荷核燃料、固定資産、電気事業,Loaded nuclear fuel,Loaded nuclear fuel-NCA-ELE
+29,jppfs_cor:NuclearFuelInProcessingNCAELE,加工中等核燃料、固定資産、電気事業,Nuclear fuel in processing,Nuclear fuel in processing-NCA-ELE
+30,jppfs_cor:LoadedNuclearFuelAndNuclearFuelInProcessingNCAELE,装荷核燃料及び加工中等核燃料、固定資産、電気事業,Loaded nuclear fuel and nuclear fuel in processing,Loaded nuclear fuel and nuclear fuel in processing-NCA-ELE
+31,jppfs_cor:InvestmentsAndOtherAssets,投資その他の資産,Investments and other assets,Investments and other assets
+32,jppfs_cor:LongTermInvestmentsELE,長期投資、電気事業,Long-term investments,Long-term investments-ELE
+33,jppfs_cor:LongTermInvestmentForSubsidiariesAndAffiliatesELE,関係会社長期投資、電気事業,Long-term investments in subsidiaries and associates,Long-term investments in subsidiaries and associates - ELE
+34,jppfs_cor:StocksOfParentCompanyIOA,親会社株式、投資その他の資産,Shares of parent,Shares of parent-IOA
+35,jppfs_cor:ReserveFundForReprocessingOfIrradiatedNuclearFuelIOAELE,使用済燃料再処理等積立金、投資その他の資産、電気事業,Reserve fund for reprocessing of irradiated nuclear fuel,Reserve fund for reprocessing of irradiated nuclear fuel-IOA-ELE
+36,jppfs_cor:AccountsReceivableNuclearPowerCompensationSubsidyELE,未収原子力損害賠償資金補助金、投資その他の資産、電気事業,Accounts receivable - nuclear power compensation subsidy,Accounts receivable - nuclear power compensation subsidy-ELE
+37,jppfs_cor:GrantsInAidReceivableFromNuclearDamageCompensationFacilitationCorporationIOAELE,未収原賠・廃炉等支援機構資金交付金、投資その他の資産、電気事業,Grants-in-aid receivable from Nuclear Damage Liability and Nuclear Reactor Decommission Facilitation Fund,Grants-in-aid receivable from Nuclear Damage Liability and Nuclear Reactor Decommission Facilitation Fund-IOA-ELE
+38,jppfs_cor:LongTermPrepaidExpenses,長期前払費用,Long-term prepaid expenses,Long-term prepaid expenses
+39,jppfs_cor:PrepaidPensionCostIOA,前払年金費用、投資その他の資産,Prepaid pension cost,Prepaid pension cost-IOA
+40,jppfs_cor:DeferredTaxAssetsIOA,繰延税金資産、投資その他の資産,Deferred tax assets,Deferred tax assets-IOA
+41,jppfs_cor:AllowanceForDoubtfulAccountsIOAByGroup,貸倒引当金、投資その他の資産、一括控除,Allowance for doubtful accounts,Allowance for doubtful accounts-IOA-by group
+42,jppfs_cor:PlantAndEquipmentAndIntangibleAssetsELE,有形及び無形固定資産、電気事業,"Plant and equipment, and intangible assets","Plant and equipment, and intangible assets-ELE"
+43,jppfs_cor:CurrentAssets,流動資産,Current assets,Current assets
+44,jppfs_cor:CashAndDeposits,現金及び預金,Cash and deposits,Cash and deposits
+45,jppfs_cor:NotesAndAccountsReceivableTrade,受取手形及び売掛金,Notes and accounts receivable - trade,Notes and accounts receivable-trade
+46,jppfs_cor:NotesReceivableTrade,受取手形,Notes receivable - trade,Notes receivable-trade
+47,jppfs_cor:AccountsReceivableTrade,売掛金,Accounts receivable - trade,Accounts receivable-trade
+48,jppfs_cor:OtherAccountsReceivableCAELE,諸未収入金、流動資産、電気事業,Other accounts receivable,Other accounts receivable-CA-ELE
+49,jppfs_cor:ShortTermInvestmentsCAELE,短期投資、流動資産、電気事業,Short-term investments,Short-term investments-CA-ELE
+50,jppfs_cor:Inventories,たな卸資産,Inventories,Inventories
+51,jppfs_cor:Supplies,貯蔵品,Supplies,Supplies
+52,jppfs_cor:AdvancePaymentsCAELE,前払金、流動資産、電気事業,Advance payments,Advance payments-CA-ELE
+53,jppfs_cor:PrepaidExpenses,前払費用,Prepaid expenses,Prepaid expenses
+54,jppfs_cor:ShortTermReceivablesFromSubsidiariesAndAffiliatesCAELE,関係会社短期債権、流動資産、電気事業,Short-term receivables from subsidiaries and associates,Short-term receivables from subsidiaries and associates-CA-ELE
+55,jppfs_cor:StocksOfParentCompanyCA,親会社株式、流動資産,Shares of parent,Shares of parent-CA
+56,jppfs_cor:DeferredTaxAssetsCA,繰延税金資産、流動資産,Deferred tax assets,Deferred tax assets-CA
+57,jppfs_cor:OtherCurrentAssetsCAELE,雑流動資産、流動資産、電気事業,Other current assets,Other current assets-CA-ELE
+58,jppfs_cor:AllowanceForDoubtfulAccountsCA,貸倒引当金、流動資産、一括控除,Allowance for doubtful accounts,Allowance for doubtful accounts-CA-by group
+59,jppfs_cor:DeferredAssets,繰延資産,Deferred assets,Deferred assets
+60,jppfs_cor:DeferredOrganizationExpensesDA,創立費、繰延資産,Deferred organization expenses,Deferred organization expenses-DA
+61,jppfs_cor:BusinessCommencementExpensesDA,開業費、繰延資産,Business commencement expenses,Business commencement expenses-DA
+62,jppfs_cor:StockIssuanceCostDA,株式交付費、繰延資産,Share issuance cost,Share issuance cost-DA
+63,jppfs_cor:BondIssuanceCostDA,社債発行費、繰延資産,Bond issuance cost,Bond issuance cost-DA
+64,jppfs_cor:DevelopmentExpensesDA,開発費、繰延資産,Development expenses,Development expenses-DA
+65,jppfs_cor:Assets,資産,Assets,Assets
+66,jppfs_cor:LiabilitiesAndNetAssetsAbstractELE,負債及び純資産の部、電気事業 [タイトル項目],Liabilities and net assets,Liabilities and net assets-ELE [abstract]
+67,jppfs_cor:LiabilitiesAbstract,負債の部 [タイトル項目],Liabilities,Liabilities [abstract]
+68,jppfs_cor:NoncurrentLiabilities,固定負債,Non-current liabilities,Non-current liabilities
+69,jppfs_cor:BondsPayable,社債,Bonds payable,Bonds payable
+70,jppfs_cor:LongTermLoansPayable,長期借入金,Long-term loans payable,Long-term loans payable
+71,jppfs_cor:LongTermAccruedLiabilitiesNCLELE,長期未払債務、固定負債、電気事業,Long-term accrued liabilities,Long-term accrued liabilities-NCL-ELE
+72,jppfs_cor:ContributionPayableForReprocessingOfSpentNuclearFuelNCLELE,未払使用済燃料再処理等拠出金、固定負債、電気事業,Contribution payable for reprocessing of spent nuclear fuel,Contribution payable for reprocessing of spent nuclear fuel - NCL - ELE
+73,jppfs_cor:LeaseObligationsNCL,リース債務、固定負債,Lease obligations,Lease obligations-NCL
+74,jppfs_cor:LongTermDebtToSubsidiariesAndAffiliatesNCLELE,関係会社長期債務、固定負債、電気事業,Long-term debt to subsidiaries and associates,Long-term debt to subsidiaries and associates-NCL-ELE
+75,jppfs_cor:ProvisionForRetirementBenefits,退職給付引当金,Provision for retirement benefits,Provision for retirement benefits
+76,jppfs_cor:ProvisionForReprocessingOfIrradiatedNuclearFuelNCLELE,使用済燃料再処理等引当金、固定負債、電気事業,Provision for reprocessing of irradiated nuclear fuel,Provision for reprocessing of irradiated nuclear fuel-NCL-ELE
+77,jppfs_cor:ProvisionForPreparationOfTheReprocessingOfIrradiatedNuclearFuelNCLELE,使用済燃料再処理等準備引当金、固定負債、電気事業,Provision for preparation of reprocessing of irradiated nuclear fuel,Provision for preparation of reprocessing of irradiated nuclear fuel-NCL-ELE
+78,jppfs_cor:ProvisionForDecommissioningOfNuclearPowerUnitsNCLELE,原子力発電施設解体引当金、固定負債、電気事業,Provision for decommissioning of nuclear power units,Provision for decommissioning of nuclear power units-NCL-ELE
+79,jppfs_cor:AssetRetirementObligationsNCL,資産除去債務、固定負債,Asset retirement obligations,Asset retirement obligations-NCL
+80,jppfs_cor:DeferredTaxLiabilitiesNCL,繰延税金負債、固定負債,Deferred tax liabilities,Deferred tax liabilities-NCL
+81,jppfs_cor:NegativeGoodwill,負ののれん,Negative goodwill,Negative goodwill
+82,jppfs_cor:OtherNoncurrentLiabilitiesNCLELE,雑固定負債、固定負債、電気事業,Other non-current liabilities,Other non-current liabilities-NCL-ELE
+83,jppfs_cor:CurrentLiabilities,流動負債,Current liabilities,Current liabilities
+84,jppfs_cor:CurrentPortionOfNoncurrentLiabilitiesCLELE,1年以内に期限到来の固定負債、流動負債、電気事業,Current portion of non-current liabilities,Current portion of non-current liabilities-CL-ELE
+85,jppfs_cor:ShortTermLoansPayable,短期借入金,Short-term loans payable,Short-term loans payable
+86,jppfs_cor:CommercialPapersLiabilities,コマーシャル・ペーパー,Commercial papers,Commercial papers-liabilities
+87,jppfs_cor:NotesAndAccountsPayableTrade,支払手形及び買掛金,Notes and accounts payable - trade,Notes and accounts payable-trade
+88,jppfs_cor:NotesPayableTrade,支払手形,Notes payable - trade,Notes payable-trade
+89,jppfs_cor:AccountsPayableTrade,買掛金,Accounts payable - trade,Accounts payable-trade
+90,jppfs_cor:AccountsPayableOther,未払金,Accounts payable - other,Accounts payable-other
+91,jppfs_cor:AccruedExpenses,未払費用,Accrued expenses,Accrued expenses
+92,jppfs_cor:AccruedTaxes,未払税金,Accrued taxes,Accrued taxes
+93,jppfs_cor:DepositsReceived,預り金,Deposits received,Deposits received
+94,jppfs_cor:ShortTermDebtToSubsidiariesAndAffiliatesCLELE,関係会社短期債務、流動負債、電気事業,Short-term debt to subsidiaries and associates,Short-term debt to subsidiaries and associates-CL-ELE
+95,jppfs_cor:OtherAdvancesCLELE,諸前受金、流動負債、電気事業,Other advances,Other advances-CL-ELE
+96,jppfs_cor:ProvisionForRepairsCLELE,修繕準備引当金、流動負債、電気事業,Provision for repairs,Provision for repairs-CL-ELE
+97,jppfs_cor:AssetRetirementObligationsCL,資産除去債務、流動負債,Asset retirement obligations,Asset retirement obligations-CL
+98,jppfs_cor:DeferredTaxLiabilitiesCL,繰延税金負債、流動負債,Deferred tax liabilities,Deferred tax liabilities-CL
+99,jppfs_cor:OtherCurrentLiabilitiesCLELE,雑流動負債、流動負債、電気事業,Other current liabilities,Other current liabilities-CL-ELE
+100,jppfs_cor:ReservesUnderTheSpecialLaws2,特別法上の引当金,Reserves under special laws,Reserves under special laws-2
+101,jppfs_cor:ReserveForFluctuationInWaterLevelsReservesUnderTheSpecialLawsELE,渇水準備引当金、特別法上の引当金、電気事業,Reserve for fluctuation in water levels,Reserve for fluctuation in water levels-reserves under special laws-ELE
+102,jppfs_cor:ReserveForPreparationOfTheDepreciationOfNuclearPowerConstructionReservesUnderTheSpecialLawsELE,原子力発電工事償却準備引当金、特別法上の引当金、電気事業,Reserve for preparation of depreciation of nuclear power construction,Reserve for preparation of depreciation of nuclear power construction-reserves under special laws-ELE
+103,jppfs_cor:Liabilities,負債,Liabilities,Liabilities
+104,jppfs_cor:NetAssetsAbstract,純資産の部 [タイトル項目],Net assets,Net assets [abstract]
+105,jppfs_cor:ShareholdersEquity,株主資本,Shareholders' equity,Shareholders' equity
+106,jppfs_cor:CapitalStock,資本金,Capital stock,Capital stock
+107,jppfs_cor:DepositForSubscriptionsToShares,新株式申込証拠金,Deposit for subscriptions to shares,Deposit for subscriptions to shares
+108,jppfs_cor:CapitalSurplus,資本剰余金,Capital surplus,Capital surplus
+109,jppfs_cor:LegalCapitalSurplus,資本準備金,Legal capital surplus,Legal capital surplus
+110,jppfs_cor:OtherCapitalSurplus,その他資本剰余金,Other capital surplus,Other capital surplus
+111,jppfs_cor:RetainedEarnings,利益剰余金,Retained earnings,Retained earnings
+112,jppfs_cor:LegalRetainedEarnings,利益準備金,Legal retained earnings,Legal retained earnings
+113,jppfs_cor:OtherRetainedEarnings,その他利益剰余金,Other retained earnings,Other retained earnings
+114,jppfs_cor:ReserveForAdjustmentOfCostFluctuationsELE,原価変動調整積立金、電気事業,Reserve for adjustment of cost fluctuations,Reserve for adjustment of cost fluctuations-ELE
+115,jppfs_cor:ReserveForSpecialDisasterELE,特定災害防止準備金、電気事業,Reserve for special disaster,Reserve for special disaster-ELE
+116,jppfs_cor:RetainedEarningsBroughtForward,繰越利益剰余金,Retained earnings brought forward,Retained earnings brought forward
+117,jppfs_cor:TreasuryStock,自己株式,Treasury shares,Treasury shares
+118,jppfs_cor:DepositForSubscriptionsToTreasuryStock,自己株式申込証拠金,Deposit for subscriptions to treasury shares,Deposit for subscriptions to treasury shares
+119,jppfs_cor:ValuationAndTranslationAdjustments,評価・換算差額等,Valuation and translation adjustments,Valuation and translation adjustments
+120,jppfs_cor:ValuationDifferenceOnAvailableForSaleSecurities,その他有価証券評価差額金,Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities
+121,jppfs_cor:DeferredGainsOrLossesOnHedges,繰延ヘッジ損益,Deferred gains or losses on hedges,Deferred gains or losses on hedges
+122,jppfs_cor:RevaluationReserveForLand,土地再評価差額金,Revaluation reserve for land,Revaluation reserve for land
+123,jppfs_cor:ForeignCurrencyTranslationAdjustment,為替換算調整勘定,Foreign currency translation adjustment,Foreign currency translation adjustment
+124,jppfs_cor:SubscriptionRightsToShares,新株予約権,Share acquisition rights,Share acquisition rights
+125,jppfs_cor:NonControllingInterests,非支配株主持分,Non-controlling interests,Non-controlling interests
+126,jppfs_cor:NetAssets,純資産,Net assets,Net assets
+127,jppfs_cor:LiabilitiesAndNetAssets,負債純資産,Liabilities and net assets,Liabilities and net assets
+128,nan,,,
+129,nan,,,
+130,名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+131,jppfs_cor:StatementOfIncomeAbstract,損益計算書 [タイトル項目],Statement of income,Statement of income [abstract]
+132,jppfs_cor:StatementOfIncomeTable,損益計算書 [表],Statement of income,Statement of income [table]
+133,jppfs_cor:StatementOfIncomeLineItems,損益計算書 [表示項目],Statement of income,Statement of income [line items]
+134,jppfs_cor:OperatingRevenueELE,営業収益、電気事業,Operating revenue,Operating revenue-ELE
+135,jppfs_cor:ElectricUtilityOperatingRevenueELE,電気事業営業収益、電気事業,Electric utility operating revenue,Electric utility operating revenue-ELE
+136,jppfs_cor:ResidentialORElectricELE,電灯料、電気事業営業収益、電気事業,Residential,Residential-OR-electric-ELE
+137,jppfs_cor:CommercialAndIndustrialORElectricELE,電力料、電気事業営業収益、電気事業,Commercial and industrial,Commercial and industrial-OR-electric-ELE
+138,jppfs_cor:SoldPowerToOtherUtilitiesORElectricELE,地帯間販売電力料、電気事業営業収益、電気事業,Sold power to other utilities,Sold power to other utilities-OR-electric-ELE
+139,jppfs_cor:SoldPowerToOtherSuppliersORElectricELE,他社販売電力料、電気事業営業収益、電気事業,Sold power to other suppliers,Sold power to other suppliers-OR-electric-ELE
+140,jppfs_cor:TransmissionRevenueORElectricELE,託送収益、電気事業営業収益、電気事業,Transmission revenue,Transmission revenue-OR-electric-ELE
+141,jppfs_cor:RevenueFromContractsToRecoverBackEndCostsRelatedToPastYearsPowerGenerationORElectricELE,使用済燃料再処理等既発電料受取契約締結分、電気事業営業収益、電気事業,Revenue from contracts to recover back-end costs related to past years' power generation,Revenue from contracts to recover back-end costs related to past years' power generation - OR - electric - ELE
+142,jppfs_cor:SettlementRevenueAmongUtilitiesORElectricELE,事業者間精算収益、電気事業営業収益、電気事業,Settlement revenue among utilities,Settlement revenue among utilities-OR-electric-ELE
+143,jppfs_cor:GrantUnderActOnPurchaseOfRenewableEnergySourcedElectricityORElectricELE,再エネ特措法交付金、電気事業営業収益、電気事業,Grant under Act on Purchase of Renewable Energy Sourced Electricity,Grant under Act on Purchase of Renewable Energy Sourced Electricity-OR-electric-ELE
+144,jppfs_cor:OtherElectricityRevenueORElectricELE,電気事業雑収益、電気事業営業収益、電気事業,Other electricity revenue,Other electricity revenue-OR-electric-ELE
+145,jppfs_cor:RevenueFromLoanedFacilitiesORElectricELE,貸付設備収益、電気事業営業収益、電気事業,Revenue from loaned facilities,Revenue from loaned facilities-OR-electric-ELE
+146,jppfs_cor:IncidentalBusinessOperatingRevenueELE,附帯事業営業収益、電気事業,Incidental business operating revenue,Incidental business operating revenue-ELE
+147,jppfs_cor:OperatingRevenueOtherBusinessesORIncidentalELE,その他附帯事業営業収益、附帯事業営業収益、電気事業,Operating revenue - other businesses,Operating revenue-other businesses-OR-incidental-ELE
+148,jppfs_cor:OperatingRevenueGasSupplyBusinessORIncidentalELE,ガス供給事業営業収益、附帯事業営業収益、電気事業,Operating revenue - gas supply business,Operating revenue-gas supply business-OR-incidental-ELE
+149,jppfs_cor:OperatingRevenueSteamSupplyBusinessORIncidentalELE,蒸気供給事業営業収益、附帯事業営業収益、電気事業,Operating revenue - steam supply business,Operating revenue-steam supply business-OR-incidental-ELE
+150,jppfs_cor:OperatingRevenueElectricWaterHeaterLeaseBusinessORIncidentalELE,電気温水器賃貸事業営業収益、附帯事業営業収益、電気事業,Operating revenue - electric water heater lease business,Operating revenue-electric water heater lease business-OR-incidental-ELE
+151,jppfs_cor:OperatingRevenueHeatSupplyBusinessORIncidentalELE,熱供給事業営業収益、附帯事業営業収益、電気事業,Operating revenue - heat supply business,Operating revenue-heat supply business-OR-incidental-ELE
+152,jppfs_cor:OperatingRevenueRealEstateRentBusinessORIncidentalELE,不動産賃貸事業営業収益、附帯事業営業収益、電気事業,Operating revenue - real estate rent business,Operating revenue-real estate rent business-OR-incidental-ELE
+153,jppfs_cor:OperatingRevenueRealEstateManagementBusinessORIncidentalELE,不動産管理事業営業収益、附帯事業営業収益、電気事業,Operating revenue - real estate management business,Operating revenue-real estate management business-OR-incidental-ELE
+154,jppfs_cor:OperatingRevenueConsultingBusinessORIncidentalELE,コンサルティング事業営業収益、附帯事業営業収益、電気事業,Operating revenue - consulting business,Operating revenue-consulting business-OR-incidental-ELE
+155,jppfs_cor:OperatingRevenueInformationAndCommunicationBusinessORIncidentalELE,情報通信事業営業収益、附帯事業営業収益、電気事業,Operating revenue - information and communication business,Operating revenue-information and communication business-OR-incidental-ELE
+156,jppfs_cor:OperatingRevenueLNGSupplyBusinessORIncidentalELE,ＬＮＧ供給事業営業収益、附帯事業営業収益、電気事業,Operating revenue - LNG supply business,Operating revenue-LNG supply business-OR-incidental-ELE
+157,jppfs_cor:OperatingRevenueCoalSaleBusinessORIncidentalELE,石炭販売事業営業収益、附帯事業営業収益、電気事業,Operating revenue - coal sale business,Operating revenue-coal sale business-OR-incidental-ELE
+158,jppfs_cor:OperatingRevenueOpticalFiberElectricWireLeaseBusinessORIncidentalELE,光ファイバ心線貸し事業営業収益、附帯事業営業収益、電気事業,Operating revenue - optical fiber electric wire lease business,Operating revenue-optical fiber electric wire lease business-OR-incidental-ELE
+159,jppfs_cor:OperatingRevenueElectricWireLeaseBusinessORIncidentalELE,心線賃貸事業営業収益、附帯事業営業収益、電気事業,Operating revenue - electric wire lease business,Operating revenue-electric wire lease business-OR-incidental-ELE
+160,jppfs_cor:OperatingRevenueHouseElectrificationMachineryLeaseBusinessORIncidentalELE,住宅電化設備賃貸事業営業収益、附帯事業営業収益、電気事業,Operating revenue - house electrification machinery lease business,Operating revenue-house electrification machinery lease business-OR-incidental-ELE
+161,jppfs_cor:OtherBusinessOperatingRevenueELE,その他事業営業収益、電気事業,Other business operating revenue,Other business operating revenue-ELE
+162,jppfs_cor:OperatingExpensesELE,営業費用、電気事業,Operating expenses,Operating expenses-ELE
+163,jppfs_cor:ElectricUtilityOperatingExpensesELE,電気事業営業費用、電気事業,Electric utility operating expenses,Electric utility operating expenses-ELE
+164,jppfs_cor:HydroelectricPowerProductionExpensesELE,水力発電費、電気事業営業費用、電気事業,Hydroelectric power production expenses,Hydroelectric power production expenses-OE-electric-ELE
+165,jppfs_cor:ThermalPowerProductionExpensesOEElectricELE,汽力発電費、電気事業営業費用、電気事業,Thermal power production expenses,Thermal power production expenses-OE-electric-ELE
+166,jppfs_cor:NuclearPowerProductionExpensesELE,原子力発電費、電気事業営業費用、電気事業,Nuclear power production expenses,Nuclear power production expenses-OE-electric-ELE
+167,jppfs_cor:InternalCombustionEnginePowerProductionExpensesOEElectricELE,内燃力発電費、電気事業営業費用、電気事業,Internal combustion engine power production expenses,Internal combustion engine power production expenses-OE-electric-ELE
+168,jppfs_cor:RenewablePowerProductionExpensesOEElectricELE,新エネルギー等発電費、電気事業営業費用、電気事業,Renewable power production expenses,Renewable power production expenses-OE-electric-ELE
+169,jppfs_cor:PurchasedPowerFromOtherUtilitiesOEElectricELE,地帯間購入電力料、電気事業営業費用、電気事業,Purchased power from other utilities,Purchased power from other utilities-OE-electric-ELE
+170,jppfs_cor:PurchasedPowerFromOtherSuppliersOEElectricELE,他社購入電力料、電気事業営業費用、電気事業,Purchased power from other suppliers,Purchased power from other suppliers-OE-electric-ELE
+171,jppfs_cor:TransmissionExpensesOEElectricELE,送電費、電気事業営業費用、電気事業,Transmission expenses,Transmission expenses-OE-electric-ELE
+172,jppfs_cor:TransformationExpensesOEElectricELE,変電費、電気事業営業費用、電気事業,Transformation expenses,Transformation expenses-OE-electric-ELE
+173,jppfs_cor:DistributionExpensesOEElectricELE,配電費、電気事業営業費用、電気事業,Distribution expenses,Distribution expenses-OE-electric-ELE
+174,jppfs_cor:SellingExpensesOEElectricELE,販売費、電気事業営業費用、電気事業,Selling expenses,Selling expenses-OE-electric-ELE
+175,jppfs_cor:InactiveFacilitiesExpensesOEElectricELE,休止設備費、電気事業営業費用、電気事業,Inactive facilities expenses,Inactive facilities expenses-OE-electric-ELE
+176,jppfs_cor:CostOfLoanedFacilitiesOEElectricELE,貸付設備費、電気事業営業費用、電気事業,Cost of loaned facilities,Cost of loaned facilities-OE-electric-ELE
+177,jppfs_cor:GeneralAndAdministrativeExpensesOEElectricELE,一般管理費、電気事業営業費用、電気事業,General and administrative expenses,General and administrative expenses-OE-electric-ELE
+178,jppfs_cor:ExpensesForThirdPartysPowerTransmissionServiceOEElectricELE,接続供給託送料、電気事業営業費用、電気事業,Expenses for third party's power transmission service,Expenses for third party's power transmission service - OE - electric - ELE
+179,jppfs_cor:AmortizationOfSuspenseAccountRelatedToNuclearPowerDecommissioningOEElectricELE,原子力廃止関連仮勘定償却費、電気事業営業費用、電気事業,Amortization of special account related to nuclear power decommissioning,Amortization of special account related to nuclear power decommissioning - OE - electric - ELE
+180,jppfs_cor:LevyUnderActOnPurchaseOfRenewableEnergySourcedElectricityOEElectricELE,再エネ特措法納付金、電気事業営業費用、電気事業,Levy under Act on Purchase of Renewable Energy Sourced Electricity,Levy under Act on Purchase of Renewable Energy Sourced Electricity-OE-electric-ELE
+181,jppfs_cor:ExpensesIncurredByContractsToBearBackEndCostsRelatedToPastYearsPowerGenerationOEElectricELE,使用済燃料再処理等既発電費支払契約締結分、電気事業営業費用、電気事業,Expenses incurred by contracts to bear back-end costs related to past years' power generation,Expenses incurred by contracts to bear back-end costs related to past years' power generation - OE - electric - ELE
+182,jppfs_cor:ElectricPowerDevelopmentPromotionTaxOEElectricELE,電源開発促進税、電気事業営業費用、電気事業,Electric power development promotion tax,Electric power development promotion tax-OE-electric-ELE
+183,jppfs_cor:EnterpriseTaxOEElectricELE,事業税、電気事業営業費用、電気事業,Enterprise tax,Enterprise tax-OE-electric-ELE
+184,jppfs_cor:DevelopmentExpensesOEELE,開発費、電気事業営業費用、電気事業,Development expenses,Development expenses-OE-electric-ELE
+185,jppfs_cor:AmortizationOfDevelopmentExpensesOEELE,開発費償却、電気事業営業費用、電気事業,Amortization of development expenses,Amortization of development expenses-OE-electric-ELE
+186,jppfs_cor:TransferredCostOfElectricityForConstructionAndIncidentalBusinessOEElectricELE,電力費振替勘定（貸方）、電気事業営業費用、電気事業,Transferred cost of electricity for construction and incidental business,Transferred cost of electricity for construction and incidental business-OE-electric-ELE
+187,jppfs_cor:CommunicatingExpensesOEElectricELE,通信費、電気事業営業費用、電気事業,Communicating expenses,Communicating expenses-OE-electric-ELE
+188,jppfs_cor:CostOfSalesOEElectricELE,売上原価、電気事業営業費用、電気事業,Cost of sales,Cost of sales-OE-electric-ELE
+189,jppfs_cor:IncidentalBusinessOperatingExpensesELE,附帯事業営業費用、電気事業,Incidental business operating expenses,Incidental business operating expenses-ELE
+190,jppfs_cor:OperatingExpensesOtherBusinessesOEIncidentalELE,その他附帯事業営業費用、附帯事業営業費用、電気事業,Operating expenses - other businesses,Operating expenses-other businesses-OE-incidental-ELE
+191,jppfs_cor:OperatingExpensesGasSupplyBusinessOEElectricELE,ガス供給事業営業費用、附帯事業営業費用、電気事業,Operating expenses - gas supply business,Operating expenses-gas supply business-OE-incidental-ELE
+192,jppfs_cor:OperatingExpensesHeatSupplyBusinessOEIncidentalELE,熱供給事業営業費用、附帯事業営業費用、電気事業,Operating expenses - heat supply business,Operating expenses-heat supply business-OE-incidental-ELE
+193,jppfs_cor:OperatingExpensesElectricWaterHeaterLeaseBusinessOEIncidentalELE,電気温水器賃貸事業営業費用、附帯事業営業費用、電気事業,Operating expenses - electric water heater lease business,Operating expenses-electric water heater lease business-OE-incidental-ELE
+194,jppfs_cor:OperatingExpensesRealEstateRentBusinessOEIncidentalELE,不動産賃貸事業営業費用、附帯事業営業費用、電気事業,Operating expenses - real estate rent business,Operating expenses-real estate rent business-OE-incidental-ELE
+195,jppfs_cor:OperatingExpensesRealEstateManagementBusinessOEIncidentalELE,不動産管理事業営業費用、附帯事業営業費用、電気事業,Operating expenses - real estate management business,Operating expenses-real estate management business-OE-incidental-ELE
+196,jppfs_cor:OperatingExpensesConsultingBusinessOEIncidentalELE,コンサルティング事業営業費用、附帯事業営業費用、電気事業,Operating expenses - consulting business,Operating expenses-consulting business-OE-incidental-ELE
+197,jppfs_cor:OperatingExpensesInformationAndCommunicationBusinessOEIncidentalELE,情報通信事業営業費用、附帯事業営業費用、電気事業,Operating expenses - information and communication business,Operating expenses-information and communication business-OE-incidental-ELE
+198,jppfs_cor:OperatingExpensesSteamSupplyBusinessOEIncidentalELE,蒸気供給事業営業費用、附帯事業営業費用、電気事業,Operating expenses - steam supply business,Operating expenses-steam supply business-OE-incidental-ELE
+199,jppfs_cor:OperatingExpensesLNGSupplyBusinessOEIncidentalELE,ＬＮＧ供給事業営業費用、附帯事業営業費用、電気事業,Operating expenses - LNG supply business,Operating expenses-LNG supply business-OE-incidental-ELE
+200,jppfs_cor:OperatingExpensesCoalSaleBusinessOEIncidentalELE,石炭販売事業営業費用、附帯事業営業費用、電気事業,Operating expenses - coal sale business,Operating expenses-coal sale business-OE-incidental-ELE
+201,jppfs_cor:OperatingExpensesOpticalFiberElectricWireLeaseBusinessOEIncidentalELE,光ファイバ心線貸し事業営業費用、附帯事業営業費用、電気事業,Operating expenses - optical fiber electric wire lease business,Operating expenses-optical fiber electric wire lease business-OE-incidental-ELE
+202,jppfs_cor:OperatingExpensesHouseElectrificationMachineryLeaseBusinessOEIncidentalELE,住宅電化設備賃貸事業営業費用、附帯事業営業費用、電気事業,Operating expenses - house electrification machinery lease business,Operating expenses-house electrification machinery lease business-OE-incidental-ELE
+203,jppfs_cor:OperatingExpensesElectricWireLeaseBusinessOEIncidentalELE,心線賃貸事業営業費用、附帯事業営業費用、電気事業,Operating expenses - electric wire lease business,Operating expenses-electric wire lease business-OE-incidental-ELE
+204,jppfs_cor:OtherBusinessOperatingExpensesELE,その他事業営業費用、電気事業,Other business operating expenses,Other business operating expenses-ELE
+205,jppfs_cor:OperatingIncome,営業利益又は営業損失（△）,Operating profit (loss),Operating profit (loss)
+206,jppfs_cor:NonOperatingIncome,営業外収益,Non-operating income,Non-operating income
+207,jppfs_cor:FinancialRevenueNORELE,財務収益、営業外収益、電気事業,Financial revenue,Financial revenue-NOR-ELE
+208,jppfs_cor:DividendsIncomeNOI,受取配当金、営業外収益,Dividend income,Dividend income-NOI
+209,jppfs_cor:InterestIncomeNOI,受取利息、営業外収益,Interest income,Interest income-NOI
+210,jppfs_cor:EquityInEarningsOfAffiliatesNOI,持分法による投資利益、営業外収益,Share of profit of entities accounted for using equity method,Share of profit of entities accounted for using equity method-NOI
+211,jppfs_cor:NonOperatingRevenueNORELE,事業外収益、営業外収益、電気事業,Non-operating revenue,Non-operating revenue-NOR-ELE
+212,jppfs_cor:GainOnSalesOfNoncurrentAssetsNOIELE,固定資産売却益、営業外収益、電気事業,Gain on sales of non-current assets,Gain on sales of non-current assets-NOI-ELE
+213,jppfs_cor:MiscellaneousRevenueNORELE,雑収益、営業外収益、電気事業,Miscellaneous revenue,Miscellaneous revenue-NOR-ELE
+214,jppfs_cor:NonOperatingExpenses,営業外費用,Non-operating expenses,Non-operating expenses
+215,jppfs_cor:FinancialExpensesNOEELE,財務費用、営業外費用、電気事業,Financial expenses,Financial expenses-NOE-ELE
+216,jppfs_cor:InterestExpensesNOE,支払利息、営業外費用,Interest expenses,Interest expenses-NOE
+217,jppfs_cor:StockIssuanceCostNOE,株式交付費、営業外費用,Share issuance cost,Share issuance cost-NOE
+218,jppfs_cor:AmortizationOfStockIssuanceCostNOE,株式交付費償却、営業外費用,Amortization of share issuance cost,Amortization of share issuance cost-NOE
+219,jppfs_cor:AmortizationOfStockIssuanceCostPriorNOE,新株発行費償却、営業外費用,Amortization of share issuance cost,Amortization of share issuance cost-prior-NOE
+220,jppfs_cor:BondIssuanceCostNOE,社債発行費、営業外費用,Bond issuance cost,Bond issuance cost-NOE
+221,jppfs_cor:AmortizationOfBondIssuanceCostNOE,社債発行費償却、営業外費用,Amortization of bond issuance cost,Amortization of bond issuance cost-NOE
+222,jppfs_cor:EquityInLossesOfAffiliatesNOE,持分法による投資損失、営業外費用,Share of loss of entities accounted for using equity method,Share of loss of entities accounted for using equity method-NOE
+223,jppfs_cor:NonOperatingExpensesNOEELE,事業外費用、営業外費用、電気事業,Non-operating expenses,Non-operating expenses-NOE-ELE
+224,jppfs_cor:LossOnSalesOfNoncurrentAssetsNOEELE,固定資産売却損、営業外費用、電気事業,Loss on sales of non-current assets,Loss on sales of non-current assets-NOE-ELE
+225,jppfs_cor:MiscellaneousExpensesNOEELE,雑損失、営業外費用、電気事業,Miscellaneous loss,Miscellaneous loss-NOE-ELE
+226,jppfs_cor:OrdinaryRevenueELE,当期経常収益、電気事業,Ordinary revenue,Ordinary revenue-ELE
+227,jppfs_cor:OrdinaryExpensesELE,当期経常費用、電気事業,Ordinary expenses,Ordinary expenses-ELE
+228,jppfs_cor:OrdinaryIncome,経常利益又は経常損失（△）,Ordinary profit (loss),Ordinary profit (loss)
+229,jppfs_cor:ProvisionOrReversalOfReserveForFluctuationInWaterLevelsAbstractELE,渇水準備金引当又は取崩し、電気事業 [タイトル項目],Provision or reversal of reserve for fluctuation in water levels,Provision or reversal of reserve for fluctuation in water levels-ELE [abstract]
+230,jppfs_cor:ProvisionOrReversalOfReserveForFluctuationInWaterLevelsELE,渇水準備金引当又は取崩し、電気事業,Provision or reversal of reserve for fluctuation in water levels,Provision or reversal of reserve for fluctuation in water levels-ELE
+231,jppfs_cor:ProvisionOfReserveForFluctuationInWaterLevelsELE,渇水準備金引当、電気事業,Provision of reserve for fluctuation in water levels,Provision of reserve for fluctuation in water levels-ELE
+232,jppfs_cor:ReversalOfReserveForFluctuationInWaterLevelsELE,渇水準備引当金取崩し（貸方）、電気事業,Reversal of reserve for fluctuation in water levels,Reversal of reserve for fluctuation in water levels-ELE
+233,jppfs_cor:ProvisionOrReversalOfReserveForPreparationOfTheDepreciationOfNuclearPowerConstructionAbstractELE,原子力発電工事償却準備金引当又は取崩し、電気事業 [タイトル項目],Provision or reversal of reserve for preparation of depreciation of nuclear power construction,Provision or reversal of reserve for preparation of depreciation of nuclear power construction-ELE [abstract]
+234,jppfs_cor:ProvisionOrReversalOfReserveForPreparationOfTheDepreciationOfNuclearPowerConstructionELE,原子力発電工事償却準備金引当又は取崩し、電気事業,Provision or reversal of reserve for preparation of depreciation of nuclear power construction,Provision or reversal of reserve for preparation of depreciation of nuclear power construction-ELE
+235,jppfs_cor:ProvisionOfReserveForPreparationOfTheDepreciationOfNuclearPowerConstructionELE,原子力発電工事償却準備金引当、電気事業,Provision of reserve for preparation of depreciation of nuclear power construction,Provision of reserve for preparation of depreciation of nuclear power construction-ELE
+236,jppfs_cor:ReversalOfReserveForPreparationOfTheDepreciationOfNuclearPowerConstructionELE,原子力発電工事償却準備金取崩し（貸方）、電気事業,Reversal of reserve for preparation of depreciation of nuclear power construction,Reversal of reserve for preparation of depreciation of nuclear power construction-ELE
+237,jppfs_cor:ExtraordinaryIncome,特別利益,Extraordinary income,Extraordinary income
+238,jppfs_cor:NuclearPowerCompensationSubsidyELE,原子力損害賠償資金補助金、特別利益、電気事業,Nuclear power compensation subsidy,Nuclear power compensation subsidy-ELE
+239,jppfs_cor:GrantsInAidFromNuclearDamageCompensationFacilitationCorporationEIELE,原賠・廃炉等支援機構資金交付金、特別利益、電気事業,Grants-in-aid from Nuclear Damage Liability and Nuclear Reactor Decommission Facilitation Fund,Grants-in-aid from Nuclear Damage Liability and Nuclear Reactor Decommission Facilitation Fund-EI-ELE
+240,jppfs_cor:ExtraordinaryLoss,特別損失,Extraordinary losses,Extraordinary losses
+241,jppfs_cor:ContingentLossELELE,財産偶発損、特別損失、電気事業,Contingent loss,Contingent loss-EL-ELE
+242,jppfs_cor:IncomeBeforeIncomeTaxes,税引前当期純利益又は税引前当期純損失（△）,Profit (loss) before income taxes,Profit (loss) before income taxes
+243,jppfs_cor:IncomeTaxes,法人税等,Income taxes,Income taxes
+244,jppfs_cor:IncomeTaxesCurrent,法人税、住民税及び事業税,Income taxes - current,Income taxes-current
+245,jppfs_cor:IncomeTaxesCurrentELE,法人税及び住民税、電気事業,Income taxes - current,Income taxes-current-ELE
+246,jppfs_cor:IncomeTaxesDeferred,法人税等調整額,Income taxes - deferred,Income taxes-deferred
+247,jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
+248,jppfs_cor:ProfitAttributableToAbstract,内訳、当期純利益 [タイトル項目],Profit attributable to,Profit attributable to [abstract]
+249,jppfs_cor:ProfitLossAttributableToNonControllingInterests,非支配株主に帰属する当期純利益又は非支配株主に帰属する当期純損失（△）,Profit (loss) attributable to non-controlling interests,Profit (loss) attributable to non-controlling interests
+250,jppfs_cor:ProfitLossAttributableToOwnersOfParent,親会社株主に帰属する当期純利益又は親会社株主に帰属する当期純損失（△）,Profit (loss) attributable to owners of parent,Profit (loss) attributable to owners of parent
+251,nan,,,
+252,nan,,,
+253,名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+254,jppfs_cor:StatementOfChangesInEquityAbstract,株主資本等変動計算書 [タイトル項目],Statement of changes in equity,Statement of changes in equity [abstract]
+255,jppfs_cor:StatementOfChangesInEquityTable,株主資本等変動計算書 [表],Statement of changes in equity,Statement of changes in equity [table]
+256,jppfs_cor:ComponentsOfEquityAxis,純資産の内訳項目 [軸],Components of equity,Components of equity [axis]
+257,jppfs_cor:NetAssetsMember,純資産 [メンバー],Net assets,Net assets [member]
+258,jppfs_cor:ShareholdersEquityMember,株主資本 [メンバー],Shareholders' equity,Shareholders' equity [member]
+259,jppfs_cor:CapitalStockMember,資本金 [メンバー],Capital stock,Capital stock [member]
+260,jppfs_cor:CapitalSurplusMember,資本剰余金 [メンバー],Capital surplus,Capital surplus [member]
+261,jppfs_cor:LegalCapitalSurplusMember,資本準備金 [メンバー],Legal capital surplus,Legal capital surplus [member]
+262,jppfs_cor:OtherCapitalSurplusMember,その他資本剰余金 [メンバー],Other capital surplus,Other capital surplus [member]
+263,jppfs_cor:RetainedEarningsMember,利益剰余金 [メンバー],Retained earnings,Retained earnings [member]
+264,jppfs_cor:LegalRetainedEarningsMember,利益準備金 [メンバー],Legal retained earnings,Legal retained earnings [member]
+265,jppfs_cor:OtherRetainedEarningsMember,その他利益剰余金 [メンバー],Other retained earnings,Other retained earnings [member]
+266,jppfs_cor:ReserveForAdjustmentOfCostFluctuationsELEMember,原価変動調整積立金、電気事業 [メンバー],Reserve for adjustment of cost fluctuations,Reserve for adjustment of cost fluctuations-ELE [member]
+267,jppfs_cor:ReserveForSpecialDisasterELEMember,特定災害防止準備金、電気事業 [メンバー],Reserve for special disaster,Reserve for special disaster-ELE [member]
+268,jppfs_cor:RetainedEarningsBroughtForwardMember,繰越利益剰余金 [メンバー],Retained earnings brought forward,Retained earnings brought forward [member]
+269,jppfs_cor:TreasuryStockMember,自己株式 [メンバー],Treasury shares,Treasury shares [member]
+270,jppfs_cor:ValuationAndTranslationAdjustmentsMember,評価・換算差額等 [メンバー],Valuation and translation adjustments,Valuation and translation adjustments [member]
+271,jppfs_cor:ValuationDifferenceOnAvailableForSaleSecuritiesMember,その他有価証券評価差額金 [メンバー],Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities [member]
+272,jppfs_cor:DeferredGainsOrLossesOnHedgesMember,繰延ヘッジ損益 [メンバー],Deferred gains or losses on hedges,Deferred gains or losses on hedges [member]
+273,jppfs_cor:RevaluationReserveForLandMember,土地再評価差額金 [メンバー],Revaluation reserve for land,Revaluation reserve for land [member]
+274,jppfs_cor:ForeignCurrencyTranslationAdjustmentMember,為替換算調整勘定 [メンバー],Foreign currency translation adjustment,Foreign currency translation adjustment [member]
+275,jppfs_cor:SubscriptionRightsToSharesMember,新株予約権 [メンバー],Share acquisition rights,Share acquisition rights [member]
+276,jppfs_cor:NonControllingInterestsMember,非支配株主持分 [メンバー],Non-controlling interests,Non-controlling interests [member]
+277,jppfs_cor:StatementOfChangesInEquityLineItems,株主資本等変動計算書 [表示項目],Statement of changes in equity,Statement of changes in equity [line items]
+278,jppfs_cor:NetAssets,純資産,Net assets,Net assets
+279,jppfs_cor:ChangesOfItemsDuringThePeriodAbstract,当期変動額 [タイトル項目],Changes of items during period,Changes of items during period [abstract]
+280,jppfs_cor:IssuanceOfNewShares,新株の発行,Issuance of new shares,Issuance of new shares
+281,jppfs_cor:DividendsFromSurplus,剰余金の配当,Dividends of surplus,Dividends of surplus
+282,jppfs_cor:ProfitLossAttributableToOwnersOfParent,親会社株主に帰属する当期純利益又は親会社株主に帰属する当期純損失（△）,Profit (loss) attributable to owners of parent,Profit (loss) attributable to owners of parent
+283,jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
+284,jppfs_cor:DisposalOfTreasuryStock,自己株式の処分,Disposal of treasury shares,Disposal of treasury shares
+285,jppfs_cor:NetChangesOfItemsOtherThanShareholdersEquity,株主資本以外の項目の当期変動額（純額）,Net changes of items other than shareholders' equity,Net changes of items other than shareholders' equity
+286,jppfs_cor:ProvisionOfReserveForAdjustmentOfCostFluctuationsELE,原価変動調整積立金の積立、電気事業,Provision of reserve for adjustment of cost fluctuations,Provision of reserve for adjustment of cost fluctuations-ELE
+287,jppfs_cor:ReversalOfReserveForAdjustmentOfCostFluctuationsELE,原価変動調整積立金の取崩、電気事業,Reversal of reserve for adjustment of cost fluctuations,Reversal of reserve for adjustment of cost fluctuations-ELE
+288,jppfs_cor:ProvisionOfReserveForSpecialDisasterELE,特定災害防止準備金の積立、電気事業,Provision of reserve for special disaster,Provision of reserve for special disaster-ELE
+289,jppfs_cor:ReversalOfReserveForSpecialDisasterELE,特定災害防止準備金の取崩、電気事業,Reversal of reserve for special disaster,Reversal of reserve for special disaster-ELE
+290,jppfs_cor:TotalChangesOfItemsDuringThePeriod,当期変動額合計,Total changes of items during period,Total changes of items during period
+291,nan,,,
+292,nan,,,
+293,名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+294,jppfs_cor:StatementOfCashFlowsAbstract,キャッシュ・フロー計算書 [タイトル項目],Statement of cash flows,Statement of cash flows [abstract]
+295,jppfs_cor:StatementOfCashFlowsTable,キャッシュ・フロー計算書 [表],Statement of cash flows,Statement of cash flows [table]
+296,jppfs_cor:StatementOfCashFlowsLineItems,キャッシュ・フロー計算書 [表示項目],Statement of cash flows,Statement of cash flows [line items]
+297,jppfs_cor:NetCashProvidedByUsedInOperatingActivitiesAbstract,営業活動によるキャッシュ・フロー [タイトル項目],Cash flows from operating activities,Cash flows from operating activities [abstract]
+298,jppfs_cor:SubtotalOpeCF,小計、営業活動によるキャッシュ・フロー,Subtotal,Subtotal-OpeCF
+299,jppfs_cor:AmortizationOfNuclearFuelOpeCFELE,核燃料減損額、営業活動によるキャッシュ・フロー、電気事業,Amortization of nuclear fuel,Amortization of nuclear fuel-OpeCF-ELE
+300,jppfs_cor:DecommissioningCostsOfNuclearPowerUnitsOpeCFELE,原子力発電施設解体費、営業活動によるキャッシュ・フロー、電気事業,Decommissioning costs of nuclear power units,Decommissioning costs of nuclear power units-OpeCF-ELE
+301,jppfs_cor:IncreaseDecreaseInReserveForFluctuationInWaterLevelsOpeCFELE,渇水準備引当金の増減額（△は減少）、営業活動によるキャッシュ・フロー、電気事業,Increase (decrease) in reserve for fluctuation in water levels,Increase (decrease) in reserve for fluctuation in water levels-OpeCF-ELE
+302,jppfs_cor:IncreaseDecreaseInProvisionForDecommissioningOfNuclearPowerUnitsOpeCFELE,原子力発電施設解体引当金の増減額（△は減少）、営業活動によるキャッシュ・フロー、電気事業,Increase (decrease) in provision for decommissioning of nuclear power units,Increase (decrease) in provision for decommissioning of nuclear power units-OpeCF-ELE
+303,jppfs_cor:TransferCostOfReprocessingOfIrradiatedNuclearFuelOpeCFELE,使用済燃料再処理等費振替額、営業活動によるキャッシュ・フロー、電気事業,Transfer cost of reprocessing of irradiated nuclear fuel,Transfer cost of reprocessing of irradiated nuclear fuel-OpeCF-ELE
+304,jppfs_cor:IncreaseDecreaseInProvisionForReprocessingOfIrradiatedNuclearFuelOpeCFELE,使用済燃料再処理等引当金の増減額（△は減少）、営業活動によるキャッシュ・フロー、電気事業,Increase (decrease) in provision for reprocessing of irradiated nuclear fuel,Increase (decrease) in provision for reprocessing of irradiated nuclear fuel-OpeCF-ELE
+305,jppfs_cor:DecreaseIncreaseInReserveFundForReprocessingOfIrradiatedNuclearFuelOpeCFELE,使用済燃料再処理等積立金の増減額（△は増加）、営業活動によるキャッシュ・フロー、電気事業,Decrease (increase) in reserve fund for reprocessing of irradiated nuclear fuel,Decrease (increase) in reserve fund for reprocessing of irradiated nuclear fuel-OpeCF-ELE
+306,jppfs_cor:IncreaseDecreaseInProvisionForOtherReprocessingOfIrradiatedNuclearFuelOpeCFELE,使用済燃料再処理等準備引当金の増減額（△は減少）、営業活動によるキャッシュ・フロー、電気事業,Increase (decrease) in provision for other reprocessing of irradiated nuclear fuel,Increase (decrease) in provision for other reprocessing of irradiated nuclear fuel-OpeCF-ELE
+307,jppfs_cor:IncreaseDecreaseInReserveForPreparationOfTheDepreciationOfNuclearPowerConstructionOpeCFELE,原子力発電工事償却準備引当金の増減額（△は減少）、営業活動によるキャッシュ・フロー、電気事業,Increase (decrease) in reserve for preparation of depreciation of nuclear power construction,Increase (decrease) in reserve for preparation of depreciation of nuclear power construction-OpeCF-ELE
+308,jppfs_cor:NetCashProvidedByUsedInInvestmentActivitiesAbstract,投資活動によるキャッシュ・フロー [タイトル項目],Cash flows from investing activities,Cash flows from investing activities [abstract]
+309,jppfs_cor:NetCashProvidedByUsedInFinancingActivitiesAbstract,財務活動によるキャッシュ・フロー [タイトル項目],Cash flows from financing activities,Cash flows from financing activities [abstract]

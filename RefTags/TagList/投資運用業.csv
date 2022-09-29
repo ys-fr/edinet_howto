@@ -1,0 +1,205 @@
+,タクソノミ,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+0,jppfs_cor:BalanceSheetAbstract,貸借対照表 [タイトル項目],Balance sheet,Balance sheet [abstract]
+1,jppfs_cor:BalanceSheetTable,貸借対照表 [表],Balance sheet,Balance sheet [table]
+2,jppfs_cor:BalanceSheetLineItems,貸借対照表 [表示項目],Balance sheet,Balance sheet [line items]
+3,jppfs_cor:AssetsAbstract,資産の部 [タイトル項目],Assets,Assets [abstract]
+4,jppfs_cor:CurrentAssetsAbstract,流動資産 [タイトル項目],Current assets,Current assets [abstract]
+5,jppfs_cor:CashAndDeposits,現金及び預金,Cash and deposits,Cash and deposits
+6,jppfs_cor:ShortTermInvestmentSecurities,有価証券,Securities,Securities
+7,jppfs_cor:ShortTermLoansReceivable,短期貸付金,Short-term loans receivable,Short-term loans receivable
+8,jppfs_cor:CashDepositInTrustCAIVT,支払委託金、流動資産、投資運用業,Cash deposit in trust,Cash deposit in trust-CA-IVT
+9,jppfs_cor:DividendsCAIVT,収益分配金、流動資産、投資運用業,Dividends,Dividends-CA-IVT
+10,jppfs_cor:RedemptionCAIVT,償還金、流動資産、投資運用業,Redemption,Redemption-CA-IVT
+11,jppfs_cor:AdvancePaymentsCAIVT,前払金、流動資産、投資運用業,Advance payments,Advance payments-CA-IVT
+12,jppfs_cor:PrepaidExpenses,前払費用,Prepaid expenses,Prepaid expenses
+13,jppfs_cor:AccountsReceivableOther,未収入金,Accounts receivable - other,Accounts receivable-other
+14,jppfs_cor:AccruedInvestmentTrustManagementFeeCAIVT,未収委託者報酬、流動資産、投資運用業,Accrued investment trust management fee,Accrued investment trust management fee-CA-IVT
+15,jppfs_cor:AccruedManagementFeeCAIVT,未収運用受託報酬、流動資産、投資運用業,Accrued management fee,Accrued management fee-CA-IVT
+16,jppfs_cor:AccruedIncome,未収収益,Accrued income,Accrued income
+17,jppfs_cor:DeferredTaxAssetsCA,繰延税金資産、流動資産,Deferred tax assets,Deferred tax assets-CA
+18,jppfs_cor:AllowanceForDoubtfulAccountsCA,貸倒引当金、流動資産、一括控除,Allowance for doubtful accounts,Allowance for doubtful accounts-CA-by group
+19,jppfs_cor:CurrentAssets,流動資産,Current assets,Current assets
+20,jppfs_cor:NoncurrentAssetsAbstract,固定資産 [タイトル項目],Non-current assets,Non-current assets [abstract]
+21,jppfs_cor:PropertyPlantAndEquipment,有形固定資産,"Property, plant and equipment","Property, plant and equipment"
+22,jppfs_cor:BuildingsNet,建物（純額）,"Buildings, net","Buildings, net"
+23,jppfs_cor:EquipmentNetPPEIVT,器具備品（純額）、有形固定資産、投資運用業,"Equipment, net","Equipment, net-PPE-IVT"
+24,jppfs_cor:Land,土地,Land,Land
+25,jppfs_cor:IntangibleAssets,無形固定資産,Intangible assets,Intangible assets
+26,jppfs_cor:Goodwill,のれん,Goodwill,Goodwill
+27,jppfs_cor:AssociationFundIAIVT,協会基金、無形固定資産、投資運用業,Association fund,Association fund-IA-IVT
+28,jppfs_cor:InvestmentsAndOtherAssets,投資その他の資産,Investments and other assets,Investments and other assets
+29,jppfs_cor:InvestmentSecurities,投資有価証券,Investment securities,Investment securities
+30,jppfs_cor:StocksOfSubsidiariesAndAffiliates,関係会社株式,Shares of subsidiaries and associates,Shares of subsidiaries and associates
+31,jppfs_cor:InvestmentsInCapital,出資金,Investments in capital,Investments in capital
+32,jppfs_cor:LongTermLoansReceivable,長期貸付金,Long-term loans receivable,Long-term loans receivable
+33,jppfs_cor:LongTermLoansReceivableFromSubsidiariesAndAffiliates,関係会社長期貸付金,Long-term loans receivable from subsidiaries and associates,Long-term loans receivable from subsidiaries and associates
+34,jppfs_cor:DeferredTaxAssetsIOA,繰延税金資産、投資その他の資産,Deferred tax assets,Deferred tax assets-IOA
+35,jppfs_cor:AllowanceForDoubtfulAccountsIOAByGroup,貸倒引当金、投資その他の資産、一括控除,Allowance for doubtful accounts,Allowance for doubtful accounts-IOA-by group
+36,jppfs_cor:NoncurrentAssets,固定資産,Non-current assets,Non-current assets
+37,jppfs_cor:DeferredAssetsAbstract,繰延資産 [タイトル項目],Deferred assets,Deferred assets [abstract]
+38,jppfs_cor:DeferredOrganizationExpensesDA,創立費、繰延資産,Deferred organization expenses,Deferred organization expenses-DA
+39,jppfs_cor:DeferredAssets,繰延資産,Deferred assets,Deferred assets
+40,jppfs_cor:Assets,資産,Assets,Assets
+41,jppfs_cor:LiabilitiesAbstract,負債の部 [タイトル項目],Liabilities,Liabilities [abstract]
+42,jppfs_cor:CurrentLiabilitiesAbstract,流動負債 [タイトル項目],Current liabilities,Current liabilities [abstract]
+43,jppfs_cor:ShortTermLoansPayable,短期借入金,Short-term loans payable,Short-term loans payable
+44,jppfs_cor:DepositsReceived,預り金,Deposits received,Deposits received
+45,jppfs_cor:AccountsPayableOther,未払金,Accounts payable - other,Accounts payable-other
+46,jppfs_cor:UnpaidDividendsCLIVT,未払収益分配金、流動負債、投資運用業,Unpaid dividends,Unpaid dividends-CL-IVT
+47,jppfs_cor:UnpaidRedemptionCLIVT,未払償還金、流動負債、投資運用業,Unpaid redemption,Unpaid redemption-CL-IVT
+48,jppfs_cor:UnpaidCommissionCLIVT,未払手数料、流動負債、投資運用業,Unpaid commission,Unpaid commission-CL-IVT
+49,jppfs_cor:OtherAccountsPayableCLIVT,その他未払金、流動負債、投資運用業,Other accounts payable,Other accounts payable-CL-IVT
+50,jppfs_cor:AccruedExpenses,未払費用,Accrued expenses,Accrued expenses
+51,jppfs_cor:IncomeTaxesPayable,未払法人税等,Income taxes payable,Income taxes payable
+52,jppfs_cor:DeferredTaxLiabilitiesCL,繰延税金負債、流動負債,Deferred tax liabilities,Deferred tax liabilities-CL
+53,jppfs_cor:AdvancesReceived,前受金,Advances received,Advances received
+54,jppfs_cor:UnearnedRevenue,前受収益,Unearned revenue,Unearned revenue
+55,jppfs_cor:MarginReceivedIVT,受入証拠金、投資運用業,Margin received,Margin received-IVT
+56,jppfs_cor:CurrentLiabilities,流動負債,Current liabilities,Current liabilities
+57,jppfs_cor:NoncurrentLiabilitiesAbstract,固定負債 [タイトル項目],Non-current liabilities,Non-current liabilities [abstract]
+58,jppfs_cor:LongTermLoansPayable,長期借入金,Long-term loans payable,Long-term loans payable
+59,jppfs_cor:ProvisionForRetirementBenefits,退職給付引当金,Provision for retirement benefits,Provision for retirement benefits
+60,jppfs_cor:DeferredTaxLiabilitiesNCL,繰延税金負債、固定負債,Deferred tax liabilities,Deferred tax liabilities-NCL
+61,jppfs_cor:NegativeGoodwill,負ののれん,Negative goodwill,Negative goodwill
+62,jppfs_cor:NoncurrentLiabilities,固定負債,Non-current liabilities,Non-current liabilities
+63,jppfs_cor:Liabilities,負債,Liabilities,Liabilities
+64,jppfs_cor:NetAssetsAbstract,純資産の部 [タイトル項目],Net assets,Net assets [abstract]
+65,jppfs_cor:ShareholdersEquity,株主資本,Shareholders' equity,Shareholders' equity
+66,jppfs_cor:CapitalStock,資本金,Capital stock,Capital stock
+67,jppfs_cor:DepositForSubscriptionsToShares,新株式申込証拠金,Deposit for subscriptions to shares,Deposit for subscriptions to shares
+68,jppfs_cor:CapitalSurplus,資本剰余金,Capital surplus,Capital surplus
+69,jppfs_cor:LegalCapitalSurplus,資本準備金,Legal capital surplus,Legal capital surplus
+70,jppfs_cor:OtherCapitalSurplus,その他資本剰余金,Other capital surplus,Other capital surplus
+71,jppfs_cor:RetainedEarnings,利益剰余金,Retained earnings,Retained earnings
+72,jppfs_cor:LegalRetainedEarnings,利益準備金,Legal retained earnings,Legal retained earnings
+73,jppfs_cor:OtherRetainedEarnings,その他利益剰余金,Other retained earnings,Other retained earnings
+74,jppfs_cor:ReserveOREIVT,積立金、その他利益剰余金、投資運用業,Reserve,Reserve-ORE-IVT
+75,jppfs_cor:RetainedEarningsBroughtForward,繰越利益剰余金,Retained earnings brought forward,Retained earnings brought forward
+76,jppfs_cor:TreasuryStock,自己株式,Treasury shares,Treasury shares
+77,jppfs_cor:DepositForSubscriptionsToTreasuryStock,自己株式申込証拠金,Deposit for subscriptions to treasury shares,Deposit for subscriptions to treasury shares
+78,jppfs_cor:ValuationAndTranslationAdjustments,評価・換算差額等,Valuation and translation adjustments,Valuation and translation adjustments
+79,jppfs_cor:ValuationDifferenceOnAvailableForSaleSecurities,その他有価証券評価差額金,Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities
+80,jppfs_cor:DeferredGainsOrLossesOnHedges,繰延ヘッジ損益,Deferred gains or losses on hedges,Deferred gains or losses on hedges
+81,jppfs_cor:RevaluationReserveForLand,土地再評価差額金,Revaluation reserve for land,Revaluation reserve for land
+82,jppfs_cor:ForeignCurrencyTranslationAdjustment,為替換算調整勘定,Foreign currency translation adjustment,Foreign currency translation adjustment
+83,jppfs_cor:SubscriptionRightsToShares,新株予約権,Share acquisition rights,Share acquisition rights
+84,jppfs_cor:NonControllingInterests,非支配株主持分,Non-controlling interests,Non-controlling interests
+85,jppfs_cor:NetAssets,純資産,Net assets,Net assets
+86,jppfs_cor:LiabilitiesAndNetAssets,負債純資産,Liabilities and net assets,Liabilities and net assets
+87,nan,,,
+88,nan,,,
+89,名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+90,jppfs_cor:StatementOfIncomeAbstract,損益計算書 [タイトル項目],Statement of income,Statement of income [abstract]
+91,jppfs_cor:StatementOfIncomeTable,損益計算書 [表],Statement of income,Statement of income [table]
+92,jppfs_cor:StatementOfIncomeLineItems,損益計算書 [表示項目],Statement of income,Statement of income [line items]
+93,jppfs_cor:OperatingRevenueAbstractIVT,営業収益、投資運用業 [タイトル項目],Operating revenue,Operating revenue-IVT [abstract]
+94,jppfs_cor:InvestmentTrustManagementFeeORIVT,委託者報酬、営業収益、投資運用業,Investment trust management fee,Investment trust management fee-OR-IVT
+95,jppfs_cor:ManagementFeeORIVT,運用受託報酬、営業収益、投資運用業,Management fee,Management fee-OR-IVT
+96,jppfs_cor:InvestmentAdvisoryFeeORIVT,投資顧問料、営業収益、投資運用業,Investment advisory fee,Investment advisory fee-OR-IVT
+97,jppfs_cor:OtherOperatingRevenueORIVT,その他営業収益、営業収益、投資運用業,Other operating revenue,Other operating revenue-OR-IVT
+98,jppfs_cor:OperatingRevenueIVT,営業収益、投資運用業,Operating revenue,Operating revenue-IVT
+99,jppfs_cor:OperatingExpensesAbstractIVT,営業費用、投資運用業 [タイトル項目],Operating expenses,Operating expenses-IVT [abstract]
+100,jppfs_cor:CommissionFeeOEIVT,支払手数料、営業費用、投資運用業,Commission expenses,Commission expenses - OE - IVT
+101,jppfs_cor:AdvertisingExpensesOEIVT,広告宣伝費、営業費用、投資運用業,Advertising expenses,Advertising expenses-OE-IVT
+102,jppfs_cor:PublicationExpensesOEIVT,公告費、営業費用、投資運用業,Publication expenses,Publication expenses-OE-IVT
+103,jppfs_cor:BeneficiaryCertificateIssuanceCostOEIVT,受益証券発行費、営業費用、投資運用業,Beneficiary certificate issuance cost,Beneficiary certificate issuance cost-OE-IVT
+104,jppfs_cor:TotalResearchExpensesOEIVT,調査費計、営業費用、投資運用業,Total research expenses,Total research expenses-OE-IVT
+105,jppfs_cor:ResearchExpensesOEIVT,調査費、営業費用、投資運用業,Research expenses,Research expenses-OE-IVT
+106,jppfs_cor:ResearchExpensesConsignmentOEIVT,委託調査費、営業費用、投資運用業,Research expenses - consignment,Research expenses-consignment-OE-IVT
+107,jppfs_cor:ComputerExpensesConsignmentOEIVT,委託計算費、営業費用、投資運用業,Computer expenses - consignment,Computer expenses-consignment-OE-IVT
+108,jppfs_cor:OperatingMiscellaneousExpensesOEIVT,営業雑経費、営業費用、投資運用業,Operating miscellaneous expenses,Operating miscellaneous expenses-OE-IVT
+109,jppfs_cor:CommunicationExpensesOEIVT,通信費、営業費用、投資運用業,Communication expenses,Communication expenses-OE-IVT
+110,jppfs_cor:PrintExpensesOEIVT,印刷費、営業費用、投資運用業,Print expenses,Print expenses-OE-IVT
+111,jppfs_cor:AssociationFeeOEIVT,協会費、営業費用、投資運用業,Association fee,Association fee-OE-IVT
+112,jppfs_cor:MembershipFeeOEIVT,諸会費、営業費用、投資運用業,Membership fee,Membership fee-OE-IVT
+113,jppfs_cor:OperatingExpensesIVT,営業費用、投資運用業,Operating expenses,Operating expenses-IVT
+114,jppfs_cor:GeneralAndAdministrativeExpensesAbstractIVT,一般管理費、投資運用業 [タイトル項目],General and administrative expenses,General and administrative expenses-IVT [abstract]
+115,jppfs_cor:SalariesSGAIVT,給料、一般管理費、投資運用業,Salaries,Salaries-SGA-IVT
+116,jppfs_cor:DirectorsCompensationsSGA,役員報酬、販売費及び一般管理費,Remuneration for directors (and other officers),Remuneration for directors (and other officers) - SGA
+117,jppfs_cor:SalariesAndAllowancesSGAIVT,給料・手当、一般管理費、投資運用業,Salaries and allowances,Salaries and allowances-SGA-IVT
+118,jppfs_cor:BonusesSGAIVT,賞与、一般管理費、投資運用業,Bonuses,Bonuses-SGA-IVT
+119,jppfs_cor:EntertainmentExpensesSGAIVT,交際費、一般管理費、投資運用業,Entertainment expenses,Entertainment expenses-SGA-IVT
+120,jppfs_cor:ContributionSGA,寄付金、販売費及び一般管理費,Contribution,Contribution-SGA
+121,jppfs_cor:TravelingAndTransportationExpensesSGAIVT,旅費交通費、一般管理費、投資運用業,Traveling and transportation expenses,Traveling and transportation expenses-SGA-IVT
+122,jppfs_cor:TaxesAndDuesSGA,租税公課、販売費及び一般管理費,Taxes and dues,Taxes and dues-SGA
+123,jppfs_cor:RentExpensesOnRealEstatesSGA,不動産賃借料、販売費及び一般管理費,Rent expenses on real estates,Rent expenses on real estates-SGA
+124,jppfs_cor:RetirementBenefitExpensesSGAIVT,退職給付費用、一般管理費、投資運用業,Retirement benefit expenses,Retirement benefit expenses-SGA-IVT
+125,jppfs_cor:ProvisionOfAllowanceForDoubtfulAccountsSGA,貸倒引当金繰入額、販売費及び一般管理費,Provision of allowance for doubtful accounts,Provision of allowance for doubtful accounts-SGA
+126,jppfs_cor:DepreciationSGA,減価償却費、販売費及び一般管理費,Depreciation,Depreciation-SGA
+127,jppfs_cor:SundryExpensesSGA,諸経費、販売費及び一般管理費,Sundry expenses,Sundry expenses-SGA
+128,jppfs_cor:GeneralAndAdministrativeExpensesIVT,一般管理費、投資運用業,General and administrative expenses,General and administrative expenses-IVT
+129,jppfs_cor:OperatingIncome,営業利益又は営業損失（△）,Operating profit (loss),Operating profit (loss)
+130,jppfs_cor:NonOperatingIncomeAbstract,営業外収益 [タイトル項目],Non-operating income,Non-operating income [abstract]
+131,jppfs_cor:DividendsIncomeNOI,受取配当金、営業外収益,Dividend income,Dividend income-NOI
+132,jppfs_cor:InterestOnSecuritiesNOI,有価証券利息、営業外収益,Interest on securities,Interest on securities-NOI
+133,jppfs_cor:InterestIncomeNOI,受取利息、営業外収益,Interest income,Interest income-NOI
+134,jppfs_cor:GainOnSalesOfSecuritiesNOI,有価証券売却益、営業外収益,Gain on sales of securities,Gain on sales of securities-NOI
+135,jppfs_cor:GainOnRedemptionOfSecuritiesNORIVT,有価証券償還益、営業外収益、投資運用業,Gain on redemption of securities,Gain on redemption of securities-NOR-IVT
+136,jppfs_cor:DividendsAndRedemptionPrescriptionNOIIVT,時効成立分配金・償還金、営業外収益、投資運用業,Dividends and redemption - prescription,Dividends and redemption-prescription-NOI-IVT
+137,jppfs_cor:NonOperatingIncome,営業外収益,Non-operating income,Non-operating income
+138,jppfs_cor:NonOperatingExpensesAbstract,営業外費用 [タイトル項目],Non-operating expenses,Non-operating expenses [abstract]
+139,jppfs_cor:InterestExpensesNOE,支払利息、営業外費用,Interest expenses,Interest expenses-NOE
+140,jppfs_cor:LossOnSalesOfSecuritiesNOE,有価証券売却損、営業外費用,Loss on sales of securities,Loss on sales of securities-NOE
+141,jppfs_cor:BadDebtsWrittenOffNOEIVT,貸倒償却、営業外費用、投資運用業,Bad debts written off,Bad debts written off-NOE-IVT
+142,jppfs_cor:LossOnDisposalOfSuppliesNOEIVT,貯蔵品廃棄損、営業外費用、投資運用業,Loss on disposal of supplies,Loss on disposal of supplies-NOE-IVT
+143,jppfs_cor:DividendsAndRedemptionPaidPrescriptionNOEIVT,時効成立後支払分配金・償還金、営業外費用、投資運用業,Dividends and redemption paid - prescription,Dividends and redemption paid-prescription-NOE-IVT
+144,jppfs_cor:NonOperatingExpenses,営業外費用,Non-operating expenses,Non-operating expenses
+145,jppfs_cor:OrdinaryIncome,経常利益又は経常損失（△）,Ordinary profit (loss),Ordinary profit (loss)
+146,jppfs_cor:ExtraordinaryIncomeAbstract,特別利益 [タイトル項目],Extraordinary income,Extraordinary income [abstract]
+147,jppfs_cor:NonRecurringIncomeEIIVT,臨時利益、特別利益、投資運用業,Non-recurring income,Non-recurring income-EI-IVT
+148,jppfs_cor:ExtraordinaryIncome,特別利益,Extraordinary income,Extraordinary income
+149,jppfs_cor:ExtraordinaryLossAbstract,特別損失 [タイトル項目],Extraordinary losses,Extraordinary losses [abstract]
+150,jppfs_cor:NonrecurringLossEL,臨時損失、特別損失,Nonrecurring loss,Nonrecurring loss-EL
+151,jppfs_cor:ExtraordinaryLoss,特別損失,Extraordinary losses,Extraordinary losses
+152,jppfs_cor:IncomeBeforeIncomeTaxes,税引前当期純利益又は税引前当期純損失（△）,Profit (loss) before income taxes,Profit (loss) before income taxes
+153,jppfs_cor:IncomeTaxes,法人税等,Income taxes,Income taxes
+154,jppfs_cor:IncomeTaxesCurrent,法人税、住民税及び事業税,Income taxes - current,Income taxes-current
+155,jppfs_cor:IncomeTaxesDeferred,法人税等調整額,Income taxes - deferred,Income taxes-deferred
+156,jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
+157,jppfs_cor:ProfitAttributableToAbstract,内訳、当期純利益 [タイトル項目],Profit attributable to,Profit attributable to [abstract]
+158,jppfs_cor:ProfitLossAttributableToNonControllingInterests,非支配株主に帰属する当期純利益又は非支配株主に帰属する当期純損失（△）,Profit (loss) attributable to non-controlling interests,Profit (loss) attributable to non-controlling interests
+159,jppfs_cor:ProfitLossAttributableToOwnersOfParent,親会社株主に帰属する当期純利益又は親会社株主に帰属する当期純損失（△）,Profit (loss) attributable to owners of parent,Profit (loss) attributable to owners of parent
+160,nan,,,
+161,nan,,,
+162,名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+163,jppfs_cor:StatementOfChangesInEquityAbstract,株主資本等変動計算書 [タイトル項目],Statement of changes in equity,Statement of changes in equity [abstract]
+164,jppfs_cor:StatementOfChangesInEquityTable,株主資本等変動計算書 [表],Statement of changes in equity,Statement of changes in equity [table]
+165,jppfs_cor:ComponentsOfEquityAxis,純資産の内訳項目 [軸],Components of equity,Components of equity [axis]
+166,jppfs_cor:NetAssetsMember,純資産 [メンバー],Net assets,Net assets [member]
+167,jppfs_cor:ShareholdersEquityMember,株主資本 [メンバー],Shareholders' equity,Shareholders' equity [member]
+168,jppfs_cor:CapitalStockMember,資本金 [メンバー],Capital stock,Capital stock [member]
+169,jppfs_cor:CapitalSurplusMember,資本剰余金 [メンバー],Capital surplus,Capital surplus [member]
+170,jppfs_cor:LegalCapitalSurplusMember,資本準備金 [メンバー],Legal capital surplus,Legal capital surplus [member]
+171,jppfs_cor:OtherCapitalSurplusMember,その他資本剰余金 [メンバー],Other capital surplus,Other capital surplus [member]
+172,jppfs_cor:RetainedEarningsMember,利益剰余金 [メンバー],Retained earnings,Retained earnings [member]
+173,jppfs_cor:LegalRetainedEarningsMember,利益準備金 [メンバー],Legal retained earnings,Legal retained earnings [member]
+174,jppfs_cor:OtherRetainedEarningsMember,その他利益剰余金 [メンバー],Other retained earnings,Other retained earnings [member]
+175,jppfs_cor:RetainedEarningsBroughtForwardMember,繰越利益剰余金 [メンバー],Retained earnings brought forward,Retained earnings brought forward [member]
+176,jppfs_cor:TreasuryStockMember,自己株式 [メンバー],Treasury shares,Treasury shares [member]
+177,jppfs_cor:ValuationAndTranslationAdjustmentsMember,評価・換算差額等 [メンバー],Valuation and translation adjustments,Valuation and translation adjustments [member]
+178,jppfs_cor:ValuationDifferenceOnAvailableForSaleSecuritiesMember,その他有価証券評価差額金 [メンバー],Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities [member]
+179,jppfs_cor:DeferredGainsOrLossesOnHedgesMember,繰延ヘッジ損益 [メンバー],Deferred gains or losses on hedges,Deferred gains or losses on hedges [member]
+180,jppfs_cor:RevaluationReserveForLandMember,土地再評価差額金 [メンバー],Revaluation reserve for land,Revaluation reserve for land [member]
+181,jppfs_cor:ForeignCurrencyTranslationAdjustmentMember,為替換算調整勘定 [メンバー],Foreign currency translation adjustment,Foreign currency translation adjustment [member]
+182,jppfs_cor:SubscriptionRightsToSharesMember,新株予約権 [メンバー],Share acquisition rights,Share acquisition rights [member]
+183,jppfs_cor:NonControllingInterestsMember,非支配株主持分 [メンバー],Non-controlling interests,Non-controlling interests [member]
+184,jppfs_cor:StatementOfChangesInEquityLineItems,株主資本等変動計算書 [表示項目],Statement of changes in equity,Statement of changes in equity [line items]
+185,jppfs_cor:NetAssets,純資産,Net assets,Net assets
+186,jppfs_cor:ChangesOfItemsDuringThePeriodAbstract,当期変動額 [タイトル項目],Changes of items during period,Changes of items during period [abstract]
+187,jppfs_cor:IssuanceOfNewShares,新株の発行,Issuance of new shares,Issuance of new shares
+188,jppfs_cor:DividendsFromSurplus,剰余金の配当,Dividends of surplus,Dividends of surplus
+189,jppfs_cor:ProfitLossAttributableToOwnersOfParent,親会社株主に帰属する当期純利益又は親会社株主に帰属する当期純損失（△）,Profit (loss) attributable to owners of parent,Profit (loss) attributable to owners of parent
+190,jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
+191,jppfs_cor:DisposalOfTreasuryStock,自己株式の処分,Disposal of treasury shares,Disposal of treasury shares
+192,jppfs_cor:NetChangesOfItemsOtherThanShareholdersEquity,株主資本以外の項目の当期変動額（純額）,Net changes of items other than shareholders' equity,Net changes of items other than shareholders' equity
+193,jppfs_cor:TotalChangesOfItemsDuringThePeriod,当期変動額合計,Total changes of items during period,Total changes of items during period
+194,nan,,,
+195,nan,,,
+196,名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+197,jppfs_cor:StatementOfCashFlowsAbstract,キャッシュ・フロー計算書 [タイトル項目],Statement of cash flows,Statement of cash flows [abstract]
+198,jppfs_cor:StatementOfCashFlowsTable,キャッシュ・フロー計算書 [表],Statement of cash flows,Statement of cash flows [table]
+199,jppfs_cor:StatementOfCashFlowsLineItems,キャッシュ・フロー計算書 [表示項目],Statement of cash flows,Statement of cash flows [line items]
+200,jppfs_cor:NetCashProvidedByUsedInOperatingActivitiesAbstract,営業活動によるキャッシュ・フロー [タイトル項目],Cash flows from operating activities,Cash flows from operating activities [abstract]
+201,jppfs_cor:SubtotalOpeCF,小計、営業活動によるキャッシュ・フロー,Subtotal,Subtotal-OpeCF
+202,jppfs_cor:NetCashProvidedByUsedInInvestmentActivitiesAbstract,投資活動によるキャッシュ・フロー [タイトル項目],Cash flows from investing activities,Cash flows from investing activities [abstract]
+203,jppfs_cor:NetCashProvidedByUsedInFinancingActivitiesAbstract,財務活動によるキャッシュ・フロー [タイトル項目],Cash flows from financing activities,Cash flows from financing activities [abstract]

@@ -1,0 +1,217 @@
+,タクソノミ,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+0,jppfs_cor:BalanceSheetAbstract,貸借対照表 [タイトル項目],Balance sheet,Balance sheet [abstract]
+1,jppfs_cor:BalanceSheetTable,貸借対照表 [表],Balance sheet,Balance sheet [table]
+2,jppfs_cor:BalanceSheetLineItems,貸借対照表 [表示項目],Balance sheet,Balance sheet [line items]
+3,jppfs_cor:AssetsAbstract,資産の部 [タイトル項目],Assets,Assets [abstract]
+4,jppfs_cor:SpecificAssetsAbstractLIQ,特定資産の部、資産流動化業 [タイトル項目],Specific assets,Specific assets-LIQ [abstract]
+5,jppfs_cor:CurrentAssetsSpecificAssetsAbstractLIQ,流動資産、特定資産、資産流動化業 [タイトル項目],Current assets,Current assets-specific assets-LIQ [abstract]
+6,jppfs_cor:TrustBeneficiaryRightCASpecificAssetsLIQ,信託受益権、流動資産、特定資産、資産流動化業,Trust beneficiary right,Trust beneficiary right-CA-specific assets-LIQ
+7,jppfs_cor:CurrentAssetsSpecificAssetsLIQ,流動資産、特定資産、資産流動化業,Current assets,Current assets-specific assets-LIQ
+8,jppfs_cor:NoncurrentAssetsSpecificAssetsAbstractLIQ,固定資産、特定資産、資産流動化業 [タイトル項目],Non-current assets,Non-current assets-specific assets-LIQ [abstract]
+9,jppfs_cor:PropertyPlantAndEquipmentSpecificAssetsAbstractLIQ,有形固定資産、特定資産、資産流動化業 [タイトル項目],"Property, plant and equipment","Property, plant and equipment-specific assets-LIQ [abstract]"
+10,jppfs_cor:BuildingsSpecificAssetsLIQ,建物、特定資産、資産流動化業,Buildings,Buildings-specific assets-LIQ
+11,jppfs_cor:AccumulatedDepreciationBuildingsSpecificAssetsLIQ,減価償却累計額、建物、特定資産、資産流動化業,Accumulated depreciation,Accumulated depreciation-buildings-specific assets-LIQ
+12,jppfs_cor:BuildingsNetSpecificAssetsLIQ,建物（純額）、特定資産、資産流動化業,"Buildings, net","Buildings, net-specific assets-LIQ"
+13,jppfs_cor:StructuresSpecificAssetsLIQ,構築物、特定資産、資産流動化業,Structures,Structures-specific assets-LIQ
+14,jppfs_cor:AccumulatedDepreciationStructuresSpecificAssetsLIQ,減価償却累計額、構築物、特定資産、資産流動化業,Accumulated depreciation,Accumulated depreciation-structures-specific assets-LIQ
+15,jppfs_cor:StructuresNetSpecificAssetsLIQ,構築物（純額）、特定資産、資産流動化業,"Structures, net","Structures, net-specific assets-LIQ"
+16,jppfs_cor:LandSpecificAssetsLIQ,土地、特定資産、資産流動化業,Land,Land-specific assets-LIQ
+17,jppfs_cor:PropertyPlantAndEquipmentSpecificAssetsLIQ,有形固定資産、特定資産、資産流動化業,"Property, plant and equipment","Property, plant and equipment-specific assets-LIQ"
+18,jppfs_cor:InvestmentsAndOtherAssetsSpecificAssetsAbstractLIQ,投資その他の資産、特定資産、資産流動化業 [タイトル項目],Investments and other assets,Investments and other assets-specific assets-LIQ [abstract]
+19,jppfs_cor:TrustBeneficiaryRightIOASpecificAssetsLIQ,信託受益権、投資その他の資産、特定資産、資産流動化業,Trust beneficiary right,Trust beneficiary right-IOA-specific assets-LIQ
+20,jppfs_cor:NominativeMonetaryClaimsBoughtIOASpecificAssetsLIQ,買入指名金銭債権、投資その他の資産、特定資産、資産流動化業,Nominative monetary claims bought,Nominative monetary claims bought-IOA-specific assets-LIQ
+21,jppfs_cor:InvestmentsAndOtherAssetsSpecificAssetsLIQ,投資その他の資産、特定資産、資産流動化業,Investments and other assets,Investments and other assets-specific assets-LIQ
+22,jppfs_cor:NoncurrentAssetsSpecificAssetsLIQ,固定資産、特定資産、資産流動化業,Non-current assets,Non-current assets-specific assets-LIQ
+23,jppfs_cor:SpecificAssetsLIQ,特定資産の部、資産流動化業,Specific assets,Specific assets-LIQ
+24,jppfs_cor:OtherAssetsAbstractLIQ,その他の資産の部、資産流動化業 [タイトル項目],Other assets,Other assets-LIQ [abstract]
+25,jppfs_cor:CurrentAssets,流動資産,Current assets,Current assets
+26,jppfs_cor:CashAndDeposits,現金及び預金,Cash and deposits,Cash and deposits
+27,jppfs_cor:NotesReceivableTrade,受取手形,Notes receivable - trade,Notes receivable-trade
+28,jppfs_cor:AllowanceForDoubtfulAccountsNotesReceivableTrade,貸倒引当金、受取手形,Allowance for doubtful accounts,Allowance for doubtful accounts-notes receivable-trade
+29,jppfs_cor:NotesReceivableTradeNet,受取手形（純額）,"Notes receivable - trade, net","Notes receivable-trade, net"
+30,jppfs_cor:OperatingAccountsReceivableLIQ,事業未収入金、資産流動化業,Operating accounts receivable,Operating accounts receivable-LIQ
+31,jppfs_cor:AllowanceForDoubtfulAccountsOperatingAccountsReceivableLIQ,貸倒引当金、事業未収入金、資産流動化業,Allowance for doubtful accounts,Allowance for doubtful accounts-operating accounts receivable-LIQ
+32,jppfs_cor:OperatingAccountsReceivableNetLIQ,事業未収入金（純額）、資産流動化業,"Operating accounts receivable, net","Operating accounts receivable, net-LIQ"
+33,jppfs_cor:TradingSecuritiesLIQ,売買目的有価証券、資産流動化業,Trading securities,Trading securities-LIQ
+34,jppfs_cor:Merchandise,商品,Merchandise,Merchandise
+35,jppfs_cor:FinishedGoodsByProductAndWasteLIQ,製品、副産物及び作業くず、資産流動化業,"Finished goods, by-product and waste","Finished goods, by-product and waste-LIQ"
+36,jppfs_cor:SemiFinishedGoods,半製品,Semi-finished goods,Semi-finished goods
+37,jppfs_cor:AdvancePaymentsTrade,前渡金,Advance payments - trade,Advance payments-trade
+38,jppfs_cor:PrepaidExpenses,前払費用,Prepaid expenses,Prepaid expenses
+39,jppfs_cor:AccruedIncome,未収収益,Accrued income,Accrued income
+40,jppfs_cor:DeferredTaxAssetsCA,繰延税金資産、流動資産,Deferred tax assets,Deferred tax assets-CA
+41,jppfs_cor:AllowanceForDoubtfulAccountsCA,貸倒引当金、流動資産、一括控除,Allowance for doubtful accounts,Allowance for doubtful accounts-CA-by group
+42,jppfs_cor:NoncurrentAssets,固定資産,Non-current assets,Non-current assets
+43,jppfs_cor:PropertyPlantAndEquipment,有形固定資産,"Property, plant and equipment","Property, plant and equipment"
+44,jppfs_cor:Buildings,建物,Buildings,Buildings
+45,jppfs_cor:AccumulatedDepreciationBuildings,減価償却累計額、建物,Accumulated depreciation,Accumulated depreciation-buildings
+46,jppfs_cor:AccumulatedImpairmentLossBuildings,減損損失累計額、建物,Accumulated impairment loss,Accumulated impairment loss-buildings
+47,jppfs_cor:BuildingsNet,建物（純額）,"Buildings, net","Buildings, net"
+48,jppfs_cor:Structures,構築物,Structures,Structures
+49,jppfs_cor:AccumulatedDepreciationStructures,減価償却累計額、構築物,Accumulated depreciation,Accumulated depreciation-structures
+50,jppfs_cor:AccumulatedImpairmentLossStructures,減損損失累計額、構築物,Accumulated impairment loss,Accumulated impairment loss-structures
+51,jppfs_cor:StructuresNet,構築物（純額）,"Structures, net","Structures, net"
+52,jppfs_cor:MachineryAndEquipment,機械及び装置,Machinery and equipment,Machinery and equipment
+53,jppfs_cor:AccumulatedDepreciationMachineryAndEquipment,減価償却累計額、機械及び装置,Accumulated depreciation,Accumulated depreciation-machinery and equipment
+54,jppfs_cor:AccumulatedImpairmentLossMachineryAndEquipment,減損損失累計額、機械及び装置,Accumulated impairment loss,Accumulated impairment loss-machinery and equipment
+55,jppfs_cor:MachineryAndEquipmentNet,機械及び装置（純額）,"Machinery and equipment, net","Machinery and equipment, net"
+56,jppfs_cor:Land,土地,Land,Land
+57,jppfs_cor:ConstructionInProgress,建設仮勘定,Construction in progress,Construction in progress
+58,jppfs_cor:AccumulatedDepreciationPPEByGroup,減価償却累計額、有形固定資産、一括控除,Accumulated depreciation,Accumulated depreciation-PPE-by group
+59,jppfs_cor:AccumulatedImpairmentLossPPEByGroup,減損損失累計額、有形固定資産、一括控除,Accumulated impairment loss,Accumulated impairment loss-PPE-by group
+60,jppfs_cor:AccumulatedDepreciationAndImpairmentLossPPEByGroup,減価償却累計額及び減損損失累計額、有形固定資産、一括控除,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-PPE-by group
+61,jppfs_cor:IntangibleAssets,無形固定資産,Intangible assets,Intangible assets
+62,jppfs_cor:PatentRight,特許権,Patent right,Patent right
+63,jppfs_cor:LeaseholdRight,借地権,Leasehold right,Leasehold right
+64,jppfs_cor:RightOfTrademark,商標権,Trademark right,Trademark right
+65,jppfs_cor:InvestmentsAndOtherAssets,投資その他の資産,Investments and other assets,Investments and other assets
+66,jppfs_cor:InvestmentSecurities,投資有価証券,Investment securities,Investment securities
+67,jppfs_cor:InvestmentsInCapital,出資金,Investments in capital,Investments in capital
+68,jppfs_cor:LongTermLoansReceivable,長期貸付金,Long-term loans receivable,Long-term loans receivable
+69,jppfs_cor:AllowanceForDoubtfulAccountsLongTermLoansReceivable,貸倒引当金、長期貸付金,Allowance for doubtful accounts,Allowance for doubtful accounts-long-term loans receivable
+70,jppfs_cor:LongTermLoansReceivableNet,長期貸付金（純額）,"Long-term loans receivable, net","Long-term loans receivable, net"
+71,jppfs_cor:DeferredTaxAssetsIOA,繰延税金資産、投資その他の資産,Deferred tax assets,Deferred tax assets-IOA
+72,jppfs_cor:AllowanceForDoubtfulAccountsIOAByGroup,貸倒引当金、投資その他の資産、一括控除,Allowance for doubtful accounts,Allowance for doubtful accounts-IOA-by group
+73,jppfs_cor:DeferredAssets,繰延資産,Deferred assets,Deferred assets
+74,jppfs_cor:SpecificBondIssuanceCostLIQ,特定社債発行費、資産流動化業,Specific bond issuance cost,Specific bond issuance cost-LIQ
+75,jppfs_cor:OtherAssetsLIQ,その他の資産の部、資産流動化業,Other assets,Other assets-LIQ
+76,jppfs_cor:Assets,資産,Assets,Assets
+77,jppfs_cor:LiabilitiesAbstract,負債の部 [タイトル項目],Liabilities,Liabilities [abstract]
+78,jppfs_cor:CurrentLiabilities,流動負債,Current liabilities,Current liabilities
+79,jppfs_cor:SpecificNotesPayableLIQ,特定約束手形、資産流動化業,Specific notes payable,Specific notes payable-LIQ
+80,jppfs_cor:OperatingAccountsPayableLIQ,事業未払金、資産流動化業,Operating accounts payable,Operating accounts payable-LIQ
+81,jppfs_cor:SpecificShortTermBondsPayableLIQ,特定短期社債、資産流動化業,Specific short-term bonds payable,Specific short-term bonds payable-LIQ
+82,jppfs_cor:CurrentPortionOfSpecificBondsPayableLIQ,1年以内償還予定特定社債、資産流動化業,Current portion of specific bonds payable,Current portion of specific bonds payable-LIQ
+83,jppfs_cor:CurrentPortionOfSpecificBorrowingsLIQ,1年以内返済予定特定借入れ、資産流動化業,Current portion of specific borrowings,Current portion of specific borrowings-LIQ
+84,jppfs_cor:ShortTermLoansPayable,短期借入金,Short-term loans payable,Short-term loans payable
+85,jppfs_cor:SpecificLoansPayableCLLIQ,特定目的借入れ、流動負債、資産流動化業,Specific loans payable,Specific loans payable-CL-LIQ
+86,jppfs_cor:AdvancesReceived,前受金,Advances received,Advances received
+87,jppfs_cor:ProvisionCL,引当金、流動負債,Provision,Provision-CL
+88,jppfs_cor:ProvisionForRepairs,修繕引当金,Provision for repairs,Provision for repairs
+89,jppfs_cor:AccountsPayableOther,未払金,Accounts payable - other,Accounts payable-other
+90,jppfs_cor:DepositsReceived,預り金,Deposits received,Deposits received
+91,jppfs_cor:IncomeTaxesPayable,未払法人税等,Income taxes payable,Income taxes payable
+92,jppfs_cor:AccruedExpenses,未払費用,Accrued expenses,Accrued expenses
+93,jppfs_cor:UnearnedRevenue,前受収益,Unearned revenue,Unearned revenue
+94,jppfs_cor:DeferredTaxLiabilitiesCL,繰延税金負債、流動負債,Deferred tax liabilities,Deferred tax liabilities-CL
+95,jppfs_cor:AssetRetirementObligationsCL,資産除去債務、流動負債,Asset retirement obligations,Asset retirement obligations-CL
+96,jppfs_cor:NoncurrentLiabilities,固定負債,Non-current liabilities,Non-current liabilities
+97,jppfs_cor:SpecificBondsPayableLIQ,特定社債、資産流動化業,Specific bonds payable,Specific bonds payable-LIQ
+98,jppfs_cor:SpecificBorrowingsNCLLIQ,特定借入れ、固定負債、資産流動化業,Specific borrowings,Specific borrowings-NCL-LIQ
+99,jppfs_cor:LongTermLoansPayable,長期借入金,Long-term loans payable,Long-term loans payable
+100,jppfs_cor:SpecificLoansPayableNCLLIQ,特定目的借入れ、固定負債、資産流動化業,Specific loans payable,Specific loans payable-NCL-LIQ
+101,jppfs_cor:ProvisionNCL,引当金、固定負債,Provision,Provision-NCL
+102,jppfs_cor:ProvisionForSpecialRepairs,特別修繕引当金,Provision for special repairs,Provision for special repairs
+103,jppfs_cor:DeferredTaxLiabilitiesNCL,繰延税金負債、固定負債,Deferred tax liabilities,Deferred tax liabilities-NCL
+104,jppfs_cor:AssetRetirementObligationsNCL,資産除去債務、固定負債,Asset retirement obligations,Asset retirement obligations-NCL
+105,jppfs_cor:Liabilities,負債,Liabilities,Liabilities
+106,jppfs_cor:NetAssetsAbstract,純資産の部 [タイトル項目],Net assets,Net assets [abstract]
+107,jppfs_cor:MembersEquityLIQ,社員資本、資産流動化業,Members' equity,Members' equity-LIQ
+108,jppfs_cor:SpecificSharesLIQ,特定資本金、資産流動化業,Specific shares,Specific shares-LIQ
+109,jppfs_cor:PreferredSharesLIQ,優先資本金、資産流動化業,Preferred shares,Preferred shares-LIQ
+110,jppfs_cor:DepositForSubscriptionsToSpecificSharesLIQ,特定出資申込証拠金、資産流動化業,Deposit for subscriptions to specific shares,Deposit for subscriptions to specific shares-LIQ
+111,jppfs_cor:DepositForSubscriptionsToPreferredSharesLIQ,優先出資申込証拠金、資産流動化業,Deposit for subscriptions to preferred shares,Deposit for subscriptions to preferred shares-LIQ
+112,jppfs_cor:DepositOrPaidInAdvanceForSubscriptionsToSpecificSharesLIQ,特定出資申込証拠金又は特定出資払込金、資産流動化業,Deposit or paid-in advance for subscriptions to specific shares,Deposit or paid-in advance for subscriptions to specific shares-LIQ
+113,jppfs_cor:DepositOrPaidInAdvanceForSubscriptionsToPreferredSharesLIQ,優先出資申込証拠金又は優先出資払込金、資産流動化業,Deposit or paid-in advance for subscriptions to preferred shares,Deposit or paid-in advance for subscriptions to preferred shares-LIQ
+114,jppfs_cor:SurplusLIQ,剰余金、資産流動化業,Surplus,Surplus-LIQ
+115,jppfs_cor:VoluntaryRetainedEarnings,任意積立金,Voluntary retained earnings,Voluntary retained earnings
+116,jppfs_cor:UnappropriatedRetainedEarningsUndisposedLossLIQ,当期未処分利益又は当期未処理損失（△）、資産流動化業,Unappropriated retained earnings (undisposed loss),Unappropriated retained earnings (undisposed loss)-LIQ
+117,jppfs_cor:TreasurySpecificStockLIQ,自己特定出資、資産流動化業,Treasury specific shares,Treasury specific shares-LIQ
+118,jppfs_cor:TreasuryPreferredStockLIQ,自己優先出資、資産流動化業,Treasury preferred shares,Treasury preferred shares-LIQ
+119,jppfs_cor:ValuationAndTranslationAdjustments,評価・換算差額等,Valuation and translation adjustments,Valuation and translation adjustments
+120,jppfs_cor:ValuationDifferenceOnAvailableForSaleSecurities,その他有価証券評価差額金,Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities
+121,jppfs_cor:DeferredGainsOrLossesOnHedges,繰延ヘッジ損益,Deferred gains or losses on hedges,Deferred gains or losses on hedges
+122,jppfs_cor:SubscriptionRightsToPreferredSharesLIQ,新優先出資引受権、資産流動化業,Subscription rights to preferred shares,Subscription rights to preferred shares-LIQ
+123,jppfs_cor:NetAssets,純資産,Net assets,Net assets
+124,jppfs_cor:LiabilitiesAndNetAssets,負債純資産,Liabilities and net assets,Liabilities and net assets
+125,nan,,,
+126,nan,,,
+127,名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+128,jppfs_cor:StatementOfIncomeAbstract,損益計算書 [タイトル項目],Statement of income,Statement of income [abstract]
+129,jppfs_cor:StatementOfIncomeTable,損益計算書 [表],Statement of income,Statement of income [table]
+130,jppfs_cor:StatementOfIncomeLineItems,損益計算書 [表示項目],Statement of income,Statement of income [line items]
+131,jppfs_cor:OperatingRevenue1Abstract,営業収益 [タイトル項目],Operating revenue,Operating revenue-1 [abstract]
+132,jppfs_cor:FinancialRevenue,金融収益,Financial revenue,Financial revenue
+133,jppfs_cor:NetSalesAbstract,売上高 [タイトル項目],Net sales,Net sales [abstract]
+134,jppfs_cor:RealEstateSalesRevOA,不動産売上高、営業活動による収益,Real estate sales,Real estate sales-RevOA
+135,jppfs_cor:RentIncomeOfRealEstateRevOA,不動産賃貸収入、営業活動による収益,Rent income of real estate,Rent income of real estate-RevOA
+136,jppfs_cor:NetSales,売上高,Net sales,Net sales
+137,jppfs_cor:OtherOperatingRevenue1RevOA,その他の営業収益、営業活動による収益,Other operating revenue,Other operating revenue-1-RevOA
+138,jppfs_cor:OperatingRevenue1,営業収益,Operating revenue,Operating revenue-1
+139,jppfs_cor:OperatingExpensesAbstract,営業費用 [タイトル項目],Operating expenses,Operating expenses [abstract]
+140,jppfs_cor:FinancialExpenses,金融費用,Financial expenses,Financial expenses
+141,jppfs_cor:CostOfSalesAbstract,売上原価 [タイトル項目],Cost of sales,Cost of sales [abstract]
+142,jppfs_cor:CostOfSalesRealEstateCOSExpOA,不動産売上原価、営業活動による費用・売上原価,Cost of sales - real estate,Cost of sales-real estate-COSExpOA
+143,jppfs_cor:CostOfRealEstateRentCOSExpOA,不動産賃貸原価、営業活動による費用・売上原価,Cost of real estate rent,Cost of real estate rent-COSExpOA
+144,jppfs_cor:CostOfSales,売上原価,Cost of sales,Cost of sales
+145,jppfs_cor:SellingGeneralAndAdministrativeExpenses,販売費及び一般管理費,"Selling, general and administrative expenses","Selling, general and administrative expenses"
+146,jppfs_cor:OperatingExpenses,営業費用,Operating expenses,Operating expenses
+147,jppfs_cor:OperatingIncome,営業利益又は営業損失（△）,Operating profit (loss),Operating profit (loss)
+148,jppfs_cor:NonOperatingIncomeAbstract,営業外収益 [タイトル項目],Non-operating income,Non-operating income [abstract]
+149,jppfs_cor:InterestIncomeNOI,受取利息、営業外収益,Interest income,Interest income-NOI
+150,jppfs_cor:DividendsIncomeNOI,受取配当金、営業外収益,Dividend income,Dividend income-NOI
+151,jppfs_cor:NonOperatingIncome,営業外収益,Non-operating income,Non-operating income
+152,jppfs_cor:NonOperatingExpensesAbstract,営業外費用 [タイトル項目],Non-operating expenses,Non-operating expenses [abstract]
+153,jppfs_cor:InterestExpensesNOE,支払利息、営業外費用,Interest expenses,Interest expenses-NOE
+154,jppfs_cor:NonOperatingExpenses,営業外費用,Non-operating expenses,Non-operating expenses
+155,jppfs_cor:OrdinaryIncome,経常利益又は経常損失（△）,Ordinary profit (loss),Ordinary profit (loss)
+156,jppfs_cor:ExtraordinaryIncomeAbstract,特別利益 [タイトル項目],Extraordinary income,Extraordinary income [abstract]
+157,jppfs_cor:ExtraordinaryIncome,特別利益,Extraordinary income,Extraordinary income
+158,jppfs_cor:ExtraordinaryLossAbstract,特別損失 [タイトル項目],Extraordinary losses,Extraordinary losses [abstract]
+159,jppfs_cor:ExtraordinaryLoss,特別損失,Extraordinary losses,Extraordinary losses
+160,jppfs_cor:IncomeBeforeIncomeTaxes,税引前当期純利益又は税引前当期純損失（△）,Profit (loss) before income taxes,Profit (loss) before income taxes
+161,jppfs_cor:IncomeTaxesCurrent,法人税、住民税及び事業税,Income taxes - current,Income taxes-current
+162,jppfs_cor:IncomeTaxesDeferred,法人税等調整額,Income taxes - deferred,Income taxes-deferred
+163,jppfs_cor:IncomeTaxes,法人税等,Income taxes,Income taxes
+164,jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
+165,jppfs_cor:RetainedEarningsBroughtForwardPriorLIQ,前期繰越利益又は前期繰越損失（△）、資産流動化業,Retained earnings (deficit) brought forward,Retained earnings (deficit) brought forward-LIQ
+166,jppfs_cor:InterimDividendsAbstractLIQ,中間配当額、資産流動化業 [タイトル項目],Interim dividends,Interim dividends-LIQ [abstract]
+167,jppfs_cor:InterimDividendsSpecificSharesLIQ,優先出資中間配当額、資産流動化業,Interim dividends - preferred shares,Interim dividends - preferred shares-LIQ
+168,jppfs_cor:InterimDividendsPreferredSharesLIQ,特定出資中間配当額、資産流動化業,Interim dividends - specific shares,Interim dividends - specific shares-LIQ
+169,jppfs_cor:InterimDividendsLIQ,中間配当額、資産流動化業,Interim dividends,Interim dividends-LIQ
+170,jppfs_cor:UnappropriatedRetainedEarningsUndisposedLossLIQ,当期未処分利益又は当期未処理損失（△）、資産流動化業,Unappropriated retained earnings (undisposed loss),Unappropriated retained earnings (undisposed loss)-LIQ
+171,nan,,,
+172,nan,,,
+173,名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+174,jppfs_cor:StatementOfCashFlowsAbstract,キャッシュ・フロー計算書 [タイトル項目],Statement of cash flows,Statement of cash flows [abstract]
+175,jppfs_cor:StatementOfCashFlowsTable,キャッシュ・フロー計算書 [表],Statement of cash flows,Statement of cash flows [table]
+176,jppfs_cor:StatementOfCashFlowsLineItems,キャッシュ・フロー計算書 [表示項目],Statement of cash flows,Statement of cash flows [line items]
+177,jppfs_cor:NetCashProvidedByUsedInOperatingActivitiesAbstract,営業活動によるキャッシュ・フロー [タイトル項目],Cash flows from operating activities,Cash flows from operating activities [abstract]
+178,jppfs_cor:SubtotalOpeCF,小計、営業活動によるキャッシュ・フロー,Subtotal,Subtotal-OpeCF
+179,jppfs_cor:IncreaseDecreaseInSpecificBondsPayableOpeCFLIQ,特定社債の増減額（△は減少）、営業活動によるキャッシュ・フロー、資産流動化業,Increase (decrease) in specific bonds payable,Increase (decrease) in specific bonds payable-OpeCF-LIQ
+180,jppfs_cor:NetCashProvidedByUsedInInvestmentActivitiesAbstract,投資活動によるキャッシュ・フロー [タイトル項目],Cash flows from investing activities,Cash flows from investing activities [abstract]
+181,jppfs_cor:PurchaseOfSpecificAssetsInvCFLIQ,特定資産の取得による支出、投資活動によるキャッシュ・フロー、資産流動化業,Purchase of specific assets,Purchase of specific assets-InvCF-LIQ
+182,jppfs_cor:NetCashProvidedByUsedInFinancingActivitiesAbstract,財務活動によるキャッシュ・フロー [タイトル項目],Cash flows from financing activities,Cash flows from financing activities [abstract]
+183,jppfs_cor:ProceedsFromIssuanceOfSpecificSharesFinCFLIQ,特定出資の発行による収入、財務活動によるキャッシュ・フロー、資産流動化業,Proceeds from issuance of specific shares,Proceeds from issuance of specific shares-FinCF-LIQ
+184,jppfs_cor:ProceedsFromIssuanceOfPreferredSharesFinCFLIQ,優先出資の発行による収入、財務活動によるキャッシュ・フロー、資産流動化業,Proceeds from issuance of preferred shares,Proceeds from issuance of preferred shares-FinCF-LIQ
+185,jppfs_cor:ProceedsFromIssuanceOfSpecificBondsPayableFinCFLIQ,特定社債の発行による収入、財務活動によるキャッシュ・フロー、資産流動化業,Proceeds from issuance of specific bonds payable,Proceeds from issuance of specific bonds payable-FinCF-LIQ
+186,nan,,,
+187,nan,,,
+188,名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+189,jppfs_cor:StatementOfMembersEquityAbstract,社員資本等変動計算書 [タイトル項目],Statement of members' equity,Statement of members' equity [abstract]
+190,jppfs_cor:StatementOfMembersEquityTable,社員資本等変動計算書 [表],Statement of members' equity,Statement of members' equity [table]
+191,jppfs_cor:ComponentsOfEquityAxis,純資産の内訳項目 [軸],Components of equity,Components of equity [axis]
+192,jppfs_cor:NetAssetsMember,純資産 [メンバー],Net assets,Net assets [member]
+193,jppfs_cor:MembersEquityLIQMember,社員資本、資産流動化業 [メンバー],Members' equity,Members' equity-LIQ [member]
+194,jppfs_cor:SpecificSharesLIQMember,特定資本金、資産流動化業 [メンバー],Specific shares,Specific shares-LIQ [member]
+195,jppfs_cor:PreferredSharesLIQMember,優先資本金、資産流動化業 [メンバー],Preferred shares,Preferred shares-LIQ [member]
+196,jppfs_cor:SurplusLIQMember,剰余金、資産流動化業 [メンバー],Surplus,Surplus-LIQ [member]
+197,jppfs_cor:VoluntaryRetainedEarningsMember,任意積立金 [メンバー],Voluntary retained earnings,Voluntary retained earnings [member]
+198,jppfs_cor:UnappropriatedRetainedEarningsUndisposedLossLIQMember,当期未処分利益又は当期未処理損失（△）、資産流動化業 [メンバー],Unappropriated retained earnings (undisposed loss),Unappropriated retained earnings (undisposed loss)-LIQ [member]
+199,jppfs_cor:TreasurySpecificStockLIQMember,自己特定出資、資産流動化業 [メンバー],Treasury specific shares,Treasury specific shares-LIQ [member]
+200,jppfs_cor:TreasuryPreferredStockLIQMember,自己優先出資、資産流動化業 [メンバー],Treasury preferred shares,Treasury preferred shares-LIQ [member]
+201,jppfs_cor:ValuationAndTranslationAdjustmentsMember,評価・換算差額等 [メンバー],Valuation and translation adjustments,Valuation and translation adjustments [member]
+202,jppfs_cor:ValuationDifferenceOnAvailableForSaleSecuritiesMember,その他有価証券評価差額金 [メンバー],Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities [member]
+203,jppfs_cor:DeferredGainsOrLossesOnHedgesMember,繰延ヘッジ損益 [メンバー],Deferred gains or losses on hedges,Deferred gains or losses on hedges [member]
+204,jppfs_cor:SubscriptionRightsToPreferredSharesLIQMember,新優先出資引受権、資産流動化業 [メンバー],Subscription rights to preferred shares,Subscription rights to preferred shares-LIQ [member]
+205,jppfs_cor:StatementOfMembersEquityLineItems,社員資本等変動計算書 [表示項目],Statement of members' equity,Statement of members' equity [line items]
+206,jppfs_cor:NetAssets,純資産,Net assets,Net assets
+207,jppfs_cor:ChangesOfItemsDuringThePeriodAbstract,当期変動額 [タイトル項目],Changes of items during period,Changes of items during period [abstract]
+208,jppfs_cor:IssuanceOfSpecificSharesLIQ,特定出資の発行、資産流動化業,Issuance of specific shares,Issuance of specific shares-LIQ
+209,jppfs_cor:IssuanceOfPreferredSharesLIQ,優先出資の発行、資産流動化業,Issuance of preferred shares,Issuance of preferred shares-LIQ
+210,jppfs_cor:DividendsFromProfit,利益の配当,Dividends from profit,Dividends from profit
+211,jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
+212,jppfs_cor:PurchaseOfTreasuryPreferredStockLIQ,自己優先出資の取得、資産流動化業,Purchase of treasury preferred shares,Purchase of treasury preferred shares-LIQ
+213,jppfs_cor:RetirementOfTreasuryPreferredStockLIQ,自己優先出資の消却、資産流動化業,Retirement of treasury preferred shares,Retirement of treasury preferred shares-LIQ
+214,jppfs_cor:NetChangesOfItemsOtherThanShareholdersEquity,株主資本以外の項目の当期変動額（純額）,Net changes of items other than shareholders' equity,Net changes of items other than shareholders' equity
+215,jppfs_cor:TotalChangesOfItemsDuringThePeriod,当期変動額合計,Total changes of items during period,Total changes of items during period

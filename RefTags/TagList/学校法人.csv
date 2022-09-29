@@ -1,0 +1,255 @@
+,タクソノミ,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+0,jppfs_cor:BalanceSheetAbstract,貸借対照表 [タイトル項目],Balance sheet,Balance sheet [abstract]
+1,jppfs_cor:BalanceSheetTable,貸借対照表 [表],Balance sheet,Balance sheet [table]
+2,jppfs_cor:BalanceSheetLineItems,貸借対照表 [表示項目],Balance sheet,Balance sheet [line items]
+3,jppfs_cor:AssetsAbstract,資産の部 [タイトル項目],Assets,Assets [abstract]
+4,jppfs_cor:NoncurrentAssetsAbstract,固定資産 [タイトル項目],Non-current assets,Non-current assets [abstract]
+5,jppfs_cor:PropertyPlantAndEquipmentAbstract,有形固定資産 [タイトル項目],"Property, plant and equipment","Property, plant and equipment [abstract]"
+6,jppfs_cor:Land,土地,Land,Land
+7,jppfs_cor:Buildings,建物,Buildings,Buildings
+8,jppfs_cor:AccumulatedDepreciationBuildings,減価償却累計額、建物,Accumulated depreciation,Accumulated depreciation-buildings
+9,jppfs_cor:AccumulatedImpairmentLossBuildings,減損損失累計額、建物,Accumulated impairment loss,Accumulated impairment loss-buildings
+10,jppfs_cor:AccumulatedDepreciationAndImpairmentLossBuildings,減価償却累計額及び減損損失累計額、建物,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-buildings
+11,jppfs_cor:BuildingsNet,建物（純額）,"Buildings, net","Buildings, net"
+12,jppfs_cor:Structures,構築物,Structures,Structures
+13,jppfs_cor:AccumulatedDepreciationStructures,減価償却累計額、構築物,Accumulated depreciation,Accumulated depreciation-structures
+14,jppfs_cor:AccumulatedImpairmentLossStructures,減損損失累計額、構築物,Accumulated impairment loss,Accumulated impairment loss-structures
+15,jppfs_cor:AccumulatedDepreciationAndImpairmentLossStructures,減価償却累計額及び減損損失累計額、構築物,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-structures
+16,jppfs_cor:StructuresNet,構築物（純額）,"Structures, net","Structures, net"
+17,jppfs_cor:EducationalResearchInstrumentAndEquipmentEDU,教育研究用機器備品、学校法人,Educational research instrument and equipment,Educational research instrument and equipment-EDU
+18,jppfs_cor:AccumulatedDepreciationEducationalResearchInstrumentAndEquipmentEDU,減価償却累計額、教育研究用機器備品、学校法人,Accumulated depreciation,Accumulated depreciation-educational research instrument and equipment-EDU
+19,jppfs_cor:AccumulatedImpairmentLossEducationalResearchInstrumentAndEquipmentEDU,減損損失累計額、教育研究用機器備品、学校法人,Accumulated impairment loss,Accumulated impairment loss-educational research instrument and equipment-EDU
+20,jppfs_cor:AccumulatedDepreciationAndImpairmentLossEducationalResearchInstrumentAndEquipmentEDU,減価償却累計額及び減損損失累計額、教育研究用機器備品、学校法人,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-educational research instrument and equipment-EDU
+21,jppfs_cor:EducationalResearchInstrumentAndEquipmentNetEDU,教育研究用機器備品（純額）、学校法人,"Educational research instrument and equipment, net","Educational research instrument and equipment, net-EDU"
+22,jppfs_cor:OtherInstrumentAndEquipmentEDU,その他の機器備品、学校法人,Other instrument and equipment,Other instrument and equipment-EDU
+23,jppfs_cor:AccumulatedDepreciationOtherInstrumentAndEquipmentEDU,減価償却累計額、その他の機器備品、学校法人,Accumulated depreciation,Accumulated depreciation-other instrument and equipment-EDU
+24,jppfs_cor:AccumulatedImpairmentLossOtherInstrumentAndEquipmentEDU,減損損失累計額、その他の機器備品、学校法人,Accumulated impairment loss,Accumulated impairment loss-other instrument and equipment-EDU
+25,jppfs_cor:AccumulatedDepreciationAndImpairmentLossOtherInstrumentAndEquipmentEDU,減価償却累計額及び減損損失累計額、その他の機器備品、学校法人,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-other instrument and equipment-EDU
+26,jppfs_cor:OtherInstrumentAndEquipmentNetEDU,その他の機器備品（純額）、学校法人,"Other instrument and equipment, net","Other instrument and equipment, net-EDU"
+27,jppfs_cor:VesselsAndVehiclesEDU,船舶及び車両、学校法人,Vessels and vehicles,Vessels and vehicles-EDU
+28,jppfs_cor:AccumulatedDepreciationVesselsAndVehiclesEDU,減価償却累計額、船舶及び車両、学校法人,Accumulated depreciation,Accumulated depreciation-vessels and vehicles-EDU
+29,jppfs_cor:AccumulatedImpairmentLossVesselsAndVehiclesEDU,減損損失累計額、船舶及び車両、学校法人,Accumulated impairment loss,Accumulated impairment loss-vessels and vehicles-EDU
+30,jppfs_cor:AccumulatedDepreciationAndImpairmentLossVesselsAndVehiclesEDU,減価償却累計額及び減損損失累計額、船舶及び車両、学校法人,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-vessels and vehicles-EDU
+31,jppfs_cor:VesselsAndVehiclesNetEDU,船舶及び車両（純額）、学校法人,"Vessels and vehicles, net","Vessels and vehicles, net-EDU"
+32,jppfs_cor:LeaseAssetsPPE,リース資産、有形固定資産,Leased assets,Leased assets-PPE
+33,jppfs_cor:AccumulatedDepreciationLeaseAssetsPPE,減価償却累計額、リース資産、有形固定資産,Accumulated depreciation,Accumulated depreciation-lease assets-PPE
+34,jppfs_cor:AccumulatedImpairmentLossLeaseAssetsPPE,減損損失累計額、リース資産、有形固定資産,Accumulated impairment loss,Accumulated impairment loss-lease assets-PPE
+35,jppfs_cor:AccumulatedDepreciationAndImpairmentLossLeaseAssetsPPE,減価償却累計額及び減損損失累計額、リース資産、有形固定資産,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-lease assets-PPE
+36,jppfs_cor:LeaseAssetsNetPPE,リース資産（純額）、有形固定資産,"Leased assets, net","Leased assets, net-PPE"
+37,jppfs_cor:BooksEDU,図書、学校法人,Books,Books-EDU
+38,jppfs_cor:ConstructionInProgress,建設仮勘定,Construction in progress,Construction in progress
+39,jppfs_cor:OtherNetPPE,その他（純額）、有形固定資産,"Other, net","Other, net-PPE"
+40,jppfs_cor:AccumulatedDepreciationPPEByGroup,減価償却累計額、有形固定資産、一括控除,Accumulated depreciation,Accumulated depreciation-PPE-by group
+41,jppfs_cor:AccumulatedImpairmentLossPPEByGroup,減損損失累計額、有形固定資産、一括控除,Accumulated impairment loss,Accumulated impairment loss-PPE-by group
+42,jppfs_cor:AccumulatedDepreciationAndImpairmentLossPPEByGroup,減価償却累計額及び減損損失累計額、有形固定資産、一括控除,Accumulated depreciation and impairment loss,Accumulated depreciation and impairment loss-PPE-by group
+43,jppfs_cor:PropertyPlantAndEquipment,有形固定資産,"Property, plant and equipment","Property, plant and equipment"
+44,jppfs_cor:IntangibleAssetsAbstract,無形固定資産 [タイトル項目],Intangible assets,Intangible assets [abstract]
+45,jppfs_cor:LeaseholdRight,借地権,Leasehold right,Leasehold right
+46,jppfs_cor:PatentRight,特許権,Patent right,Patent right
+47,jppfs_cor:Software,ソフトウエア,Software,Software
+48,jppfs_cor:LeaseAssetsIA,リース資産、無形固定資産,Leased assets,Leased assets-IA
+49,jppfs_cor:OtherIA,その他、無形固定資産,Other,Other-IA
+50,jppfs_cor:IntangibleAssets,無形固定資産,Intangible assets,Intangible assets
+51,jppfs_cor:InvestmentsAndOtherAssetsAbstract,投資その他の資産 [タイトル項目],Investments and other assets,Investments and other assets [abstract]
+52,jppfs_cor:InvestmentSecurities,投資有価証券,Investment securities,Investment securities
+53,jppfs_cor:StocksOfSubsidiariesAndAffiliates,関係会社株式,Shares of subsidiaries and associates,Shares of subsidiaries and associates
+54,jppfs_cor:BondsOfSubsidiariesAndAffiliates,関係会社社債,Bonds of subsidiaries and associates,Bonds of subsidiaries and associates
+55,jppfs_cor:InvestmentsInOtherSecuritiesOfSubsidiariesAndAffiliates,その他の関係会社有価証券,Investments in other securities of subsidiaries and associates,Investments in other securities of subsidiaries and associates
+56,jppfs_cor:InvestmentsInCapital,出資金,Investments in capital,Investments in capital
+57,jppfs_cor:InvestmentsInCapitalOfSubsidiariesAndAffiliates,関係会社出資金,Investments in capital of subsidiaries and associates,Investments in capital of subsidiaries and associates
+58,jppfs_cor:ReservedAssetsForDepreciationEDU,減価償却引当特定資産、学校法人,Reserved assets for depreciation,Reserved assets for depreciation-EDU
+59,jppfs_cor:LongTermLoansReceivable,長期貸付金,Long-term loans receivable,Long-term loans receivable
+60,jppfs_cor:AllowanceForDoubtfulAccountsLongTermLoansReceivable,貸倒引当金、長期貸付金,Allowance for doubtful accounts,Allowance for doubtful accounts-long-term loans receivable
+61,jppfs_cor:LongTermLoansReceivableNet,長期貸付金（純額）,"Long-term loans receivable, net","Long-term loans receivable, net"
+62,jppfs_cor:LongTermLoansReceivableFromDirectorsAndOtherEDU,役員等長期貸付金、学校法人,Long-term loans receivable from directors and other,Long-term loans receivable from directors and other-EDU
+63,jppfs_cor:AllowanceForDoubtfulAccountsLongTermLoansReceivableFromDirectorsAndOtherEDU,貸倒引当金、役員等長期貸付金、学校法人,Allowance for doubtful accounts,Allowance for doubtful accounts-long-term loans receivable from directors and other-EDU
+64,jppfs_cor:LongTermLoansReceivableFromDirectorsAndOtherNetEDU,役員等長期貸付金（純額）、学校法人,"Long-term loans receivable from directors and other, net","Long-term loans receivable from directors and other, net-EDU"
+65,jppfs_cor:LongTermLoansReceivableFromSubsidiariesAndAffiliates,関係会社長期貸付金,Long-term loans receivable from subsidiaries and associates,Long-term loans receivable from subsidiaries and associates
+66,jppfs_cor:AllowanceForDoubtfulAccountsLongTermLoansReceivableFromSubsidiariesAndAffiliates,貸倒引当金、関係会社長期貸付金,Allowance for doubtful accounts,Allowance for doubtful accounts-long-term loans receivable from subsidiaries and affiliates
+67,jppfs_cor:LongTermLoansReceivableFromSubsidiariesAndAffiliatesNet,関係会社長期貸付金（純額）,"Long-term loans receivable from subsidiaries and associates, net","Long-term loans receivable from subsidiaries and associates, net"
+68,jppfs_cor:ClaimsProvableInBankruptcyClaimsProvableInRehabilitationAndOther,破産更生債権等,"Claims provable in bankruptcy, claims provable in rehabilitation and other","Claims provable in bankruptcy, claims provable in rehabilitation and other"
+69,jppfs_cor:AllowanceForDoubtfulAccountsClaimsInBankruptcyReorganizationClaimsAndOther,貸倒引当金、破産更生債権等,Allowance for doubtful accounts,"Allowance for doubtful accounts-claims provable in bankruptcy, claims provable in rehabilitation and other"
+70,jppfs_cor:ClaimsProvableInBankruptcyClaimsProvableInRehabilitationAndOtherNet,破産更生債権等（純額）,"Claims provable in bankruptcy, claims provable in rehabilitation and other, net","Claims provable in bankruptcy, claims provable in rehabilitation and other, net"
+71,jppfs_cor:LongTermPrepaidExpenses,長期前払費用,Long-term prepaid expenses,Long-term prepaid expenses
+72,jppfs_cor:DeferredTaxAssetsIOA,繰延税金資産、投資その他の資産,Deferred tax assets,Deferred tax assets-IOA
+73,jppfs_cor:RealEstateForInvestmentNet,投資不動産（純額）,"Real estate for investment, net","Real estate for investment, net"
+74,jppfs_cor:OtherNCAEDU,その他、固定資産、学校法人,Other,Other-NCA-EDU
+75,jppfs_cor:AllowanceForDoubtfulAccountsIOAByGroup,貸倒引当金、投資その他の資産、一括控除,Allowance for doubtful accounts,Allowance for doubtful accounts-IOA-by group
+76,jppfs_cor:InvestmentsAndOtherAssets,投資その他の資産,Investments and other assets,Investments and other assets
+77,jppfs_cor:NoncurrentAssets,固定資産,Non-current assets,Non-current assets
+78,jppfs_cor:DeferredAssetsAbstract,繰延資産 [タイトル項目],Deferred assets,Deferred assets [abstract]
+79,jppfs_cor:SchoolBondIssuanceCostEDU,学校債発行費、学校法人,School bond issuance cost,School bond issuance cost-EDU
+80,jppfs_cor:SchoolEstablishmentExpensesEDU,開設費、学校法人,School establishment expenses,School establishment expenses-EDU
+81,jppfs_cor:DeferredAssets,繰延資産,Deferred assets,Deferred assets
+82,jppfs_cor:CurrentAssetsAbstract,流動資産 [タイトル項目],Current assets,Current assets [abstract]
+83,jppfs_cor:CashAndDeposits,現金及び預金,Cash and deposits,Cash and deposits
+84,jppfs_cor:AccountsReceivableEDU,未収入金、学校法人,Accounts receivable,Accounts receivable-EDU
+85,jppfs_cor:AllowanceForDoubtfulAccountsAccountsReceivableEDU,貸倒引当金、未収入金、学校法人,Allowance for doubtful accounts,Allowance for doubtful accounts-accounts receivable-EDU
+86,jppfs_cor:AccountsReceivableNetEDU,未収入金（純額）、学校法人,"Accounts receivable, net","Accounts receivable, net-EDU"
+87,jppfs_cor:LeaseReceivablesCA,リース債権、流動資産,Lease receivables,Lease receivables-CA
+88,jppfs_cor:AllowanceForDoubtfulAccountsLeaseReceivablesCA,貸倒引当金、リース債権、流動資産,Allowance for doubtful accounts,Allowance for doubtful accounts-lease receivables-CA
+89,jppfs_cor:LeaseReceivablesNetCA,リース債権（純額）、流動資産,"Lease receivables, net","Lease receivables, net-CA"
+90,jppfs_cor:LeaseInvestmentAssetsCA,リース投資資産、流動資産,Lease investment assets,Lease investment assets-CA
+91,jppfs_cor:AllowanceForDoubtfulAccountsLeaseInvestmentAssetsCA,貸倒引当金、リース投資資産、流動資産,Allowance for doubtful accounts,Allowance for doubtful accounts-lease investment assets-CA
+92,jppfs_cor:LeaseInvestmentAssetsNetCA,リース投資資産（純額）、流動資産,"Lease investment assets, net","Lease investment assets, net-CA"
+93,jppfs_cor:ShortTermInvestmentSecurities,有価証券,Securities,Securities
+94,jppfs_cor:Inventories,たな卸資産,Inventories,Inventories
+95,jppfs_cor:ShortTermLoansReceivable,短期貸付金,Short-term loans receivable,Short-term loans receivable
+96,jppfs_cor:AllowanceForDoubtfulAccountsShortTermLoans,貸倒引当金、短期貸付金,Allowance for doubtful accounts,Allowance for doubtful accounts-short-term loans
+97,jppfs_cor:ShortTermLoansReceivableNet,短期貸付金（純額）,"Short-term loans receivable, net","Short-term loans receivable, net"
+98,jppfs_cor:AdvancePaymentsTrade,前渡金,Advance payments - trade,Advance payments-trade
+99,jppfs_cor:PrepaidExpenses,前払費用,Prepaid expenses,Prepaid expenses
+100,jppfs_cor:DeferredTaxAssetsCA,繰延税金資産、流動資産,Deferred tax assets,Deferred tax assets-CA
+101,jppfs_cor:ShortTermReceivablesFromDirectorsAndOtherEDU,役員等短期債権、学校法人,Short-term receivables from directors and other,Short-term receivables from directors and other-EDU
+102,jppfs_cor:AllowanceForDoubtfulAccountsShortTermReceivablesFromDirectorsAndOtherEDU,貸倒引当金、役員等短期債権、学校法人,Allowance for doubtful accounts,Allowance for doubtful accounts-short-term receivables from directors and other-EDU
+103,jppfs_cor:ShortTermReceivablesFromDirectorsAndOtherNetEDU,役員等短期債権（純額）、学校法人,"Short-term receivables from directors and other, net","Short-term receivables from directors and other, net-EDU"
+104,jppfs_cor:OtherCA,その他、流動資産,Other,Other-CA
+105,jppfs_cor:AllowanceForDoubtfulAccountsCA,貸倒引当金、流動資産、一括控除,Allowance for doubtful accounts,Allowance for doubtful accounts-CA-by group
+106,jppfs_cor:CurrentAssets,流動資産,Current assets,Current assets
+107,jppfs_cor:Assets,資産,Assets,Assets
+108,jppfs_cor:LiabilitiesAbstract,負債の部 [タイトル項目],Liabilities,Liabilities [abstract]
+109,jppfs_cor:NoncurrentLiabilitiesAbstract,固定負債 [タイトル項目],Non-current liabilities,Non-current liabilities [abstract]
+110,jppfs_cor:LongTermLoansPayable,長期借入金,Long-term loans payable,Long-term loans payable
+111,jppfs_cor:LongTermLoansPayableToSubsidiariesAndAffiliates,関係会社長期借入金,Long-term loans payable to subsidiaries and associates,Long-term loans payable to subsidiaries and associates
+112,jppfs_cor:SchoolBondsPayableNCLEDU,学校債、固定負債、学校法人,School bonds payable,School bonds payable-NCL-EDU
+113,jppfs_cor:LeaseObligationsNCL,リース債務、固定負債,Lease obligations,Lease obligations-NCL
+114,jppfs_cor:DeferredTaxLiabilitiesNCL,繰延税金負債、固定負債,Deferred tax liabilities,Deferred tax liabilities-NCL
+115,jppfs_cor:ProvisionNCLAbstract,引当金、固定負債 [タイトル項目],Provision,Provision-NCL [abstract]
+116,jppfs_cor:ProvisionForRetirementBenefits,退職給付引当金,Provision for retirement benefits,Provision for retirement benefits
+117,jppfs_cor:ProvisionNCL,引当金、固定負債,Provision,Provision-NCL
+118,jppfs_cor:LongTermLoansPayableToDirectorsAndOtherEDU,役員等長期借入金、学校法人,Long-term loans payable to directors and other,Long-term loans payable to directors and other-EDU
+119,jppfs_cor:OtherNCL,その他、固定負債,Other,Other-NCL
+120,jppfs_cor:NoncurrentLiabilities,固定負債,Non-current liabilities,Non-current liabilities
+121,jppfs_cor:CurrentLiabilitiesAbstract,流動負債 [タイトル項目],Current liabilities,Current liabilities [abstract]
+122,jppfs_cor:ShortTermLoansPayable,短期借入金,Short-term loans payable,Short-term loans payable
+123,jppfs_cor:SchoolBondsPayableCLEDU,学校債、流動負債、学校法人,School bonds payable,School bonds payable-CL-EDU
+124,jppfs_cor:NotesPayableTrade,支払手形,Notes payable - trade,Notes payable-trade
+125,jppfs_cor:LeaseObligationsCL,リース債務、流動負債,Lease obligations,Lease obligations-CL
+126,jppfs_cor:AccountsPayableOther,未払金,Accounts payable - other,Accounts payable-other
+127,jppfs_cor:AccruedExpenses,未払費用,Accrued expenses,Accrued expenses
+128,jppfs_cor:AdvancesReceived,前受金,Advances received,Advances received
+129,jppfs_cor:DepositsReceivedAbstractEDU,預り金、学校法人 [タイトル項目],Deposits received,Deposits received-EDU [abstract]
+130,jppfs_cor:FundForSchoolExcursionDepositsReceivedEDU,修学旅行積立金、預り金、学校法人,Fund for school excursion,Fund for school excursion-deposits received-EDU
+131,jppfs_cor:SubsidiesForScientificResearchDepositsReceivedEDU,科学研究費補助金、預り金、学校法人,Subsidies for scientific research,Subsidies for scientific research-deposits received-EDU
+132,jppfs_cor:DepositsReceived,預り金,Deposits received,Deposits received
+133,jppfs_cor:IncomeTaxesPayable,未払法人税等,Income taxes payable,Income taxes payable
+134,jppfs_cor:AccruedConsumptionTaxes,未払消費税等,Accrued consumption taxes,Accrued consumption taxes
+135,jppfs_cor:DeferredTaxLiabilitiesCL,繰延税金負債、流動負債,Deferred tax liabilities,Deferred tax liabilities-CL
+136,jppfs_cor:ProvisionCLAbstract,引当金、流動負債 [タイトル項目],Provision,Provision-CL [abstract]
+137,jppfs_cor:ProvisionForBonuses,賞与引当金,Provision for bonuses,Provision for bonuses
+138,jppfs_cor:ProvisionCL,引当金、流動負債,Provision,Provision-CL
+139,jppfs_cor:ShortTermLoansPayableToDirectorsAndOtherEDU,役員等短期借入金等、学校法人,Short-term loans payable to directors and other,Short-term loans payable to directors and other-EDU
+140,jppfs_cor:OtherCL,その他、流動負債,Other,Other-CL
+141,jppfs_cor:CurrentLiabilities,流動負債,Current liabilities,Current liabilities
+142,jppfs_cor:Liabilities,負債,Liabilities,Liabilities
+143,jppfs_cor:NetAssetsAbstract,純資産の部 [タイトル項目],Net assets,Net assets [abstract]
+144,jppfs_cor:ValuationAndTranslationAdjustmentsAbstract,評価・換算差額等 [タイトル項目],Valuation and translation adjustments,Valuation and translation adjustments [abstract]
+145,jppfs_cor:ValuationDifferenceOnAvailableForSaleSecurities,その他有価証券評価差額金,Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities
+146,jppfs_cor:DeferredGainsOrLossesOnHedges,繰延ヘッジ損益,Deferred gains or losses on hedges,Deferred gains or losses on hedges
+147,jppfs_cor:ValuationAndTranslationAdjustments,評価・換算差額等,Valuation and translation adjustments,Valuation and translation adjustments
+148,jppfs_cor:OtherAssetsLiabilitiesDifferenceEDU,その他資産負債差額、学校法人,Other assets liabilities difference,Other assets liabilities difference-EDU
+149,jppfs_cor:NonControllingInterests,非支配株主持分,Non-controlling interests,Non-controlling interests
+150,jppfs_cor:NetAssets,純資産,Net assets,Net assets
+151,jppfs_cor:LiabilitiesAndNetAssets,負債純資産,Liabilities and net assets,Liabilities and net assets
+152,nan,,,
+153,nan,,,
+154,名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+155,jppfs_cor:StatementOfIncomeAbstract,損益計算書 [タイトル項目],Statement of income,Statement of income [abstract]
+156,jppfs_cor:StatementOfIncomeTable,損益計算書 [表],Statement of income,Statement of income [table]
+157,jppfs_cor:StatementOfIncomeLineItems,損益計算書 [表示項目],Statement of income,Statement of income [line items]
+158,jppfs_cor:OperatingIncomeAndLossAbstractEDU,事業損益（事業収益及び事業費用）、学校法人 [タイトル項目],Operating revenue and expenses,Operating revenue and expenses - EDU [abstract]
+159,jppfs_cor:EducationAndResearchAndIncidentalOperatingIncomeAndLossAbstractEDU,教育研究・附属事業損益、学校法人 [タイトル項目],Education and research and incidental operating revenue and expenses,Education and research and incidental operating revenue and expenses - EDU [abstract]
+160,jppfs_cor:EducationAndResearchAndIncidentalOperatingRevenueAbstractEDU,教育研究・附属事業収益、学校法人 [タイトル項目],Education and research and incidental operating revenue,Education and research and incidental operating revenue-EDU [abstract]
+161,jppfs_cor:StudentFeesEDU,学生生徒等納付金、学校法人,Student fees,Student fees-EDU
+162,jppfs_cor:ProcessingFeesEDU,手数料、学校法人,Processing fees,Processing fees-EDU
+163,jppfs_cor:DonationsEDU,寄附金、学校法人,Donations,Donations-EDU
+164,jppfs_cor:SubsidiesEDU,補助金、学校法人,Subsidies,Subsidies-EDU
+165,jppfs_cor:OtherRevenueEducationResearchAndIncidentalEDU,その他、教育研究・附属事業収益、学校法人,Other,"Other-revenue-education, research and incidental-EDU"
+166,jppfs_cor:EducationAndResearchAndIncidentalOperatingRevenueEDU,教育研究・附属事業収益、学校法人,Education and research and incidental operating revenue,Education and research and incidental operating revenue-EDU
+167,jppfs_cor:EducationAndResearchAndIncidentalOperatingExpensesAbstractEDU,教育研究・附属事業費用、学校法人 [タイトル項目],Education and research and incidental operating expenses,Education and research and incidental operating expenses-EDU [abstract]
+168,jppfs_cor:PersonalExpensesEDUEDU,人件費、学校法人,Personnel expenses,Personnel expenses-EDU
+169,jppfs_cor:EducationAndResearchExpensesEDU,教育研究経費、学校法人,Education and research expenses,Education and research expenses-EDU
+170,jppfs_cor:ManagementExpensesEDU,管理経費、学校法人,Management expenses,Management expenses-EDU
+171,jppfs_cor:EducationAndResearchAndIncidentalOperatingExpensesEDU,教育研究・附属事業費用、学校法人,Education and research and incidental operating expenses,Education and research and incidental operating expenses-EDU
+172,jppfs_cor:EducationAndResearchAndIncidentalOperatingIncomeEDU,教育研究・附属事業利益又は教育研究・附属事業損失（△）、学校法人,Education and research and incidental operating profit (loss),Education and research and incidental operating profit (loss) - EDU
+173,jppfs_cor:ProfitEarningOperatingIncomeAndLossAbstractEDU,収益事業損益、学校法人 [タイトル項目],Profit-earning operating revenue and expenses,Profit-earning operating revenue and expenses - EDU [abstract]
+174,jppfs_cor:ProfitEarningOperatingRevenueEDU,収益事業収益、学校法人,Profit-earning operating revenue,Profit-earning operating revenue-EDU
+175,jppfs_cor:ProfitEarningOperatingExpensesEDU,収益事業費用、学校法人,Profit-earning operating expenses,Profit-earning operating expenses-EDU
+176,jppfs_cor:ProfitEarningOperatingIncomeEDU,収益事業利益又は収益事業損失（△）、学校法人,Profit-earning operating profit (loss),Profit-earning operating profit (loss) - EDU
+177,jppfs_cor:OperatingIncomeEDU,事業利益又は事業損失（△）、学校法人,Operating profit (loss),Operating profit (loss) - EDU
+178,jppfs_cor:NonOperatingIncomeAbstractEDU,事業外収益、学校法人 [タイトル項目],Non-operating income,Non-operating income-EDU [abstract]
+179,jppfs_cor:InterestAndDividendsIncomeNOI,受取利息及び配当金、営業外収益,Interest and dividend income,Interest and dividend income-NOI
+180,jppfs_cor:OtherNOIEDU,その他、事業外収益、学校法人,Other,Other-NOI-EDU
+181,jppfs_cor:NonOperatingIncomeEDU,事業外収益、学校法人,Non-operating income,Non-operating income-EDU
+182,jppfs_cor:NonOperatingExpensesAbstractEDU,事業外費用、学校法人 [タイトル項目],Non-operating expenses,Non-operating expenses-EDU [abstract]
+183,jppfs_cor:InterestExpensesNOE,支払利息、営業外費用,Interest expenses,Interest expenses-NOE
+184,jppfs_cor:OtherNOEEDU,その他、事業外費用、学校法人,Other,Other-NOE-EDU
+185,jppfs_cor:NonOperatingExpensesEDU,事業外費用、学校法人,Non-operating expenses,Non-operating expenses-EDU
+186,jppfs_cor:OrdinaryIncome,経常利益又は経常損失（△）,Ordinary profit (loss),Ordinary profit (loss)
+187,jppfs_cor:ExtraordinaryIncomeAbstract,特別利益 [タイトル項目],Extraordinary income,Extraordinary income [abstract]
+188,jppfs_cor:GainOnSalesOfNoncurrentAssetsEI,固定資産売却益、特別利益,Gain on sales of non-current assets,Gain on sales of non-current assets-EI
+189,jppfs_cor:OtherEI,その他、特別利益,Other,Other-EI
+190,jppfs_cor:ExtraordinaryIncome,特別利益,Extraordinary income,Extraordinary income
+191,jppfs_cor:ExtraordinaryLossAbstract,特別損失 [タイトル項目],Extraordinary losses,Extraordinary losses [abstract]
+192,jppfs_cor:LossOnSalesOfNoncurrentAssetsEL,固定資産売却損、特別損失,Loss on sales of non-current assets,Loss on sales of non-current assets-EL
+193,jppfs_cor:ImpairmentLossEL,減損損失、特別損失,Impairment loss,Impairment loss-EL
+194,jppfs_cor:LossOnDisasterEL,災害による損失、特別損失,Loss on disaster,Loss on disaster-EL
+195,jppfs_cor:OtherEL,その他、特別損失,Other,Other-EL
+196,jppfs_cor:ExtraordinaryLoss,特別損失,Extraordinary losses,Extraordinary losses
+197,jppfs_cor:IncomeBeforeIncomeTaxes,税引前当期純利益又は税引前当期純損失（△）,Profit (loss) before income taxes,Profit (loss) before income taxes
+198,jppfs_cor:IncomeTaxes,法人税等,Income taxes,Income taxes
+199,jppfs_cor:IncomeTaxesCurrent,法人税、住民税及び事業税,Income taxes - current,Income taxes-current
+200,jppfs_cor:IncomeTaxesDeferred,法人税等調整額,Income taxes - deferred,Income taxes-deferred
+201,jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
+202,jppfs_cor:ProfitAttributableToAbstract,内訳、当期純利益 [タイトル項目],Profit attributable to,Profit attributable to [abstract]
+203,jppfs_cor:ProfitLossAttributableToNonControllingInterests,非支配株主に帰属する当期純利益又は非支配株主に帰属する当期純損失（△）,Profit (loss) attributable to non-controlling interests,Profit (loss) attributable to non-controlling interests
+204,jppfs_cor:ProfitLossAttributableToOwnersOfParent,親会社株主に帰属する当期純利益又は親会社株主に帰属する当期純損失（△）,Profit (loss) attributable to owners of parent,Profit (loss) attributable to owners of parent
+205,nan,,,
+206,nan,,,
+207,名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+208,jppfs_cor:StatementOfChangesInNetAssetsAbstract,純資産変動計算書 [タイトル項目],Statement of changes in net assets,Statement of changes in net assets [abstract]
+209,jppfs_cor:StatementOfChangesInNetAssetsTable,純資産変動計算書 [表],Statement of changes in net assets,Statement of changes in net assets [table]
+210,jppfs_cor:ComponentsOfEquityAxis,純資産の内訳項目 [軸],Components of equity,Components of equity [axis]
+211,jppfs_cor:NetAssetsMember,純資産 [メンバー],Net assets,Net assets [member]
+212,jppfs_cor:ValuationAndTranslationAdjustmentsMember,評価・換算差額等 [メンバー],Valuation and translation adjustments,Valuation and translation adjustments [member]
+213,jppfs_cor:ValuationDifferenceOnAvailableForSaleSecuritiesMember,その他有価証券評価差額金 [メンバー],Valuation difference on available-for-sale securities,Valuation difference on available-for-sale securities [member]
+214,jppfs_cor:DeferredGainsOrLossesOnHedgesMember,繰延ヘッジ損益 [メンバー],Deferred gains or losses on hedges,Deferred gains or losses on hedges [member]
+215,jppfs_cor:OtherAssetsLiabilitiesDifferenceEDUMember,その他資産負債差額、学校法人 [メンバー],Other assets liabilities difference,Other assets liabilities difference-EDU [member]
+216,jppfs_cor:NonControllingInterestsMember,非支配株主持分 [メンバー],Non-controlling interests,Non-controlling interests [member]
+217,jppfs_cor:StatementOfChangesInNetAssetsLineItems,純資産変動計算書 [表示項目],Statement of changes in net assets,Statement of changes in net assets [line items]
+218,jppfs_cor:NetAssets,純資産,Net assets,Net assets
+219,jppfs_cor:ChangesOfItemsDuringThePeriodAbstract,当期変動額 [タイトル項目],Changes of items during period,Changes of items during period [abstract]
+220,jppfs_cor:ProfitLossAttributableToOwnersOfParent,親会社株主に帰属する当期純利益又は親会社株主に帰属する当期純損失（△）,Profit (loss) attributable to owners of parent,Profit (loss) attributable to owners of parent
+221,jppfs_cor:ProfitLoss,当期純利益又は当期純損失（△）（平成26年3月28日財規等改正後）,Profit (loss),Profit (loss) (after amendment dated 2014-03-28)
+222,jppfs_cor:TotalChangesOfItemsDuringThePeriod,当期変動額合計,Total changes of items during period,Total changes of items during period
+223,nan,,,
+224,nan,,,
+225,名前空間プレフィックス:要素名,冗長ラベル（日本語）,標準ラベル（英語）,冗長ラベル（英語）
+226,jppfs_cor:StatementOfCashFlowsAbstract,キャッシュ・フロー計算書 [タイトル項目],Statement of cash flows,Statement of cash flows [abstract]
+227,jppfs_cor:StatementOfCashFlowsTable,キャッシュ・フロー計算書 [表],Statement of cash flows,Statement of cash flows [table]
+228,jppfs_cor:StatementOfCashFlowsLineItems,キャッシュ・フロー計算書 [表示項目],Statement of cash flows,Statement of cash flows [line items]
+229,jppfs_cor:NetCashProvidedByUsedInOperatingActivitiesAbstractEDU,事業活動によるキャッシュ・フロー、学校法人 [タイトル項目],Cash flows from operating activities,Cash flows from operating activities-EDU [abstract]
+230,jppfs_cor:SubtotalOpeCF,小計、営業活動によるキャッシュ・フロー,Subtotal,Subtotal-OpeCF
+231,jppfs_cor:ProceedsFromEducationAndResearchAndIncidentalOperationOpeCFEDU,教育研究・附属事業収入、事業活動によるキャッシュ・フロー、学校法人,Proceeds from education and research and incidental operation,Proceeds from education and research and incidental operation-OpeCF-EDU
+232,jppfs_cor:ProceedsFromStudentFeesOpeCFEDU,学生生徒等納付金収入、事業活動によるキャッシュ・フロー、学校法人,Proceeds from student fees,Proceeds from student fees-OpeCF-EDU
+233,jppfs_cor:ProceedsFromProcessingFeesOpeCFEDU,手数料の受入れによる収入、事業活動によるキャッシュ・フロー、学校法人,Proceeds from processing fees,Proceeds from processing fees-OpeCF-EDU
+234,jppfs_cor:ProceedsFromDonationsOpeCFEDU,寄附金の受入れによる収入、事業活動によるキャッシュ・フロー、学校法人,Proceeds from donations,Proceeds from donations-OpeCF-EDU
+235,jppfs_cor:ProceedsFromSubsidiesOpeCFEDU,補助金の受入れによる収入、事業活動によるキャッシュ・フロー、学校法人,Proceeds from subsidies,Proceeds from subsidies-OpeCF-EDU
+236,jppfs_cor:OtherProceedsFromEducationAndResearchAndIncidentalOperationOpeCFEDU,その他の教育研究・附属事業収入、事業活動によるキャッシュ・フロー、学校法人,Other proceeds from education and research and incidental operation,Other proceeds from education and research and incidental operation-OpeCF-EDU
+237,jppfs_cor:PaymentsForEducationAndResearchAndIncidentalOperationOpeCFEDU,教育研究・附属事業支出、事業活動によるキャッシュ・フロー、学校法人,Payments for education and research and incidental operation,Payments for education and research and incidental operation-OpeCF-EDU
+238,jppfs_cor:PaymentsForPersonalExpensesOpeCFEDU,人件費の支出、事業活動によるキャッシュ・フロー、学校法人,Payments for personnel expenses,Payments for personnel expenses-OpeCF-EDU
+239,jppfs_cor:PaymentsForEducationAndResearchExpensesOpeCFEDU,教育研究経費の支出、事業活動によるキャッシュ・フロー、学校法人,Payments for education and research expenses,Payments for education and research expenses-OpeCF-EDU
+240,jppfs_cor:PaymentsForManagementExpensesOpeCFEDU,管理経費の支出、事業活動によるキャッシュ・フロー、学校法人,Payments for management expenses,Payments for management expenses-OpeCF-EDU
+241,jppfs_cor:ProceedsFromProfitEarningOperationOpeCFEDU,収益事業収入、事業活動によるキャッシュ・フロー、学校法人,Proceeds from profit-earning operation,Proceeds from profit-earning operation-OpeCF-EDU
+242,jppfs_cor:PaymentsForProfitEarningOperationOpeCFEDU,収益事業支出、事業活動によるキャッシュ・フロー、学校法人,Payments for profit-earning operation,Payments for profit-earning operation-OpeCF-EDU
+243,jppfs_cor:DecreaseIncreaseInAccountsReceivableOpeCFEDU,未収入金の増減額（△は増加）、事業活動によるキャッシュ・フロー、学校法人,Decrease (increase) in accounts receivable,Decrease (increase) in accounts receivable-OpeCF-EDU
+244,jppfs_cor:NetCashProvidedByUsedInOperatingActivitiesEDU,事業活動によるキャッシュ・フロー、学校法人,Net cash provided by (used in) operating activities,Net cash provided by (used in) operating activities-EDU
+245,jppfs_cor:NetCashProvidedByUsedInFacilitiesMaintenanceAndInvestmentActivitiesAbstractEDU,施設等整備・投資活動によるキャッシュ・フロー、学校法人 [タイトル項目],Cash flows from facilities maintenance and investing activities,Cash flows from facilities maintenance and investing activities-EDU [abstract]
+246,jppfs_cor:ProceedsFromFacilitiesSubsidiesInvCFEDU,施設設備補助金の受入れによる収入、施設等整備・投資活動によるキャッシュ・フロー、学校法人,Proceeds from facilities subsidies,Proceeds from facilities subsidies-InvCF-EDU
+247,jppfs_cor:ProceedsFromSpecialContributionInvCFEDU,特別寄附金の受入れによる収入、施設等整備・投資活動によるキャッシュ・フロー、学校法人,Proceeds from special contribution,Proceeds from special contribution-InvCF-EDU
+248,jppfs_cor:PaymentOfReservedAssetsForFacilitiesInvCFEDU,施設設備引当特定資産への支出、施設等整備・投資活動によるキャッシュ・フロー、学校法人,Payment of reserved assets for facilities,Payment of reserved assets for facilities-InvCF-EDU
+249,jppfs_cor:ProceedsFromReservedAssetsForFacilitiesInvCFEDU,施設設備引当特定資産からの収入、施設等整備・投資活動によるキャッシュ・フロー、学校法人,Proceeds from reserved assets for facilities,Proceeds from reserved assets for facilities-InvCF-EDU
+250,jppfs_cor:NetCashProvidedByUsedInFacilitiesMaintenanceAndInvestmentActivitiesEDU,施設等整備・投資活動によるキャッシュ・フロー、学校法人,Net cash provided by (used in) facilities maintenance and investing activities,Net cash provided by (used in) facilities maintenance and investing activities-EDU
+251,jppfs_cor:NetCashProvidedByUsedInFinancingActivitiesAbstract,財務活動によるキャッシュ・フロー [タイトル項目],Cash flows from financing activities,Cash flows from financing activities [abstract]
+252,jppfs_cor:ProceedsFromIssuanceOfSchoolBondsFinCFEDU,学校債の発行による収入、財務活動によるキャッシュ・フロー、学校法人,Proceeds from issuance of school bonds,Proceeds from issuance of school bonds-FinCF-EDU
+253,jppfs_cor:RedemptionOfSchoolBondsFinCFEDU,学校債の償還による支出、財務活動によるキャッシュ・フロー、学校法人,Redemption of school bonds,Redemption of school bonds-FinCF-EDU
