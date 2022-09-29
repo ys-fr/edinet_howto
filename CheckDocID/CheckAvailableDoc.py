@@ -9,7 +9,7 @@ import sys
 
 
 key = sys.args
-# 最大で現在から5年前までのデータを入手することが出来る
+# 最大で現在から3年前までのデータを入手することが出来る
 # startには、ほしいデータの始点（最大3年前の日付）
 # endには　、ほしいデータの終点（現在まで入力可能）
 start = datetime.date(int(key[0]),int(key[1]),int(key[2]) );end = datetime.date(int(key[3]),int(key[4]),int(key[5]))
