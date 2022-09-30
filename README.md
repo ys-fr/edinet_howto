@@ -90,10 +90,41 @@ XBRLファイルに記述されている内容を適切に理解するために�
 
 
 ## データの取得方法
-ここでは、XBRLを読み込むためのパッケージである'xbrl'を使用したデータの取得例を説明します。
+ここでは、XBRLを読み込むためのパッケージである'xbrl'を使用したデータの取得例を説明しよう。xbrlファイルは下記のようにして読み込むことが出来る:
+```python
+import edinet
+from edinet.xbrl_file import XBRLDir
+import pandas as pd
+# DOC_IDにダウンロードしてきたファイルのディレクトリを入力する
+DOC_ID = "***"
+# xbrl_dirがxbrlファイルを読み込んだ
+xbrl_dir = XBRLDir("./"+DOC_ID)
+```
 
+次に、xbrlファイルを読み込んだxbrl_dirがどのようなオブジェクトを持っているかについて説明しよう
+```python
+# ある財務指標に関して、当年の情報を取得する（対応するタクソノミを引数として入力する）
+tag = xbrl_dir.xbrl.find(タクソノミ名)
+# <...>text</...> のフォーマットで読み込まれているtagからtext (財務情報) を抽出する
+tag.text
+# <...>text</...> のフォーマットで読み込まれているtagから ... に記述されている情報を辞書形式で抽出する:
+element = tag._element
+# contextRefの情報を取り出す場合:
+element["contextRef"]
+# unitRefの情報を取り出す場合:
+element["unitRef"]
+# decimalsの情報を取り出す場合:
+element["decimals"]
+
+
+# ある財務指標に関して、入手可能なすべての年のデータを取得する (同一のタクソノミを含むすべてのタグを読み込む). また、読み込んだデータはリストで格納される
+tags = xbrl_dir.xbrl.find_all(タクソノミ名)
+
+```
+
+## 例: 
 ### XBRLファイルに含まれるタクソノミ要素リストの確認
-まず、XBRLファイルに含まれるタクソノミ要素リスト（取得可能なデータリスト）を検索します
+まず、XBRLファイルに含まれるタクソノミ要素リスト（取得可能なデータリスト）を検索する方法について説明しよう:
 ```python
 # pathには、XBRLファイルの絶対パスを入力する
 path = "***"
@@ -109,6 +140,7 @@ for i in data[0].values:
         if len(j)==0:
             continue
         j = j.strip("<")
+        # 第一要素名が「j」から始まるものが、財務情報のタグ名
         if j[0]=="j":
             Tags.append(j)
         break
@@ -117,7 +149,7 @@ for i in data[0].values:
 
  
 ### 分析に必要なデータを抽出する
-上のコマンドを実行して、Tagsに利用可能なデータの一覧を取得しました。Tagsの中に含まれるデータの中から必要なデータを取得し、取得します。
+上のコマンドを実行して、Tagsに利用可能なデータの一覧を取得した。次に、そのTagsの中に含まれるデータの中から必要なデータを選択し、取得する方法について説明しよう:
 ```python
 import edinet
 from edinet.xbrl_file import XBRLDir
