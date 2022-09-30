@@ -2,6 +2,7 @@
 
 EDINETとは、有価証券報告書をはじめとする開示書類を電子的に公開するシステムである。このシステムを活用することで、最大で過去3年分の有価証券報告書 (6年分の会計情報) を入手することが出来る。本資料では、まずEDINETを利用したデータのダウンロード方法について説明する。最終的に、XBRLファイルから企業の財務情報を入手する方法について説明する。
 
+※ このドキュメントは、github上で公開しています: https://github.com/ys-fr/edinet_howto
 ## 開示情報から得られる情報について:
  まず、有価証券報告書から得られる情報について説明しよう。有価証券報告書とは、...to be written
 
@@ -23,12 +24,30 @@ EDINETとは、有価証券報告書をはじめとする開示書類を電子�
 
 
 ## GUI からダウンロードする方法
-まず、GUIからダウンロードする方法について説明しよう。to be written...
+まず、GUIからダウンロードする方法について説明しよう(image/EDINET_GetData.webm の動画の内容を説明する)。to be written...
 
 
 
 ## APIを活用してダウンロードする方法
-次に、APIを活用してダウンロードする方法について説明しよう。to be written...
+次に、APIを活用してダウンロードする方法について説明しよう。EDINETは、有価証券報告書を始めとするう開示書類を取得するためのアプリケーションインターフェース (application interface, API) を提供している。そのAPIレスポンスを利用することで、有価証券報告書を始めとする開示書類をダウンロードすることが出来る:
+```python
+import requests
+import glob
+import os
+from pathlib import Path
+import edinet
+from edinet.xbrl_file import XBRLDir
+import pandas as pd
+# DOC_ID に取得したいドキュメントのDOC_IDを入力する
+# DOC_ID は、AboutAPI/ProcessedData/AvailableData_0927/AvailableData.csv のファイルから調べる
+DOC_ID = "***"
+# データをダウンロードする
+# データの保存先をpathに入力する
+path = "***"
+xbrl_path = edinet.api.document.get_xbrl(
+            DOC_ID, save_dir=path,
+            expand_level="dir")
+```
 
 
 
@@ -177,6 +196,7 @@ for i in xbrl_dir.xbrl.find_all("jpcrp_cor:AuditFeesConsolidatedSubsidiaries"):
 
 # 参考
 - タクソノミの対応表: RefTags/TagList を確認
+- xbrlの書き方: https://disclosure.edinet-fsa.go.jp/download/ESE140112.pdf
 - xbrlの使い方: https://github.com/icoxfog417/xbrl_read_tutorial
 - EDINET: https://disclosure.edinet-fsa.go.jp/
 - タクソノミ要素リストの公式情報: https://www.fsa.go.jp/search/20211109.html
