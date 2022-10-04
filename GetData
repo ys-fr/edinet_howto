@@ -1,0 +1,1 @@
+5 0 7 * * root python /mnt/yuki/OpenDocs/EDINET/GetAllData/GetData.py >> /mnt/yuki/OpenDocs/EDINET/GetAllData/Task.log 2>&1
